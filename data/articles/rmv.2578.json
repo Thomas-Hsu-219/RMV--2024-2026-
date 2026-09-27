@@ -1,0 +1,119 @@
+{
+  "doi": "10.1002/rmv.2578",
+  "title": "Virus‐Induced Host Chemokine CCL2 in COVID‐19 Pathogenesis: Potential Prognostic Marker and Target of Anti‐Inflammatory Strategy",
+  "crossref_title": "Virus‐Induced Host Chemokine CCL2 in COVID‐19 Pathogenesis: Potential Prognostic Marker and Target of Anti‐Inflammatory Strategy",
+  "abstract": "A wide variety of inflammatory mediators, mainly cytokines and chemokines, are induced during SARS CoV-2 infection. Among these proinflammatory mediators, chemokines tend to play a pivotal role in virus-mediated immunopathology. The C-C chemokine ligand 2 (CCL2), also known as monocyte chemoattractant protein-1 (MCP-1) is a potent proinflammatory cytokine and strong chemoattractant of monocytes, macrophages and CD4+ T cells bearing C-C chemokine receptor type-2 (CCR2). Besides controlling immune cell trafficking, CCL2 is also involved in multiple pathophysiological processes including systemic hyperinflammation associated cytokine release syndrome (CRS), organ fibrosis and blood coagulation. These pathological features are commonly manifested in severe and fatal cases of COVID-19. Given the crucial role of CCL2 in COVID-19 pathogenesis, the CCL2:CCR2 axis may constitute a potential therapeutic target to control virus-induced hyperinflammation and multi-organ dysfunction. Herein we describe recent advances on elucidating the role of CCL2 in COVID-19 pathogenesis, prognosis, and a potential target of anti-inflammatory interventions.",
+  "keywords": [
+    "ARDS",
+    "CCL2",
+    "COVID‐19",
+    "cytokine release syndrome",
+    "immunopathogenesis",
+    "multi‐organ dysfunction"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "5",
+  "published_online": "2024-08-27",
+  "published_print": "2024-09",
+  "online_year": 2024,
+  "pmid": "39192485",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Abdul Wahid",
+      "family": "Ansari",
+      "orcid": "https://orcid.org/0000-0002-8562-3922"
+    },
+    {
+      "given": "Fareed",
+      "family": "Ahmad",
+      "orcid": null
+    },
+    {
+      "given": "Majid Ali",
+      "family": "Alam",
+      "orcid": null
+    },
+    {
+      "given": "Thesni",
+      "family": "Raheed",
+      "orcid": null
+    },
+    {
+      "given": "Ahmed",
+      "family": "Zaqout",
+      "orcid": "https://orcid.org/0000-0002-0173-9697"
+    },
+    {
+      "given": "Muna",
+      "family": "Al‐Maslamani",
+      "orcid": null
+    },
+    {
+      "given": "Aamir",
+      "family": "Ahmad",
+      "orcid": null
+    },
+    {
+      "given": "Joerg",
+      "family": "Buddenkotte",
+      "orcid": null
+    },
+    {
+      "given": "Abdullatif",
+      "family": "Al‐Khal",
+      "orcid": null
+    },
+    {
+      "given": "Martin",
+      "family": "Steinhoff",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Anti-Inflammatory Agents",
+    "Prognosis",
+    "Chemokine CCL2",
+    "Receptors, CCR2",
+    "Biomarkers",
+    "Cytokine Release Syndrome",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2578",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2578",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39192485/",
+    "europe_pmc": "https://europepmc.org/article/MED/39192485"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,92 @@
+{
+  "doi": "10.1002/rmv.70154",
+  "title": "The Global Health Security Challenges Posed by Recurring Nipah Virus Outbreaks",
+  "crossref_title": "The Global Health Security Challenges Posed by Recurring Nipah Virus Outbreaks",
+  "abstract": "Nipah virus (NiV) has emerged as a high-consequence zoonotic pathogen, posing a significant threat to global health security. Characterised by extreme virulence and case-fatality rates that can exceed 70%, it is recognized as a WHO priority pathogen. This review examines the multifaceted challenges posed by recurring NiV outbreaks, spanning the complex dynamics of unpredictable zoonotic spillover from Pteropus fruit bats, the rising risk of sustained human-to-human transmission, and the profound gaps in medical countermeasures. The epidemiological shift from events mediated by intermediate hosts to those involving direct spillover and efficient person-to-person spread in South Asia highlights the virus's evolving pandemic potential. In the absence of any licenced vaccines or therapeutics, public health responses are limited to supportive care and stringent infection control. Ultimately, this review concludes that mitigating the NiV threat is fundamentally a One Health challenge, requiring an integrated strategy that unites ecological surveillance, accelerated medical research, and coordinated global policy to secure against this formidable pathogen.",
+  "keywords": [
+    "Nipah virus",
+    "outbreak preparedness",
+    "pteropus Bats",
+    "zoonosis, Global health security, One health"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-06-13",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42287745",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Halimatu S.",
+      "family": "M‐Kamal",
+      "orcid": null
+    },
+    {
+      "given": "Ifeanyi Francis",
+      "family": "Merenini",
+      "orcid": "https://orcid.org/0000-0003-2862-4811"
+    },
+    {
+      "given": "Ismaila Damilare",
+      "family": "Isiaka",
+      "orcid": "https://orcid.org/0000-0001-9253-754X"
+    },
+    {
+      "given": "Abdulwasid",
+      "family": "Abubakari",
+      "orcid": "https://orcid.org/0000-0002-9252-0761"
+    },
+    {
+      "given": "Yakhouba",
+      "family": "Kane",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Chiroptera",
+    "Humans",
+    "Nipah Virus",
+    "Zoonoses",
+    "Henipavirus Infections",
+    "Disease Outbreaks",
+    "Global Health"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70154",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70154",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42287745/",
+    "europe_pmc": "https://europepmc.org/article/MED/42287745"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

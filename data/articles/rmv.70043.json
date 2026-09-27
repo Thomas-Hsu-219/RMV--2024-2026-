@@ -1,0 +1,97 @@
+{
+  "doi": "10.1002/rmv.70043",
+  "title": "Human Metapneumovirus: A Review of Its Epidemiology, Clinical Features, Public Health Implications and Treatment Options",
+  "crossref_title": "Human Metapneumovirus: A Review of Its Epidemiology, Clinical Features, Public Health Implications and Treatment Options",
+  "abstract": "IMPORTANCE OF THE FIELD: Significant complications arise from Human Metapneumovirus (hMPV), especially in susceptible groups. hMPV infection is highly prevalent in children, accounting for about 10% hospitalizations for acute respiratory infections, often resulting in pneumonia and bronchiolitis. Hence, there is need for new knowledge to understand the structure, the clinical features, diagnostics, treatment options and the complications of the hMPV.\n\nAREAS COVERED IN THIS REVIEW: This review covered the epidemiology, clinical features, diagnostics, treatment options and public health implications of hMPV.\n\nWHAT THE READER WILL GAIN: Knowledge of the clinical manifestation, implications and the methods currently available for diagnosing and treating human metapneumovirus.\n\nTAKE HOME MESSAGE: hMPV is a major cause of acute respiratory tract infections (ARTIs), affecting children, elderly, and immunocompromised individuals globally. Symptoms include rhinorrhoea, nasal congestion, cough, fever, with symptoms ranging from mild to severe. Laboratory findings include leucocytosis, leucopenia, neutrophilia, lymphopenia, and elevated inflammatory markers. In adults, they often mimic influenza and potentially exacerbate chronic conditions like chronic obstructive pulmonary disease (COPD) or asthma. Hospitalisation is often required for infants with significant respiratory distress. The genetic variability and antigenic diversity of the virus complicate vaccine design. Hence, advanced research tailored towards producing effective vaccines treatments for the hMPV viral disease is relevant to contain the complications associated with the virus.",
+  "keywords": [
+    "hMPV",
+    "human metapneumovirus",
+    "respiratory viruses"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-06-03",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40462238",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Stephen",
+      "family": "Twumasi",
+      "orcid": "https://orcid.org/0009-0002-8199-5806"
+    },
+    {
+      "given": "Richard Owusu",
+      "family": "Ansah",
+      "orcid": "https://orcid.org/0000-0002-3219-9320"
+    },
+    {
+      "given": "Allwell Adofo",
+      "family": "Ayirebi",
+      "orcid": "https://orcid.org/0009-0005-0805-9829"
+    },
+    {
+      "given": "Daniel Nii Martey",
+      "family": "Antonio",
+      "orcid": "https://orcid.org/0000-0002-8953-5700"
+    },
+    {
+      "given": "Yaw Ansiri",
+      "family": "Asafoakaa",
+      "orcid": null
+    },
+    {
+      "given": "Emmanuel",
+      "family": "Tawiah",
+      "orcid": null
+    },
+    {
+      "given": "Angela",
+      "family": "Opoku",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Metapneumovirus",
+    "Respiratory Tract Infections",
+    "Paramyxoviridae Infections",
+    "Public Health"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70043",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70043",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40462238/",
+    "europe_pmc": "https://europepmc.org/article/MED/40462238"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,99 @@
+{
+  "doi": "10.1002/rmv.70178",
+  "title": "Matrix Metalloproteinases and Viral Hepatitis: A Complex Interplay Driving Liver Fibrosis, Immune Dysregulation, and Hepatocarcinogenesis",
+  "crossref_title": "Matrix Metalloproteinases and Viral Hepatitis: A Complex Interplay Driving Liver Fibrosis, Immune Dysregulation, and Hepatocarcinogenesis",
+  "abstract": "Chronic viral hepatitis caused by hepatitis B virus (HBV) and hepatitis C virus (HCV) remains a leading global public health burden, driving progressive liver fibrosis, cirrhosis, and hepatocellular carcinoma (HCC) through complex interactions between viral replication, host immune responses, and extracellular matrix (ECM) remodelling. Matrix metalloproteinases (MMPs) are a family of zinc-dependent endopeptidases that serve as central regulators of ECM homoeostasis and immune modulation in the liver. While physiological MMP activity is essential for tissue repair and immune surveillance, dysregulation of the MMP/TIMP (tissue inhibitors of metalloproteinases) axis during viral hepatitis promotes hepatic fibrogenesis, immune evasion, and malignant transformation, positioning MMPs as both drivers of disease progression and promising therapeutic targets. This review comprehensively examines the molecular and cellular mechanisms governing MMP/TIMP dysregulation across the spectrum of viral hepatitis, with particular focus on HCV and HBV. We address the reciprocal interactions between these viruses and MMP/TIMP expression, the roles of MMPs in liver fibrosis, viral replication, hepatocarcinogenesis, and immunomodulation of the tumour microenvironment, and the accelerated fibrogenic mechanisms in HIV-HCV and HIV-HBV coinfection. The review also extends to acute viral hepatitis (HAV and HEV), where direct MMP/TIMP data remain scarce but mechanistic and indirect ECM evidence indicate significant involvement. Finally, we critically evaluate current and emerging MMP-targeted therapeutic strategies including selective inhibitors, nanoparticle delivery systems, and RNA-based approaches and highlight key unresolved questions to guide future research towards disease-tailored interventions against viral hepatitis-driven liver damage and malignant progression.",
+  "keywords": [
+    "hepatitis B virus",
+    "hepatocellular carcinoma",
+    "liver fibrosis",
+    "matrix metalloproteinases"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-06-24",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42339586",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Zahra",
+      "family": "Heydarifard",
+      "orcid": null
+    },
+    {
+      "given": "Somayeh",
+      "family": "Shokri",
+      "orcid": null
+    },
+    {
+      "given": "Shahab",
+      "family": "Mahmoudvand",
+      "orcid": null
+    },
+    {
+      "given": "Fatemeh",
+      "family": "Heydarifard",
+      "orcid": null
+    },
+    {
+      "given": "Reza",
+      "family": "Parnian",
+      "orcid": null
+    },
+    {
+      "given": "Habibollah",
+      "family": "Mirzaei",
+      "orcid": "https://orcid.org/0009-0002-5340-0529"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Hepatitis B virus",
+    "Hepacivirus",
+    "Carcinoma, Hepatocellular",
+    "Liver Neoplasms",
+    "Liver Cirrhosis",
+    "Matrix Metalloproteinases",
+    "Tissue Inhibitor of Metalloproteinases",
+    "Host-Pathogen Interactions"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70178",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70178",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42339586/",
+    "europe_pmc": "https://europepmc.org/article/MED/42339586"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

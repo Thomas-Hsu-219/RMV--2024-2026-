@@ -1,0 +1,91 @@
+{
+  "doi": "10.1002/rmv.70058",
+  "title": "Neuropsychiatric Complications of Two Re‐Emerging Viruses (DENV and MPXV): Current Evidence, Pathophysiological Mechanisms, and Diagnostic Challenges",
+  "crossref_title": "Neuropsychiatric Complications of Two Re‐Emerging Viruses (DENV and MPXV): Current Evidence, Pathophysiological Mechanisms, and Diagnostic Challenges",
+  "abstract": "Dengue virus (DENV) and Monkeypox virus (MPXV) are two major re-emerging viral pathogen, which have recently gained global attention, mainly in light of their potential for widespread transmission and the ability to cause various complications. While the characteristic manifestations of these infections comprise lymphadenopathy, fever, and rash, recent studies suggest a darker dimension, neuropsychiatric complications, which are a hallmark of neurovirulent viral pathogens. However, current evidence suggests that these complications, which may vary from mild to critical conditions such as meningitis and encephalitis, are not well understood, posing marked challenges in the realm of diagnosis and treatment. In other words, while neuropsychiatric presentations of DENV and MPXV appear as an area of concern, diagnosing these manifestations remains challenging owing to their general characteristics and overlap with those of other pathological conditions and the lack of the central nervous system (CNS)-focused diagnostic tools. This can delay early detection and subsequent appropriate surveillance of DENV- and MPXV-associated neuropsychiatric complications. The present review focuses on describing various DENV- and MPXV-associated neuropsychiatric complications, the underlying pathophysiological mechanisms, and their current diagnostic challenges.",
+  "keywords": [
+    "dengue virus",
+    "monkeypox",
+    "neuropsychiatric complications"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-07-16",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40670309",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Chang‐Hai",
+      "family": "Fu",
+      "orcid": null
+    },
+    {
+      "given": "Shuai",
+      "family": "Chi",
+      "orcid": null
+    },
+    {
+      "given": "Rui",
+      "family": "Chen",
+      "orcid": null
+    },
+    {
+      "given": "Jia‐Ming",
+      "family": "Huang",
+      "orcid": null
+    },
+    {
+      "given": "Chao",
+      "family": "Yang",
+      "orcid": null
+    },
+    {
+      "given": "Li‐Jiao",
+      "family": "Qiao",
+      "orcid": "https://orcid.org/0009-0008-2178-9713"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Dengue Virus",
+    "Communicable Diseases, Emerging",
+    "Dengue"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70058",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70058",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40670309/",
+    "europe_pmc": "https://europepmc.org/article/MED/40670309"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

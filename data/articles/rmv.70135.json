@@ -1,0 +1,112 @@
+{
+  "doi": "10.1002/rmv.70135",
+  "title": "Human Cytomegalovirus Infection in Haematopoietic Stem Cell Transplant Recipients and CAR‐T Cell Recipients—\n PART 2: Antiviral Therapy and Virus‐Specific T Cell Therapy for HCMV in Allo‐HSCT",
+  "crossref_title": "Human Cytomegalovirus Infection in Haematopoietic Stem Cell Transplant Recipients and CAR‐T Cell Recipients—\n PART 2: Antiviral Therapy and Virus‐Specific T Cell Therapy for HCMV in Allo‐HSCT",
+  "abstract": "Human cytomegalovirus (HCMV) reactivation is a common and significant complication after allogeneic haematopoietic stem cell transplantation (allo-HSCT), causing potentially life-threatening disease. Antiviral therapy approaches for HCMV are often limited by toxicities and the risk of developing antiviral drug resistance. This review article (Part 2) provides an overview of current antiviral pharmacotherapies for HCMV and the application of virus-specific adoptive T cell therapies for the prevention or treatment of HCMV reactivation in allo-HSCT recipients. The number of available antiviral drugs for HCMV is expanding, and letermovir primary prophylaxis is increasingly being adopted due to its favourable safety profile. Treatment resistant/refractory infections, end-organ disease, and late HCMV reactivations after antiviral therapy withdrawal continue to pose challenges. Adoptive HCMV-specific T cell therapies are a promising strategy for promoting immune-mediated control of HCMV reactivation in allo-HSCT recipients. The administration of HCMV-specific T cell products, generated through ex vivo expansion of donor-derived or partially HLA matched, third party HCMV-specific T cells, have demonstrated efficacy in combatting clinically significant HCMV infection in clinical trials. Adoptive HCMV-specific T cell therapies represent a powerful alternative approach for managing drug resistant HCMV infections in allo-HSCT recipients and reducing the reliance on antiviral pharmacotherapies.",
+  "keywords": [
+    "HCMV",
+    "VST",
+    "antivirals",
+    "cytomegalovirus",
+    "haematopoietic stem cell transplant",
+    "virus‐specific T cell"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-03-31",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "41914212",
+  "pmcid": "PMC13036708",
+  "authors": [
+    {
+      "given": "Gaurav",
+      "family": "Sutrave",
+      "orcid": null
+    },
+    {
+      "given": "Michelle K.",
+      "family": "Yong",
+      "orcid": null
+    },
+    {
+      "given": "Danya",
+      "family": "Kaplan",
+      "orcid": null
+    },
+    {
+      "given": "David J.",
+      "family": "Gottlieb",
+      "orcid": "https://orcid.org/0000-0001-5807-1766"
+    },
+    {
+      "given": "Allison",
+      "family": "Abendroth",
+      "orcid": null
+    },
+    {
+      "given": "Barry",
+      "family": "Slobedman",
+      "orcid": null
+    },
+    {
+      "given": "Emily",
+      "family": "Blyth",
+      "orcid": null
+    },
+    {
+      "given": "Lauren",
+      "family": "Stern",
+      "orcid": "https://orcid.org/0000-0002-9455-0008"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "T-Lymphocytes",
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Antiviral Agents",
+    "Immunotherapy, Adoptive",
+    "Hematopoietic Stem Cell Transplantation",
+    "Transplantation, Homologous",
+    "Virus Activation",
+    "Transplant Recipients",
+    "Host-Directed Therapy"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70135",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70135",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41914212/",
+    "europe_pmc": "https://europepmc.org/article/MED/41914212"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

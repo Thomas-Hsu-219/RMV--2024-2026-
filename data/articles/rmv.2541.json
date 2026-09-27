@@ -1,0 +1,149 @@
+{
+  "doi": "10.1002/rmv.2541",
+  "title": "Transmission dynamics, complications and mitigation strategies of the current mpox outbreak: A comprehensive review with bibliometric study",
+  "crossref_title": "Transmission dynamics, complications and mitigation strategies of the current mpox outbreak: A comprehensive review with bibliometric study",
+  "abstract": "As the mankind counters the ongoing COVID-19 pandemic by the novel severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2), it simultaneously witnesses the emergence of mpox virus (MPXV) that signals at global spread and could potentially lead to another pandemic. Although MPXV has existed for more than 50 years now with most of the human cases being reported from the endemic West and Central African regions, the disease is recently being reported in non-endemic regions too that affect more than 50 countries. Controlling the spread of MPXV is important due to its potential danger of a global spread, causing severe morbidity and mortality. The article highlights the transmission dynamics, zoonosis potential, complication and mitigation strategies for MPXV infection, and concludes with suggested 'one health' approach for better management, control and prevention. Bibliometric analyses of the data extend the understanding and provide leads on the research trends, the global spread, and the need to revamp the critical research and healthcare interventions. Globally published mpox-related literature does not align well with endemic areas/regions of occurrence which should ideally have been the scenario. Such demographic and geographic gaps between the location of the research work and the endemic epicentres of the disease need to be bridged for greater and effective translation of the research outputs to pubic healthcare systems, it is suggested.",
+  "keywords": [
+    "disease complication",
+    "mitigation strategy",
+    "mpox",
+    "one health",
+    "vaccination",
+    "zoonosis"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-05-14",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38743385",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Ranjan K.",
+      "family": "Mohapatra",
+      "orcid": "https://orcid.org/0000-0001-7623-3343"
+    },
+    {
+      "given": "Puneet K.",
+      "family": "Singh",
+      "orcid": null
+    },
+    {
+      "given": "Francesco",
+      "family": "Branda",
+      "orcid": "https://orcid.org/0000-0002-9485-3877"
+    },
+    {
+      "given": "Snehasish",
+      "family": "Mishra",
+      "orcid": "https://orcid.org/0000-0002-3896-5831"
+    },
+    {
+      "given": "L. V. Simhachalam",
+      "family": "Kutikuppala",
+      "orcid": "https://orcid.org/0000-0002-5685-6049"
+    },
+    {
+      "given": "Tarun K.",
+      "family": "Suvvari",
+      "orcid": null
+    },
+    {
+      "given": "Venkataramana",
+      "family": "Kandi",
+      "orcid": "https://orcid.org/0000-0002-7197-0448"
+    },
+    {
+      "given": "Azaj",
+      "family": "Ansari",
+      "orcid": null
+    },
+    {
+      "given": "Dhruv N.",
+      "family": "Desai",
+      "orcid": "https://orcid.org/0000-0003-2985-6710"
+    },
+    {
+      "given": "Mubarak",
+      "family": "Alfaresi",
+      "orcid": "https://orcid.org/0000-0003-2523-835X"
+    },
+    {
+      "given": "Nawal A. Al",
+      "family": "Kaabi",
+      "orcid": "https://orcid.org/0000-0002-7680-1141"
+    },
+    {
+      "given": "Mona A. Al",
+      "family": "Fares",
+      "orcid": "https://orcid.org/0000-0003-1472-0642"
+    },
+    {
+      "given": "Mohammed",
+      "family": "Garout",
+      "orcid": "https://orcid.org/0000-0003-1317-1186"
+    },
+    {
+      "given": "Muhammad A.",
+      "family": "Halwani",
+      "orcid": "https://orcid.org/0000-0003-4510-7285"
+    },
+    {
+      "given": "Mohammed",
+      "family": "Alissa",
+      "orcid": "https://orcid.org/0000-0002-4045-0810"
+    },
+    {
+      "given": "Ali A.",
+      "family": "Rabaan",
+      "orcid": "https://orcid.org/0000-0002-6774-9847"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Zoonoses",
+    "Disease Outbreaks",
+    "Bibliometrics",
+    "Pandemics",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Mpox, Monkeypox"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2541",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2541",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38743385/",
+    "europe_pmc": "https://europepmc.org/article/MED/38743385"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,90 @@
+{
+  "doi": "10.1002/rmv.2559",
+  "title": "Epidemiology, biosafety, and biosecurity of Avian Influenza: Insights from the East Mediterranean region",
+  "crossref_title": "Epidemiology, biosafety, and biosecurity of Avian Influenza: Insights from the East Mediterranean region",
+  "abstract": "The World Organization for Animal Health defines Avian Influenza Virus as a highly infectious disease caused by diverse subtypes that continue to evolve rapidly, impacting poultry species, pet birds, wild birds, non-human mammals, and occasionally humans. The effects of Avian influenza viruses have been recognised as a precursor for serious health concerns among affected birds, poultry, and human populations in the Middle East. Furthermore, low and high pathogenic avian influenza viruses lead to respiratory illness with varying severity, depending on the virus subtype (e.g., H5, H7, H9, etc.). Possible future outbreaks and endemics of newly emerging subtypes are expected to occur, as many studies have reported the emergence of novel mutations and viral subtypes. However, proper surveillance programs and biosecurity applications should be developed, and countries with incapacitated defences against such outbreaks should be encouraged to undergo complete reinstation and reinforcement in their health and research sectors. Public education regarding biosafety and virus prevention is necessary to ensure minimal spread of avian influenza endemic.",
+  "keywords": [
+    "Avian Influenza",
+    "biosecurity",
+    "surveillance"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-17",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38886173",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Laith",
+      "family": "AL‐Eitan",
+      "orcid": "https://orcid.org/0000-0003-0064-0190"
+    },
+    {
+      "given": "Iliya",
+      "family": "Khair",
+      "orcid": "https://orcid.org/0000-0003-1782-9037"
+    },
+    {
+      "given": "Zaid",
+      "family": "Shakhatreh",
+      "orcid": "https://orcid.org/0009-0005-4425-6598"
+    },
+    {
+      "given": "Diana",
+      "family": "Almahdawi",
+      "orcid": "https://orcid.org/0000-0002-6633-9969"
+    },
+    {
+      "given": "Saif",
+      "family": "Alahmad",
+      "orcid": "https://orcid.org/0000-0002-8962-6733"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Birds",
+    "Humans",
+    "Influenza A virus",
+    "Disease Outbreaks",
+    "Mediterranean Region",
+    "Influenza, Human",
+    "Influenza in Birds"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2559",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2559",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38886173/",
+    "europe_pmc": "https://europepmc.org/article/MED/38886173"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

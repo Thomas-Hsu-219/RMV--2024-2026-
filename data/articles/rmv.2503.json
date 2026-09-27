@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/rmv.2503",
+  "title": "Targeting the mammalian target of rapamycin pathway in neurological manifestations of Covid‐19",
+  "crossref_title": "Targeting the mammalian target of rapamycin pathway in neurological manifestations of Covid‐19",
+  "abstract": "The diverse and severe nature of neurological manifestations associated with coronavirus disease 2019 (Covid-19) has garnered increasing attention. Exploring the potential to decrease neurological complications in Covid-19 patients involves targeting the mammalian target of rapamycin (mTOR) pathway as a therapeutic strategy. The mTOR pathway, widely recognised for its central role in essential cellular processes like synthesising proteins, facilitating autophagy, and modulating immune responses, has implications in various neurological disorders. Drawing parallels between these disorders and the observed neurological complications in Covid-19, we present a comprehensive review on the current understanding of mTOR signalling in the context of severe acute respiratory syndrome coronavirus 2 infection and neuroinflammation.",
+  "keywords": [
+    "Covid-19",
+    "mTOR pathway",
+    "neurological manifestations",
+    "therapeutic targeting"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-12-29",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "38282397",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Han",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Li",
+      "family": "Cheng",
+      "orcid": null
+    },
+    {
+      "given": "Lanlan",
+      "family": "Yu",
+      "orcid": null
+    },
+    {
+      "given": "Zhigang",
+      "family": "Guo",
+      "orcid": "https://orcid.org/0009-0007-2876-6912"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Nervous System Diseases",
+    "Signal Transduction",
+    "TOR Serine-Threonine Kinases",
+    "COVID-19"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2503",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2503",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282397/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282397"
+  },
+  "copyright_statement": "© 2023 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,79 @@
+{
+  "doi": "10.1002/rmv.2551",
+  "title": "Azvudine versus Paxlovid in COVID‐19: A systematic review and meta‐analysis",
+  "crossref_title": "Azvudine versus Paxlovid in COVID‐19: A systematic review and meta‐analysis",
+  "abstract": "This systematic review and meta-analysis aimed to compare the effectiveness and safety of azvudine versus nirmatrelvir/ritonavir (Paxlovid) in treating coronavirus disease 2019 (COVID-19). The researchers conducted searches on PubMed, Cochrane Library, Web of Science, medRxiv, and Google Scholar until January 2024. The Cochrane risk of bias tool was utilised to evaluate the quality of the included studies, and data analysis was performed using Comprehensive Meta-Analysis software. Thirteen studies, including 4949 patients, were analysed. The meta-analysis results showed no significant difference between the azvudine and Paxlovid groups in terms of mortality rate (odds rate [OR] = 0.84, 95% confidence interval [CI]: 0.59-1.21), negative polymerase chain reaction (PCR) conversion time (standard mean difference [SMD] = 1.52, 95% CI: -1.07-4.11), and hospital stay (SMD = -0.39, 95% CI: -1.12-0.33). However, a significant difference was observed between the two groups in terms of intensive care unit admission (OR = 0.42, 95% CI: 0.23-0.75) and the need for mechanical ventilation (OR = 0.61, 95% CI: 0.44-0.86) in favour of azvudine. The incidence of adverse events in the azvudine group was significantly lower (OR = 0.66, 95% CI: 0.43-0.99). The certainty of evidence was rated as low and moderate. Azvudine and Paxlovid demonstrated similar effectiveness in reducing mortality rates, negative PCR conversion time and hospital stay. However, azvudine showed better effectiveness in improving other outcomes. Regarding the level of certainty of evidence, further research is needed to validate or challenge these results.",
+  "keywords": [
+    "COVID‐19",
+    "Paxlovid",
+    "SARS‐COV‐2",
+    "azvudine",
+    "nirmatrelvir/ritonavir"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-07",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38849982",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Behnam",
+      "family": "Amani",
+      "orcid": null
+    },
+    {
+      "given": "Bahman",
+      "family": "Amani",
+      "orcid": "https://orcid.org/0000-0002-2340-189X"
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Ritonavir",
+    "Drug Combinations",
+    "Antiviral Agents",
+    "Treatment Outcome",
+    "Lopinavir",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2551",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2551",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38849982/",
+    "europe_pmc": "https://europepmc.org/article/MED/38849982"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

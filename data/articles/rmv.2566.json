@@ -1,0 +1,96 @@
+{
+  "doi": "10.1002/rmv.2566",
+  "title": "Hepatitis A in Latin America: The current scenario",
+  "crossref_title": "Hepatitis A in Latin America: The current scenario",
+  "abstract": "This review aims to gather and disseminate updated information regarding hepatitis A virus (HAV) in Latin America (LA) in the last 11 years, including seroprevalence, post-vaccination studies, virus detection in aqueous matrices and food samples, and outbreak reports. Only 24 seroprevalence studies were published between 2012 and 2023 with 55%-100% reported prevalences of anti-HAV IgG. Among the 25 LA countries, only eight of them have introduced HAV vaccines into their immunisation programs. Outbreaks of hepatitis A occurred between 2017-2019, mainly affecting men who have sex with men in Argentina, Brazil and Chile, probably as a consequence of the abrupt decline of young adults' immunity. This could be due to that young adult have never been infected in childhood (due to socio-health improvements) and are above the cut-off ages to be included when the vaccination programs were introduced. Although scarce, studies focused on environmental and food HAV surveillance have shown viral presence in these samples. Surface waters presented HAV detections between 1.2% and 86.7%, and untreated wastewaters between 2.8% and 70.9%. Genotypes found in all cases were IA and IC. The only wastewater-based epidemiology study showed to be a useful tool as a complement of traditional epidemiological surveillance. Only four LA countries have looked for HAV in food samples, with genome detection rates between 9% and 33%. Latin American HAV circulation scenario is changing. In countries where socioeconomic and sanitary conditions have not improved, the virus persists with high endemicity and the access to the vaccine should be re-evaluated by local governments. In countries where access to clean water, better sanitary conditions and HAV immunisation programs have been implemented, the number of cases among young adults seems to be increasing, alerting health authorities.",
+  "keywords": [
+    "Latin America",
+    "epidemiology",
+    "hepatitis A virus"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-07-05",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38970225",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Viviana E.",
+      "family": "Ré",
+      "orcid": "https://orcid.org/0000-0002-3321-0683"
+    },
+    {
+      "given": "Ezequiel",
+      "family": "Ridruejo",
+      "orcid": null
+    },
+    {
+      "given": "Anabella C.",
+      "family": "Fantilli",
+      "orcid": "https://orcid.org/0000-0003-0742-4116"
+    },
+    {
+      "given": "Bruna Damásio",
+      "family": "Moutinho",
+      "orcid": null
+    },
+    {
+      "given": "María Belén",
+      "family": "Pisano",
+      "orcid": null
+    },
+    {
+      "given": "Mário Guimarães",
+      "family": "Pessoa",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Hepatitis A virus",
+    "Hepatitis A",
+    "Hepatitis A Vaccines",
+    "Hepatitis A Antibodies",
+    "Seroepidemiologic Studies",
+    "Disease Outbreaks",
+    "Genotype",
+    "Latin America"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2566",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2566",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38970225/",
+    "europe_pmc": "https://europepmc.org/article/MED/38970225"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

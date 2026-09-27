@@ -1,0 +1,117 @@
+{
+  "doi": "10.1002/rmv.2507",
+  "title": "Safety and efficacy of COVID‐19 vaccines: A systematic review and meta‐analysis of controlled and randomized clinical trials",
+  "crossref_title": "Safety and efficacy of COVID‐19 vaccines: A systematic review and meta‐analysis of controlled and randomized clinical trials",
+  "abstract": "Vaccines against coronavirus disease 2019 (COVID-19) have been discovered within a very small duration of time as compared to the traditional way for the development of vaccines, which raised the question about the safety and efficacy of the approved vaccines. The purpose of this study is to look at the effectiveness and safety of vaccine platforms against the incidence of COVID-19. The literature search was performed on PubMed/Medline, Cochrane, and clinical trials.gov databases for studies published between 1 January 2020 and 19 February 2022. Preferred Reporting Items for Systemic Review and Meta-Analysis Statement guidelines were followed. Among 284 articles received by keywords, a total of 11 studies were eligible according to the inclusion and exclusion criteria (studies in special populations, e.g., pregnant women, paediatric patients, editorials, case reports, review articles, preclinical and in vitro studies) of the study. A total of 247,186 participants were considered for randomisation at baseline, among them, 129,572 (52.42%) were provided with vaccine (Intervention group) and 117,614 (47.58%) with the placebo (Control group). A pooled fold change estimation of 0.19 (95% CI: 0.12-0.31, p < 0.0001) showed significant protection against the incidence of COVID-19 in the vaccines received group versus the placebo group. mRNA based, inactivated vaccines and non-replicating viral vector-based vaccines showed significantly protection against the incidence of COVID-19 compared to placebo with pooled fold change estimation was 0.08 (95% CI: 0.06-0.10), 0.20 (95% CI: 0.14-0.29) and 0.36 (95% CI: 0.28-0.46), respectively. Injection site discomfort and fatigue were the most common side effect observed in mRNA, non-replicating viral vector, inactivated, and protein subunit-based vaccines. All the approved vaccines were found safe and efficacious but mRNA-based vaccines were found to be more efficacious against SARS-CoV-2 than other platforms.",
+  "keywords": [
+    "COVID-19",
+    "SARS-CoV-2",
+    "adverse events",
+    "efficacy",
+    "safety",
+    "vaccines"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-12-29",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "38282394",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jayesh",
+      "family": "Beladiya",
+      "orcid": null
+    },
+    {
+      "given": "Anup",
+      "family": "Kumar",
+      "orcid": "https://orcid.org/0000-0001-9308-4394"
+    },
+    {
+      "given": "Yogesh",
+      "family": "Vasava",
+      "orcid": null
+    },
+    {
+      "given": "Krupanshu",
+      "family": "Parmar",
+      "orcid": null
+    },
+    {
+      "given": "Dipanshi",
+      "family": "Patel",
+      "orcid": null
+    },
+    {
+      "given": "Sandip",
+      "family": "Patel",
+      "orcid": null
+    },
+    {
+      "given": "Sandip",
+      "family": "Dholakia",
+      "orcid": null
+    },
+    {
+      "given": "Devang",
+      "family": "Sheth",
+      "orcid": null
+    },
+    {
+      "given": "Sai H. S.",
+      "family": "Boddu",
+      "orcid": null
+    },
+    {
+      "given": "Chirag",
+      "family": "Patel",
+      "orcid": "https://orcid.org/0000-0003-2969-2955"
+    }
+  ],
+  "publication_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Vaccines, Inactivated",
+    "Randomized Controlled Trials as Topic",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Vaccines"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2507",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2507",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282394/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282394"
+  },
+  "copyright_statement": "© 2023 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

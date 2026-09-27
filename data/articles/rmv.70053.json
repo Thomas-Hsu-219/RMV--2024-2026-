@@ -1,0 +1,103 @@
+{
+  "doi": "10.1002/rmv.70053",
+  "title": "The Role of Emerging/Re‐Emerging RNA Viruses in Bone‐Related Diseases With a Focus on DENV, CHIKV, and SARS‐CoV‐2",
+  "crossref_title": "The Role of Emerging/Re‐Emerging RNA Viruses in Bone‐Related Diseases With a Focus on DENV, CHIKV, and SARS‐CoV‐2",
+  "abstract": "Emerging and re-emerging RNA viruses represent a persistent and evolving global health threat. While primarily recognized for their acute systemic or respiratory illnesses, a growing body of evidence implicates several of these pathogens in the development or exacerbation of bone-related diseases. This review critically describes the multifaceted roles of selected major RNA viruses-Dengue Virus (DENV), Chikungunya Virus (CHIKV), and Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2)- in bone-related diseases. It discusses the current understanding of the clinical manifestations, ranging from arthralgia and arthritis to more severe outcomes such as osteopenia, osteoporosis, and bone erosions. The review describes the potential pathogenic mechanisms, including direct viral infection of bone cells (osteoblasts, osteoclasts, and osteocytes), as well as virus-induced dysregulation of host immune responses that lead to pro-inflammatory cytokine storms and altered signalling pathways, collectively driving aberrant bone remodelling. By discussing current knowledge, this review aims to highlight the significant, yet often underappreciated, impact of these RNA viruses on bone health, identify existing knowledge gaps, and underscore the need for further mechanistic research to inform targeted therapeutic and preventive strategies that reduce bone morbidity in affected populations.",
+  "keywords": [
+    "bone diseases",
+    "chikungunya virus (CHIKV)",
+    "dengue virus (DENV)",
+    "severe acute respiratory syndrome coronavirus 2 (SARS‐CoV‐2)"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-07-25",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40714940",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jinxi",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Jiandong",
+      "family": "Guo",
+      "orcid": null
+    },
+    {
+      "given": "Jian",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Jiawei",
+      "family": "Gao",
+      "orcid": null
+    },
+    {
+      "given": "Jie",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Shuying",
+      "family": "Shen",
+      "orcid": null
+    },
+    {
+      "given": "Jianglong",
+      "family": "Zhu",
+      "orcid": "https://orcid.org/0009-0001-0335-8927"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Dengue Virus",
+    "Chikungunya virus",
+    "Dengue",
+    "Bone Diseases",
+    "Chikungunya Fever",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70053",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70053",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40714940/",
+    "europe_pmc": "https://europepmc.org/article/MED/40714940"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

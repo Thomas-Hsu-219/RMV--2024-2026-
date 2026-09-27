@@ -1,0 +1,80 @@
+{
+  "doi": "10.1002/rmv.2526",
+  "title": "Regulatory role of miRNAs in the human immune and inflammatory response during the infection of SARS‐CoV‐2 and other respiratory viruses: A comprehensive review",
+  "crossref_title": "Regulatory role of miRNAs in the human immune and inflammatory response during the infection of SARS‐CoV‐2 and other respiratory viruses: A comprehensive review",
+  "abstract": "miRNAs are single-stranded ncRNAs that act as regulators of different human body processes. Several miRNAs have been noted to control the human immune and inflammatory response during severe acute respiratory infection syndrome (SARS-CoV-2) infection. Similarly, many miRNAs were upregulated and downregulated during different respiratory virus infections. Here, an attempt has been made to capture the regulatory role of miRNAs in the human immune and inflammatory response during the infection of SARS-CoV-2 and other respiratory viruses. Firstly, the role of miRNAs has been depicted in the human immune and inflammatory response during the infection of SARS-CoV-2. In this direction, several significant points have been discussed about SARS-CoV-2 infection, such as the role of miRNAs in human innate immune response; miRNAs and its regulation of granulocytes; the role of miRNAs in macrophage activation and polarisation; miRNAs and neutrophil extracellular trap formation; miRNA-related inflammatory response; and miRNAs association in adaptive immunity. Secondly, the miRNAs landscape has been depicted during human respiratory virus infections such as human coronavirus, respiratory syncytial virus, influenza virus, rhinovirus, and human metapneumovirus. The article will provide more understanding of the miRNA-controlled mechanism of the immune and inflammatory response during COVID-19, which will help more therapeutics discoveries to fight against the future pandemic.",
+  "keywords": [
+    "COVID-19",
+    "SARS-CoV-2",
+    "immune response",
+    "inflammatory response",
+    "miRNA"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "2",
+  "published_online": "2024-03-06",
+  "published_print": "2024-03",
+  "online_year": 2024,
+  "pmid": "38446531",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Chiranjib",
+      "family": "Chakraborty",
+      "orcid": "https://orcid.org/0000-0002-3958-239X"
+    },
+    {
+      "given": "Manojit",
+      "family": "Bhattacharya",
+      "orcid": null
+    },
+    {
+      "given": "Sang‐Soo",
+      "family": "Lee",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Respiratory Syncytial Viruses",
+    "Rhinovirus",
+    "MicroRNAs",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2526",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2526",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38446531/",
+    "europe_pmc": "https://europepmc.org/article/MED/38446531"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

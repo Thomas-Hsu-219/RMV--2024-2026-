@@ -1,0 +1,95 @@
+{
+  "doi": "10.1002/rmv.70193",
+  "title": "HHV‐8 Infection in Solid‐Organ Transplant—Pathogenesis, Epidemiology, Clinical Manifestations and Management",
+  "crossref_title": "HHV‐8 Infection in Solid‐Organ Transplant—Pathogenesis, Epidemiology, Clinical Manifestations and Management",
+  "abstract": "Human herpesvirus-8 (HHV-8) is an oncogenic herpesvirus that poses unique challenges in solid-organ transplantation. Although uncommon, HHV-8-associated diseases including Kaposi sarcoma (KS), multicentric Castleman disease (MCD), primary effusion lymphoma (PEL), and the KSHV inflammatory cytokine syndrome (KICS) can lead to significant morbidity, graft loss, and death. The clinical spectrum ranges from indolent cutaneous lesions to fulminant systemic inflammation, yet recognition is often delayed because of nonspecific presentations and the lack of standardized screening or monitoring strategies. Regional differences in HHV-8 seroprevalence and immunosuppressive regimens further complicate prevention and management. This review summarises current understanding of HHV-8 infection in solid-organ transplant recipients, focussing on epidemiology, transmission pathways, pathogenesis, clinical manifestations, diagnostic approaches, and management principles for each major syndrome. It also highlights knowledge gaps, therapeutic challenges, and priorities for research and standardized surveillance to improve outcomes in this rare but important group of transplant-related complications. We propose a risk-stratified donor and recipient screening algorithm and a practical management framework for recipients with HHV-8 PCR positivity but without symptoms, to guide clinical practice in the absence of standardized guidelines.",
+  "keywords": [
+    "human herpesvirus 8 (HHV‐8)",
+    "kaposi sarcoma",
+    "multicentric castleman disease",
+    "post‐transplant malignancy",
+    "primary effusion lymphoma",
+    "solid organ transplantation"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-08-04",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42549899",
+  "pmcid": "PMC13435822",
+  "authors": [
+    {
+      "given": "Sorawit",
+      "family": "Chittrakarn",
+      "orcid": "https://orcid.org/0009-0007-8115-3955"
+    },
+    {
+      "given": "Pornpan",
+      "family": "Koomanachai",
+      "orcid": null
+    },
+    {
+      "given": "Kamonlawat",
+      "family": "Sutthipool",
+      "orcid": null
+    },
+    {
+      "given": "Lauren",
+      "family": "Ogawa",
+      "orcid": "https://orcid.org/0000-0002-5809-8368"
+    },
+    {
+      "given": "Joanna M.",
+      "family": "Schaenman",
+      "orcid": "https://orcid.org/0000-0003-1174-3961"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Herpesvirus 8, Human",
+    "Herpesviridae Infections",
+    "Sarcoma, Kaposi",
+    "Organ Transplantation",
+    "Disease Management",
+    "Lymphoma, Primary Effusion",
+    "Transplant Recipients",
+    "Castleman Disease"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70193",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70193",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42549899/",
+    "europe_pmc": "https://europepmc.org/article/MED/42549899"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

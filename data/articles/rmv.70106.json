@@ -1,0 +1,84 @@
+{
+  "doi": "10.1002/rmv.70106",
+  "title": "Microplastics and Nanoplastics as Carriers for Viral Transmission: Effects on Viral Properties, Infection, Immune Response, and Public Health",
+  "crossref_title": "Microplastics and Nanoplastics as Carriers for Viral Transmission: Effects on Viral Properties, Infection, Immune Response, and Public Health",
+  "abstract": "The extensive use of plastics since the industrial revolution has raised significant environmental and health concerns. Despite their advantages in terms of durability, affordability, and ease of production, the accumulation of plastics has resulted in considerable pollution. The SARS-CoV-2 pandemic further exacerbated plastic consumption, particularly in medical supplies, intensifying the plastic waste crisis. The majority of plastics are not recycled and eventually degrade into microplastics (MPs) and nanoplastics (NPs), which pose substantial risks to ecosystems and human health. MPs and NPs enter the body through inhalation, ingestion, or skin contact and have been found in biological samples such as blood, faeces, and lung fluids. Their presence has been linked to diseases affecting the lungs, cardiovascular system, and intestines, as well as cancer and viral infections. This review highlights how MPs and NPs contribute to the spread of infectious diseases by creating a habitat called the \"plastisphere,\" which promotes microbial growth and serves as a reservoir for pathogens, emphasising their effects on viral persistence, infection dynamics, and immune modulation. Unlike previous reviews mainly focused on toxicological or microbiological aspects, this work integrates environmental, virological, and immunological evidence to outline how MPs/NPs may reshape virus-host interactions. By identifying critical knowledge gaps, such as the quantitative impact of MPs/NPs on viral stability and immune disruption, this review provides a background for future experimental and epidemiological research. This value-added perspective not only advances scientific understanding but also supports policy development in waste management.",
+  "keywords": [
+    "immune response",
+    "microplastics",
+    "nanoplastics",
+    "public health",
+    "viral infection",
+    "virus"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2026-01-15",
+  "published_print": "2026-01",
+  "online_year": 2026,
+  "pmid": "41539985",
+  "pmcid": "PMC12808005",
+  "authors": [
+    {
+      "given": "Cosmina",
+      "family": "Mija",
+      "orcid": null
+    },
+    {
+      "given": "Giuseppe",
+      "family": "Sberna",
+      "orcid": "https://orcid.org/0000-0003-0955-2074"
+    },
+    {
+      "given": "Fabrizio",
+      "family": "Maggi",
+      "orcid": "https://orcid.org/0000-0001-7489-5271"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Virus Diseases",
+    "Plastics",
+    "Public Health",
+    "Microplastics",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70106",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70106",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41539985/",
+    "europe_pmc": "https://europepmc.org/article/MED/41539985"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

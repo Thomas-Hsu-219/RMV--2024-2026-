@@ -1,0 +1,101 @@
+{
+  "doi": "10.1002/rmv.70019",
+  "title": "Zika Virus‐Related Birth Defects and Neurological Complications: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Zika Virus‐Related Birth Defects and Neurological Complications: A Systematic Review and Meta‐Analysis",
+  "abstract": "Zika virus (ZIKV) is a virus transmitted by arthropods that exhibits considerable pathogenicity, resulting in a significant health and economic impact worldwide. A rise in congenital anomalies has been noted in kids born to mothers who have infections during pregnancy, alongside a rise in neurological symptoms in adults. In this study, we reassessed the data on brain abnormalities in maternal infection with ZIKV during pregnancy through a systematic review and meta-analysis. A thorough search was carried out in the PubMed, Scopus, Web of Science and Embase databases to extract pertinent published data up to November, 2024. In this meta-analysis, 14 studies with 912 individuals were incorporated. Subgroup analyses, depending on the maternal age, gestational age at detection of brain abnormalities, the time of ZIKV diagnosis, type of sample and birth weight at delivery, were performed. Critical appraisal was completed using the Newcastle-Ottawa Scale (NOS) tools. In this analysis, we identified 14 studies that reported brain abnormalities in newborn infants with ZIKV-infected pregnant women, of which 58% studies were from Brazil. The overall birth defect with brain abnormalities was found to be (1.94 [95% CI: 1.3-2.7], P = 0.00). Of the most common brain abnormalities, microcephaly (OR: 2.7 [95% CI 1.5-4.7], P = 0.00), ventriculomegaly (OR: 1.7 [95% CI 0.91-3.3], P = 0.09) and corpus callosal anomaly (OR: 1.8 [95% CI 1.02-3.3], P = 0.04) had highest the risk in children with ZIKV-infected pregnant women. No publication bias was found when applying the Begg's rank correlation and Egger's linear regression tests (P = 1 and P = 0.44, respectively). subgroups of maternal age ≥ 30 years and gestational week of ZIKV diagnosis ≥ 25 weeks are important in zika-associated birth defects. This systematic review and meta-analysis evidenced a high risk of brain defects in ZIKV-infected pregnant women. Maternal age and gestational week of ZIKV diagnosis may modify this risk.",
+  "keywords": [
+    "ZIKV",
+    "birth defect",
+    "brain abnormalities",
+    "zika infection"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-03-04",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "40037985",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Fang",
+      "family": "Ba",
+      "orcid": null
+    },
+    {
+      "given": "Hui",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Silu",
+      "family": "Ding",
+      "orcid": null
+    },
+    {
+      "given": "Tingyi",
+      "family": "Guo",
+      "orcid": null
+    },
+    {
+      "given": "Junmei",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Yanli",
+      "family": "Sun",
+      "orcid": "https://orcid.org/0009-0001-4991-9718"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Brain",
+    "Humans",
+    "Pregnancy Complications, Infectious",
+    "Microcephaly",
+    "Nervous System Diseases",
+    "Pregnancy",
+    "Infant, Newborn",
+    "Brazil",
+    "Female",
+    "Congenital Abnormalities",
+    "Zika Virus",
+    "Zika Virus Infection"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70019",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70019",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40037985/",
+    "europe_pmc": "https://europepmc.org/article/MED/40037985"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

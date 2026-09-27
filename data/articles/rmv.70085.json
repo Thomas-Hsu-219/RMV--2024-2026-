@@ -1,0 +1,98 @@
+{
+  "doi": "10.1002/rmv.70085",
+  "title": "COVID‐19 in Diabetic Patients: Mechanisms, Risks, and Therapeutic Considerations",
+  "crossref_title": "COVID‐19 in Diabetic Patients: Mechanisms, Risks, and Therapeutic Considerations",
+  "abstract": "The COVID-19 pandemic, caused by SARS-CoV-2, has had a profound global impact. Diabetes mellitus is a major comorbidity associated with higher infection risk, severe disease, and mortality in COVID-19 patients. This review examines the bidirectional relationship between COVID-19 and diabetes, focussing on immunometabolic mechanisms, post-COVID metabolic effects, and therapeutic implications. A comprehensive literature search was conducted in PubMed, Scopus, and Web of Science for articles published until May 2025 using the terms \"COVID-19,\" \"SARS-CoV-2,\" \"diabetes,\" and \"immunometabolism.\" Peer-reviewed studies addressing clinical, molecular, or therapeutic interactions between the two diseases were included. Evidence shows that SARS-CoV-2 infection aggravates metabolic dysfunction through immune dysregulation, cytokine-mediated inflammation, and β-cell injury. Hyperglycemia promotes viral replication and inflammatory damage, creating a vicious cycle that worsens outcomes. Reports also indicate an increased risk of new-onset and post-COVID diabetes. Certain antidiabetic agents, such as metformin and GLP-1 receptor agonists, may improve prognosis via anti-inflammatory and metabolic effects. Diabetes significantly amplifies the severity of COVID-19 through intertwined metabolic and immune mechanisms. Understanding these interactions provides new insights into disease management and supports the development of targeted immunometabolic therapies for improving outcomes in diabetic patients affected by COVID-19.",
+  "keywords": [
+    "COVID‐19",
+    "SARS‐CoV‐2",
+    "antidiabetic therapy",
+    "diabetes",
+    "immunometabolic therapy",
+    "inflammation",
+    "long‐COVID19",
+    "metabolic dysregulation",
+    "risk factors"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2025-12-04",
+  "published_print": "2026-01",
+  "online_year": 2025,
+  "pmid": "41346074",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Rania",
+      "family": "Hamdy",
+      "orcid": "https://orcid.org/0000-0002-4748-8790"
+    },
+    {
+      "given": "Amal Z.",
+      "family": "Barakat",
+      "orcid": null
+    },
+    {
+      "given": "Eman J.",
+      "family": "Abuzaid",
+      "orcid": null
+    },
+    {
+      "given": "Tasneem M.",
+      "family": "Elsayed",
+      "orcid": null
+    },
+    {
+      "given": "Mohamed I.",
+      "family": "Husseiny",
+      "orcid": "https://orcid.org/0000-0002-3470-2858"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Diabetes Mellitus",
+    "Diabetes Complications",
+    "Hypoglycemic Agents",
+    "Risk Factors",
+    "Comorbidity",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70085",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70085",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41346074/",
+    "europe_pmc": "https://europepmc.org/article/MED/41346074"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

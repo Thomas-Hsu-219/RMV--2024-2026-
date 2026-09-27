@@ -1,0 +1,82 @@
+{
+  "doi": "10.1002/rmv.70077",
+  "title": "Cell Surface Markers of HIV Latency: Current Insights and Future Directions",
+  "crossref_title": "Cell Surface Markers of HIV Latency: Current Insights and Future Directions",
+  "abstract": "The eradication of HIV remains challenging, primarily due to the persistence of latent HIV reservoirs within the human body that evade immune detection, even in the context of effective antiretroviral therapy (ART). These reservoirs, principally comprising CD4+ T-cells, are characterised by their heterogeneity and dynamic nature, rendering their identification and targeted elimination ineffectual. This review examines recent advances in the identification of cell surface markers associated with HIV latency, emphasising their potential utility in the detection of HIV reservoir cells. Thus, markers such as CD2, CD20, CD30, CD32a, CD69, CD73, CD98, CD127, CD161, and VLA-4, amongst others, are presented herein and evaluated based on their roles in HIV infection dynamics, latency maintenance, and reactivation potential. While promising candidates such as CD32a and PD-1 demonstrate significant enrichment of HIV DNA and replication-competent provirus, observations remain inconsistent across studies, highlighting the need for further research. Additionally, this review introduces P-selectin glycoprotein ligand-1 (PSGL-1), a cell surface molecule extensively studied in relation to its role in inflammation, as a potential marker for HIV reservoir cells. By consolidating current evidence, this article revisits the intriguing realm of HIV reservoir cells and provides knowledge and a broader canvas for their identification via detection of specific cell surface molecules.",
+  "keywords": [],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "6",
+  "published_online": "2025-11-04",
+  "published_print": "2025-11",
+  "online_year": 2025,
+  "pmid": "41189099",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Silvere D.",
+      "family": "Zaongo",
+      "orcid": "https://orcid.org/0000-0001-6784-4986"
+    },
+    {
+      "given": "Shengquan",
+      "family": "Tang",
+      "orcid": null
+    },
+    {
+      "given": "Yanqiu",
+      "family": "Lu",
+      "orcid": null
+    },
+    {
+      "given": "Yaokai",
+      "family": "Chen",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "CD4-Positive T-Lymphocytes",
+    "Humans",
+    "HIV-1",
+    "HIV Infections",
+    "Membrane Glycoproteins",
+    "Antigens, CD",
+    "Virus Latency",
+    "Biomarkers"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70077",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70077",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41189099/",
+    "europe_pmc": "https://europepmc.org/article/MED/41189099"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

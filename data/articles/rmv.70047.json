@@ -1,0 +1,73 @@
+{
+  "doi": "10.1002/rmv.70047",
+  "title": "A Review of Arboviral‐Induced Liver Damage: Acute Manifestations and Speculative Links to Chronic Inflammation",
+  "crossref_title": "A Review of Arboviral‐Induced Liver Damage: Acute Manifestations and Speculative Links to Chronic Inflammation",
+  "abstract": "Arboviruses are a heterogeneous group of vector-borne viruses from various viral families. The clinical manifestations associated with these viruses can vary from self-limiting conditions to life-threatening complications with haemorrhagic disorders. As a class of viruses with systemic infections, arboviruses can either directly or indirectly affect different parts of the body causing systemic complications such as cardiovascular diseases, coagulation dysfunctions, and various liver complications. The present review presents clinical, epidemiological, and mechanistic evidence describing liver involvement during acute arboviral infections, including those caused by Dengue Virus (DENV), Yellow Fever Virus (YFV), Zika Virus (ZIKV), and Chikungunya Virus (CHIKV). While much of the available data pertains to acute liver damage, such as H, hepatomegaly, or fulminant hepatitis, it also discusses the possibility that such acute injuries may, in certain cases, predispose to chronic liver inflammation and fibrosis. Although current direct evidence for long-term hepatic sequelae is limited, this underexplored area may hold important clinical relevance in endemic settings. Therefore, this review emphasises the need for longitudinal research to establish whether arboviral infections pose a significant risk for chronic liver disease. Furthermore, it discusses the potential underlying mechanisms by which these viruses can induce hepatic disorders, including direct viral effects, immune-caused complications, and interactions with various hepatic cells and components. Finally, this review addresses several future research directions to improve clinical outcomes of arbovirus-caused liver complications.",
+  "keywords": [
+    "arboviruses",
+    "inflammation",
+    "liver complications"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-06-16",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40524337",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Bin",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Zhihao",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0000-0002-1309-7847"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Arboviruses",
+    "Arbovirus Infections",
+    "Liver Diseases",
+    "Inflammation"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70047",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70047",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40524337/",
+    "europe_pmc": "https://europepmc.org/article/MED/40524337"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

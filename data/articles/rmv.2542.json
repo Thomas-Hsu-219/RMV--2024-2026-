@@ -1,0 +1,103 @@
+{
+  "doi": "10.1002/rmv.2542",
+  "title": "Global seroprevalence and prevalence of infection of influenza in dogs (Canis familiaris): A systematic review and meta‐analysis",
+  "crossref_title": "Global seroprevalence and prevalence of infection of influenza in dogs (Canis familiaris): A systematic review and meta‐analysis",
+  "abstract": "Influenza in dogs holds considerable public health significance due to their close companionship with humans, yet several facets of this phenomenon remain largely unexplored. This study undertook a systematic review and meta-analysis of observational studies to gauge the global seroprevalence of influenza in dogs. We also assessed whether pet dogs exhibited a higher seroprevalence of influenza compared to non-pet dogs, explored seasonal variations in seroprevalence, scrutinised the design and reporting standards of existing studies, and elucidated the geographical distribution of canine influenza virus (cIV). A comprehensive analysis of 97 studies spanning 27 countries revealed that seroprevalence of various influenza strains in dogs consistently registered below 10% and exhibited relative stability over the past decade. Significantly, we noted that seroprevalence of human influenza virus was notably higher in pet dogs compared to their non-pet counterparts, whereas seroprevalence of other influenza strains remained relatively uniform among both categories of dogs. Seasonal variations in seroprevalence of cIV were not observed. In summary, our findings indicated the global circulation of cIV strains H3N2 and H3N8, with other strains primarily confined to China. Given the lack of reported cases of the transmission of cIV from dogs to humans, our findings suggest a higher risk of reverse zoonosis than zoonosis. Finally, we strongly advocate for standardised reporting guidelines to underpin future canine influenza research endeavours.",
+  "keywords": [
+    "Canis familiaris",
+    "canine",
+    "dog",
+    "influenza",
+    "meta‐analysis",
+    "seroprevalence",
+    "systematic review"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-05-15",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38747622",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Char",
+      "family": "Leung",
+      "orcid": "https://orcid.org/0000-0002-4215-4513"
+    },
+    {
+      "given": "Amy Nishio",
+      "family": "King",
+      "orcid": null
+    },
+    {
+      "given": "Phoebe Rosemary Alice",
+      "family": "Barker",
+      "orcid": "https://orcid.org/0009-0000-0636-8672"
+    },
+    {
+      "given": "Abdulwahab Dhari",
+      "family": "Alshallal",
+      "orcid": "https://orcid.org/0000-0002-8423-9291"
+    },
+    {
+      "given": "Jia Yi",
+      "family": "Lee",
+      "orcid": "https://orcid.org/0000-0002-8347-6711"
+    },
+    {
+      "given": "Li",
+      "family": "Su",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Dogs",
+    "Humans",
+    "Influenza A virus",
+    "Orthomyxoviridae Infections",
+    "Dog Diseases",
+    "Prevalence",
+    "Seroepidemiologic Studies",
+    "Seasons",
+    "Influenza A Virus, H3N2 Subtype",
+    "Global Health"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2542",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2542",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38747622/",
+    "europe_pmc": "https://europepmc.org/article/MED/38747622"
+  },
+  "copyright_statement": "© 2024 The Authors. Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

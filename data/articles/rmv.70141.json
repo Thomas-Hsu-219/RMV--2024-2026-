@@ -1,0 +1,101 @@
+{
+  "doi": "10.1002/rmv.70141",
+  "title": "Potential Relationship Between Cytomegalovirus and Cardiovascular Disease: Evidence From Observational Studies",
+  "crossref_title": "Potential Relationship Between Cytomegalovirus and Cardiovascular Disease: Evidence From Observational Studies",
+  "abstract": "Cytomegalovirus (CMV), a member of the herpesvirus family, is a ubiquitous pathogen with high global seroprevalence. While generally asymptomatic in healthy individuals, CMV infection has been linked to certain long-term outcomes, including cardiovascular disease (CVD). This review of the epidemiological literature investigates the relationship between CMV infection and CVD by synthesising findings from population-based observational studies. A targeted literature search identified 18 studies published since 2000 that reported on laboratory-confirmed CMV and CVD outcomes, including myocardial infarction, stroke, thrombosis, embolism, and cardiovascular mortality. The most frequently examined outcomes were composite cardiovascular events (39%) and cardiovascular mortality (33%). Nine studies reported significant associations between CMV and CVD-related outcomes, with hazard and odds ratios typically below three. For instance, CMV infection was associated with stroke in women, venous thromboembolism, and elevated risk of cardiovascular mortality in specific subgroups. However, findings were inconsistent across studies, reflecting differences in study populations, study designs, outcome definitions, and approaches to measuring CMV exposure. Most studies relied on serologic assays of CMV, limiting the ability to distinguish between recent/new (i.e., primary) infection, reactivation of latent virus, or reinfection and potentially contributing to heterogeneity in the results. Overall, while evidence suggests a potential link between CMV infection and some CVD outcomes, significant gaps remain in understanding this relationship. Future research should focus on refining exposure and outcome definitions, exploring sex-specific differences, and accounting for inflammatory and other confounding factors to clarify CMV's role in CVD pathogenesis.",
+  "keywords": [
+    "CMV",
+    "cardiovascular disease",
+    "cardiovascular mortality",
+    "stroke",
+    "thromboembolism"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-20",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41860113",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Benjamin",
+      "family": "Doty",
+      "orcid": null
+    },
+    {
+      "given": "Kevork",
+      "family": "Ourfalian",
+      "orcid": null
+    },
+    {
+      "given": "Sandeep",
+      "family": "Basnet",
+      "orcid": null
+    },
+    {
+      "given": "Colin",
+      "family": "Kunzweiler",
+      "orcid": null
+    },
+    {
+      "given": "Adva",
+      "family": "Gadoth",
+      "orcid": "https://orcid.org/0000-0002-3217-2435"
+    },
+    {
+      "given": "Rhonda L.",
+      "family": "Bohn",
+      "orcid": "https://orcid.org/0000-0002-4883-275X"
+    },
+    {
+      "given": "John",
+      "family": "Diaz‐Decaro",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Cardiovascular Diseases",
+    "Risk Factors",
+    "Observational Studies as Topic"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70141",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70141",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41860113/",
+    "europe_pmc": "https://europepmc.org/article/MED/41860113"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

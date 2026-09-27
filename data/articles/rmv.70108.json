@@ -1,0 +1,103 @@
+{
+  "doi": "10.1002/rmv.70108",
+  "title": "A Systematic Review and Meta‐Analysis of Global DENV, CHIKV, and ZIKV Co‐Infection",
+  "crossref_title": "A Systematic Review and Meta‐Analysis of Global DENV, CHIKV, and ZIKV Co‐Infection",
+  "abstract": "Dengue (DENV), chikungunya (CHIKV), and Zika (ZIKV) viruses are arboviruses with the same main vectors, Aedes aegypti and Ae. albopictus. These three viruses pose significant public health challenges globally, especially with their recent increase in prevalence and reports of co-infection worldwide. This is concerning, as they have similar early symptoms but may need different treatment. However, a comprehensive and up-to-date analysis of the global prevalence of these co-infections is lacking, and many health providers in DENV-endemic countries are unaware of other arbovirus infections. To address this issue, we conducted a systematic review and meta-analysis to determine the prevalence of co-infection among DENV, CHIKV, and ZIKV based on molecular and antigen detections. We searched and screened original studies from 2013 to 2023 from Medline, Proquest, OVID, EBSCO, medRxiv, and bioRxiv. Using a random effects model, 29 studies from 16 countries were analysed. The estimated co-infection rates were 2.10% (95% CI = 0.88%-4.91%; I2 = 92%) for DENV-CHIKV, 1.91% (95% CI = 0.65-5.43; I2 = 80%) for DENV-ZIKV, 1.30% (95% CI = 0.35%-4.68%; I2 = 85%) for CHIKV-ZIKV, and 0.59% (95% CI = 0.20%-1.71%; I2 = 71%) for DENV-CHIKV-ZIKV, with variations (0.30%-9.83%) observed across different regions. These findings will aid in raising awareness of arboviral co-infections and formulating better strategies for diagnosing and managing these infections.",
+  "keywords": [
+    "arbovirus",
+    "chikungunya",
+    "co‐infection",
+    "dengue",
+    "zika"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-01-31",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41619199",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Benedict",
+      "family": "Aurelio",
+      "orcid": "https://orcid.org/0009-0009-3493-0058"
+    },
+    {
+      "given": "Maria Mardalena Martini",
+      "family": "Kaisar",
+      "orcid": "https://orcid.org/0000-0002-7515-7673"
+    },
+    {
+      "given": "Vincent",
+      "family": "Wijaya",
+      "orcid": "https://orcid.org/0009-0009-4206-2852"
+    },
+    {
+      "given": "Sesilia Olivia Rachel",
+      "family": "Khustiawan",
+      "orcid": null
+    },
+    {
+      "given": "Anastasia",
+      "family": "Hengestu",
+      "orcid": "https://orcid.org/0009-0000-7112-8050"
+    },
+    {
+      "given": "Soegianto",
+      "family": "Ali",
+      "orcid": "https://orcid.org/0000-0002-9972-8696"
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Aedes",
+    "Dengue Virus",
+    "Chikungunya virus",
+    "Dengue",
+    "Prevalence",
+    "Coinfection",
+    "Global Health",
+    "Chikungunya Fever",
+    "Zika Virus",
+    "Zika Virus Infection"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70108",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70108",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41619199/",
+    "europe_pmc": "https://europepmc.org/article/MED/41619199"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

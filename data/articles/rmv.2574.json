@@ -1,0 +1,80 @@
+{
+  "doi": "10.1002/rmv.2574",
+  "title": "Management of Refractory/Resistant Herpes Simplex Virus Infections in Haematopoietic Stem Cell Transplantation Recipients: A Literature Review",
+  "crossref_title": "Management of Refractory/Resistant Herpes Simplex Virus Infections in Haematopoietic Stem Cell Transplantation Recipients: A Literature Review",
+  "abstract": "Herpes simplex virus (HSV) infections in allogeneic haematopoietic stem cell transplantation (HSCT) recipients pose significant challenges, with higher incidence, severity, and risk of emergence of resistance to antivirals due to impaired T-cell mediated immunity. This literature review focuses on acyclovir-refractory/resistant HSV infections in HSCT recipients. The review addresses the efficacy of antiviral prophylaxis, the incidence of acyclovir-refractory/resistant HSV infections, and the identification of risk factors and potential prognostic impact associated with those infections. Additionally, alternative therapeutic options are discussed. While acyclovir prophylaxis demonstrates a significant benefit in reducing HSV infections in HSCT recipients and, in some cases, overall mortality, concerns arise about the emergence of drug-resistant HSV strains. Our systematic review reports a median incidence of acyclovir-resistant HSV infections of 16.1%, with an increasing trend in recent years. Despite limitations in available studies, potential risk factors of emergence of HSV resistance to acyclovir include human leucocyte antigen (HLA) mismatches, myeloid neoplasms and acute leukaemias, and graft-versus-host disease (GVHD). Limited evidences suggest a potentially poorer prognosis for allogeneic HSCT recipients with acyclovir-refractory/resistant HSV infection. Alternative therapeutic approaches, such as foscarnet, cidofovir, topical cidofovir, optimised acyclovir dosing, and helicase-primase inhibitors offer promising options but require further investigations. Overall, larger studies are needed to refine preventive and therapeutic strategies for acyclovir-refractory/resistant HSV infections in allogeneic HSCT recipients and to identify those at higher risk.",
+  "keywords": [
+    "antiviral prophylaxis",
+    "haematopoietic stem cell transplantation",
+    "incidence/prevalence",
+    "prognostic impact",
+    "refractory/resistant HSV infections",
+    "risk factors"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "5",
+  "published_online": "2024-08",
+  "published_print": "2024-09",
+  "online_year": 2024,
+  "pmid": "39090526",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Léo",
+      "family": "Sallée",
+      "orcid": "https://orcid.org/0009-0008-0415-7685"
+    },
+    {
+      "given": "David",
+      "family": "Boutolleau",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Simplexvirus",
+    "Herpes Simplex",
+    "Acyclovir",
+    "Antiviral Agents",
+    "Hematopoietic Stem Cell Transplantation",
+    "Incidence",
+    "Risk Factors",
+    "Drug Resistance, Viral",
+    "Transplant Recipients"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2574",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2574",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39090526/",
+    "europe_pmc": "https://europepmc.org/article/MED/39090526"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

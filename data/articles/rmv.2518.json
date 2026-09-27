@@ -1,0 +1,95 @@
+{
+  "doi": "10.1002/rmv.2518",
+  "title": "Increased risk of new‐onset cardiovascular disease after COVID‐19: A systematic review and meta‐analysis of 14 cohorts",
+  "crossref_title": "Increased risk of new‐onset cardiovascular disease after COVID‐19: A systematic review and meta‐analysis of 14 cohorts",
+  "abstract": "Cardiovascular diseases (CVD) are common in long COVID, yet the associated risk remains uncertain. We aimed to quantify the risk of new‐onset cardiovascular diseases after COVID‐19. We searched PubMed, Embase, and Web of Science from inception up to October 2022. Cohort studies that provided information on the number, proportion, or relative risks (RR) of cardiovascular diseases after COVID‐19 were included. Paired reviewers independently screened studies, extracted data, and assessed the risk of bias. We performed random‐effects models meta‐analyses to calculate RR and corresponding 95% confidence interval (95%CI), and conducted subgroup analyses and meta‐regression to explore the potential risk factors. Absolute effects were calculated to facilitate interpretation. The Grading of Recommendations, Assessment, Development and Evaluation approach was used to assess the certainty of evidence. Outcomes of interest were any CVD, major adverse cardiovascular events (MACE), arrhythmias, heart failure, myocarditis, and thrombotic events. Fourteen cohort studies with over 25.37 million participants were included. The results showed a 2.42 times higher risk of any CVD (RR = 2.42, 95% CI: 1.24–4.71; 51 more per 1000), a 95% higher risk of MACE (RR = 1.95, 95% CI: 1.59–2.40; 4 more per 1000), a 61% higher risk of arrhythmias (RR = 1.61, 95% CI: 1.42–1.83; 12 more per 1000), a 71% higher risk of heart failure (RR = 1.71, 95% CI: 1.33–2.21; 2 more per 1000), a 5 times higher risk of myocarditis (RR = 5.06, 95% CI: 3.78–6.77; 4 more per 1000), and a 2.49 times higher risk of thrombotic events (RR = 2.49, 95% CI: 1.22–5.06; 6 more per 1000) associated with COVID‐19. Besides, for thrombotic events, a statistically significant subgroup effect was observed in male participants compared to females (\n P\n \n interaction\n \n  = 0.008). The certainty of evidence was high for myocarditis, but low or very low for other outcomes. The results clearly showed varying degrees of elevated new‐onset CVD risk in post‐COVID‐19 individuals. Additionally, our findings suggest that male patients face a higher risk of thrombotic events. However, the differences in pooled results between studies, and the over‐precision due to the large sample size of the included studies resulted in high heterogeneity of exceeding 90% in most outcomes, which led to low certainty of evidence.",
+  "keywords": [],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "2",
+  "published_online": "2024-02",
+  "published_print": "2024-03",
+  "online_year": 2024,
+  "pmid": null,
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mingyao",
+      "family": "Sun",
+      "orcid": null
+    },
+    {
+      "given": "Mengyuan",
+      "family": "Yuan",
+      "orcid": null
+    },
+    {
+      "given": "Honghao",
+      "family": "Lai",
+      "orcid": null
+    },
+    {
+      "given": "Qian",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Hengyang",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Lina",
+      "family": "Xing",
+      "orcid": null
+    },
+    {
+      "given": "Jinhui",
+      "family": "Tian",
+      "orcid": null
+    },
+    {
+      "given": "Zhigang",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Long",
+      "family": "Ge",
+      "orcid": "https://orcid.org/0000-0002-3555-1107"
+    }
+  ],
+  "publication_types": [
+    "Review"
+  ],
+  "mesh_terms": [],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "Crossref",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "Wiley article landing page"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2518",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2518",
+    "publisher_supplement": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2518"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

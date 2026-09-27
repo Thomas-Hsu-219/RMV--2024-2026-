@@ -1,0 +1,651 @@
+{
+  "checked_on": "2026-09-27",
+  "method": "Read Wiley TOCs via web tool and compare every primary content entry against Crossref canonical titles and issue assignments; resolve article links to DOI where accessible. Ignore nested correction/original-article cross-links in other issues; exclude Issue Information and Cover Image only.",
+  "complete_publisher_2025_toc_verification": false,
+  "issues": [
+    {
+      "year": 2025,
+      "volume": "35",
+      "issue": 1,
+      "toc_url": "https://onlinelibrary.wiley.com/toc/10991654/2025/35/1",
+      "crossref_content_count": 7,
+      "crossref_dois": [
+        "10.1002/rmv.70000",
+        "10.1002/rmv.70010",
+        "10.1002/rmv.70011",
+        "10.1002/rmv.70012",
+        "10.1002/rmv.70013",
+        "10.1002/rmv.70014",
+        "10.1002/rmv.70015"
+      ],
+      "toc_status": "unavailable",
+      "verification_status": "not_verified_against_publisher_toc",
+      "reason": "Wiley TOC returned 403 Forbidden or inaccessible through web tool on three attempts. No completeness inferred from failure."
+    },
+    {
+      "year": 2025,
+      "volume": "35",
+      "issue": 2,
+      "toc_url": "https://onlinelibrary.wiley.com/toc/10991654/2025/35/2",
+      "crossref_content_count": 15,
+      "crossref_dois": [
+        "10.1002/rmv.70016",
+        "10.1002/rmv.70017",
+        "10.1002/rmv.70019",
+        "10.1002/rmv.70020",
+        "10.1002/rmv.70021",
+        "10.1002/rmv.70023",
+        "10.1002/rmv.70024",
+        "10.1002/rmv.70025",
+        "10.1002/rmv.70026",
+        "10.1002/rmv.70027",
+        "10.1002/rmv.70028",
+        "10.1002/rmv.70029",
+        "10.1002/rmv.70030",
+        "10.1002/rmv.70031",
+        "10.1002/rmv.70032"
+      ],
+      "toc_status": "readable",
+      "toc_content_count": 15,
+      "verified_dois_by_title": [
+        "10.1002/rmv.70016",
+        "10.1002/rmv.70017",
+        "10.1002/rmv.70019",
+        "10.1002/rmv.70020",
+        "10.1002/rmv.70021",
+        "10.1002/rmv.70023",
+        "10.1002/rmv.70024",
+        "10.1002/rmv.70025",
+        "10.1002/rmv.70026",
+        "10.1002/rmv.70027",
+        "10.1002/rmv.70028",
+        "10.1002/rmv.70029",
+        "10.1002/rmv.70030",
+        "10.1002/rmv.70031",
+        "10.1002/rmv.70032"
+      ],
+      "publisher_doi_directly_resolved": 8,
+      "title_and_doi_matches": [
+        {
+          "doi": "10.1002/rmv.70026",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70026",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70020",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70020",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70032",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70032",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70025",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70025",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70031",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70016",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70027",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70027",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70023",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70021",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70021",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70029",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70029",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70028",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70028",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70017",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70030",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70024",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70019",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        }
+      ],
+      "unmatched_toc_titles": [],
+      "database_only_dois": [],
+      "toc_only_dois": [],
+      "publisher_doi_disagreements": [],
+      "verification_status": "matched"
+    },
+    {
+      "year": 2025,
+      "volume": "35",
+      "issue": 3,
+      "toc_url": "https://onlinelibrary.wiley.com/toc/10991654/2025/35/3",
+      "crossref_content_count": 10,
+      "crossref_dois": [
+        "10.1002/rmv.70022",
+        "10.1002/rmv.70033",
+        "10.1002/rmv.70034",
+        "10.1002/rmv.70035",
+        "10.1002/rmv.70036",
+        "10.1002/rmv.70037",
+        "10.1002/rmv.70038",
+        "10.1002/rmv.70040",
+        "10.1002/rmv.70041",
+        "10.1002/rmv.70042"
+      ],
+      "toc_status": "readable",
+      "toc_content_count": 10,
+      "verified_dois_by_title": [
+        "10.1002/rmv.70022",
+        "10.1002/rmv.70033",
+        "10.1002/rmv.70034",
+        "10.1002/rmv.70035",
+        "10.1002/rmv.70036",
+        "10.1002/rmv.70037",
+        "10.1002/rmv.70038",
+        "10.1002/rmv.70040",
+        "10.1002/rmv.70041",
+        "10.1002/rmv.70042"
+      ],
+      "publisher_doi_directly_resolved": 6,
+      "title_and_doi_matches": [
+        {
+          "doi": "10.1002/rmv.70037",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70037",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70022",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70038",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70038",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70035",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70042",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70042",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70036",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70036",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70034",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70034",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70041",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70041",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70033",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70040",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        }
+      ],
+      "unmatched_toc_titles": [],
+      "database_only_dois": [],
+      "toc_only_dois": [],
+      "publisher_doi_disagreements": [],
+      "verification_status": "matched"
+    },
+    {
+      "year": 2025,
+      "volume": "35",
+      "issue": 4,
+      "toc_url": "https://onlinelibrary.wiley.com/toc/10991654/2025/35/4",
+      "crossref_content_count": 18,
+      "crossref_dois": [
+        "10.1002/rmv.70039",
+        "10.1002/rmv.70043",
+        "10.1002/rmv.70044",
+        "10.1002/rmv.70045",
+        "10.1002/rmv.70047",
+        "10.1002/rmv.70048",
+        "10.1002/rmv.70049",
+        "10.1002/rmv.70050",
+        "10.1002/rmv.70051",
+        "10.1002/rmv.70052",
+        "10.1002/rmv.70053",
+        "10.1002/rmv.70054",
+        "10.1002/rmv.70055",
+        "10.1002/rmv.70056",
+        "10.1002/rmv.70057",
+        "10.1002/rmv.70058",
+        "10.1002/rmv.70062",
+        "10.1002/rmv.70063"
+      ],
+      "toc_status": "readable",
+      "toc_content_count": 18,
+      "verified_dois_by_title": [
+        "10.1002/rmv.70039",
+        "10.1002/rmv.70043",
+        "10.1002/rmv.70044",
+        "10.1002/rmv.70045",
+        "10.1002/rmv.70047",
+        "10.1002/rmv.70048",
+        "10.1002/rmv.70049",
+        "10.1002/rmv.70050",
+        "10.1002/rmv.70051",
+        "10.1002/rmv.70052",
+        "10.1002/rmv.70053",
+        "10.1002/rmv.70054",
+        "10.1002/rmv.70055",
+        "10.1002/rmv.70056",
+        "10.1002/rmv.70057",
+        "10.1002/rmv.70058",
+        "10.1002/rmv.70062",
+        "10.1002/rmv.70063"
+      ],
+      "publisher_doi_directly_resolved": 9,
+      "title_and_doi_matches": [
+        {
+          "doi": "10.1002/rmv.70052",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70052",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70050",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70050",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70051",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70051",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70055",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70055",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70053",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70053",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70054",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70043",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70044",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70044",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70057",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70039",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70056",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70062",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70049",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70063",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70045",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70047",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70047",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70058",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70058",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70048",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70048",
+          "publisher_doi_consistent": true
+        }
+      ],
+      "unmatched_toc_titles": [],
+      "database_only_dois": [],
+      "toc_only_dois": [],
+      "publisher_doi_disagreements": [],
+      "verification_status": "matched"
+    },
+    {
+      "year": 2025,
+      "volume": "35",
+      "issue": 5,
+      "toc_url": "https://onlinelibrary.wiley.com/toc/10991654/2025/35/5",
+      "crossref_content_count": 13,
+      "crossref_dois": [
+        "10.1002/rmv.70046",
+        "10.1002/rmv.70059",
+        "10.1002/rmv.70060",
+        "10.1002/rmv.70061",
+        "10.1002/rmv.70064",
+        "10.1002/rmv.70065",
+        "10.1002/rmv.70066",
+        "10.1002/rmv.70067",
+        "10.1002/rmv.70068",
+        "10.1002/rmv.70069",
+        "10.1002/rmv.70070",
+        "10.1002/rmv.70072",
+        "10.1002/rmv.70073"
+      ],
+      "toc_status": "readable",
+      "toc_content_count": 13,
+      "verified_dois_by_title": [
+        "10.1002/rmv.70046",
+        "10.1002/rmv.70059",
+        "10.1002/rmv.70060",
+        "10.1002/rmv.70061",
+        "10.1002/rmv.70064",
+        "10.1002/rmv.70065",
+        "10.1002/rmv.70066",
+        "10.1002/rmv.70067",
+        "10.1002/rmv.70068",
+        "10.1002/rmv.70069",
+        "10.1002/rmv.70070",
+        "10.1002/rmv.70072",
+        "10.1002/rmv.70073"
+      ],
+      "publisher_doi_directly_resolved": 6,
+      "title_and_doi_matches": [
+        {
+          "doi": "10.1002/rmv.70061",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70067",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70072",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70072",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70064",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70068",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70046",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70069",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70065",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70065",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70073",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70073",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70059",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70059",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70066",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70066",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70060",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70070",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70070",
+          "publisher_doi_consistent": true
+        }
+      ],
+      "unmatched_toc_titles": [],
+      "database_only_dois": [],
+      "toc_only_dois": [],
+      "publisher_doi_disagreements": [],
+      "verification_status": "matched"
+    },
+    {
+      "year": 2025,
+      "volume": "35",
+      "issue": 6,
+      "toc_url": "https://onlinelibrary.wiley.com/toc/10991654/2025/35/6",
+      "crossref_content_count": 9,
+      "crossref_dois": [
+        "10.1002/rmv.70071",
+        "10.1002/rmv.70074",
+        "10.1002/rmv.70075",
+        "10.1002/rmv.70076",
+        "10.1002/rmv.70077",
+        "10.1002/rmv.70078",
+        "10.1002/rmv.70079",
+        "10.1002/rmv.70080",
+        "10.1002/rmv.70081"
+      ],
+      "toc_status": "readable",
+      "toc_content_count": 9,
+      "verified_dois_by_title": [
+        "10.1002/rmv.70071",
+        "10.1002/rmv.70074",
+        "10.1002/rmv.70075",
+        "10.1002/rmv.70076",
+        "10.1002/rmv.70077",
+        "10.1002/rmv.70078",
+        "10.1002/rmv.70079",
+        "10.1002/rmv.70080",
+        "10.1002/rmv.70081"
+      ],
+      "publisher_doi_directly_resolved": 6,
+      "title_and_doi_matches": [
+        {
+          "doi": "10.1002/rmv.70074",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70081",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70080",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70080",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70071",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70071",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70079",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": null,
+          "publisher_doi_consistent": null
+        },
+        {
+          "doi": "10.1002/rmv.70078",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70078",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70077",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70077",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70076",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70076",
+          "publisher_doi_consistent": true
+        },
+        {
+          "doi": "10.1002/rmv.70075",
+          "match": "normalized_title_exact",
+          "publisher_link_doi": "10.1002/rmv.70075",
+          "publisher_doi_consistent": true
+        }
+      ],
+      "unmatched_toc_titles": [],
+      "database_only_dois": [],
+      "toc_only_dois": [],
+      "publisher_doi_disagreements": [],
+      "verification_status": "matched"
+    }
+  ]
+}

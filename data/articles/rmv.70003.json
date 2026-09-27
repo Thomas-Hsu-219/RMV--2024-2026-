@@ -1,0 +1,82 @@
+{
+  "doi": "10.1002/rmv.70003",
+  "title": "An Overview on Disease Burden and Management of Respiratory Syncytial Virus Infections in Older Adults in the Asia‐Pacific Region",
+  "crossref_title": "An Overview on Disease Burden and Management of Respiratory Syncytial Virus Infections in Older Adults in the Asia‐Pacific Region",
+  "abstract": "Respiratory syncytial virus (RSV) represents a significant burden on older adults (aged ≥ 50 years) globally and can lead to acute respiratory tract infections with substantial morbidity and mortality. However, there is a significant gap in knowledge regarding RSV infection in older adults, particularly in the Asia-Pacific region. This knowledge gap underscores the need for targeted and comprehensive studies to fully understand the nuanced epidemiology of RSV in ageing populations. This review synthesises data from various countries, emphasising the impact of RSV on older populations in the Asia-Pacific region. The overall proportions of RSV-related ARIs among older patients ranged from 0.2% to 5.6%. Among older adult patients with CAP, RSV accounted for 1.1%-10.3% of cases. However, it is crucial to note that the diversity in reported percentages highlights the influence of factors such as geographic location, health care settings and diagnostic practices. The most common symptoms observed in older adults with RSV infection were cough, sputum production and fever, followed by dyspnoea, sore throat and rhinorrhoea. Most of the old adults with RSV infection had underlying diseases, and RSV can cause significant morbidity and mortality in old adults. Treatment of RSV infections predominantly involve supportive care, with aerosolised ribavirin reserved for severe cases, especially immunocompromised patients. Emerging antiviral agents, including fusion and nucleoprotein inhibitors, offer promising avenues for future therapeutics. The recent approval of the bivalent RSV prefusion F protein-based vaccine for individuals aged 60 and older represents a milestone in preventive strategies. In conclusion, RSV infection remains a significant threat to older adults in the Asia-Pacific region, necessitating ongoing research and surveillance efforts. The recent vaccine approval marks a positive milestone, but further studies are crucial for refining prevention and treatment approaches.",
+  "keywords": [
+    "Asia‐Pacific",
+    "epidemiology",
+    "older adults",
+    "respiratory syncytial virus",
+    "treatment",
+    "vaccine"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "6",
+  "published_online": "2024-11-12",
+  "published_print": "2024-11",
+  "online_year": 2024,
+  "pmid": "39532704",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Chih‐Cheng",
+      "family": "Lai",
+      "orcid": "https://orcid.org/0000-0002-6334-2388"
+    },
+    {
+      "given": "Po‐Ren",
+      "family": "Hsueh",
+      "orcid": "https://orcid.org/0000-0002-7502-9225"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Respiratory Syncytial Virus, Human",
+    "Respiratory Syncytial Virus Infections",
+    "Antiviral Agents",
+    "Cost of Illness",
+    "Aged",
+    "Aged, 80 and over",
+    "Middle Aged",
+    "Disease Management",
+    "Asia",
+    "Pacific Islands"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70003",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70003",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39532704/",
+    "europe_pmc": "https://europepmc.org/article/MED/39532704"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

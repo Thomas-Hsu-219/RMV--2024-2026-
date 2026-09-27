@@ -1,0 +1,89 @@
+{
+  "doi": "10.1002/rmv.70127",
+  "title": "Langat Virus Biology and Infection",
+  "crossref_title": "Langat Virus Biology and Infection",
+  "abstract": "Flaviviruses pose a major threat to global health and can cause severe disease in animals and humans. Among them, tick-borne encephalitis virus (TBEV) and related members of the tick-borne encephalitis (TBE) serocomplex are transmitted primarily by ticks and can lead to neurological disease, including encephalitis and death. Despite many years of research on the TBE-serocomplex, no specific antiviral treatment has been developed. Langat virus (LGTV), another member of this serocomplex typically causes asymptomatic infections in humans, but may cause severe neurological disease in rare cases. Moreover, experimentally LGTV-infected mice and monkeys show neurological symptoms. While viruses of the TBE-serocomplex are canonically transmitted by ticks, tick-independent transmission of LGTV has been reported in mice, suggesting a broader transmission potential. Notably, the full host range, vector competence and global distribution of LGTV remain poorly defined, and climate change-driven expansion of tick vectors may enable the emergence of this virus in new regions. In this review, we summarise our current knowledge of LGTV, focussing on vector competence, transmission routes, tissue and host tropism, pathogenicity and animal models. Furthermore, we discuss the potential application of LGTV as a vaccine candidate for TBEV. By highlighting the unique features of LGTV and identifying current research gaps, we aim to inspire interest in this understudied virus and its value as a tool to uncover fundamental aspects of tick-borne flavivirus biology and strategies for vaccine development.",
+  "keywords": [
+    "TBEV vaccine",
+    "flavivirus",
+    "langat virus",
+    "tick‐borne encephalitis"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-09",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41804201",
+  "pmcid": "PMC12972639",
+  "authors": [
+    {
+      "given": "Zinaida",
+      "family": "Klestova",
+      "orcid": "https://orcid.org/0000-0003-0771-7808"
+    },
+    {
+      "given": "Daniel",
+      "family": "Sauter",
+      "orcid": "https://orcid.org/0000-0001-7665-0040"
+    },
+    {
+      "given": "Michael",
+      "family": "Schindler",
+      "orcid": "https://orcid.org/0000-0001-8989-5813"
+    },
+    {
+      "given": "Thomas",
+      "family": "Iftner",
+      "orcid": "https://orcid.org/0000-0002-5929-7078"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Mice",
+    "Ticks",
+    "Encephalitis Viruses, Tick-Borne",
+    "Encephalitis, Tick-Borne",
+    "Disease Models, Animal",
+    "Viral Vaccines",
+    "Host Specificity",
+    "Host Tropism"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70127",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70127",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41804201/",
+    "europe_pmc": "https://europepmc.org/article/MED/41804201"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

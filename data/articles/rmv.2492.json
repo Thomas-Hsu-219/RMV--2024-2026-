@@ -1,0 +1,87 @@
+{
+  "doi": "10.1002/rmv.2492",
+  "title": "Comparable performance of antigen‐detecting rapid test by healthcare worker‐collected and self‐collected swabs for SARS‐CoV‐2 diagnostic: A systematic review and meta‐analysis",
+  "crossref_title": "Comparable performance of antigen‐detecting rapid test by healthcare worker‐collected and self‐collected swabs for SARS‐CoV‐2 diagnostic: A systematic review and meta‐analysis",
+  "abstract": "Usage of self-screening tests has become increasingly relevant in public health perspective for early detection of SARS-CoV-2 infection in the transitioning era of the COVID-19 pandemic into an endemic. This study was designed to compare the diagnostic accuracy of self-conducted and health professional-conducted SARS-CoV-2 rapid antigen tests (Ag-RDTs) and whether the sample was taken from anterior nasal or nasal mid-turbinate. Eligible comparative Ag-RDTs accuracy studies were retrieved from electronic databases systematically, in accordance with PRISMA. Selected studies were assessed for risk of bias using QUADAS-2 and QUADAS-C. In total, we selected five out of 1952 studies retrieved using the keywords. The overall sensitivity for the self-collected nasal swab method and healthcare worker-collected nasopharyngeal swab method was 79% (95% CI 68-87; I2  = 62%) and 83% (95% CI 75-89; I2  = 32%), respectively, which was not statistically different (p = 0.499). Nasal mid-turbinate swabs have a significantly higher sensitivity compared to anterior nasal swabs (p < 0.01). Both sampling methods represent high and comparable specificity values of 98% (95% CI 97-99; I2  = 0%) and 99% (95% CI 98-99; I2  = 0%). Positive predictive value (range 90%-99%) and negative predictive value (range 87%-98%) were equivalent for both methods. Our findings indicated the accuracy of self-collected Ag-RDT on nasal swabs was comparable to those performed by healthcare worker-collected on nasopharyngeal swabs. Self-collected Ag-RDT could be considered as a transmission prevention method in the transition of COVID-19 pandemic.",
+  "keywords": [
+    "COVID-19",
+    "nasal swabs",
+    "nasopharyngeal swabs",
+    "point-of-care testing",
+    "rapid diagnostic test",
+    "self-testing"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-11-21",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "37989714",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Samuel Johnson",
+      "family": "Kurniawan",
+      "orcid": "https://orcid.org/0000-0002-0231-3209"
+    },
+    {
+      "given": "Maria Mardalena Martini",
+      "family": "Kaisar",
+      "orcid": null
+    },
+    {
+      "given": "Helen",
+      "family": "Kristin",
+      "orcid": "https://orcid.org/0009-0003-8912-0278"
+    },
+    {
+      "given": "Soegianto",
+      "family": "Ali",
+      "orcid": "https://orcid.org/0000-0002-9972-8696"
+    }
+  ],
+  "publication_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Antigens, Viral",
+    "Health Personnel",
+    "Pandemics",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2492",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2492",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/37989714/",
+    "europe_pmc": "https://europepmc.org/article/MED/37989714"
+  },
+  "copyright_statement": "© 2023 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,84 @@
+{
+  "doi": "10.1002/rmv.70177",
+  "title": "Kyasanur Forest Disease: Advances in Experimental Animal Models, Immune Assays, and Challenges in Vaccine Development",
+  "crossref_title": "Kyasanur Forest Disease: Advances in Experimental Animal Models, Immune Assays, and Challenges in Vaccine Development",
+  "abstract": "Kyasanur Forest Disease (KFD) is a tick-borne viral haemorrhagic fever endemic to forested regions of South India, with case fatality rates ranging from 3% to 10% and seasonal outbreaks causing recurrent illness among at-risk populations such as forest workers and villagers. The historically used formalin-inactivated KFD vaccine showed limited effectiveness in field studies, providing only about 62% protection. This moderate level of protection highlights the need for improved vaccines that offer higher efficacy and longer-lasting immunity for populations living in endemic areas. A major challenge in vaccine development is the limited understanding of immune responses that protect against KFD, along with the lack of preclinical models that fully reflect the disease as it occurs in humans. Existing animal models-including murine systems and limited non-human primate studies -have contributed to understanding viral replication, lethality, viraemia kinetics, and basic immunological responses. However, murine models often fail to reproduce the full spectrum of human immunopathology, particularly haemorrhagic manifestations and complex host immune responses, while non-human primate models remain limited by cost, accessibility, and incomplete characterisation. Furthermore, variability in experimental endpoints and the absence of standardized immunogenicity and neutralisation assays restrict cross-study comparability and hinder identification of immune correlates of protection. This review critically synthesises current knowledge on KFD animal models and host immune responses, identifying key gaps in translational relevance. We propose a prioritised roadmap that includes: (i) development and validation of advanced preclinical models that better mimic human disease progression and immune dysregulation; (ii) systematic identification of serological and cellular correlates of protection; and (iii) standardisation of virological, serological, and immunological assays to support regulatory evaluation and vaccine benchmarking. Addressing these challenges through coordinated interdisciplinary efforts will accelerate the development of next-generation KFD vaccines and therapeutics tailored to endemic populations.",
+  "keywords": [
+    "animal model",
+    "immunological assays",
+    "kyasanur forest disease (KFD)",
+    "therapeutics",
+    "vaccines"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-06-18",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42314066",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Sahina",
+      "family": "Sidhik",
+      "orcid": null
+    },
+    {
+      "given": "Zaigham Abbas",
+      "family": "Rizvi",
+      "orcid": "https://orcid.org/0000-0001-7850-5672"
+    },
+    {
+      "given": "Amit",
+      "family": "Awasthi",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Encephalitis Viruses, Tick-Borne",
+    "Kyasanur Forest Disease",
+    "Disease Models, Animal",
+    "Viral Vaccines",
+    "Immunologic Tests",
+    "India",
+    "Vaccine Development"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70177",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70177",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42314066/",
+    "europe_pmc": "https://europepmc.org/article/MED/42314066"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

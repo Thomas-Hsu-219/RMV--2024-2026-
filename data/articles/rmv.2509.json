@@ -1,0 +1,134 @@
+{
+  "doi": "10.1002/rmv.2509",
+  "title": "Prevalence and outcomes of upper gastrointestinal bleeding in COVID‐19: A systematic review and meta‐analysis",
+  "crossref_title": "Prevalence and outcomes of upper gastrointestinal bleeding in COVID‐19: A systematic review and meta‐analysis",
+  "abstract": "Upper gastrointestinal bleeding (UGIB) in COVID-19 presents challenges in patient management. Existing studies lack comprehensive review due to varied designs, samples, and demographics. A meta-analysis can provide valuable insights into the incidence, features, and outcomes of UGIB in COVID-19. A comprehensive literature search was carried out using several databases. We considered all appropriate observational studies from all over the world. Mantel-Haenszel odds ratios and associated 95% confidence intervals (CIs) were produced to report the overall effect size using random effect models. Besides, Random effects models were used to calculate the overall pooled prevalence. Funnel plots, Egger regression tests, and Begg-Mazumdar's rank correlation test were used to appraise publication bias. Data from 21 articles consisting of 26,933 COVID-19 patients were considered. The pooled estimate of UGIB prevalence in patients admitted with COVID-19 across studies was 2.10% (95% CI, 1.23-3.13). Similarly, the overall pooled estimate for severity, mortality, and rebleeding in COVID-19 patients with UGIB was 55% (95% CI, 37.01-72.68), 29% (95% CI, 19.26-40.20) and 12.7% (95% CI, 7.88-18.42) respectively. Further, UGIB in COVID-19 patients was associated with increased odds of severity (OR = 3.52, 95% CI 1.80-6.88, P = 0.001) and mortality (OR = 2.16, 95% CI 1.33-3.51, P = 0.002) compared with patients without UGIB. No significant publication bias was evident in the meta-analysis. The results of our study indicate that UGIB in individuals with COVID-19 is linked to negative outcomes such as severe illness, higher mortality rates, and an increased risk of re-bleeding. These findings highlight the significance of identifying UGIB as a significant complication in COVID-19 cases and emphasise the importance of timely clinical assessment and proper treatment.",
+  "keywords": [
+    "COVID-19",
+    "ICU admission",
+    "SARS-CoV-2",
+    "haematemesis",
+    "hospitalisation",
+    "mortality",
+    "re-bleeding",
+    "upper gastrointestinal bleeding"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01-04",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282392",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Sawai Singh",
+      "family": "Rathore",
+      "orcid": "https://orcid.org/0000-0003-1954-094X"
+    },
+    {
+      "given": "Zario Shai",
+      "family": "Wint",
+      "orcid": null
+    },
+    {
+      "given": "Aman",
+      "family": "Goyal",
+      "orcid": "https://orcid.org/0000-0001-8062-5657"
+    },
+    {
+      "given": "Bijay Mukesh",
+      "family": "Jeswani",
+      "orcid": null
+    },
+    {
+      "given": "Ameer Mustafa",
+      "family": "Farrukh",
+      "orcid": "https://orcid.org/0009-0005-3586-7362"
+    },
+    {
+      "given": "María Alejandra",
+      "family": "Nieto‐Salazar",
+      "orcid": "https://orcid.org/0000-0003-0574-532X"
+    },
+    {
+      "given": "Thanmai Reddy",
+      "family": "Thugu",
+      "orcid": null
+    },
+    {
+      "given": "Snigdha",
+      "family": "Erva",
+      "orcid": null
+    },
+    {
+      "given": "Raafay",
+      "family": "Mehmood",
+      "orcid": null
+    },
+    {
+      "given": "Adriana Carolina",
+      "family": "Toro‐velandia",
+      "orcid": null
+    },
+    {
+      "given": "Hamam",
+      "family": "Aneis",
+      "orcid": null
+    },
+    {
+      "given": "Sunny",
+      "family": "Ratnani",
+      "orcid": null
+    },
+    {
+      "given": "Ibrahim Marouf Yasin",
+      "family": "Al Shyyab",
+      "orcid": "https://orcid.org/0009-0006-5925-6125"
+    }
+  ],
+  "publication_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Gastrointestinal Hemorrhage",
+    "Hospitalization",
+    "Incidence",
+    "Prevalence",
+    "COVID-19"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2509",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2509",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282392/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282392"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

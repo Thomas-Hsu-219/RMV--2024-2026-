@@ -1,0 +1,100 @@
+{
+  "doi": "10.1002/rmv.2520",
+  "title": "A comprehensive review of Langya virus and framework for future zoonotic disease control",
+  "crossref_title": "A comprehensive review of Langya virus and framework for future zoonotic disease control",
+  "abstract": "First reported in August 2022, the Langya virus (LayV) has emerged as a potential global health threat in the post-COVID-19 era. Preliminary reports show that 35 patients near Shandong and Henan, China experienced a febrile acute LayV infection. We conducted this review following the PRISMA protocol to synthesise current knowledge on LayV's characteristics in terms of molecular, clinical, and public health perspectives. This virus belongs to the Paramyxoviridae family and carries a non-segmented, single-stranded negative-sense RNA genome. Shrews may be the natural reservoir of the virus. Clinical symptoms range from mild flu-like symptoms to severe manifestations involving pneumonia, haematological disorders, and organ dysfunction. Diagnostic methods include PCR and ELISA assays. Despite the absence of established treatments, antiviral drugs such as ribavirin and chloroquine may be useful in some cases. In light of prevention, a comprehensive approach that emphasises multidisciplinary collaboration is crucial for early surveillance and response. Urgent global efforts are needed for vaccine development and preparedness against this potential pandemic threat. As the viral dynamics remain uncertain, a proactive approach is vital to mitigate the impact of not only LayV but also future threats on a large scale in long term.",
+  "keywords": [
+    "emerging diseases",
+    "henipavirus",
+    "langya virus",
+    "zoonotic diseases"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01-22",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282399",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Dang Huu",
+      "family": "Thien",
+      "orcid": "https://orcid.org/0000-0002-0435-6974"
+    },
+    {
+      "given": "Hoang Bao",
+      "family": "Tran",
+      "orcid": "https://orcid.org/0000-0002-2137-797X"
+    },
+    {
+      "given": "Nguyen Ngoc Phuong",
+      "family": "Uyen",
+      "orcid": "https://orcid.org/0009-0004-1861-7700"
+    },
+    {
+      "given": "Huynh Lai Phuong",
+      "family": "Thao",
+      "orcid": "https://orcid.org/0000-0003-4590-8189"
+    },
+    {
+      "given": "Huynh Thi My",
+      "family": "Tam",
+      "orcid": "https://orcid.org/0000-0002-2045-1138"
+    },
+    {
+      "given": "Nguyen Khoi",
+      "family": "Quan",
+      "orcid": "https://orcid.org/0000-0002-3222-0978"
+    },
+    {
+      "given": "Nguyen Tien",
+      "family": "Huy",
+      "orcid": "https://orcid.org/0000-0002-9543-9440"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Henipavirus",
+    "Zoonoses",
+    "Antiviral Agents",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2520",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2520",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282399/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282399"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

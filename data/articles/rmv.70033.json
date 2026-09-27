@@ -1,0 +1,88 @@
+{
+  "doi": "10.1002/rmv.70033",
+  "title": "Arbovirus Infections and Epigenetic Mechanisms; a Potential Therapeutic Target",
+  "crossref_title": "Arbovirus Infections and Epigenetic Mechanisms; a Potential Therapeutic Target",
+  "abstract": "Arboviruses are a group of arthropod-borne viral pathogens that pose a significant threat to the public health system. The clinical manifestations associated with these viruses range from self-limiting infections to life-threatening disorders. As a group of systemic viral infections, arboviruses can affect various parts of human organ systems, such as the nervous system. In the nervous system, epigenetic mechanisms are involved in various mechanisms including adult neurogenesis, neuronal-glial differentiation, the regulation of neural behaviour and neural plasticity, as well as other brain functions such as memory, and cognition. Hence, epigenetic deregulation is a key factor in the aetiology of different neurological disorders that highlights the importance of studying the underlying mechanisms and risk factors to introduce effective therapeutic approaches. There is mounting evidence that arboviruses that affect the nervous system take advantage of various mechanisms to modulate epigenetic processes to regulate their life cycles. This phenomenon may affect the nervous system leading to neurotropic arboviral infection-associated neurological disorders. Hence, it is important to understand reciprocal interplays between neurotropic arboviral pathogens and epigenetic processes to better control these disorders. The present review provides an overview of different interactions of arboviruses with epigenetic mechanisms during neurotropic arboviral infections. It uniquely focuses on the interplay between epigenetic modifications and arboviral neurotropism, shedding light on potential therapeutic strategies that have not been comprehensively addressed before. Targeting virus-induced epigenetic alterations, such as miRNA regulation, could lead to novel antiviral therapies aimed at mitigating neuroinflammation and disease severity.",
+  "keywords": [
+    "arboviruses",
+    "epigenetic modifications",
+    "nervous system"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "3",
+  "published_online": "2025-03-28",
+  "published_print": "2025-05",
+  "online_year": 2025,
+  "pmid": "40155348",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Manhong",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Kexin",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Dan",
+      "family": "Guo",
+      "orcid": null
+    },
+    {
+      "given": "Youjia",
+      "family": "Lv",
+      "orcid": null
+    },
+    {
+      "given": "Xin",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0009-0008-0880-8908"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Arboviruses",
+    "Arbovirus Infections",
+    "Epigenesis, Genetic",
+    "Host-Pathogen Interactions"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70033",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70033",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40155348/",
+    "europe_pmc": "https://europepmc.org/article/MED/40155348"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,72 @@
+{
+  "doi": "10.1002/rmv.70076",
+  "title": "Beyond the Viroporin: The Envelope Protein as a Therapeutic Target in Viral Immunomodulation",
+  "crossref_title": "Beyond the Viroporin: The Envelope Protein as a Therapeutic Target in Viral Immunomodulation",
+  "abstract": "In their comprehensive review, Shekhar et al. (Rev Med Virol. 2025; 35:e70067) provide a valuable synthesis of the viral envelope (E) protein's role in subverting innate immunity and its potential as a pharmacological target. While we commend this timely work, our letter offers a critical perspective on the translational challenges and complexities that warrant deeper consideration. We argue that the context-dependent functionality of the E protein-wherein its immunomodulatory effects vary with infection stage, cell type, and viral load-poses a significant hurdle for therapeutic intervention, potentially limiting the efficacy of direct viroporin inhibitors. Furthermore, we highlight emerging mechanisms beyond those extensively covered, such as the E protein's role in inducing ER stress-mediated cellular dysfunction and its newly discovered capacity to degrade STAT2 via selective autophagy, thereby broadly suppressing interferon signaling. The structural intractability of the small, oligomeric E protein to conventional small-molecule drugs is another substantial barrier, shifting the focus towards host-directed therapies. Finally, we critically examine the evolutionary dynamics of this conserved target, emphasizing the need for combination strategies to preempt resistance. This critique aims to refine the roadmap for future research by underscoring the necessity for a nuanced, mechanism-driven, and translationally-aware approach to targeting the E protein.",
+  "keywords": [],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "6",
+  "published_online": "2025-10-30",
+  "published_print": "2025-11",
+  "online_year": 2025,
+  "pmid": "41163538",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "DuJiang",
+      "family": "Yang",
+      "orcid": null
+    },
+    {
+      "given": "GuoYou",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0000-0003-0027-0572"
+    }
+  ],
+  "publication_types": [
+    "Letter",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Virus Diseases",
+    "Viral Envelope Proteins",
+    "Antiviral Agents",
+    "Autophagy",
+    "Review Literature as Topic",
+    "Immunity, Innate",
+    "Immunomodulation"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70076",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70076",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41163538/",
+    "europe_pmc": "https://europepmc.org/article/MED/41163538"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

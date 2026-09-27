@@ -1,0 +1,86 @@
+{
+  "doi": "10.1002/rmv.2538",
+  "title": "Serious neurological adverse events in immunocompetent children and adolescents caused by viral reactivation in the years following varicella vaccination",
+  "crossref_title": "Serious neurological adverse events in immunocompetent children and adolescents caused by viral reactivation in the years following varicella vaccination",
+  "abstract": "Serious adverse events following vaccination include medical complications that require hospitalisation. The live varicella vaccine that was approved by the Food and Drug Administration in the United States in 1995 has an excellent safety record. Since the vaccine is a live virus, adverse events are more common in immunocompromised children who are vaccinated inadvertently. This review includes only serious adverse events in children considered to be immunocompetent. The serious adverse event called varicella vaccine meningitis was first reported in a hospitalised immunocompetent child in 2008. When we carried out a literature search, we found 15 cases of immunocompetent children and adolescents with varicella vaccine meningitis; the median age was 11 years. Eight of the children had received two varicella vaccinations. Most of the children also had a concomitant herpes zoster rash, although three did not. The children lived in the United States, Greece, Germany, Switzerland, and Japan. During our literature search, we found five additional cases of serious neurological events in immunocompetent children; these included 4 cases of progressive herpes zoster and one case of acute retinitis. Pulses of enteral corticosteroids as well as a lack of herpes simplex virus antibody may be risk factors for reactivation in immunocompetent children. All 20 children with adverse events were treated with acyclovir and recovered; 19 were hospitalised and one child was managed as an outpatient. Even though the number of neurological adverse events remains exceedingly low following varicella vaccination, we recommend documentation of those caused by the vaccine virus.",
+  "keywords": [
+    "aseptic meningitis",
+    "herpes simplex virus",
+    "herpes zoster",
+    "metagenomic next generation sequencing",
+    "retinal necrosis",
+    "vaccines",
+    "varicella‐zoster virus"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-04-24",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38658176",
+  "pmcid": "PMC11170866",
+  "authors": [
+    {
+      "given": "Prashanth",
+      "family": "Ramachandran",
+      "orcid": null
+    },
+    {
+      "given": "Charles",
+      "family": "Grose",
+      "orcid": "https://orcid.org/0000-0001-6884-6668"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Herpesvirus 3, Human",
+    "Meningitis, Viral",
+    "Chickenpox",
+    "Nervous System Diseases",
+    "Acyclovir",
+    "Chickenpox Vaccine",
+    "Antiviral Agents",
+    "Vaccination",
+    "Virus Activation",
+    "Adolescent",
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Male"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2538",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2538",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38658176/",
+    "europe_pmc": "https://europepmc.org/article/MED/38658176"
+  },
+  "copyright_statement": "© 2024 The Authors. Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

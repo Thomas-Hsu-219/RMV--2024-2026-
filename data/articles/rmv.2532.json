@@ -1,0 +1,130 @@
+{
+  "doi": "10.1002/rmv.2532",
+  "title": "Association between cytomegalovirus infection and neurological disorders: A systematic review",
+  "crossref_title": "Association between cytomegalovirus infection and neurological disorders: A systematic review",
+  "abstract": "Cytomegalovirus (CMV) belongs to the Herpesviridae family and is also known as human herpesvirus type 5. It is a common virus that usually doesn't cause any symptoms in healthy individuals. However, once infected, the virus remains in the host's body for life and can reactivate when the host's immune system weakens. This virus has been linked to several neurological disorders, including Alzheimer's disease, Parkinson's disease, Autism spectrum disorder, Huntington's disease (HD), ataxia, Bell's palsy (BP), and brain tumours, which can cause a wide range of symptoms and challenges for those affected. CMV may influence inflammation, contribute to brain tissue damage, and elevate the risk of moderate-to-severe dementia. Multiple studies suggest a potential association between CMV and ataxia in various conditions, including Guillain-Barré syndrome, chronic inflammatory demyelinating polyneuropathy, acute cerebellitis, etc. On the other hand, the evidence regarding CMV involvement in BP is conflicting, and also early indications of a link between CMV and HD were challenged by subsequent research disproving CMV's presence. This systematic review aims to comprehensively investigate any link between the pathogenesis of CMV and its potential role in neurological disorders and follows the preferred reporting items for systematic review and meta-analysis checklist. Despite significant research into the potential links between CMV infection and various neurological disorders, the direct cause-effect relationship is not fully understood and several gaps in knowledge persist. Therefore, continued research is necessary to gain a better understanding of the role of CMV in neurological disorders and potential treatment avenues.",
+  "keywords": [
+    "Alzheimer",
+    "CMV",
+    "Huntington",
+    "Parkinson",
+    "autism spectrum disorder",
+    "cytomegalovirus"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-03-28",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38549138",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Samira",
+      "family": "Sanami",
+      "orcid": null
+    },
+    {
+      "given": "Shahnam",
+      "family": "Shamsabadi",
+      "orcid": "https://orcid.org/0000-0003-4489-6059"
+    },
+    {
+      "given": "Amir",
+      "family": "Dayhimi",
+      "orcid": null
+    },
+    {
+      "given": "Mohammad",
+      "family": "Pirhayati",
+      "orcid": null
+    },
+    {
+      "given": "Sajjad",
+      "family": "Ahmad",
+      "orcid": null
+    },
+    {
+      "given": "Ahmadreza",
+      "family": "Pirhayati",
+      "orcid": null
+    },
+    {
+      "given": "Marjan",
+      "family": "Ajami",
+      "orcid": null
+    },
+    {
+      "given": "Sara",
+      "family": "Hemati",
+      "orcid": null
+    },
+    {
+      "given": "Masoud",
+      "family": "Shirvani",
+      "orcid": null
+    },
+    {
+      "given": "Ahmad",
+      "family": "Alagha",
+      "orcid": null
+    },
+    {
+      "given": "Davood",
+      "family": "Abbarin",
+      "orcid": null
+    },
+    {
+      "given": "Akram",
+      "family": "Alizadeh",
+      "orcid": "https://orcid.org/0000-0001-7422-3002"
+    },
+    {
+      "given": "Hamidreza",
+      "family": "Pazoki‐Toroudi",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Nervous System Diseases"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2532",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2532",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38549138/",
+    "europe_pmc": "https://europepmc.org/article/MED/38549138"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

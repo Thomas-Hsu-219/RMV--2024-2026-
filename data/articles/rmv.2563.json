@@ -1,0 +1,93 @@
+{
+  "doi": "10.1002/rmv.2563",
+  "title": "Human immunodeficiency virus infection challenges: Current therapeutic limitations and strategies for improved management through long‐acting injectable formulation",
+  "crossref_title": "Human immunodeficiency virus infection challenges: Current therapeutic limitations and strategies for improved management through long‐acting injectable formulation",
+  "abstract": "HIV infection has been a severe global health burden, with millions living with the virus and continuing new infections each year. Antiretroviral therapy can effectively suppress HIV replication but requires strict lifelong adherence to daily oral medication regimens, which presents a significant challenge. Long-acting formulations of antiretroviral drugs administered infrequently have emerged as a promising strategy to improve treatment outcomes and adherence to HIV therapy and prevention. Long-acting injectable (LAI) formulations are designed to gradually release drugs over extended periods of weeks or months following a single injection. Critical advantages of LAIs over conventional oral dosage forms include less frequent dosing requirements, enhanced patient privacy, reduced stigma associated with daily pill regimens, and optimised pharmacokinetic/pharmacodynamic profiles. Several LAI antiretroviral products have recently gained regulatory approval, such as the integrase strand transfer inhibitor cabotegravir for HIV preexposure prophylaxis and the Cabotegravir/Rilpivirine combination for HIV treatment. A leading approach for developing long-acting antiretroviral depots involves encapsulating drug compounds in polymeric microspheres composed of biocompatible, biodegradable materials like poly (lactic-co-glycolic acid). These injectable depot formulations enable high drug loading with customisable extended-release kinetics controlled by the polymeric matrix. Compared to daily oral therapies, LAI antiretroviral formulations leveraging biodegradable polymeric microspheres offer notable benefits, including prolonged therapeutic effects, reduced dosing frequency for improved adherence, and the potential to kerb the initial HIV transmission event. The present manuscript aims to review the pathogenesis of the virus and its progression and propose therapeutic targets and long-acting drug delivery strategies that hold substantial promise for enhancing outcomes in HIV treatment and prevention.",
+  "keywords": [
+    "AIDS",
+    "HIV",
+    "anti‐ HIV",
+    "long‐acting injections",
+    "polymeric microspheres"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-17",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38886179",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "",
+      "family": "Tanushree",
+      "orcid": null
+    },
+    {
+      "given": "Aman",
+      "family": "Sharma",
+      "orcid": null
+    },
+    {
+      "given": "",
+      "family": "Monika",
+      "orcid": null
+    },
+    {
+      "given": "Rahul Pratap",
+      "family": "Singh",
+      "orcid": null
+    },
+    {
+      "given": "Vikas",
+      "family": "Jhawat",
+      "orcid": "https://orcid.org/0000-0002-5106-9636"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "HIV Infections",
+    "Pyridones",
+    "Delayed-Action Preparations",
+    "Anti-HIV Agents",
+    "Injections",
+    "Drug Compounding",
+    "Diketopiperazines",
+    "Medication Adherence"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2563",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2563",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38886179/",
+    "europe_pmc": "https://europepmc.org/article/MED/38886179"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

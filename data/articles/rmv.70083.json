@@ -1,0 +1,97 @@
+{
+  "doi": "10.1002/rmv.70083",
+  "title": "Immune Evasion Mechanisms of Neurotropic Dengue Virus",
+  "crossref_title": "Immune Evasion Mechanisms of Neurotropic Dengue Virus",
+  "abstract": "Dengue virus (DENV) is an important human pathogen that infects millions of people each year and can cause diseases such as dengue haemorrhagic fever and dengue shock syndrome. Despite the efforts of the immune system to control the innate and adaptive immune responses to the virus, DENV escapes from immune responses using complex and multiple mechanisms. In certain cases, these immune evasion strategies may also contribute to the neurotropic potential of DENV, facilitating its ability to invade or affect CNS. This narrative review summarises the current knowledge by focusing on major immune evasion pathways of dengue virus at three levels of innate, adaptive and effector mechanisms, including inhibition of interferon production, disruption of immunological signalling pathways, regulation of proliferation proteins and inhibition of effector cells. The aim of this review is to collect, compare and describe all the ways in which this virus evades immunity, which will help identify knowledge gaps for future research and subsequently guide the development of effective vaccines and therapeutics.",
+  "keywords": [
+    "adaptive immunity",
+    "dengue virus",
+    "effector mechanisms",
+    "immune evasion",
+    "innate immunity",
+    "neurotropism",
+    "viral pathogenesis"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2025-12-13",
+  "published_print": "2026-01",
+  "online_year": 2025,
+  "pmid": "41389142",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Ahmed M.",
+      "family": "Basri",
+      "orcid": null
+    },
+    {
+      "given": "Mona M.",
+      "family": "Almramhi",
+      "orcid": null
+    },
+    {
+      "given": "Wajnat A.",
+      "family": "Tounsi",
+      "orcid": null
+    },
+    {
+      "given": "Ammar A.",
+      "family": "Basabrain",
+      "orcid": null
+    },
+    {
+      "given": "Amany I.",
+      "family": "Almars",
+      "orcid": "https://orcid.org/0000-0001-5302-6309"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Dengue Virus",
+    "Dengue",
+    "Signal Transduction",
+    "Host-Pathogen Interactions",
+    "Immunity, Innate",
+    "Adaptive Immunity",
+    "Immune Evasion"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70083",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70083",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41389142/",
+    "europe_pmc": "https://europepmc.org/article/MED/41389142"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

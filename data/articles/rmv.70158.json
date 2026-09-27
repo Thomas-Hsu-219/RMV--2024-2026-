@@ -1,0 +1,142 @@
+{
+  "doi": "10.1002/rmv.70158",
+  "title": "Comparative Effectiveness of High‐Dose and Standard‐Dose Influenza Vaccines for Hospitalisation and Mortality in Adults Aged 65 and Older: An Updated Systematic Review and Meta‐Analysis",
+  "crossref_title": "Comparative Effectiveness of High‐Dose and Standard‐Dose Influenza Vaccines for Hospitalisation and Mortality in Adults Aged 65 and Older: An Updated Systematic Review and Meta‐Analysis",
+  "abstract": "This updated systematic review and meta-analysis evaluated the relative vaccine effectiveness (rVE) of high-dose inactivated influenza vaccine (HD-IV) versus standard-dose (SD-IV) in adults ≥ 65 years for key clinical outcomes, including hospitalisations and mortality. Conducted in accordance with PRISMA guidelines, PubMed, Embase, and the Cochrane Library were searched for randomised controlled trials. Primary outcomes were pneumonia and influenza (P&I) hospitalisation, all-cause hospitalisation, and all-cause mortality, while secondary outcomes included hospitalisation for cardiorespiratory disease, influenza-related hospitalisation, laboratory-confirmed influenza hospitalisation, and serious adverse events (SAEs). Pooled risk ratios (RRs) with 95% confidence intervals (CIs) were estimated using fixed-effect models. Across 586,188 participants, HD-IV reduced P&I hospitalisation (rVE 12.0%), increasing to 22.0% in sensitivity analysis. For all-cause hospitalisation (∼600,000 participants), rVE was 4.0%, while no significant reduction was observed for all-cause mortality (rVE = 2.0%). Subgroup analyses suggested greater benefits in individuals without cardiovascular disease and those aged 65-79 years. HD-IV also showed strong protection against influenza-specific outcomes (rVE 39% for influenza hospitalisation; 32% for laboratory-confirmed influenza hospitalisation), with no significant difference in SAEs between groups. Overall, HD-IV provides superior protection compared with SD-IV against P&I and all-cause hospitalisation in older adults, with the greatest benefits among younger seniors and those without cardiovascular disease. These findings support prioritising HD-IV to reduce influenza burden in the elderly, although benefits appear limited in adults aged > 80 years.",
+  "keywords": [
+    "high‐dose inactivated influenza vaccine",
+    "hospitalisation",
+    "influenza vaccine",
+    "meta‐analysis",
+    "older adults"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-29",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42052799",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Bilal Wazir",
+      "family": "Khan",
+      "orcid": "https://orcid.org/0009-0009-6397-1692"
+    },
+    {
+      "given": "Muhammad Huzaifa",
+      "family": "Khattak",
+      "orcid": null
+    },
+    {
+      "given": "Muhammad Maaz",
+      "family": "Amjad",
+      "orcid": null
+    },
+    {
+      "given": "Shahreena Athar",
+      "family": "Siddiqui",
+      "orcid": null
+    },
+    {
+      "given": "Tayyaba Ikram",
+      "family": "Qazi",
+      "orcid": null
+    },
+    {
+      "given": "Hamdullah",
+      "family": "Rehmat",
+      "orcid": null
+    },
+    {
+      "given": "Muhammad Faaz",
+      "family": "Khan",
+      "orcid": null
+    },
+    {
+      "given": "Haris Wazir",
+      "family": "Khan",
+      "orcid": null
+    },
+    {
+      "given": "Affan Masaud",
+      "family": "Mian",
+      "orcid": null
+    },
+    {
+      "given": "Mohsin",
+      "family": "Ullah",
+      "orcid": null
+    },
+    {
+      "given": "Umer Zaryab",
+      "family": "Khan",
+      "orcid": null
+    },
+    {
+      "given": "Muhammad Abdur",
+      "family": "Rafay",
+      "orcid": null
+    },
+    {
+      "given": "Sajjad Ghanim",
+      "family": "Al‐Badri",
+      "orcid": "https://orcid.org/0009-0003-6259-1045"
+    },
+    {
+      "given": "Zaryab",
+      "family": "Bacha",
+      "orcid": "https://orcid.org/0009-0008-6821-5653"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Comparative Study"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Vaccines, Inactivated",
+    "Influenza Vaccines",
+    "Vaccination",
+    "Hospitalization",
+    "Aged",
+    "Aged, 80 and over",
+    "Influenza, Human",
+    "Randomized Controlled Trials as Topic",
+    "Vaccine Efficacy"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70158",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70158",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42052799/",
+    "europe_pmc": "https://europepmc.org/article/MED/42052799"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

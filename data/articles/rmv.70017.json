@@ -1,0 +1,80 @@
+{
+  "doi": "10.1002/rmv.70017",
+  "title": "Novel Human Polyomaviruses Discovered From 2007 to the Present: An Update of Current Knowledge",
+  "crossref_title": "Novel Human Polyomaviruses Discovered From 2007 to the Present: An Update of Current Knowledge",
+  "abstract": "Human polyomaviruses (HPyVs) are a diverse group of viruses that typically establish asymptomatic persistent infections in healthy individuals. However, they can lead to severe diseases in immunocompromised patients. The past 15 years have witnessed significant advancements in understanding HPyVs, leading to the discovery of several novel and highly divergent strains. This surge in knowledge raises critical questions about their evolution, tropism, and potential contributions to various diseases. Although HPyVs are generally benign, certain strains can lead to significant health issues under immunocompromised conditions. Since 2007, several novel PyVs have been isolated from humans: Karolinska Institute Polyomavirus (KIPyV), Washington University Polyomavirus (WUPyV), Merkel cell Polyomavirus (MCPyV), HPyV6, HPyV7, Trichodisplasia spinulosa polyomavirus (TSPyV), HPyV9, HPyV10, Saint Louis polyomavirus (STLPyV), HPyV12, New Jersey Polyomavirus (NJPyV), Lyon IARC polyomavirus (LIPyV), HPyV16 and Quebec polyomavirus (QPyV). This review summarises the available data regarding the biology, tissue tropism, epidemiology, and associated diseases of novel HPyVs discovered from 2007 to the present. While some HPyVs are well-characterised with clear associations to specific diseases, others remain enigmatic, warranting additional investigation into their biology and clinical implications.",
+  "keywords": [
+    "human disease",
+    "human polyomaviruses",
+    "immunocompromised patients",
+    "skin disease",
+    "viral infection"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-02-25",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "40000590",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mohammad Mehdi",
+      "family": "Fazeli",
+      "orcid": null
+    },
+    {
+      "given": "Sara",
+      "family": "Heydari Sirat",
+      "orcid": null
+    },
+    {
+      "given": "Somayeh",
+      "family": "Shatizadeh Malekshahi",
+      "orcid": "https://orcid.org/0000-0003-2741-2745"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Polyomavirus",
+    "Polyomavirus Infections",
+    "Tumor Virus Infections",
+    "Viral Tropism"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70017",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70017",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40000590/",
+    "europe_pmc": "https://europepmc.org/article/MED/40000590"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,119 @@
+{
+  "doi": "10.1002/rmv.70066",
+  "title": "Impact of Rotavac Vaccine on Hospital‐Based Disease Prevalence and Strain Diversity in India: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Impact of Rotavac Vaccine on Hospital‐Based Disease Prevalence and Strain Diversity in India: A Systematic Review and Meta‐Analysis",
+  "abstract": "Rotavirus (RV) is a major aetiology of childhood gastroenteritis worldwide. It is crucial to understand the hospital-based RV disease prevalence and its spatio-temporal genotype distribution during the period pre-and post-introduction of RV vaccines in India. A systematic review and meta-analysis were performed to extract information on literature related to the impact of vaccination on rotavirus disease prevalence and the distribution of genotypes from 1986 to 2022. A search for relevant articles was carried out in public databases (PubMed, Google Scholar, and ScienceDirect) to extract specific information on RV prevalence among children less than 5 years of age and the genotype distribution from 1986 to 2022. DerSimonian-Laird random-effects model was employed to account for the heterogeneity of included studies analysed using meta-analysis and publication bias was assessed using funnel plot and Egger linear regression test. Of the 1939 records identified through screening and after removing duplicate records, the full texts of 1609 records were assessed for eligibility. After the full-text assessment, 49 records were found eligible and included in the study. The estimated pooled prevalence of RV-associated gastroenteritis during the pre-vaccine period was 33% {(95% confidence interval (CI), 28%-38%)} while the prevalence was 23% (95% CI, 18%-29%) in the post-vaccine period. Rotaviruses are classified into genotypes by their G-(glycoprotein VP7) and P-(protease-sensitive VP4) proteins. Combination of genotype G1 and P[8] that is G1P[8] predominated during the pre- and post-vaccine period, while the prevalence of G3P[8] increased after immunisation. The dominant genotypes in pre-vaccine era were G1 and G2 while G1 and G3 after vaccine inclusion, with a constant circulation of P[8] during the entire period from 1986 to 2022. Occurence of G2 increased post-vaccination in western zone of India. As observed from the meta-regression analysis, rotavirus vaccination has significantly reduced gastroenteritis associated hospitalizations and death. The spatio-temporal change in the genotype distribution in the post-vaccination era warrants the need for further surveillance studies to provide information on RV-associated hospital visits. Additionally, this will also provide information on detection of emerging strains that can assist in designing future policies for the implementation and development of new-generation vaccines against rotavirus disease.",
+  "keywords": [
+    "gastroenteritis",
+    "genotypes",
+    "prevalence",
+    "rotavirus",
+    "surveillance",
+    "vaccination"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "5",
+  "published_online": "2025-08-07",
+  "published_print": "2025-09",
+  "online_year": 2025,
+  "pmid": "40776477",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Kasturi",
+      "family": "Saikia",
+      "orcid": null
+    },
+    {
+      "given": "Riya",
+      "family": "Ahmed",
+      "orcid": null
+    },
+    {
+      "given": "Birupaksha",
+      "family": "Das",
+      "orcid": null
+    },
+    {
+      "given": "Sourav",
+      "family": "Paul",
+      "orcid": null
+    },
+    {
+      "given": "Suvendra Kumar",
+      "family": "Ray",
+      "orcid": null
+    },
+    {
+      "given": "Ramesh",
+      "family": "Chandra Deka",
+      "orcid": null
+    },
+    {
+      "given": "Partha Pratim",
+      "family": "Borah",
+      "orcid": null
+    },
+    {
+      "given": "Niruprabha",
+      "family": "Saharia",
+      "orcid": null
+    },
+    {
+      "given": "Nima D.",
+      "family": "Namsa",
+      "orcid": "https://orcid.org/0000-0002-9412-8915"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Rotavirus",
+    "Rotavirus Infections",
+    "Gastroenteritis",
+    "Vaccines, Attenuated",
+    "Rotavirus Vaccines",
+    "Vaccination",
+    "Prevalence",
+    "Genotype",
+    "Child, Preschool",
+    "Infant",
+    "Hospitals",
+    "India"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70066",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70066",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40776477/",
+    "europe_pmc": "https://europepmc.org/article/MED/40776477"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

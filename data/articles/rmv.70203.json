@@ -1,0 +1,127 @@
+{
+  "doi": "10.1002/rmv.70203",
+  "title": "Efficacy and Effectiveness of the Recombinant Zoster Vaccine Against Herpes Zoster, Herpes Zoster Ophthalmicus, Postherpetic Neuralgia and Dementia: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Efficacy and Effectiveness of the Recombinant Zoster Vaccine Against Herpes Zoster, Herpes Zoster Ophthalmicus, Postherpetic Neuralgia and Dementia: A Systematic Review and Meta‐Analysis",
+  "abstract": "Herpes zoster (HZ, shingles) constitutes a significant public health concern, particularly in ageing populations, and there is growing global interest in the recombinant zoster vaccine (RZV) from a public health perspective. In this systematic review with meta-analysis, we assessed the efficacy and effectiveness of RZV against HZ and its complications, including a possible association with a reduced risk of dementia, among immunocompetent individuals aged 50 years and older. We synthesised the latest evidence on long-term effects, incorporating recent data from both trials and real-world effectiveness studies. A total of 27 publications based on 18 primary studies, 3 randomised controlled trials (RCTs) and 15 observational studies, were included. RZV provides very high protection against HZ in immunocompetent adults ≥ 50 years in RCTs, with approximately 95% efficacy and high certainty of evidence (CoE) according to GRADE. Observational studies also consistently indicate substantial protection, but effect estimates vary across settings (high CoE). Among vaccinated individuals who develop HZ, RZV is associated with reduced loss of quality of life and decreased analgesic use. The vaccine also substantially reduces the risk of herpes zoster ophthalmicus (HZO) (high CoE) and likely postherpetic neuralgia (PHN) (moderate CoE). Long-term follow-up suggests durable protection for at least 11 years (low CoE). RZV may be associated with a reduced risk of dementia (low CoE), due to uncertainty the true effect may be substantially different, and similar associations have been observed with other vaccines and may be confounded by healthy vaccinee bias.",
+  "keywords": [],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-09-16",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42748460",
+  "pmcid": "PMC13581344",
+  "authors": [
+    {
+      "given": "E.",
+      "family": "Heen",
+      "orcid": "https://orcid.org/0009-0000-7353-3447"
+    },
+    {
+      "given": "J.",
+      "family": "Øverbø",
+      "orcid": "https://orcid.org/0000-0002-1773-1622"
+    },
+    {
+      "given": "I. H.",
+      "family": "Tveteraas",
+      "orcid": null
+    },
+    {
+      "given": "S. L.",
+      "family": "Solberg",
+      "orcid": null
+    },
+    {
+      "given": "H.",
+      "family": "Nøkleby",
+      "orcid": null
+    },
+    {
+      "given": "J. E.",
+      "family": "Midtbø",
+      "orcid": "https://orcid.org/0000-0002-8321-2724"
+    },
+    {
+      "given": "F.",
+      "family": "Di Rusco",
+      "orcid": null
+    },
+    {
+      "given": "F.",
+      "family": "Kasteng",
+      "orcid": "https://orcid.org/0000-0002-1817-8371"
+    },
+    {
+      "given": "A.",
+      "family": "Ersson",
+      "orcid": null
+    },
+    {
+      "given": "S.",
+      "family": "Andersson",
+      "orcid": null
+    },
+    {
+      "given": "K.",
+      "family": "Johansen",
+      "orcid": null
+    },
+    {
+      "given": "L. K.",
+      "family": "Juvet",
+      "orcid": "https://orcid.org/0000-0003-3317-8203"
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Herpesvirus 3, Human",
+    "Herpes Zoster",
+    "Herpes Zoster Ophthalmicus",
+    "Dementia",
+    "Vaccines, Synthetic",
+    "Treatment Outcome",
+    "Middle Aged",
+    "Neuralgia, Postherpetic",
+    "Herpes Zoster Vaccine",
+    "Randomized Controlled Trials as Topic",
+    "Vaccine Efficacy"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70203",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70203",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42748460/",
+    "europe_pmc": "https://europepmc.org/article/MED/42748460"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

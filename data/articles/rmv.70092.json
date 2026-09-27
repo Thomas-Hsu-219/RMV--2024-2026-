@@ -1,0 +1,100 @@
+{
+  "doi": "10.1002/rmv.70092",
+  "title": "Incidence of Cytomegalovirus (CMV) Infection in After Kidney Transplant Patients: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Incidence of Cytomegalovirus (CMV) Infection in After Kidney Transplant Patients: A Systematic Review and Meta‐Analysis",
+  "abstract": "Kidney transplantation is recognised by the World Health Organisation as the most effective therapy for end-stage renal disease, offering substantial improvements in survival and quality of life. However, the immunosuppression required to prevent graft rejection predisposes recipients to opportunistic infections, among which cytomegalovirus (CMV) remains a leading cause of morbidity and mortality. To determine the incidence of CMV infection in kidney transplant recipients and identify clinical and laboratory predictors and associated risk factors. A systematic review and meta-analysis, registered in PROSPERO (CRD42024524165), was conducted in accordance with PRISMA guidelines. PubMed, Web of Science, and LILACS databases were searched up to 6 March 2024 for cohort studies reporting CMV incidence post-kidney transplantation. Methodological quality was assessed using the Newcastle-Ottawa Scale (NOS). Publication bias was evaluated using funnel plots, Egger's test, Kendall's tau, and the fail-safe N. Fifteen studies met the inclusion criteria, comprising 3888 patients with a mean age of 45.1 years and a mean follow-up of 7.14 months. The pooled incidence of CMV infection was 42% (95% CI: 30%-54%), with high heterogeneity (I2 = 98.75%; p < 0.001). Sensitivity analysis confirmed the robustness of the results, and no significant publication bias was detected. The main risk factors were: advanced age, paediatric age (< 5 years), donor-recipient serodiscordance (D+/R-), post-transplant lymphopenia, and reduced cell-specific immunity defect. CMV infection remains a common and clinically significant complication following kidney transplantation. With a high incidence and strong association with specific laboratory and clinical predictors. Individualised prevention strategies and early virological and immunological monitoring, especially in high-risk groups, are essential to reduce morbidity and mortality and preserve graft function. PROTOCOL REGISTRATION: PROSPERO: CRD42024524165.",
+  "keywords": [
+    "cytomegalovirus",
+    "incidence",
+    "kidney transplantation",
+    "laboratory predictors",
+    "opportunistic infection"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2026-01-03",
+  "published_print": "2026-01",
+  "online_year": 2026,
+  "pmid": "41483466",
+  "pmcid": "PMC12764368",
+  "authors": [
+    {
+      "given": "Gleice K.",
+      "family": "Jesus",
+      "orcid": null
+    },
+    {
+      "given": "Róger",
+      "family": "Costa",
+      "orcid": null
+    },
+    {
+      "given": "Gabriel O.",
+      "family": "Franco",
+      "orcid": null
+    },
+    {
+      "given": "Cleyde C. S.",
+      "family": "Marconi",
+      "orcid": null
+    },
+    {
+      "given": "Maria B.",
+      "family": "Arriaga",
+      "orcid": null
+    },
+    {
+      "given": "Eduardo M.",
+      "family": "Netto",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Kidney Transplantation",
+    "Incidence",
+    "Risk Factors",
+    "Middle Aged",
+    "Transplant Recipients"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70092",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70092",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41483466/",
+    "europe_pmc": "https://europepmc.org/article/MED/41483466"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

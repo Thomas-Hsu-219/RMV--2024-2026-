@@ -1,0 +1,98 @@
+{
+  "doi": "10.1002/rmv.2588",
+  "title": "Acute Post‐Measles Encephalitis in a Returning Traveller: Highlighting the Need for MMR Vaccination",
+  "crossref_title": "Acute Post‐Measles Encephalitis in a Returning Traveller: Highlighting the Need for MMR Vaccination",
+  "abstract": null,
+  "keywords": [],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "6",
+  "published_online": "2024-09-28",
+  "published_print": "2024-11",
+  "online_year": 2024,
+  "pmid": "39342413",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Sarah May",
+      "family": "Johnson",
+      "orcid": "https://orcid.org/0000-0001-8848-9135"
+    },
+    {
+      "given": "Jane",
+      "family": "Hassell",
+      "orcid": null
+    },
+    {
+      "given": "Gerard Leslie Peter",
+      "family": "Manning",
+      "orcid": null
+    },
+    {
+      "given": "Sniya",
+      "family": "Sudhakar",
+      "orcid": null
+    },
+    {
+      "given": "Joe",
+      "family": "Brierley",
+      "orcid": null
+    },
+    {
+      "given": "Louis",
+      "family": "Grandjean",
+      "orcid": null
+    },
+    {
+      "given": "Judith",
+      "family": "Breuer",
+      "orcid": null
+    },
+    {
+      "given": "Seilesh",
+      "family": "Kadambari",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Case Reports",
+    "Letter"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Measles",
+    "Measles-Mumps-Rubella Vaccine",
+    "Vaccination",
+    "Travel"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2588",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2588",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39342413/",
+    "europe_pmc": "https://europepmc.org/article/MED/39342413"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

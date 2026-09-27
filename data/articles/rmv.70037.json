@@ -1,0 +1,79 @@
+{
+  "doi": "10.1002/rmv.70037",
+  "title": "mTOR Signalling in Arbovirus Infections: Molecular Mechanisms and Therapeutic Opportunities",
+  "crossref_title": "mTOR Signalling in Arbovirus Infections: Molecular Mechanisms and Therapeutic Opportunities",
+  "abstract": "Arboviruses, including dengue virus (DENV), Zika virus (ZIKV), Japanese encephalitis virus (JEV), and West Nile virus (WNV), are vector-borne pathogens that exploit the mammalian target of rapamycin (mTOR) signalling pathway to optimise host cellular environments for replication, immune evasion, and pathogenesis. These viruses manipulate mTOR complexes through specific viral proteins, such as DENV NS5 activating mTORC2 to suppress apoptosis and ZIKV NS4A/NS4B inhibiting Akt-mTORC1 signalling to impair neurogenesis while promoting autophagy. JEV NS1/NS1' disrupts the blood-brain barrier by inducing autophagy-mediated degradation of tight junction proteins via mTOR suppression, contributing to encephalitis. These interactions result in severe pathological outcomes, including immune evasion, metabolic reprogramming, apoptosis suppression, and neurological disorders like microcephaly. Targeting mTOR has emerged as a promising therapeutic approach for arbovirus infections. Rapamycin and its derivatives reduce viral replication and improve survival in preclinical models, while repurposed drugs like niclosamide and chloroquine exhibit antiviral effects against ZIKV. ATP-competitive inhibitors such as Torin-1 and natural compounds like resveratrol expand the therapeutic landscape. Combination therapies pairing mTOR inhibitors with antivirals or immune modulators may provide synergistic benefits. This review highlights the molecular mechanisms underlying arbovirus manipulation of mTOR signalling and emphasises the potential of tailored therapeutic interventions targeting these pathways to mitigate arbovirus-associated diseases.",
+  "keywords": [],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "3",
+  "published_online": "2025-05-02",
+  "published_print": "2025-05",
+  "online_year": 2025,
+  "pmid": "40317563",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Suad A.",
+      "family": "Alghamdi",
+      "orcid": null
+    },
+    {
+      "given": "Mohammed",
+      "family": "Alissa",
+      "orcid": null
+    },
+    {
+      "given": "Abdullah",
+      "family": "Alghamdi",
+      "orcid": "https://orcid.org/0009-0005-6635-3102"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Arboviruses",
+    "Arbovirus Infections",
+    "Antiviral Agents",
+    "Virus Replication",
+    "Signal Transduction",
+    "Host-Pathogen Interactions",
+    "TOR Serine-Threonine Kinases",
+    "MTOR Inhibitors"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70037",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70037",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40317563/",
+    "europe_pmc": "https://europepmc.org/article/MED/40317563"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

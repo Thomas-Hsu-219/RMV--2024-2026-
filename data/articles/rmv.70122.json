@@ -1,0 +1,101 @@
+{
+  "doi": "10.1002/rmv.70122",
+  "title": "Characteristics, Motivation, and Challenges of Global Research on Dengue Vaccination",
+  "crossref_title": "Characteristics, Motivation, and Challenges of Global Research on Dengue Vaccination",
+  "abstract": "Due to the sharp increase in dengue infections in recent years, developing effective and regionally adapted vaccines is imperative. This requires research strategies aimed at vaccines that are free of side effects and effective for all four serotypes. Currently, two vaccines are licenced in some countries, each with certain restrictions. Advanced vaccines are in demand. This study, therefore, analyzes what has been done so far, by whom, and under what conditions. Who has benefited, and where is there an urgent need for further research? An advanced strategy with chronological, geographical, and socio-economic patterns was applied to answer these questions. A total of 1758 publications and 137 clinical studies were identified. The results show that the pharmaceutical industry dominates the research both in their countries of origin and in their study sites. Sustainable collaboration between academic institutions, industry, and government agencies is crucial for research on DENVVAC. However, this generally applies to vaccine research, in which universities and industry play an important role. Depending on historical networking, better or worse conditions have developed for regional research. The Global South is exemplified by South American nations like Brazil, which is actively developing its vaccine, as well as by Southeast Asian countries such as India, which is also pursuing the development of its vaccine. Africa is not represented in the research, although there is evidence of virus circulation and a potentially underestimated disease burden. Financial support comes mainly from government agencies, except in France and Japan, where industry sets the research framework. This results in a clear regional concentration of research, which can be explained by the lack of access to reliable monitoring and serological data, but also by the regional interests of pharmaceutical companies, their resources, and financial support. This is what future research must be concerned with.",
+  "keywords": [
+    "aedes aegypti",
+    "mosquito‐borne disease",
+    "prevention",
+    "research output",
+    "zika virus",
+    "zoonosis"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-01",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41766108",
+  "pmcid": "PMC12950942",
+  "authors": [
+    {
+      "given": "Doris",
+      "family": "Klingelhöfer",
+      "orcid": "https://orcid.org/0000-0003-0716-9872"
+    },
+    {
+      "given": "Markus",
+      "family": "Braun",
+      "orcid": "https://orcid.org/0000-0003-3393-2851"
+    },
+    {
+      "given": "Isabelle M.",
+      "family": "Kramer",
+      "orcid": "https://orcid.org/0000-0002-5106-2012"
+    },
+    {
+      "given": "Christina A.",
+      "family": "Naser",
+      "orcid": "https://orcid.org/0009-0008-5537-1163"
+    },
+    {
+      "given": "David A.",
+      "family": "Groneberg",
+      "orcid": "https://orcid.org/0000-0001-8551-6556"
+    },
+    {
+      "given": "Dörthe",
+      "family": "Brüggmann",
+      "orcid": "https://orcid.org/0000-0002-4799-3391"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Dengue Virus",
+    "Dengue",
+    "Vaccination",
+    "Motivation",
+    "Biomedical Research",
+    "Dengue Vaccines",
+    "Global Health",
+    "Vaccine Development"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70122",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70122",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41766108/",
+    "europe_pmc": "https://europepmc.org/article/MED/41766108"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

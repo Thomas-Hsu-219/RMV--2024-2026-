@@ -1,0 +1,106 @@
+{
+  "doi": "10.1002/rmv.70181",
+  "title": "Oncogenic Viruses and Inhaled Microplastics: A Double Hit Hypothesis for Asthma Progression and Lung Cancer Development",
+  "crossref_title": "Oncogenic Viruses and Inhaled Microplastics: A Double Hit Hypothesis for Asthma Progression and Lung Cancer Development",
+  "abstract": "Oncogenic viruses have emerged as potential contributors to chronic airway disease and lung carcinogenesis through mechanisms involving viral persistence, immune evasion, genomic instability, and sustained inflammation. Increasing evidence suggests that environmental factors may critically influence these virus-host interactions. Among such factors, airborne microplastics (MPs) have gained attention because of their ability to accumulate within the respiratory tract, disrupt epithelial barrier integrity, impair antiviral immune responses, and induce chronic oxidative and inflammatory stress. This review suggests a 'double-hit' hypothesis in which inhaled MPs act as environmental cofactors that enhance susceptibility to oncogenic viruses and facilitate virus-associated pulmonary pathology. MPs may affect viral adsorption, airway deposition, epithelial infectivity, and long-term persistence while simultaneously weakening mucosal immune surveillance and interferon-mediated antiviral defenses. These effects may create a permissive pulmonary microenvironment that supports persistent infection by candidate oncogenic viruses, including human papillomavirus (HPV), Epstein-Barr virus (EBV), Merkel cell polyomavirus (MCPyV), and other potentially tumour-promoting viruses. Convergent activation of pathways related to oxidative stress, NF-κB signalling, inflammasome activation, epithelial-mesenchymal transition, and defective tissue repair may amplify chronic airway inflammation, accelerate asthma progression, and promote malignant transformation. Although direct clinical evidence remains limited, accumulating mechanistic and experimental findings support a biologically plausible interaction between airborne microplastics and oncogenic viruses. We highlight key knowledge gaps regarding viral persistence, MP-mediated modulation of antiviral immunity, virus-particle interactions, and biomarkers of environmentally driven viral carcinogenesis. Improved understanding of these interactions may provide new insights into the virological basis of chronic airway disease and lung cancer development.",
+  "keywords": [
+    "asthma",
+    "lung cancer",
+    "microplastics",
+    "oncogenic viruses"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-07-07",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42411614",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jiacheng",
+      "family": "Yin",
+      "orcid": null
+    },
+    {
+      "given": "Muzhe",
+      "family": "Su",
+      "orcid": null
+    },
+    {
+      "given": "Minhao",
+      "family": "Xu",
+      "orcid": null
+    },
+    {
+      "given": "Ruiyan",
+      "family": "Hua",
+      "orcid": null
+    },
+    {
+      "given": "Qian",
+      "family": "Fu",
+      "orcid": null
+    },
+    {
+      "given": "Wenhui",
+      "family": "Xu",
+      "orcid": null
+    },
+    {
+      "given": "Sumin",
+      "family": "Hu",
+      "orcid": null
+    },
+    {
+      "given": "An",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0009-0003-1225-5764"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Oncogenic Viruses",
+    "Lung Neoplasms",
+    "Asthma",
+    "Disease Progression",
+    "Microplastics"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70181",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70181",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42411614/",
+    "europe_pmc": "https://europepmc.org/article/MED/42411614"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,97 @@
+{
+  "doi": "10.1002/rmv.2543",
+  "title": "SARS‐CoV‐2, periodontal pathogens, and host factors: The trinity of oral post‐acute sequelae of COVID‐19",
+  "crossref_title": "SARS‐CoV‐2, periodontal pathogens, and host factors: The trinity of oral post‐acute sequelae of COVID‐19",
+  "abstract": "COVID-19 as a pan-epidemic is waning but there it is imperative to understand virus interaction with oral tissues and oral inflammatory diseases. We review periodontal disease (PD), a common inflammatory oral disease, as a driver of COVID-19 and oral post-acute-sequelae conditions (PASC). Oral PASC identifies with PD, loss of teeth, dysgeusia, xerostomia, sialolitis-sialolith, and mucositis. We contend that PD-associated oral microbial dysbiosis involving higher burden of periodontopathic bacteria provide an optimal microenvironment for severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. These pathogens interact with oral epithelial cells activate molecular or biochemical pathways that promote viral adherence, entry, and persistence in the oral cavity. A repertoire of diverse molecules identifies this relationship including lipids, carbohydrates and enzymes. The S protein of SARS-CoV-2 binds to the ACE2 receptor and is activated by protease activity of host furin or TRMPSS2 that cleave S protein subunits to promote viral entry. However, PD pathogens provide additional enzymatic assistance mimicking furin and augment SARS-CoV-2 adherence by inducing viral entry receptors ACE2/TRMPSS, which are poorly expressed on oral epithelial cells. We discuss the mechanisms involving periodontopathogens and host factors that facilitate SARS-CoV-2 infection and immune resistance resulting in incomplete clearance and risk for 'long-haul' oral health issues characterising PASC. Finally, we suggest potential diagnostic markers and treatment avenues to mitigate oral PASC.",
+  "keywords": [
+    "PASC",
+    "SARS‐CoV‐2",
+    "oral biology",
+    "oral microbiome",
+    "oral mucosal immunity",
+    "oral virology",
+    "‘red complex’"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-05-23",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38782605",
+  "pmcid": "PMC11260190",
+  "authors": [
+    {
+      "given": "Joel",
+      "family": "Schwartz",
+      "orcid": null
+    },
+    {
+      "given": "Kristelle J.",
+      "family": "Capistrano",
+      "orcid": null
+    },
+    {
+      "given": "Joseph",
+      "family": "Gluck",
+      "orcid": null
+    },
+    {
+      "given": "Armita",
+      "family": "Hezarkhani",
+      "orcid": null
+    },
+    {
+      "given": "Afsar R.",
+      "family": "Naqvi",
+      "orcid": "https://orcid.org/0000-0001-7436-3056"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Mouth",
+    "Humans",
+    "Periodontal Diseases",
+    "Virus Internalization",
+    "Host-Pathogen Interactions",
+    "Spike Glycoprotein, Coronavirus",
+    "Dysbiosis",
+    "COVID-19",
+    "Angiotensin-Converting Enzyme 2",
+    "SARS-CoV-2",
+    "Post-Acute COVID-19 Syndrome"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2543",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2543",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38782605/",
+    "europe_pmc": "https://europepmc.org/article/MED/38782605"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

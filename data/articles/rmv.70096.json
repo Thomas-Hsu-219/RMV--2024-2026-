@@ -1,0 +1,110 @@
+{
+  "doi": "10.1002/rmv.70096",
+  "title": "The Right to Know About CMV—Perspectives of Pregnant Women and Families With Lived Experience of CMV",
+  "crossref_title": "The Right to Know About CMV—Perspectives of Pregnant Women and Families With Lived Experience of CMV",
+  "abstract": "Cytomegalovirus (CMV) is a common herpesvirus that is transmitted from person to person via bodily fluids, including urine, saliva, blood and semen. If a pregnant woman acquires CMV for the first time (maternal primary infection) or has CMV reactivation or reinfection with a new strain in pregnancy, a resulting congenital infection can cause damage to the developing foetus. CMV is the leading infectious cause of newborn disability in high income countries, where an estimated 1 in 200 babies are born with congenital infection. Around 20% of children with congenital CMV will experience significant long-term impacts, most commonly sensorineural hearing loss but also developmental delay, epilepsy and cerebral palsy. Hygiene precautions are the only effective primary prevention strategy, and it is widely recommended that all pregnant women, and those planning a pregnancy, should receive information about these strategies to help reduce the risk of infection. However, most women do not receive counselling about CMV. Here we explore commonly reported health professional capability and motivational barriers to antenatal CMV counselling and the perspectives of pregnant women and people with lived experience of CMV. This review provides an overview on what has been shared by pregnant women and those with lived experience in the literature and dispels some misconceptions about the acceptability and feasibility of CMV hygiene precautions.",
+  "keywords": [
+    "antenatal counselling",
+    "cerebral palsy",
+    "cytomegalovirus",
+    "deafness",
+    "infection",
+    "prevention"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2026-01-08",
+  "published_print": "2026-01",
+  "online_year": 2026,
+  "pmid": "41508764",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "H.",
+      "family": "Smithers‐Sheedy",
+      "orcid": null
+    },
+    {
+      "given": "H.",
+      "family": "Croker",
+      "orcid": null
+    },
+    {
+      "given": "A.",
+      "family": "Adley",
+      "orcid": null
+    },
+    {
+      "given": "A. W.",
+      "family": "Shand",
+      "orcid": null
+    },
+    {
+      "given": "K.",
+      "family": "Swinburn",
+      "orcid": null
+    },
+    {
+      "given": "T.",
+      "family": "Tripathi",
+      "orcid": null
+    },
+    {
+      "given": "N.",
+      "family": "Rode",
+      "orcid": null
+    },
+    {
+      "given": "L.",
+      "family": "Hui",
+      "orcid": "https://orcid.org/0000-0002-9720-3562"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Pregnancy Complications, Infectious",
+    "Cytomegalovirus Infections",
+    "Pregnancy",
+    "Infant, Newborn",
+    "Female",
+    "Infectious Disease Transmission, Vertical",
+    "Pregnant People"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70096",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70096",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41508764/",
+    "europe_pmc": "https://europepmc.org/article/MED/41508764"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

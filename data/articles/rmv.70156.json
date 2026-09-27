@@ -1,0 +1,72 @@
+{
+  "doi": "10.1002/rmv.70156",
+  "title": "Congenital CMV and Hearing Loss—How Does it Happen and How to Prevent it",
+  "crossref_title": "Congenital CMV and Hearing Loss—How Does it Happen and How to Prevent it",
+  "abstract": "Congenital cytomegalovirus (cCMV) is found worldwide and significantly contributes to permanent childhood hearing loss. CMV has been known to cause sensorineural hearing loss (SNHL) for more than half a century, and CMV-related hearing loss has consistently been present in all childhood populations where infants with cCMV have been identified and followed in the first years of life. CMV-related hearing loss has a variable onset, with some cases of hearing loss occurring at birth and others developing within the first 5 years of life. Further deterioration of hearing loss may occur in children with CMV-related hearing loss. In contrast, other children experience improvements or fluctuating hearing loss. SNHL due to CMV is likely to involve both direct viral-mediated damage that occurs when the virus infects cells within the cochlea and immune or inflammatory responses in the inner ear. The studies in animal models and human temporal bones support that virus infection and host inflammatory responses may lead to both virus-mediated and virus and host-derived damage to the auditory system. As more children are being tested for CMV by newborn screening, SNHL is being identified more often. Current recommendations are for valganciclovir treatment in children with cCMV infection and SNHL; however, research gaps exist regarding the long-term effectiveness of valganciclovir. Without a licenced CMV vaccine, CMV behavioural preventative measures that minimise maternal saliva and urine exposures from young children is the only primary intervention available to reduce CMV infections and, therefore, CMV-related SNHL. Lack of CMV awareness and knowledge of the CMV disease burden in the population limits this approach, and more CMV education is needed. Data gaps exist in estimating the public health burden and lifetime economic burden of CMV. Without this data, it is not possible to accurately evaluate the cost-effectiveness of any CMV intervention or prevention strategy. Even after decades of attempting to identify which children with cCMV will have SNHL, further progression of loss, or late-onset loss, the need remains to identify the children with cCMV at increased risk of SNHL to provide timely detection and intervention for possible hearing loss.",
+  "keywords": [
+    "congenital CMV infection",
+    "cytomegalovirus",
+    "sensorineural hearing loss"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-25",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42033797",
+  "pmcid": "PMC13110109",
+  "authors": [
+    {
+      "given": "Karen B.",
+      "family": "Fowler",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Hearing Loss",
+    "Hearing Loss, Sensorineural",
+    "Antiviral Agents",
+    "Infant",
+    "Infant, Newborn"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70156",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70156",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42033797/",
+    "europe_pmc": "https://europepmc.org/article/MED/42033797"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

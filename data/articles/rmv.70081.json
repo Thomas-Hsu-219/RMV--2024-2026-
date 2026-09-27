@@ -1,0 +1,74 @@
+{
+  "doi": "10.1002/rmv.70081",
+  "title": "CVID Enteropathy Associated With Chronic Norovirus Infection: Background, Clinical Features, and Therapeutic Aspects",
+  "crossref_title": "CVID Enteropathy Associated With Chronic Norovirus Infection: Background, Clinical Features, and Therapeutic Aspects",
+  "abstract": "Common variable immunodeficiency (CVID) is the most prevalent symptomatic primary immunodeficiency, characterised by impaired antibody production, immune dysregulation, and a broad spectrum of clinical manifestations. Gastrointestinal involvement is frequent, affecting up to 20% of patients and significantly contributing to morbidity and mortality. Among infectious triggers, norovirus plays a particularly important role, as persistent infection may drive chronic inflammation and contribute to the development of CVID-associated enteropathy, a severe non-infectious complication marked by chronic diarrhoea, malabsorption, and weight loss. The pathogenesis is multifactorial, involving impaired humoural immunity, absent mucosal IgA, and aberrant T- and B-cell interactions, resulting in defective viral clearance and sustained mucosal injury. Although viral eradication has been shown to induce clinical and histological improvement, no standardized therapeutic strategy currently exists. Intravenous or subcutaneous immunoglobulin replacement fails to adequately protect against gastrointestinal infections, and off-label antivirals such as ribavirin, nitazoxanide, or interferon alpha have yielded inconsistent results. Oral administered immunoglobulin preparations have shown variable efficacy in case reports, reflecting differences in viral genotypes, host susceptibility, and donor antibody repertoires. In this review, we summarise current knowledge on the epidemiology, pathogenesis, clinical features, and diagnostic considerations of CVID-associated enteropathy linked to chronic norovirus infection, with a special focus on therapeutic aspects. We also present our experience with a patient successfully treated with immunoglobulin therapy administered via nasogastric tube, leading to clinical remission, nutritional recovery, and viral clearance. Recognising norovirus as a key etiological factor in CVID enteropathy emphasises the need to conduct systematic studies and evidence-based therapeutic approaches.",
+  "keywords": [
+    "CVID enteropathy",
+    "chronic diarrhoea",
+    "common variable immunodeficiency",
+    "norovirus",
+    "oral immunoglobulin"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "6",
+  "published_online": "2025-11-13",
+  "published_print": "2025-11",
+  "online_year": 2025,
+  "pmid": "41229388",
+  "pmcid": "PMC12612983",
+  "authors": [
+    {
+      "given": "Györgyi",
+      "family": "Műzes",
+      "orcid": "https://orcid.org/0000-0002-9099-0372"
+    },
+    {
+      "given": "Ferenc",
+      "family": "Sipos",
+      "orcid": "https://orcid.org/0000-0002-2767-7746"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Norovirus",
+    "Caliciviridae Infections",
+    "Common Variable Immunodeficiency",
+    "Antiviral Agents"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70081",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70081",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41229388/",
+    "europe_pmc": "https://europepmc.org/article/MED/41229388"
+  },
+  "copyright_statement": "© 2025 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

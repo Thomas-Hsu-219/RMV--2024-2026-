@@ -1,0 +1,119 @@
+{
+  "doi": "10.1002/rmv.70118",
+  "title": "Viral Pathogens and Pulmonary Fibrosis: EMT‐Driven Mechanisms and Insights From Traditional Chinese Medicine",
+  "crossref_title": "Viral Pathogens and Pulmonary Fibrosis: EMT‐Driven Mechanisms and Insights From Traditional Chinese Medicine",
+  "abstract": "Idiopathic pulmonary fibrosis (IPF) is a serious progressive complication of the respiratory system, which is profoundly associated with persistent extracellular matrix (ECM) deposition, fibrosis, and disrupted tissue regeneration. Emerging evidence shows that epithelial-mesenchymal transition (EMT) acts as a key factor in the pathogenesis of this idiopathic interstitial lung disease by connecting long-lasting epithelial damage to fibroblast accumulation and fibrotic processes. Viral pathogens, particularly emerging and re-emerging viruses, such as Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), Influenza Virus, and Dengue Virus (DENV) and also those with oncogenic potential such as Epstein-Barr Virus (EBV), Cytomegalovirus (CMV), and Hepatitis C Virus (HCV), have been demonstrated to be significantly associated with impaired epithelial signalling, persistent inflammation, and EMT induction. This underscores the presence of potential mechanistic overlap between viral infections and fibrotic complications of the respiratory system. On the other hand, investigations have also suggested the capacity of Traditional Chinese Medicine (TCM) agents to modulate various EMT-linked pathways, which are simultaneously involved in both viral infections and IPF development. These common signalling pathways include TGF-β, Wnt/β-catenin, PI3K/AKT, and NF-κB signalling, acting as potential therapeutic targets against fibrotic complications such as IPF. The present review aims to comprehensively describe current evidence on the dynamic cross-talk between viral pathogens, particularly SARS-CoV-2, Influenza Virus, and DENV, EMT, and lung fibrosis. Additionally, it critically discusses how TCM-derived bioactive agents can interfere with these interconnected processes. This review elucidates the mechanistic basis and therapeutic potential of TCM compounds in lung fibrosis, considering the wider context of virus-related EMT dysregulation.",
+  "keywords": [
+    "EMT",
+    "emerging viruses",
+    "idiopathic pulmonary fibrosis",
+    "traditional Chinese medicine (TCM)"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-02-26",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41755466",
+  "pmcid": "PMC12957876",
+  "authors": [
+    {
+      "given": "Ningzi",
+      "family": "Zang",
+      "orcid": "https://orcid.org/0009-0001-9164-9862"
+    },
+    {
+      "given": "Yingxu",
+      "family": "Wu",
+      "orcid": null
+    },
+    {
+      "given": "Pin",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Yongming",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Shiwen",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Jiapeng",
+      "family": "Leng",
+      "orcid": null
+    },
+    {
+      "given": "Libin",
+      "family": "Zhan",
+      "orcid": null
+    },
+    {
+      "given": "Xiaodong",
+      "family": "Lyu",
+      "orcid": null
+    },
+    {
+      "given": "Lijian",
+      "family": "Pang",
+      "orcid": "https://orcid.org/0009-0000-1496-2794"
+    },
+    {
+      "given": "Jiaran",
+      "family": "Wang",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Virus Diseases",
+    "Pulmonary Fibrosis",
+    "Medicine, Chinese Traditional",
+    "Signal Transduction",
+    "Idiopathic Pulmonary Fibrosis",
+    "Epithelial-Mesenchymal Transition",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70118",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70118",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41755466/",
+    "europe_pmc": "https://europepmc.org/article/MED/41755466"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

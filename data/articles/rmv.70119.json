@@ -1,0 +1,90 @@
+{
+  "doi": "10.1002/rmv.70119",
+  "title": "Chandipura Virus: A Neglected Sandfly‐Borne Neurotropic Virus in Children ‐ Insights From Seven Decades of Evidence",
+  "crossref_title": "Chandipura Virus: A Neglected Sandfly‐Borne Neurotropic Virus in Children ‐ Insights From Seven Decades of Evidence",
+  "abstract": "Chandipura virus, a neurotropic RNA virus transmitted by Phlebotomus sandflies, remains an under-recognised cause of acute paediatric encephalitis in India. The 2024 outbreak, with 245 confirmed cases and 82 deaths, underscores its ongoing public health relevance. This review provides an integrated analysis of CHPV, encompassing its epidemiological distribution in India, host-agent-environment transmission dynamics, molecular and cellular pathogenesis, clinical presentation, diagnostic modalities, therapeutic options, and vaccine research. Evidence from 1950 to 2025, drawn from peer-reviewed studies, outbreak reports, and national surveillance databases, shows that CHPV primarily affects children younger than 15 years and causes abrupt fever, seizures, and coma within 24-48 h. The virus breaches the blood-brain barrier through cytokine-mediated permeability and induces neuronal apoptosis via Fas- and NF-κB-linked pathways, while genomic studies demonstrate overall stability across outbreaks. Diagnosis depends on RT-PCR and IgM ELISA, available only in reference laboratories. Experimental antivirals such as favipiravir and recombinant glycoprotein vaccines show promise in animal models but remain untested in humans. Strengthening molecular surveillance, integrating CHPV detection into India's Integrated Disease Surveillance Programme, and investing in antiviral and vaccine development are crucial to reducing the recurring burden of this neglected childhood neurotropic arbovirus.",
+  "keywords": [
+    "acute encephalitis syndrome",
+    "chandipura virus",
+    "neuroepidemiology",
+    "paediatric encephalitis",
+    "sandfly‐borne disease",
+    "vector‐borne diseases"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-02",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41769747",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Ravi Rai",
+      "family": "Dangi",
+      "orcid": "https://orcid.org/0000-0003-0560-2150"
+    },
+    {
+      "given": "Vipin",
+      "family": "Vageriya",
+      "orcid": "https://orcid.org/0000-0003-3713-9869"
+    },
+    {
+      "given": "Anil",
+      "family": "Sharma",
+      "orcid": "https://orcid.org/0000-0002-1727-5508"
+    },
+    {
+      "given": "Pragna",
+      "family": "Dabhi",
+      "orcid": "https://orcid.org/0009-0000-1670-3403"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Phlebotomus",
+    "Vesiculovirus",
+    "Rhabdoviridae Infections",
+    "Disease Outbreaks",
+    "Child",
+    "India",
+    "Neglected Diseases"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70119",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70119",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41769747/",
+    "europe_pmc": "https://europepmc.org/article/MED/41769747"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

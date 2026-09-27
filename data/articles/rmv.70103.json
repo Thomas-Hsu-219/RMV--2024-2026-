@@ -1,0 +1,115 @@
+{
+  "doi": "10.1002/rmv.70103",
+  "title": "Understanding Monkeypox Virus Evolution, Host‐Pathogen Interactions, and Therapeutic Advances",
+  "crossref_title": "Understanding Monkeypox Virus Evolution, Host‐Pathogen Interactions, and Therapeutic Advances",
+  "abstract": "The recent outbreak of the Monkeypox (Mpox) virus has raised significant concerns. First identified in 1958, Monkeypox virus (MPXV) belongs to the Orthopoxvirus genus, sharing similarities with the Smallpox virus. It is a zoonotic disease mainly harboured by rodents and transmitted through direct interaction with infected animals, respiratory droplets, contaminated materials, or body fluids and from mother to child during pregnancy. The MPXV has a brick-shaped lipoprotein envelope, usually containing conserved genes essential for viral replication and variable genes that influence pathogenicity. The virus exists in two genetic clades: West African (Clade II) with lower mortality (∼1%) and Central African (Clade I) with higher mortality (∼10%). The spread of Mpox was primarily limited to Congo Basin (West Africa), which eventually increased globally. In the year 2022, World Health Organisation (WHO) declared Mpox an 'International Public Health Emergency Concern', indicating vital need to develop robust strategies to combat Mpox. As per 2022 outbreak, 40% patients required medical treatment (antiviral, antibacterials, and pain killer), 1%-13% patients required hospitalisation and 0.1% cases ended in fatality. The contemporary pre- and post-prophylactic therapies, include non-replicating modified vaccinia Ankara vaccination, are not yet available in endemic countries in Africa. Moreover, since January 1, 2024, there have been 812 deaths reported linked to the clade Ib Mpox outbreak in Central Africa, mostly in the Democratic Republic of the Congo. This corresponds to a case-fatality rate of about 3% among the nearly 29,000 assumed cases by September 2024. Hence, this review outlines routes of Mpox transmission and early and chronic symptoms of infection. The mechanisms employed by the virus for immune evasion or immune suppression to promote viral survival inside the host are discussed in detail. The review illustrates Mpox therapeutics and medications, including anti-viral drugs that help to treat symptoms, prevent complications, and support recovery, particularly in the immunocompromised patients. In addition, we discuss recent advancements in the development of prophylactic vaccine for Mpox, including ACAM2000, LC16m8, JYNNEOS (MVA), and others. Future research directions include exploiting the conserved Mpox antigens to develop safer and more broadly protective vaccines. There is also an urgent need for international collaborations in surveillance, rapid response systems and comprehensive OMICS studies for understanding the viral evolution and mutations, which will greatly aid vaccine design and therapeutic strategies to combat Mpox.",
+  "keywords": [
+    "immunity",
+    "mRNA vaccines",
+    "monkeypox",
+    "orthopoxviruses",
+    "pathogenesis",
+    "vaccines"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2026-01-10",
+  "published_print": "2026-01",
+  "online_year": 2026,
+  "pmid": "41518080",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Anjali",
+      "family": "Prajapati",
+      "orcid": null
+    },
+    {
+      "given": "Rithika",
+      "family": "Jella",
+      "orcid": null
+    },
+    {
+      "given": "Meghana Reddy",
+      "family": "Dendi",
+      "orcid": null
+    },
+    {
+      "given": "Sumithra",
+      "family": "Salla",
+      "orcid": null
+    },
+    {
+      "given": "Suprabhat",
+      "family": "Mukherjee",
+      "orcid": "https://orcid.org/0000-0002-5709-9190"
+    },
+    {
+      "given": "Jagadeesh",
+      "family": "Bayry",
+      "orcid": null
+    },
+    {
+      "given": "Rajitha Rajeshwar",
+      "family": "Tatikonda",
+      "orcid": null
+    },
+    {
+      "given": "Haitao",
+      "family": "Hu",
+      "orcid": null
+    },
+    {
+      "given": "Srinivasa Reddy",
+      "family": "Bonam",
+      "orcid": "https://orcid.org/0000-0002-2888-2418"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Monkeypox virus",
+    "Zoonoses",
+    "Antiviral Agents",
+    "Disease Outbreaks",
+    "Evolution, Molecular",
+    "Host-Pathogen Interactions",
+    "Mpox, Monkeypox"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70103",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70103",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41518080/",
+    "europe_pmc": "https://europepmc.org/article/MED/41518080"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

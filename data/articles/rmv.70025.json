@@ -1,0 +1,109 @@
+{
+  "doi": "10.1002/rmv.70025",
+  "title": "Dengue Virus Life Cycle and Host Protein Interactions: Focus on RNA Binding Proteins and Therapeutic Advances",
+  "crossref_title": "Dengue Virus Life Cycle and Host Protein Interactions: Focus on RNA Binding Proteins and Therapeutic Advances",
+  "abstract": "Dengue, a widespread arthropod-borne viral disease, remains endemic in more than 100 nations, affecting over 40% of the world's population, with millions of cases reported annually, and has a major burden on global public health systems. The causative agent of this infection is the dengue virus which belongs to the Flaviviridae family of RNA viruses. The DENV infection leads to a broad spectrum of clinical symptoms, ranging from mild to severe, and even fatal in the cases of secondary infection. In the absence of promising antiviral therapies or vaccines to effectively combat the infection, understanding the interaction between the host and pathogen, along with the associated molecular mechanisms, is crucial. In this review, we focused on the specialised functions of various RNA-binding proteins (RBPs) and their roles at various stages of the viral life cycle. This review examines the intricate interplay between viral and host cellular factors. Notably, numerous host RBPs, including La, eIF2, PTBP1, YBX1, and other hnRNPs, interact with viral components, such as NS2A, NS2B, NS3, NS4A, NS4B and NS5, and most importantly, the viral UTRs (untranslated regions), to facilitate critical stages of the viral life cycle. We comprehensively compiled the specific roles of RBPs in the dengue virus life cycle, including viral entry, translation, transcription, and assembly, and further explored the therapeutic possibilities.",
+  "keywords": [
+    "DENV assembly and egress",
+    "RNA binding proteins",
+    "dengue virus",
+    "replication complex",
+    "translation to replication switch",
+    "viral uncoating"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-03-06",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "40050049",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Anjali",
+      "family": "Singh",
+      "orcid": null
+    },
+    {
+      "given": "Riya",
+      "family": "Roy",
+      "orcid": null
+    },
+    {
+      "given": "Kinjal",
+      "family": "Singh",
+      "orcid": null
+    },
+    {
+      "given": "Preeti",
+      "family": "Sokhal",
+      "orcid": null
+    },
+    {
+      "given": "Shariya",
+      "family": "Afroj",
+      "orcid": null
+    },
+    {
+      "given": "Sushant",
+      "family": "Phadnis",
+      "orcid": null
+    },
+    {
+      "given": "Ravi Kumar",
+      "family": "Y.S",
+      "orcid": null
+    },
+    {
+      "given": "Bhupendra",
+      "family": "Verma",
+      "orcid": "https://orcid.org/0000-0003-1731-5335"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Dengue Virus",
+    "Dengue",
+    "RNA-Binding Proteins",
+    "Antiviral Agents",
+    "Virus Replication",
+    "Host-Pathogen Interactions"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70025",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70025",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40050049/",
+    "europe_pmc": "https://europepmc.org/article/MED/40050049"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

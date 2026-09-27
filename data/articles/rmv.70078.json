@@ -1,0 +1,80 @@
+{
+  "doi": "10.1002/rmv.70078",
+  "title": "Therapeutic Targeting of Osteogenic Signalling in Arboviral Musculoskeletal Disease",
+  "crossref_title": "Therapeutic Targeting of Osteogenic Signalling in Arboviral Musculoskeletal Disease",
+  "abstract": "In their review, Li et al. present a compelling framework linking arboviral infections to the dysregulation of osteogenic signalling pathways as a mechanistic basis for musculoskeletal complications. While we applaud this synthesis, our letter provides a critical appraisal to identify pivotal challenges that must be surmounted to translate this concept into viable therapies. We contend that the proposed strategy of targeting pathways like BMP or Wnt oversimplifies their profound context-dependency and pleiotropy, where systemic modulation risks unforeseen consequences like ectopic calcification or exacerbated inflammation. Furthermore, the causal nexus between direct viral manipulation of these pathways and indirect, bystander immunopathology remains ambiguously defined, critically impacting therapeutic choice. The translational pathway is further hampered by the lack of a temporal framework for intervention and the inadequacy of current preclinical models to mimic the human bone-immune-viral milieu. We conclude that while the hypothesis is innovative, its validation demands a more nuanced, systems-level research agenda that rigorously addresses these complexities before therapeutic potential can be realized.",
+  "keywords": [],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "6",
+  "published_online": "2025-11-11",
+  "published_print": "2025-11",
+  "online_year": 2025,
+  "pmid": "41220216",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Lin",
+      "family": "Yu",
+      "orcid": null
+    },
+    {
+      "given": "DuJiang",
+      "family": "Yang",
+      "orcid": null
+    },
+    {
+      "given": "Zhijun",
+      "family": "Ye",
+      "orcid": null
+    },
+    {
+      "given": "GuoYou",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0000-0003-0027-0572"
+    }
+  ],
+  "publication_types": [
+    "Letter",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Arbovirus Infections",
+    "Musculoskeletal Diseases",
+    "Signal Transduction",
+    "Osteogenesis",
+    "Review Literature as Topic"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70078",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70078",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41220216/",
+    "europe_pmc": "https://europepmc.org/article/MED/41220216"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

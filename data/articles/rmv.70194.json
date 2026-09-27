@@ -1,0 +1,94 @@
+{
+  "doi": "10.1002/rmv.70194",
+  "title": "The Role of the Medical Laboratory in Identifying ‘Super‐Spreaders’: Correlation Between Viral Load Kinetics and Human‐to‐Human Infectivity",
+  "crossref_title": "The Role of the Medical Laboratory in Identifying ‘Super‐Spreaders’: Correlation Between Viral Load Kinetics and Human‐to‐Human Infectivity",
+  "abstract": "Nipah virus (NiV) is a high-consequence zoonotic henipavirus characterised by severe encephalitis and respiratory distress, driving recurrent outbreaks with case fatality rates between 40% and 75% in India and Bangladesh. Within these outbreaks, 'super-spreading' dynamics play a critical role, where a small subset of individuals contributes to a disproportionately large share of secondary infections. To evaluate the relationship between human infectivity and viral load kinetics in Nipah virus infection and to define the role of the medical laboratory in identifying potential super-spreaders, a narrative review was conducted by executing a systematic search across PubMed, Scopus, and ScienceDirect for peer-reviewed literature published from 1998 to 2025. The qualitative synthesis demonstrated that NiV infectivity is highly dependent on specimen matrix efficiency and anatomical shedding patterns. Respiratory specimens yield the highest viral RNA copy numbers during the acute symptomatic phase, correlating strongly with active droplet transmission. Persistent real-time RT-PCR Cycle Threshold values below 25 (Ct < 25) in respiratory samples serve as an indirect laboratory indicator of high-risk shedders and should be interpreted alongside clinical and epidemiological findings. However, a comprehensive analysis indicates that super-spreading is inherently multifactorial. Early identification via frontline molecular diagnostics remains the cornerstone of breaking NiV transmission chains. Although a standalone viral load threshold is insufficient to predict a spreading event on its own, the medical laboratory provides an essential risk profile by combining longitudinal Ct kinetics with clinical and exposure data. Strengthening regional laboratory infrastructure and deploying standardized point-of-care molecular assays in endemic, resource-limited areas are urgent public health priorities.",
+  "keywords": [
+    "biosafety",
+    "cycle threshold (ct) value",
+    "henipavirus",
+    "laboratory diagnosis",
+    "nipah virus",
+    "real‐time RT‐PCR",
+    "viral load kinetics"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-08-17",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42605787",
+  "pmcid": "PMC13479327",
+  "authors": [
+    {
+      "given": "Yashvi",
+      "family": "Gupta",
+      "orcid": "https://orcid.org/0009-0008-7638-7658"
+    },
+    {
+      "given": "Anjali",
+      "family": "Verma",
+      "orcid": "https://orcid.org/0009-0000-9106-0049"
+    },
+    {
+      "given": "Yashika",
+      "family": "Bhardwaj",
+      "orcid": "https://orcid.org/0000-0002-9338-9179"
+    },
+    {
+      "given": "Munish",
+      "family": "Rastogi",
+      "orcid": "https://orcid.org/0009-0004-5745-8853"
+    },
+    {
+      "given": "Alka",
+      "family": "Katiyar",
+      "orcid": "https://orcid.org/0000-0002-3462-0609"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Nipah Virus",
+    "Henipavirus Infections",
+    "Viral Load",
+    "Disease Outbreaks",
+    "Kinetics"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70194",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70194",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42605787/",
+    "europe_pmc": "https://europepmc.org/article/MED/42605787"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

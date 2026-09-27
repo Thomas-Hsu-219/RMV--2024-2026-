@@ -1,0 +1,118 @@
+{
+  "doi": "10.1002/rmv.70002",
+  "title": "The Association Between Male Viral Infections and Infertility: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "The Association Between Male Viral Infections and Infertility: A Systematic Review and Meta‐Analysis",
+  "abstract": "Infertility affects approximately one-sixth of couples worldwide, with male factors contributing to half of all cases. However, infections, particularly those of reproductive tract, are increasingly recognized as important contributors to male infertility. Therefore, in this meta-analysis, we focused on the impact of various viral infections on male infertility. We searched PubMed, Embase, Web of Science and Cochrane Library on 20 October 2023. And included 135 studies involving 30,298 men of reproductive age. We found that the human papilloma virus (HPV)-infected group had a significantly higher DNA fragmentation index (DFI) than the non-infected group, with a mean difference (MD) of 5.64 (95% CI: 3.74-7.54). Conversely, the HPV-infected group had significantly lower sperm count, concentration, viability and normal morphology. Other viruses that affect semen quality include hepatitis B virus (HBV), hepatitis C virus (HCV), human immunodeficiency virus (HIV) and severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). HBV significantly decreased fertilization rate, with an odds ratio (OR) of 0.86 (95% CI: 0.76-0.99). HPV associated with lower clinical pregnancy rate (OR: 0.31 [95% CI: 0.16-0.62]) and higher miscarriage rate (OR: 5.28 [95% CI: 2.02-13.78]). Additionally, the fertility treatment group had a significantly higher rate of HPV infection (OR: 1.85 [95% CI: 1.10-3.12]) and adeno-associated virus (AAV) infection (OR: 8.49 [95% CI: 2.66-27.10]) than the fertility group. Conclusively, most viral infections affect semen quality, while HBV and HPV may affect assisted reproductive technology (ART) outcomes. HPV and AAV are risk factors for infertility.",
+  "keywords": [
+    "ART",
+    "infection",
+    "infertility",
+    "pregnancy",
+    "semen",
+    "virus"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "6",
+  "published_online": "2024-11-13",
+  "published_print": "2024-11",
+  "online_year": 2024,
+  "pmid": "39537384",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Yan",
+      "family": "Guo",
+      "orcid": "https://orcid.org/0009-0009-2971-4537"
+    },
+    {
+      "given": "Guozhong",
+      "family": "Zhou",
+      "orcid": null
+    },
+    {
+      "given": "Yun",
+      "family": "Feng",
+      "orcid": null
+    },
+    {
+      "given": "Jie",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Yang",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Xianyao",
+      "family": "Yang",
+      "orcid": null
+    },
+    {
+      "given": "Pan",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Yue",
+      "family": "Feng",
+      "orcid": "https://orcid.org/0000-0002-2718-0836"
+    },
+    {
+      "given": "Xueshan",
+      "family": "Xia",
+      "orcid": "https://orcid.org/0000-0003-1120-8870"
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Meta-Analysis",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Virus Diseases",
+    "Papillomavirus Infections",
+    "Infertility, Male",
+    "DNA Fragmentation",
+    "Pregnancy",
+    "Female",
+    "Male",
+    "Semen Analysis",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70002",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70002",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39537384/",
+    "europe_pmc": "https://europepmc.org/article/MED/39537384"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

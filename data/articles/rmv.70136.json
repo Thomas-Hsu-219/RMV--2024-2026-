@@ -1,0 +1,88 @@
+{
+  "doi": "10.1002/rmv.70136",
+  "title": "LRP‐1 as Target of Broad‐Specific Antivirals: Benefits, Risks and Challenges",
+  "crossref_title": "LRP‐1 as Target of Broad‐Specific Antivirals: Benefits, Risks and Challenges",
+  "abstract": "Low-density lipoprotein receptor-related protein 1 (LRP-1) is a highly pleiotropic protein involved in the regulation of numerous signalling pathways and interacts with more than 70 different ligands, including viral particles. Recent studies have shown that LRP-1 is the receptor for a spectrum of viruses of great relevance to human and animal health. Rift Valley fever virus (RVFV), Oropouche virus (OROV), Severe fever with thrombocytopaenia syndrome virus (SFTSV), Dengue virus (DENV), Sicilian sandfly fever virus (SFSV), La Crosse virus (LACV), Jamestown Canyon virus (JCV), and Chandipura virus (CHPV) interact with LRP-1 for their infection in mammalian hosts cells. They are included in the arbovirus group, provoke acute disease with significant health implications and present a high risk of transmission from their endemic regions. Currently, none of these viruses have a specific antiviral or vaccine for the treatment of the disease, therefore the development of an antiviral blocking LRP-1 functions would have great scope and potential. In this review, we searched for the current evidence of the validation of LRP-1 as a cellular target for a wide range of RNA genome viruses, highlighting common features of these viruses and the regulation of LRP-1 mediated intracellular signalling in different cell types. In addition, the advantages of an antiviral using LRP-1 as molecular target are discussed, along with the risks and challenges involved in blocking its activity.",
+  "keywords": [
+    "LDL family",
+    "drug target",
+    "low‐density lipoprotein receptor‐related protein 1 (LRP‐1)",
+    "viral disease"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-05-14",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42132128",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Daniela Isabel",
+      "family": "Maldonado‐Bauzá",
+      "orcid": "https://orcid.org/0009-0005-9082-4146"
+    },
+    {
+      "given": "Luis Gabriel",
+      "family": "González‐Lodeiro",
+      "orcid": "https://orcid.org/0000-0002-4375-4342"
+    },
+    {
+      "given": "Li",
+      "family": "Wen",
+      "orcid": "https://orcid.org/0009-0005-5515-8272"
+    },
+    {
+      "given": "Vivian Huerta",
+      "family": "Galindo",
+      "orcid": "https://orcid.org/0000-0002-6731-1757"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Viruses",
+    "Virus Diseases",
+    "Receptors, Virus",
+    "Antiviral Agents",
+    "Signal Transduction",
+    "Host-Pathogen Interactions",
+    "Low Density Lipoprotein Receptor-Related Protein-1"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70136",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70136",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42132128/",
+    "europe_pmc": "https://europepmc.org/article/MED/42132128"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,118 @@
+{
+  "doi": "10.1002/rmv.70188",
+  "title": "Human Sapovirus in the Post‐Rotavirus Vaccine Era: From an Overlooked Gastroenteritis Pathogen to a Target for Precision Surveillance",
+  "crossref_title": "Human Sapovirus in the Post‐Rotavirus Vaccine Era: From an Overlooked Gastroenteritis Pathogen to a Target for Precision Surveillance",
+  "abstract": "Human sapovirus (HuSaV) has long occupied a peripheral position in etiological research on acute gastroenteritis. However, in the context of widespread rotavirus vaccination, the pathogen spectrum of childhood diarrhoea has been reshaped; molecular diagnostics have continued to evolve; and evidence from birth cohorts and environmental surveillance has accumulated. Together, these developments have prompted a systematic reassessment of the public health significance of HuSaV in childhood diarrhoea, outbreaks in childcare facilities and schools, asymptomatic infection, and persistent infection in immunocompromised hosts. Here, we review key advances in HuSaV research across disease burden and epidemiological patterns, genome organization and evolution, natural history and immune responses, experimental models and host interactions, complex clinical phenotypes, and surveillance-to-public-health translation. We further propose priority directions for the next 5 years, including the establishment of standardized antigen panels and reference strain repositories, integration of serological and genotyping data within longitudinal cohorts, elucidation of viral receptor recognition, cell entry and immune-evasion mechanisms, and the development of closed-loop linkages between experimental-model research and population-level surveillance systems. Overall, HuSaV has evolved from a historically underestimated pathogen associated with acute gastroenteritis in infants and young children into a key enteric viral pathogen that requires dedicated surveillance, mechanistic investigation and translational intervention strategies in the post-rotavirus vaccine era. The research paradigm is likewise shifting from descriptive epidemiology towards an integrated framework that combines disease burden, host immunity, experimental systems and transmission surveillance.",
+  "keywords": [
+    "acute gastroenteritis",
+    "genotype‐specific immunity",
+    "host interactions",
+    "human sapovirus",
+    "surveillance and translation"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-07-21",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42479772",
+  "pmcid": "PMC13387511",
+  "authors": [
+    {
+      "given": "Chunhua",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0000-0002-9308-3970"
+    },
+    {
+      "given": "Yanfei",
+      "family": "Tong",
+      "orcid": "https://orcid.org/0009-0004-7203-483X"
+    },
+    {
+      "given": "Jiali",
+      "family": "Sun",
+      "orcid": "https://orcid.org/0009-0009-0097-2225"
+    },
+    {
+      "given": "Wenqi",
+      "family": "Chai",
+      "orcid": "https://orcid.org/0009-0000-3413-2608"
+    },
+    {
+      "given": "Jianzhong",
+      "family": "Zhao",
+      "orcid": null
+    },
+    {
+      "given": "Lijuan",
+      "family": "Yin",
+      "orcid": "https://orcid.org/0000-0002-3269-0902"
+    },
+    {
+      "given": "Yang",
+      "family": "Yang",
+      "orcid": "https://orcid.org/0000-0002-6489-4459"
+    },
+    {
+      "given": "Liang",
+      "family": "Shen",
+      "orcid": "https://orcid.org/0000-0002-6688-959X"
+    },
+    {
+      "given": "Wenjie",
+      "family": "Tan",
+      "orcid": "https://orcid.org/0000-0002-5963-1136"
+    },
+    {
+      "given": "Ji",
+      "family": "Zhang",
+      "orcid": "https://orcid.org/0009-0007-7883-6018"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Sapovirus",
+    "Caliciviridae Infections",
+    "Gastroenteritis",
+    "Rotavirus Vaccines",
+    "Genotype",
+    "Epidemiological Monitoring"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70188",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70188",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42479772/",
+    "europe_pmc": "https://europepmc.org/article/MED/42479772"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

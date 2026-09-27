@@ -1,0 +1,93 @@
+{
+  "doi": "10.1002/rmv.2493",
+  "title": "Role of the VEGF in virus‐associated cancers",
+  "crossref_title": "Role of the VEGF in virus‐associated cancers",
+  "abstract": "The role of numerous risk factors, including consumption of alcohol, smoking, having diet high in fat and sugar and many other items, on caner progression cannot be denied. Viral diseases are one these factors, and they can initiate some signalling pathways causing cancer. For example, they can be effective on providing oxygen and nutrients by inducing VEGF expression. In this review article, we summarised the mechanisms of angiogenesis and VEGF expression in cancerous tissues which are infected with oncoviruses (Epstein-Barr virus, Human papillomavirus infection, Human T-lymphotropic virus, Kaposi's sarcoma-associated herpesvirus, Hepatitis B and hepatitis C virus).",
+  "keywords": [
+    "EBV",
+    "HBV",
+    "HCV",
+    "HIV",
+    "HPV",
+    "HTLV",
+    "KSHV"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-12-11",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "38078693",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Shaian",
+      "family": "Tavakolian",
+      "orcid": null
+    },
+    {
+      "given": "Seidamir Pasha",
+      "family": "Tabaeian",
+      "orcid": null
+    },
+    {
+      "given": "Abolfazl",
+      "family": "Namazi",
+      "orcid": null
+    },
+    {
+      "given": "Ebrahim",
+      "family": "Faghihloo",
+      "orcid": "https://orcid.org/0000-0002-8669-305X"
+    },
+    {
+      "given": "Abolfazl",
+      "family": "Akbari",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Herpesvirus 4, Human",
+    "Herpesvirus 8, Human",
+    "Virus Diseases",
+    "Epstein-Barr Virus Infections",
+    "Neoplasms",
+    "Vascular Endothelial Growth Factor A"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2493",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2493",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38078693/",
+    "europe_pmc": "https://europepmc.org/article/MED/38078693"
+  },
+  "copyright_statement": "© 2023 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

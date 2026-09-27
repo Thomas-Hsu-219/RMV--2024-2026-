@@ -1,0 +1,114 @@
+{
+  "doi": "10.1002/rmv.2564",
+  "title": "Liver involvement in dengue: A systematic review",
+  "crossref_title": "Liver involvement in dengue: A systematic review",
+  "abstract": "Liver involvement is an unusual yet frequently overlooked dengue complication. Pivotal for an efficient clinical management, the early diagnosis of dengue-associated liver involvement relies on an accurate description of its clinical and biological characteristics, its prognosis factors, its association with severe dengue and its clinical management. We conducted a systematic review by searching PubMed and Web of Science databases for original case reports, cohort and cross-sectional studies reporting the clinical and/or biological features of dengue-associated liver involvement. The study was registered in PROSPERO (CRD42021262657). Of the 2552 articles identified, 167 were included. Dengue-associated liver involvement was characterised by clinical features including abdominal pain, hepatomegaly, jaundice, nausea/vomiting, and an echogenic liver exhibiting hepatocellular necrosis and minimal inflammation. Elevated Aspartate Aminotransferase and Alanine Aminotransferase but also elevated bilirubin, Alkaline Phosphatase, gamma-glutamyl transferase, increased International Normalised Ratio, creatinine and creatine kinase, lower albumin and prolonged prothrombin and activated partial thromboplastin time were prevalent in dengue-associated liver involvement. Cardiovascular and haematological systems were frequently affected, translating in a strong association with severe dengue. Liver involvement was more common in males and older adults. It was associated with dengue virus serotype-2 and secondary infections. Early paracetamol intake increased the risk of liver involvement, which clinical management was mostly conservative. In conclusion, this systematic review demonstrates that early monitoring of transaminases, clinical assessment, and ultrasound examination allow an efficient diagnosis of dengue-associated liver involvement, enabling the early identification and management of severe dengue.",
+  "keywords": [
+    "alanine transaminase",
+    "aspartate aminotranferase",
+    "dengue",
+    "liver failure",
+    "severe dengue"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-25",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38923215",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Valentine",
+      "family": "Campana",
+      "orcid": null
+    },
+    {
+      "given": "Catherine",
+      "family": "Inizan",
+      "orcid": "https://orcid.org/0000-0003-1933-1515"
+    },
+    {
+      "given": "Jean‐David",
+      "family": "Pommier",
+      "orcid": null
+    },
+    {
+      "given": "Luce Yemadje",
+      "family": "Menudier",
+      "orcid": null
+    },
+    {
+      "given": "Muriel",
+      "family": "Vincent",
+      "orcid": null
+    },
+    {
+      "given": "Marc",
+      "family": "Lecuit",
+      "orcid": "https://orcid.org/0000-0002-4491-1063"
+    },
+    {
+      "given": "Xavier De",
+      "family": "Lamballerie",
+      "orcid": null
+    },
+    {
+      "given": "Myrielle",
+      "family": "Dupont‐Rouzeyrol",
+      "orcid": null
+    },
+    {
+      "given": "Bernadette",
+      "family": "Murgue",
+      "orcid": null
+    },
+    {
+      "given": "André",
+      "family": "Cabié",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Liver",
+    "Humans",
+    "Dengue Virus",
+    "Dengue",
+    "Liver Diseases"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2564",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2564",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38923215/",
+    "europe_pmc": "https://europepmc.org/article/MED/38923215"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,151 @@
+{
+  "doi": "10.1002/rmv.2500",
+  "title": "Targeting epidermal growth factor receptor signalling pathway: A promising therapeutic option for COVID‐19",
+  "crossref_title": "Targeting epidermal growth factor receptor signalling pathway: A promising therapeutic option for COVID‐19",
+  "abstract": "The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is continuously producing new variants, necessitating effective therapeutics. Patients are not only confronted by the immediate symptoms of infection but also by the long-term health issues linked to long COVID-19. Activation of epidermal growth factor receptor (EGFR) signalling during SARS-CoV-2 infection promotes virus propagation, mucus hyperproduction, and pulmonary fibrosis, and suppresses the host's antiviral response. Over the long term, EGFR activation in COVID-19, particularly in COVID-19-induced pulmonary fibrosis, may be linked to the development of lung cancer. In this review, we have summarised the significance of EGFR signalling in the context of SARS-CoV-2 infection. We also discussed the targeting of EGFR signalling as a promising strategy for COVID-19 treatment and highlighted erlotinib as a superior option among EGFR inhibitors. Erlotinib effectively blocks EGFR and AAK1, thereby preventing SARS-CoV-2 replication, reducing mucus hyperproduction, TNF-α expression, and enhancing the host's antiviral response. Nevertheless, to evaluate the antiviral efficacy of erlotinib, relevant clinical trials involving an appropriate patient population should be designed.",
+  "keywords": [
+    "COVID-19",
+    "EGFR inhibitor",
+    "SARS-CoV-2",
+    "epidermal growth factor receptor (EGFR) activation",
+    "erlotinib",
+    "lung cancer",
+    "pulmonary fibrosis"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-12-21",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "38126937",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Aroona",
+      "family": "Razzaq",
+      "orcid": null
+    },
+    {
+      "given": "Cyrollah",
+      "family": "Disoma",
+      "orcid": null
+    },
+    {
+      "given": "Yuzheng",
+      "family": "Zhou",
+      "orcid": null
+    },
+    {
+      "given": "Siyi",
+      "family": "Tao",
+      "orcid": null
+    },
+    {
+      "given": "Zongpeng",
+      "family": "Chen",
+      "orcid": null
+    },
+    {
+      "given": "Sixu",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Rong",
+      "family": "Zheng",
+      "orcid": null
+    },
+    {
+      "given": "Yongxing",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Yujie",
+      "family": "Liao",
+      "orcid": null
+    },
+    {
+      "given": "Xuan",
+      "family": "Chen",
+      "orcid": null
+    },
+    {
+      "given": "Sijie",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Zijun",
+      "family": "Dong",
+      "orcid": null
+    },
+    {
+      "given": "Liangtao",
+      "family": "Xu",
+      "orcid": null
+    },
+    {
+      "given": "Xu",
+      "family": "Deng",
+      "orcid": null
+    },
+    {
+      "given": "Shanni",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Zanxian",
+      "family": "Xia",
+      "orcid": "https://orcid.org/0000-0002-5810-1678"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Pulmonary Fibrosis",
+    "Antiviral Agents",
+    "Signal Transduction",
+    "ErbB Receptors",
+    "Erlotinib Hydrochloride",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Post-Acute COVID-19 Syndrome",
+    "COVID-19 Drug Treatment"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2500",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2500",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38126937/",
+    "europe_pmc": "https://europepmc.org/article/MED/38126937"
+  },
+  "copyright_statement": "© 2023 The Authors. Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

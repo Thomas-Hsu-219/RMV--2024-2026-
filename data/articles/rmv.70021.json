@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/rmv.70021",
+  "title": "Rethinking Paediatric Respiratory Infections: The Role of Mixed Pathogen Infections",
+  "crossref_title": "Rethinking Paediatric Respiratory Infections: The Role of Mixed Pathogen Infections",
+  "abstract": "Acute respiratory infections (ARIs) stand as a significant cause of morbidity and mortality among children worldwide, contributing substantially to paediatric hospitalisation rates. ARIs stem from various pathogens, including bacteria, viruses, among others. With the advent of novel diagnostic techniques like molecular detection methods, the identification rate of multiple pathogens in paediatric ARIs is steadily rising. However, there is currently no consensus on the impact of mixed infections on the severity of respiratory infections in children. This narrative review summarises existing research indicating that the co-detection rate of multiple viruses among paediatric patients with ARIs ranged from 0.07% to 55%. Multi-virus coinfections did not appear to increase the severity of the disease in children because of viral interference, immune modulation, etc. Conversely, mixed infection of virus and bacteria may exacerbate disease severity through many mechanisms, such as synergistic activation of inflammation, diminished repair efficiency, increased transmission and release and so on. The insights provide aim to improve diagnostic precision and treatment strategies for paediatric ARIs, ultimately reducing complications and mortality rates associated with ARIs in children.",
+  "keywords": [
+    "acute respiratory infection",
+    "bacteria",
+    "children",
+    "mixed infections",
+    "virus"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-02-25",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "40000823",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jinjin",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Ran",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0000-0002-0243-8538"
+    },
+    {
+      "given": "Zhengde",
+      "family": "Xie",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Viruses",
+    "Bacterial Infections",
+    "Respiratory Tract Infections",
+    "Virus Diseases",
+    "Child",
+    "Child, Preschool",
+    "Coinfection"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70021",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70021",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40000823/",
+    "europe_pmc": "https://europepmc.org/article/MED/40000823"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

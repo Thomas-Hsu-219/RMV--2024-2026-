@@ -1,0 +1,101 @@
+{
+  "doi": "10.1002/rmv.70111",
+  "title": "Chapare Virus: A Re‐Emerging Zoonotic Arenavirus With Limited Preparedness",
+  "crossref_title": "Chapare Virus: A Re‐Emerging Zoonotic Arenavirus With Limited Preparedness",
+  "abstract": "Chapare virus (CHAPV) is an emerging New World arenavirus that causes Chapare haemorrhagic fever (CHHF), a severe and often fatal illness. First identified in Bolivia in 2003, CHAPV remains geographically limited but has shown potential for nosocomial transmission. It causes symptoms similar to other viral haemorrhagic fevers, including fever, muscle pain, bleeding, and neurological complications. The virus is primarily spread through contact with infected rodents, although limited human-to-human transmission has been documented. CHAPV has a bisegmented RNA genome with ambisense polarity. It shares structural features with other arenaviruses but contains unique mutations that may affect its ability to replicate and evade the immune system. The virus targets immune cells, disrupts normal responses, and causes widespread inflammation and vascular damage. No vaccine or antiviral treatment is currently available. This review compares CHAPV with other arenaviruses such as Lassa, Junín, Machupo, Guanarito, and Sabia viruses. While some of these viruses have vaccines or experimental treatments, CHAPV lacks both. Diagnostic challenges, poor surveillance, and underreporting further limit understanding of its true burden. We highlight the urgent need for improved diagnostics, genomic surveillance, and development of medical countermeasures. A One Health approach-linking human, animal, and environmental health is essential for early detection and prevention of future outbreaks. Given its clinical severity and potential for spread, CHAPV represents a neglected but serious global health threat that requires immediate research and policy attention.",
+  "keywords": [
+    "chapare virus",
+    "haemorrhagic",
+    "one health",
+    "reservoirs",
+    "surveillance",
+    "zoonosis"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-02-04",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41640223",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Sabrina",
+      "family": "Sharmin",
+      "orcid": null
+    },
+    {
+      "given": "Asef",
+      "family": "Raj",
+      "orcid": "https://orcid.org/0009-0002-3006-6206"
+    },
+    {
+      "given": "Md. Atik",
+      "family": "Zawad",
+      "orcid": null
+    },
+    {
+      "given": "Afnan",
+      "family": "Jahan",
+      "orcid": null
+    },
+    {
+      "given": "Zubaier",
+      "family": "Ahmed",
+      "orcid": null
+    },
+    {
+      "given": "Mossamat Umul",
+      "family": "Khair Fatema",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Arenaviruses, New World",
+    "Communicable Diseases, Emerging",
+    "Zoonoses",
+    "Arenaviridae Infections",
+    "Hemorrhagic Fever, American",
+    "Hemorrhagic Fevers, Viral",
+    "Genome, Viral",
+    "Viral Zoonoses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70111",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70111",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41640223/",
+    "europe_pmc": "https://europepmc.org/article/MED/41640223"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

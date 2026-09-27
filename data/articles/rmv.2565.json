@@ -1,0 +1,95 @@
+{
+  "doi": "10.1002/rmv.2565",
+  "title": "Infectious viruses and neurodegenerative diseases: The mitochondrial defect hypothesis",
+  "crossref_title": "Infectious viruses and neurodegenerative diseases: The mitochondrial defect hypothesis",
+  "abstract": "Global attention is riveted on neurodegenerative diseases due to their unresolved aetiologies and lack of efficacious therapies. Two key factors implicated include mitochondrial impairment and microglial ageing. Several viral infections, including Herpes simplex virus-1 (HSV-1), human immunodeficiency virus (HIV) and Epstein-Barr virus, are linked to heightened risk of these disorders. Surprisingly, numerous studies indicate viruses induce these aforementioned precipitating events. Epstein-Barr virus, Hepatitis C Virus, HIV, respiratory syncytial virus, HSV-1, Japanese Encephalitis Virus, Zika virus and Enterovirus 71 specifically impact mitochondrial function, leading to mitochondrial malfunction. These vital organelles govern various cell activities and, under specific circumstances, trigger microglial ageing. This article explores the role of viral infections in elucidating the pathogenesis of neurodegenerative ailments. Various viruses instigate microglial ageing via mitochondrial destruction, causing senescent microglia to exhibit activated behaviour, thereby inducing neuroinflammation and contributing to neurodegeneration.",
+  "keywords": [
+    "microglia",
+    "mitochondria",
+    "neurodegenerative disease",
+    "neuroinflammation",
+    "virus"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-21",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "39031738",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Tianshi",
+      "family": "Jiang",
+      "orcid": null
+    },
+    {
+      "given": "Kaili",
+      "family": "Zhu",
+      "orcid": null
+    },
+    {
+      "given": "Guangli",
+      "family": "Kang",
+      "orcid": null
+    },
+    {
+      "given": "Guojun",
+      "family": "Wu",
+      "orcid": null
+    },
+    {
+      "given": "Lili",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Yurong",
+      "family": "Tan",
+      "orcid": "https://orcid.org/0000-0002-0283-2105"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Microglia",
+    "Mitochondria",
+    "Animals",
+    "Humans",
+    "Virus Diseases",
+    "Neurodegenerative Diseases"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2565",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2565",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39031738/",
+    "europe_pmc": "https://europepmc.org/article/MED/39031738"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

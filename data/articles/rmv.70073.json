@@ -1,0 +1,103 @@
+{
+  "doi": "10.1002/rmv.70073",
+  "title": "The Dual Role of Autophagy in the Pathogenesis of Arboviruses With a Focus on JEV and DENV",
+  "crossref_title": "The Dual Role of Autophagy in the Pathogenesis of Arboviruses With a Focus on JEV and DENV",
+  "abstract": "Japanese encephalitis virus (JEV) and dengue virus (DENV) are two major arboviruses known as significant public health issues worldwide. Arboviruses are a heterogeneous group of vector-borne viruses that are clinically associated with various consequences ranging from asymptomatic infections to serious forms of haemorrhagic fever marked by bleeding complications. Despite advancements in understanding the pathogenesis of arboviruses the molecular mechanisms underlying clinical outcomes remain incompletely understood. Autophagy, a cellular process crucial for maintaining homeostasis through the degradation and recycling of cellular components, has emerged as a key player in viral infections. Recent studies have highlighted the dual role of autophagy in modulating the host-pathogen interaction, where it may serve as both a defence mechanism against viral replication and a tool exploited by viruses to enhance survival. In the case of arboviruses, autophagy appears to influence viral replication and modulate the host immune response, contributing to both viral persistence and the extent of clinical outcomes. This review describes the role of autophagy in the pathogenesis of JEV and DENV, focusing on the molecular mechanisms that govern autophagic processes and their interaction with JEV and DENV replication. It shows that how JEV and DENV manipulates host autophagic machinery to its advantage, the impact of autophagic dysregulation on disease severity, and potential therapeutic strategies targeting autophagy to mitigate viral encephalitis. Understanding the intricate balance between autophagy and JEV and DENV may provide novel insights into therapeutic approaches for combating these viruses.",
+  "keywords": [
+    "autophagy",
+    "dengue virus",
+    "encephalitis",
+    "japanese encephalitis virus"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "5",
+  "published_online": "2025-09-22",
+  "published_print": "2025-09",
+  "online_year": 2025,
+  "pmid": "40984714",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "HaoNing",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "YuHan",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "YuFei",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Xi",
+      "family": "Chen",
+      "orcid": null
+    },
+    {
+      "given": "XiaoDi",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "XiaoLong",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "ShaoPeng",
+      "family": "Yu",
+      "orcid": "https://orcid.org/0009-0008-1281-0226"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Dengue Virus",
+    "Encephalitis Virus, Japanese",
+    "Dengue",
+    "Encephalitis, Japanese",
+    "Virus Replication",
+    "Autophagy",
+    "Host-Pathogen Interactions"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70073",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70073",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40984714/",
+    "europe_pmc": "https://europepmc.org/article/MED/40984714"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

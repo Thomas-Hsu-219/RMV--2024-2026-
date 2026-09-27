@@ -1,0 +1,89 @@
+{
+  "doi": "10.1002/rmv.70146",
+  "title": "Risk Factors for Mortality in Patients With Novel Bunyavirus Infection: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Risk Factors for Mortality in Patients With Novel Bunyavirus Infection: A Systematic Review and Meta‐Analysis",
+  "abstract": "The pathogenesis of novel bunyavirus infection remains unclear, and severe cases progress rapidly with a relatively high case fatality rate, posing a serious threat to patient health. The study aimed to analyse the mortality rate and risk factors of novel Bunyavirus infection. We searched both English and Chinese databases from their inception until April 2025. Inclusion criteria were original cohort or case-control studies of patients with novel bunyavirus infection in which the clinical outcome was death. All included information was independently reviewed by at least two reviewers. Meta-analysis was conducted using R version 4.4.3 with the 'meta' and 'metafor' packages. A total of 31 studies involving 4682 patients were included in this systematic review. The pooled mortality rate for novel Bunyavirus infections was 23% (95% Confidence Interval (CI): 20%-27%). The following were identified as significant risk factors for mortality: age (Odds Ratio (OR) = 1.06, 95% CI = (1.01, 1.12)), haemorrhagic manifestations (OR = 10.37, 95% CI = (1.18, 91.05)), Glasgow Coma Scale scores (OR = 0.76, 95% CI = (0.66, 0.86)), neurological symptoms (OR = 6.04, 95% CI = (2.42, 15.07)), consciousness disorders (OR = 2.98, 95% CI = (1.26, 7.03)), Activated Partial Thromboplastin Time (OR = 1.07, 95% CI = (1.02, 1.13)), Thrombin Time (OR = 1.13, 95% CI = (1.03, 1.25)), Viral load (OR = 2.42, 95% CI = (1.89, 3.10)), Haematocrit-Serum albumin (OR = 1.14, 95% CI = (1.04, 1.26)), Aspartate aminotransferase/Alanine aminotransferase (OR = 2.88, 95% CI = (1.17, 7.06)), Lactate dehydrogenase (OR = 1.00, 95% CI = (1.00, 1.01)). This meta-analysis identified multiple factors associated with increased mortality from novel bunyavirus infection. Due to the substantial heterogeneity among the included studies, further high-quality research is needed to confirm these findings and establish a consensus.",
+  "keywords": [
+    "meta‐analysis",
+    "mortality",
+    "novel bunyavirus infection",
+    "risk factor"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-14",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "41980049",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Shan",
+      "family": "Niu",
+      "orcid": "https://orcid.org/0000-0001-9022-6094"
+    },
+    {
+      "given": "Xu",
+      "family": "Dong",
+      "orcid": null
+    },
+    {
+      "given": "Yaqin",
+      "family": "Feng",
+      "orcid": null
+    },
+    {
+      "given": "Zhimei",
+      "family": "Wu",
+      "orcid": null
+    },
+    {
+      "given": "Zengye",
+      "family": "Chen",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Orthobunyavirus",
+    "Bunyaviridae Infections",
+    "Risk Factors"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70146",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70146",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41980049/",
+    "europe_pmc": "https://europepmc.org/article/MED/41980049"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,123 @@
+{
+  "doi": "10.1002/rmv.70074",
+  "title": "Glecaprevir/Pibrentasvir Versus Sofosbuvir/Velpatasvir for Hepatitis C Virus Genotype 6: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Glecaprevir/Pibrentasvir Versus Sofosbuvir/Velpatasvir for Hepatitis C Virus Genotype 6: A Systematic Review and Meta‐Analysis",
+  "abstract": "The Hepatitis C virus genotype 6 (HCV GT6), found in mainland Southeast Asia and Southern China, poses treatment challenges due to its genetic diversity. This systematic review and meta-analysis compared the efficacy and safety of two pan-genotypic direct-acting antiviral regimens, glecaprevir/pibrentasvir (GLE/PIB) and sofosbuvir/velpatasvir (SOF/VEL), for treating chronic HCV GT6. We followed PRISMA guidelines and searched PubMed, Embase, and the Cochrane Library for trials and studies. The primary outcome was the 12-week sustained virologic response (SVR12). We performed single-arm meta-analyses of proportions using methods robust for proportion data with prevalent boundary values and calculated the pooled risk difference (RD) for head-to-head comparisons. Twenty-seven studies published between 2015 and 2025, comprising 1522 patients (451 GLE/PIB and 1071 SOF/VEL), were included. The pooled single-arm SVR12 rate for SOF/VEL was a highly consistent 99.0% (95% Confidence Interval (CI): 98.2%-99.4%). The initial pooled rate for GLE/PIB was 95.6% (95% CI: 93.2%-97.1%) with significant heterogeneity; however, a sensitivity analysis removing outlier studies yielded a rate of 99.2% (95% CI: 97.2%-99.8%) with no heterogeneity. Direct comparison across two studies found no significant difference in efficacy (pooled RD: 0.01, 95% CI: -0.01 to 0.02). Both regimens were exceptionally well-tolerated, with treatment discontinuation rates near zero. GLE/PIB and SOF/VEL are clinically equivalent to treating HCV GT6, achieving near-universal cure rates with excellent safety profiles. Regimen selection should consider practical factors such as GLE/PIB's shorter 8-week duration, comorbidities like cirrhosis, drug interaction profiles, and local cost-effectiveness, rather than minor efficacy differences.",
+  "keywords": [
+    "12‐week sustained virologic response (SVR12)",
+    "glecaprevir/pibrentasvir (GLE/PIB)",
+    "hepatitis C virus genotype 6 (HCV GT6)",
+    "pan‐genotypic",
+    "sofosbuvir/velpatasvir (SOF/VEL)"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "6",
+  "published_online": "2025-10-23",
+  "published_print": "2025-11",
+  "online_year": 2025,
+  "pmid": "41127976",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Duong Hoang Huy",
+      "family": "Le",
+      "orcid": null
+    },
+    {
+      "given": "Dinh Chuong",
+      "family": "Nguyen",
+      "orcid": null
+    },
+    {
+      "given": "Sitthichai",
+      "family": "Kanokudom",
+      "orcid": null
+    },
+    {
+      "given": "Jiratchaya",
+      "family": "Puenpa",
+      "orcid": null
+    },
+    {
+      "given": "Pornjarim",
+      "family": "Nilyanimit",
+      "orcid": null
+    },
+    {
+      "given": "Anh Ngoc",
+      "family": "Tran",
+      "orcid": null
+    },
+    {
+      "given": "Sittisak",
+      "family": "Honsawek",
+      "orcid": null
+    },
+    {
+      "given": "Yong",
+      "family": "Poovorawan",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Hepacivirus",
+    "Hepatitis C, Chronic",
+    "Lactams, Macrocyclic",
+    "Sulfonamides",
+    "Aminoisobutyric Acids",
+    "Carbamates",
+    "Cyclopropanes",
+    "Pyrrolidines",
+    "Benzimidazoles",
+    "Benzopyrans",
+    "Quinoxalines",
+    "Leucine",
+    "Proline",
+    "Drug Combinations",
+    "Antiviral Agents",
+    "Treatment Outcome",
+    "Genotype",
+    "Sofosbuvir",
+    "Heterocyclic Compounds, 4 or More Rings",
+    "Sustained Virologic Response"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70074",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70074",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41127976/",
+    "europe_pmc": "https://europepmc.org/article/MED/41127976"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

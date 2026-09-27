@@ -1,0 +1,108 @@
+{
+  "doi": "10.1002/rmv.2570",
+  "title": "Estimating the key outcomes and hepatocellular carcinoma risk in patients in immune‐tolerant phase of chronic hepatitis B virus infection: A systematic review and meta‐analysis",
+  "crossref_title": "Estimating the key outcomes and hepatocellular carcinoma risk in patients in immune‐tolerant phase of chronic hepatitis B virus infection: A systematic review and meta‐analysis",
+  "abstract": "The question of whether patients in the immune-tolerant (IT) phase of chronic hepatitis B virus (HBV) infection should undergo antiviral therapy and determine the optimal regimen remains unclear. A comprehensive search of PubMed, Embase, MEDLINE, Cochrane Library, and Wanfang Data from inception to 5 December 2023, was conducted. Studies reporting on key outcomes such as HBV DNA undetectability, HBeAg loss or seroconversion, HBsAg loss or seroconversion, and hepatocellular carcinoma (HCC) incidence in patients in the IT phase of chronic HBV infection were included. In total, 23 studies were incorporated. Approximately 4% of patients in the IT phase achieved spontaneous HBeAg loss over 48 weeks of follow-up. Antiviral therapy demonstrated a favourable impact on HBV DNA negative conversion (Children: risk ratios [RR] = 6.83, 95% CI: 2.90-16.05; Adults: RR = 25.84, 95% CI: 6.47-103.31) and HBsAg loss rates (Children: RR = 9.49, 95% CI: 1.74-51.76; Adults: RR = 7.35, 95% CI: 1.41-38.27) for patients in the IT phase. Subgroup analysis revealed that in adult patients in the IT phase, interferon plus nucleos(t)ide analogues (NA)-treated patients exhibited a higher pooled rate of HBsAg loss or seroconversion than those treated with NA monotherapy (9% vs. 0%). Additionally, the pooled annual HCC incidence for patients in the IT phase was 3.03 cases per 1000 person-years (95% CI: 0.99-5.88). Adult patients in the IT phase had a significantly lower HCC incidence risk than HBeAg-positive indeterminate phase patients (RR = 0.46, 95% CI: 0.32-0.66), with no significant differences observed between IT and immune-active phases. Presently, there is insufficient evidence solely based on reducing the risk of HCC incidence, to recommend treating patients in the IT phase of chronic HBV infection. However, both adult and paediatric patients in the IT phase responded well to antiviral therapy, showing favourable rates of HBsAg loss or seroconversion.",
+  "keywords": [
+    "adult",
+    "children",
+    "chronic hepatitis B",
+    "immune tolerance",
+    "meta‐analysis"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-07-04",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38964866",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Min",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Taixue",
+      "family": "Zhao",
+      "orcid": null
+    },
+    {
+      "given": "Jinyang",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Bing",
+      "family": "Bu",
+      "orcid": null
+    },
+    {
+      "given": "Ruyi",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Xueshan",
+      "family": "Xia",
+      "orcid": null
+    },
+    {
+      "given": "Jiawei",
+      "family": "Geng",
+      "orcid": "https://orcid.org/0009-0005-0950-2044"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Hepatitis B virus",
+    "Hepatitis B, Chronic",
+    "Carcinoma, Hepatocellular",
+    "Liver Neoplasms",
+    "DNA, Viral",
+    "Hepatitis B e Antigens",
+    "Hepatitis B Surface Antigens",
+    "Antiviral Agents",
+    "Treatment Outcome",
+    "Incidence",
+    "Immune Tolerance",
+    "Seroconversion"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2570",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2570",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38964866/",
+    "europe_pmc": "https://europepmc.org/article/MED/38964866"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

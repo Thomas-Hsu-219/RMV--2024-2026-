@@ -1,0 +1,176 @@
+{
+  "doi": "10.1002/rmv.70070",
+  "title": "Post‐COVID‐19 Vaccination (or Long Vax) Syndrome: Putative Manifestation, Pathophysiology, and Therapeutic Options",
+  "crossref_title": "Post‐COVID‐19 Vaccination (or Long Vax) Syndrome: Putative Manifestation, Pathophysiology, and Therapeutic Options",
+  "abstract": "With the global rollout of COVID-19 vaccines, vaccine safety remains a priority. Emerging concerns have raised the potential risk of a long COVID-like syndrome following vaccination, informally called long Vax and provisionally termed post-COVID-19 vaccination syndrome (PCVS). Our narrative review describes the putative manifestation, pathophysiology, and therapeutic approaches of PCVS based on the available evidence, mostly from case reports/series and observational studies. Our review noted that PCVS typically manifests within days to weeks post-vaccination, with symptoms lasting months to years. PCVS may present as recognized diagnoses such as postural orthostatic tachycardia syndrome (POTS), small-fibre neuropathy (SFN), myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), or as long-term sequelae of myocarditis, vaccine-induced thrombotic thrombocytopaenia (VITT), or immune thrombocytopaenia purpura (ITP). Symptomatically, PCVS overlaps with long COVID, such as fatigue and brain fog, but PCVS may involve more frequent paraesthesia and less dyspnoea. We also review pathophysiological hypotheses of PCVS, focussing on the vaccine-derived spike protein and related immune responses. Finally, we discuss potential therapies used to treat patients with PCVS or related conditions, primarily documented in case reports/series, which could guide future clinical research. Overall, PCVS remains a poorly understood condition that requires more research to elucidate its prevalence, prognosis, risk factors, and treatments.",
+  "keywords": [
+    "COVID‐19 vaccines",
+    "mRNA vaccine",
+    "post‐COVID‐19 vaccination syndrome",
+    "spike protein",
+    "vaccine safety"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "5",
+  "published_online": "2025-09-13",
+  "published_print": "2025-09",
+  "online_year": 2025,
+  "pmid": "40944962",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Shin Jie",
+      "family": "Yong",
+      "orcid": "https://orcid.org/0000-0001-9752-8386"
+    },
+    {
+      "given": "Tiff‐Annie",
+      "family": "Kenny",
+      "orcid": null
+    },
+    {
+      "given": "Alice",
+      "family": "Halim",
+      "orcid": null
+    },
+    {
+      "given": "Bala",
+      "family": "Munipalli",
+      "orcid": null
+    },
+    {
+      "given": "Yousef N.",
+      "family": "Alhashem",
+      "orcid": "https://orcid.org/0000-0003-4435-3003"
+    },
+    {
+      "given": "Hajir",
+      "family": "AlSaihati",
+      "orcid": null
+    },
+    {
+      "given": "Maha F.",
+      "family": "Al‐Subaie",
+      "orcid": null
+    },
+    {
+      "given": "Nawal A.",
+      "family": "Al Kaabi",
+      "orcid": null
+    },
+    {
+      "given": "Mona A.",
+      "family": "Al Fares",
+      "orcid": null
+    },
+    {
+      "given": "Mohammed",
+      "family": "Garout",
+      "orcid": null
+    },
+    {
+      "given": "Amal A.",
+      "family": "Sabour",
+      "orcid": null
+    },
+    {
+      "given": "Maha A.",
+      "family": "Alshiekheid",
+      "orcid": null
+    },
+    {
+      "given": "Zainab H.",
+      "family": "Almansour",
+      "orcid": "https://orcid.org/0000-0003-0227-6863"
+    },
+    {
+      "given": "Jawaher",
+      "family": "Alotaibi",
+      "orcid": null
+    },
+    {
+      "given": "Hayam A.",
+      "family": "Alrasheed",
+      "orcid": "https://orcid.org/0009-0002-6186-848X"
+    },
+    {
+      "given": "Aref A.",
+      "family": "Alamri",
+      "orcid": null
+    },
+    {
+      "given": "Hawra",
+      "family": "Albayat",
+      "orcid": null
+    },
+    {
+      "given": "Ameera Saeed",
+      "family": "Alamodi",
+      "orcid": null
+    },
+    {
+      "given": "Huseyin",
+      "family": "Tombuloglu",
+      "orcid": null
+    },
+    {
+      "given": "Ranjan K.",
+      "family": "Mohapatra",
+      "orcid": "https://orcid.org/0000-0001-7623-3343"
+    },
+    {
+      "given": "Ali",
+      "family": "Hazazi",
+      "orcid": null
+    },
+    {
+      "given": "Ali A.",
+      "family": "Rabaan",
+      "orcid": "https://orcid.org/0000-0002-6774-9847"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Fatigue Syndrome, Chronic",
+    "Syndrome",
+    "Vaccination",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Vaccines"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70070",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70070",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40944962/",
+    "europe_pmc": "https://europepmc.org/article/MED/40944962"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

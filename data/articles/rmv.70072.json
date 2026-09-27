@@ -1,0 +1,76 @@
+{
+  "doi": "10.1002/rmv.70072",
+  "title": "Database‐Driven Surveillance of Lenacapavir Resistance Profiles in China: Analysis of HIV‐1 Gag Sequences From People Living With HIV",
+  "crossref_title": "Database‐Driven Surveillance of Lenacapavir Resistance Profiles in China: Analysis of HIV‐1 Gag Sequences From People Living With HIV",
+  "abstract": null,
+  "keywords": [],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "5",
+  "published_online": "2025-09-18",
+  "published_print": "2025-09",
+  "online_year": 2025,
+  "pmid": "40966030",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Defu",
+      "family": "Yuan",
+      "orcid": null
+    },
+    {
+      "given": "Yangyang",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Yueqi",
+      "family": "Yin",
+      "orcid": null
+    },
+    {
+      "given": "Shanshan",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Bei",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0000-0002-5232-0933"
+    }
+  ],
+  "publication_types": [
+    "Letter"
+  ],
+  "mesh_terms": [],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70072",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70072",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40966030/",
+    "europe_pmc": "https://europepmc.org/article/MED/40966030"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

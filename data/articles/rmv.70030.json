@@ -1,0 +1,82 @@
+{
+  "doi": "10.1002/rmv.70030",
+  "title": "Alphavirus nsP2: A Multifunctional Regulator of Viral Replication and Promising Target for Anti‐Alphavirus Therapies",
+  "crossref_title": "Alphavirus nsP2: A Multifunctional Regulator of Viral Replication and Promising Target for Anti‐Alphavirus Therapies",
+  "abstract": "Alphaviruses are re-emerging vector-born pathogens that cause arthralgia or encephalitic diseases on a global scale. While a vaccine against chikungunya virus was recently approved, no vaccines currently exist for other alphaviruses, nor are there antiviral drugs for the treatment of alphavirus infections. Alphaviruses have positive-strand RNA genomes, and their RNA replication is coordinated by activities of the multifunctional nonstructural protein 2 (nsP2), a helicase-protease and a subunit of viral RNA replicase. We provide a comprehensive overview of nsP2 functions and inhibitors of its activities for their potential as effective antivirals. Furthermore, analysis of nsP2 activities suggests that it could be targeted to develop advanced live attenuated vaccines and strategies for controlling alphavirus transmission by mosquito vectors.",
+  "keywords": [
+    "alphavirus",
+    "alphavirus replication",
+    "antiviral therapy",
+    "nsP2 inhibitor",
+    "superinfection exclusion"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-03-10",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "40064592",
+  "pmcid": "PMC11893376",
+  "authors": [
+    {
+      "given": "Sainan",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Suresh",
+      "family": "Mahalingam",
+      "orcid": "https://orcid.org/0000-0003-3141-8410"
+    },
+    {
+      "given": "Andres",
+      "family": "Merits",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Alphavirus",
+    "Alphavirus Infections",
+    "RNA Helicases",
+    "Viral Nonstructural Proteins",
+    "Antiviral Agents",
+    "Virus Replication"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70030",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70030",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40064592/",
+    "europe_pmc": "https://europepmc.org/article/MED/40064592"
+  },
+  "copyright_statement": "© 2025 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

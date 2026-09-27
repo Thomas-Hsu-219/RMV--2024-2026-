@@ -1,0 +1,85 @@
+{
+  "doi": "10.1002/rmv.70157",
+  "title": "SARS‐CoV‐2 Variants and Immune Evasion: Mapping the Future of Vaccine Design",
+  "crossref_title": "SARS‐CoV‐2 Variants and Immune Evasion: Mapping the Future of Vaccine Design",
+  "abstract": "The evolutionary trajectory of Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) has progressed through several distinct phases since its zoonotic emergence, transitioning from initial human adaptation to an era of rapid antigenic drift and complex immune evasion. As of early 2026, the global landscape is dominated by highly evolved sublineages of the Omicron (B.1.1.529) variant, including the JN.1-descendent subvariants NB.1.8.1 and XFG. This review provides a comprehensive overview of the molecular mechanisms driving viral fitness, with a primary focus on the structural transformations within the spike (S) protein's receptor-binding domain (RBD), N-terminal domain (NTD), and S2 subunit. We examine the biophysical impacts of pivotal mutations, such as E484 K, K417 N, and F486P, alongside the phenomenon of convergent evolution and epistatic compensation. Furthermore, we provide an integrated analysis of current knowledge regarding the evolving dynamics of humoral and cellular immunity, exploring the challenges posed by immune imprinting and the decline of neutralizing antibody titers against antigenically distant strains. A comparative discussion of SARS-CoV-2 and seasonal influenza highlights divergent evolutionary paces but converging regulatory frameworks for annual vaccine updates. Finally, the current status of next-generation vaccine platforms is evaluated, specifically mosaic nanoparticles and mucosal delivery systems, which aim to provide pan-sarbecovirus protection and interrupt transmission. These insights are integrated into a policy framework focused on annual strain selection and enhanced genomic surveillance for sustainable long-term pandemic management.",
+  "keywords": [
+    "SARS‐CoV‐2 evolution",
+    "antigenic drift",
+    "immune evasion",
+    "next‐generation vaccine design",
+    "spike protein mutations"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-28",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42047168",
+  "pmcid": "PMC13122575",
+  "authors": [
+    {
+      "given": "Fatih",
+      "family": "Uzer",
+      "orcid": null
+    },
+    {
+      "given": "Fulya",
+      "family": "Erendor",
+      "orcid": "https://orcid.org/0000-0002-0726-803X"
+    },
+    {
+      "given": "Salih",
+      "family": "Sanlioglu",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Evolution, Molecular",
+    "Mutation",
+    "Immune Evasion",
+    "Spike Glycoprotein, Coronavirus",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Vaccines",
+    "Vaccine Development"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70157",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70157",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42047168/",
+    "europe_pmc": "https://europepmc.org/article/MED/42047168"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

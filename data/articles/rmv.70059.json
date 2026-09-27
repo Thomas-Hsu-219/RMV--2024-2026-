@@ -1,0 +1,92 @@
+{
+  "doi": "10.1002/rmv.70059",
+  "title": "Dried Blood Spots and Plasma Separation Cards can Broaden Access to Molecular Testing for HBV, HCV and HIV",
+  "crossref_title": "Dried Blood Spots and Plasma Separation Cards can Broaden Access to Molecular Testing for HBV, HCV and HIV",
+  "abstract": "Approximately 3.5 million people acquired HBV, HCV, or HIV-1 in 2022, and 340 million persons are infected with at least one of these three viruses, mostly in low- and middle-income countries (LMICs). Nucleic acid amplification tests (NAAT) are precise and sensitive tools for viral infection diagnosis, monitoring and sequencing. NAATs typically rely on plasma specimens, which can be challenging to collect, store and transport in LMICs, limiting the reach of NAAT testing in rural and other resource constrained settings where trained phlebotomists and/or a cold chain for preservation and shipping are not available. Alternative specimen types that can overcome this limitation include dried blood spots (DBS) and dried plasma prepared using the Cobas Plasma Separation Card (PSC). We performed a literature review of DBS and PSC use for NAAT of HBV, HCV, or HIV-1 to summarise their performance characteristics, relative advantages and disadvantages and potential to support expanded access to NAAT. DBS have been used extensively for HIV-1 diagnosis and viral load monitoring, as well as for HBV and HCV, albeit to a much lesser degree. Compared to plasma, DBS perform well in terms of accuracy but have lower sensitivity. There is a risk of low specificity due to the presence of cellular nucleic acids in DBS and a resulting over-estimation of viral load. The PSC has similar accuracy and sensitivity compared to DBS, but improved specificity due to the removal of cellular components. Both DBS and PSC have the potential to enhance access in populations where the use of plasma is challenging.",
+  "keywords": [],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "5",
+  "published_online": "2025-08-04",
+  "published_print": "2025-09",
+  "online_year": 2025,
+  "pmid": "40760468",
+  "pmcid": "PMC12322363",
+  "authors": [
+    {
+      "given": "Jeffrey V.",
+      "family": "Lazarus",
+      "orcid": null
+    },
+    {
+      "given": "Neil",
+      "family": "Parkin",
+      "orcid": "https://orcid.org/0000-0001-5824-3388"
+    },
+    {
+      "given": "Huma",
+      "family": "Qureshi",
+      "orcid": null
+    },
+    {
+      "given": "Benjamin",
+      "family": "LaBrot",
+      "orcid": null
+    },
+    {
+      "given": "John W.",
+      "family": "Ward",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Plasma",
+    "Humans",
+    "Hepatitis B virus",
+    "Hepacivirus",
+    "HIV-1",
+    "Hepatitis B",
+    "Hepatitis C",
+    "HIV Infections",
+    "Specimen Handling",
+    "Molecular Diagnostic Techniques",
+    "Viral Load",
+    "Nucleic Acid Amplification Techniques",
+    "Dried Blood Spot Testing"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70059",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70059",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40760468/",
+    "europe_pmc": "https://europepmc.org/article/MED/40760468"
+  },
+  "copyright_statement": "© 2025 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,80 @@
+{
+  "doi": "10.1002/rmv.70162",
+  "title": "HTLV‐1–Driven Clonal Evolution and Immune Escape in Adult T‐Cell Leukaemia: From Viral Persistence to Therapeutic Failure",
+  "crossref_title": "HTLV‐1–Driven Clonal Evolution and Immune Escape in Adult T‐Cell Leukaemia: From Viral Persistence to Therapeutic Failure",
+  "abstract": "Adult T-cell leukaemia/lymphoma (ATL) is an aggressive CD4 +T-cell malignancy caused by the human T-cell leukaemia virus type 1 (HTLV-1). Approximately 3%-5% of infected individuals develop ATL after a prolonged latency of 30-50 years, during which a complex interplay between viral oncoproteins and host genomic alterations drives the transition from viral persistence to overt malignancy. This transformation is orchestrated by the viral transactivator Tax, which initiates cellular transformation, and the HTLV-1 basic leucine zipper factor (HBZ), which maintains the malignant phenotype and promotes survival through immune evasion. Genomic profiling has revealed that over 90% of ATL cases harbour activating mutations in the T-cell receptor (TCR)-NF-κB signalling pathway, enabling the malignant clone to bypass viral dependency. Furthermore, ATL cells survive host immunosurveillance through sophisticated escape mechanisms, including the loss of MHC class I presentation and programed death-ligand 1 (PD-L1) overexpression via 3'-untranslated region (UTR) disruption. Despite the use of antiviral therapies and targeted monoclonal antibodies, therapeutic failure is common due to genomic instability-specifically TP53 mutations compromising Zidovudine/Interferon efficacy and CCR4 antigenic variations leading to mogamulizumab resistance. This review delineates the multi-step journey of HTLV-1-driven clonal evolution and evaluates the molecular barriers to effective clinical management.",
+  "keywords": [
+    "ATL",
+    "HTLV‐1",
+    "clonal evolution",
+    "epigenetic reprogramming",
+    "oncoproteins",
+    "therapeutic resistance"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-05-01",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42066066",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Zuhair M.",
+      "family": "Mohammedsaleh",
+      "orcid": "https://orcid.org/0000-0002-7391-0529"
+    },
+    {
+      "given": "Abdullah F.",
+      "family": "Shater",
+      "orcid": "https://orcid.org/0009-0007-4258-738X"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Human T-lymphotropic virus 1",
+    "Cell Transformation, Viral",
+    "Gene Products, tax",
+    "Retroviridae Proteins",
+    "Basic-Leucine Zipper Transcription Factors",
+    "Leukemia-Lymphoma, Adult T-Cell",
+    "Immune Evasion",
+    "Clonal Evolution"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70162",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70162",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42066066/",
+    "europe_pmc": "https://europepmc.org/article/MED/42066066"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

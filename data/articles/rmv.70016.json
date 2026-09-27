@@ -1,0 +1,89 @@
+{
+  "doi": "10.1002/rmv.70016",
+  "title": "Clinical Manifestation of Arboviruses in Paediatrics",
+  "crossref_title": "Clinical Manifestation of Arboviruses in Paediatrics",
+  "abstract": "Arboviral infections in paediatric populations present unique challenges due to distinct pathophysiological mechanisms influenced by developmental and immunological differences. Commonly implicated arboviruses include dengue virus (DENV), Zika virus (ZIKV), chikungunya virus (CHIKV), West Nile virus (WNV), and yellow fever virus (YFV). These viruses exhibit specific tropisms, targeting organs such as the central nervous system (CNS), liver, and vasculature. Immune responses in children, characterised by an underdeveloped adaptive system and enhanced innate immunity, can exacerbate inflammation and increase susceptibility to severe outcomes such as dengue hemorrhagic fever (DHF), congenital Zika syndrome (CZS), and neuroinvasive complications. Maternal antibodies, antibody-dependent enhancement (ADE), and immature barriers, such as the blood-brain barrier, further contribute to disease severity. This review highlights the virological and immunological nuances of arboviral pathophysiology in paediatric patients, emphasising the need for age-specific diagnostic, therapeutic, and preventive strategies to mitigate the burden of these infections.",
+  "keywords": [
+    "arboviruses",
+    "dengue virus",
+    "immune response in children",
+    "neuroinvasive arboviral diseases",
+    "paediatric pathophysiology",
+    "zika virus"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-02-11",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "39934924",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mu",
+      "family": "Pang",
+      "orcid": null
+    },
+    {
+      "given": "Xi‐zhe",
+      "family": "Sun",
+      "orcid": null
+    },
+    {
+      "given": "Ting",
+      "family": "He",
+      "orcid": null
+    },
+    {
+      "given": "Hao",
+      "family": "Yang",
+      "orcid": null
+    },
+    {
+      "given": "Jun",
+      "family": "Chen",
+      "orcid": "https://orcid.org/0009-0009-1461-7611"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Arboviruses",
+    "Arbovirus Infections",
+    "Child"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70016",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70016",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39934924/",
+    "europe_pmc": "https://europepmc.org/article/MED/39934924"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

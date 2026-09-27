@@ -1,0 +1,79 @@
+{
+  "doi": "10.1002/rmv.70180",
+  "title": "From Norovirus to Andes Hantavirus: Indirect Viral Transmission and Emerging Prevention Strategies for Cruise Ship and Confined Environments",
+  "crossref_title": "From Norovirus to Andes Hantavirus: Indirect Viral Transmission and Emerging Prevention Strategies for Cruise Ship and Confined Environments",
+  "abstract": "Cruise ships and other confined travel settings remain highly vulnerable to infectious disease outbreaks. During 2025-2026, multiple norovirus outbreaks and the rare Andes hantavirus outbreak associated with the MV Hondius cruise highlighted the continuing public health challenges posed by both highly transmissible enteric viruses and emerging zoonotic pathogens. This review summarises recent cruise-associated viral outbreaks with particular emphasis on indirect transmission pathways, environmental persistence, and the limitations of conventional outbreak-control strategies. Norovirus outbreaks continued to occur despite implementation of enhanced sanitation and infection-control measures, highlighting the difficulty of interrupting transmission in environments where contaminated surfaces, aerosolised particles, and shared spaces may contribute to viral spread. In contrast, the Andes virus outbreak emphasised the additional risks associated with expedition-style travel, delayed symptom onset, zoonotic exposure, and complex international surveillance requirements. Current outbreak responses remain largely dependent on reactive measures such as cleaning, disinfection, passenger isolation, and contact tracing. However, the repeated occurrence of these outbreaks suggests that these approaches alone may be insufficient for long-term prevention in highly interconnected environments. Emerging environmental intervention strategies, including advanced air decontamination systems, antiviral surface coatings, self-disinfecting smart materials, and peptide-based antiviral technologies, have demonstrated promising antiviral activity against a range of respiratory and enteric viruses. These technologies may offer complementary passive protection approaches capable of reducing environmental contamination and minimising indirect viral transmission. Collectively, this review highlights the need to move beyond conventional reactive sanitation measures towards integrated and multidisciplinary preparedness strategies for future outbreak prevention in cruise ships and other crowded, closed, and interconnected settings.",
+  "keywords": [
+    "Andes hantavirus",
+    "indirect transmission",
+    "norovirus",
+    "passive infection control"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-06-30",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42376958",
+  "pmcid": "PMC13316973",
+  "authors": [
+    {
+      "given": "Umme Laila",
+      "family": "Urmi",
+      "orcid": "https://orcid.org/0000-0003-1327-1638"
+    },
+    {
+      "given": "Mark D. P.",
+      "family": "Willcox",
+      "orcid": "https://orcid.org/0000-0003-3842-7563"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Norovirus",
+    "Hantavirus Infections",
+    "Caliciviridae Infections",
+    "Disease Outbreaks",
+    "Infection Control",
+    "Travel",
+    "Ships",
+    "Orthohantavirus"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70180",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70180",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42376958/",
+    "europe_pmc": "https://europepmc.org/article/MED/42376958"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

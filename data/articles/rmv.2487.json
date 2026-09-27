@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/rmv.2487",
+  "title": "Targeting EBV‐encoded products: Implications for drug development in EBV‐associated diseases",
+  "crossref_title": "Targeting EBV‐encoded products: Implications for drug development in EBV‐associated diseases",
+  "abstract": "Epstein-Barr virus, a human gamma-herpesvirus, has a close connection to the pathogenesis of cancers and other diseases, which are a burden for public health worldwide. So far, several drugs or biomolecules have been discovered that can target EBV-encoded products for treatment, such as Silvestrol, affinity toxin, roscovitine, H20, H31, curcumin, thymoquinone, and ribosomal protein L22. These drugs activate or inhibit the function of some biomolecules, affecting subsequent signalling pathways by acting on the products of EBV. These drugs usually target LMP1, LMP2; EBNA1, EBNA2, EBNA3; EBER1, EBER2; Bam-HI A rightward transcript and BHRF1. Additionally, some promising findings in the fields of vaccines, immunological, and cellular therapies have been established. In this review, we mainly summarise the function of drugs mentioned above and unique mechanisms, hoping that we can help giving insight to the design of drugs for the treatment of EBV-associated diseases.",
+  "keywords": [
+    "EBV",
+    "drug design",
+    "immunotherapy",
+    "signalling pathways"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-10-31",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "37905912",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mengwen",
+      "family": "Lv",
+      "orcid": null
+    },
+    {
+      "given": "Yuan",
+      "family": "Ding",
+      "orcid": null
+    },
+    {
+      "given": "Yan",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Shuzhen",
+      "family": "Liu",
+      "orcid": "https://orcid.org/0000-0003-4502-7816"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Herpesvirus 4, Human",
+    "Epstein-Barr Virus Infections",
+    "Viral Proteins",
+    "Drug Development"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2487",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2487",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/37905912/",
+    "europe_pmc": "https://europepmc.org/article/MED/37905912"
+  },
+  "copyright_statement": "© 2023 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

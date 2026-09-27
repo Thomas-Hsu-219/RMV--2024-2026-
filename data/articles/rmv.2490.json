@@ -1,0 +1,102 @@
+{
+  "doi": "10.1002/rmv.2490",
+  "title": "Reply to Kleebayoon and Wiwanitkit on ‘Effects of COVID‐19 vaccination during pregnancy on SARS‐CoV‐2 infection and maternal and neonatal outcomes: A systematic review and meta‐analysis’",
+  "crossref_title": "Reply to Kleebayoon and Wiwanitkit on ‘Effects of COVID‐19 vaccination during pregnancy on SARS‐CoV‐2 infection and maternal and neonatal outcomes: A systematic review and meta‐analysis’",
+  "abstract": null,
+  "keywords": [],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-11-17",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "37975713",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Masoud",
+      "family": "Rahmati",
+      "orcid": null
+    },
+    {
+      "given": "Dong Keon",
+      "family": "Yon",
+      "orcid": "https://orcid.org/0000-0003-1628-9948"
+    },
+    {
+      "given": "Seung Won",
+      "family": "Lee",
+      "orcid": null
+    },
+    {
+      "given": "Laurie",
+      "family": "Butler",
+      "orcid": null
+    },
+    {
+      "given": "Ai",
+      "family": "Koyanagi",
+      "orcid": null
+    },
+    {
+      "given": "Louis",
+      "family": "Jacob",
+      "orcid": null
+    },
+    {
+      "given": "Jae Il",
+      "family": "Shin",
+      "orcid": "https://orcid.org/0000-0003-2326-1820"
+    },
+    {
+      "given": "Lee",
+      "family": "Smith",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Letter"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Pregnancy Complications, Infectious",
+    "Pregnancy Outcome",
+    "Vaccination",
+    "Pregnancy",
+    "Infant, Newborn",
+    "Female",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Vaccines"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2490",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2490",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/37975713/",
+    "europe_pmc": "https://europepmc.org/article/MED/37975713"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

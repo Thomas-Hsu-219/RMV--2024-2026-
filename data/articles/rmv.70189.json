@@ -1,0 +1,93 @@
+{
+  "doi": "10.1002/rmv.70189",
+  "title": "Timing, Titre, and Host Determinants of Convalescent Plasma Efficacy in COVID‐19: A Systematic Review With Design‐Stratified Narrative Synthesis",
+  "crossref_title": "Timing, Titre, and Host Determinants of Convalescent Plasma Efficacy in COVID‐19: A Systematic Review With Design‐Stratified Narrative Synthesis",
+  "abstract": "The efficacy of convalescent plasma (CP) in COVID-19 has been contested, with large randomized trials producing conflicting results that led to recommendations against routine use. We performed a systematic review with design-stratified narrative synthesis (PRISMA 2020; SWiM; OSF: https://osf.io/tjcuq) to test whether these conflicting outcomes can be reconciled through three interacting determinants-timing, antibody titre, and host characteristics-using a standardized 91-field extraction matrix applied to each study. PubMed, Web of Science, and Scopus were searched through May 2026. Thirty-one studies (20,793 patients; 8 RCTs, 23 observational) were included. The synthesis indicates that CP is effective, but only under a specific convergence of conditions: when administered early in the disease course, with sufficient antibody titre, to seronegative or immunocompromised hosts who have not yet mounted an endogenous antibody response. Among RCTs analysing timing, 4 of 6 found benefit with earlier administration; for titre, 3 of 4 RCTs with explicit comparisons found benefit with higher-titre CP; and two large RCTs (combined n = 12,522) demonstrated preferential benefit in seronegative recipients. This interpretation is consistent with modelling estimates that CP, deployed largely to hospitalised patients, nonetheless saved tens of thousands of lives in the United States during the first pandemic year, an effect attributed to the subset treated early enough to modify disease progression. A second, previously unquantified finding concerns antibody class: characterisation of non-IgG immunoglobulins was nearly absent, with only 2 of 31 studies-both from our group-reporting IgA or IgM data, despite evidence that IgA and IgM are among the most potent neutralising classes against SARS-CoV-2. This hypothesis-generating observation identifies a systematic gap in CP product assessment. These findings reframe CP efficacy from a binary question to a conditional one and provide a template for the precision deployment of passive immunotherapy in future pandemics.",
+  "keywords": [
+    "COVID‐19",
+    "IgA",
+    "IgM",
+    "convalescent plasma",
+    "immunoglobulin class",
+    "narrative synthesis",
+    "neutralising antibodies",
+    "pandemic preparedness",
+    "passive immunotherapy",
+    "systematic review"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-07-31",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42536815",
+  "pmcid": "PMC13427265",
+  "authors": [
+    {
+      "given": "Agnieszka",
+      "family": "Kuś",
+      "orcid": null
+    },
+    {
+      "given": "Sebastian",
+      "family": "Makuch",
+      "orcid": "https://orcid.org/0000-0002-9904-1181"
+    },
+    {
+      "given": "Jarosław",
+      "family": "Dybko",
+      "orcid": null
+    },
+    {
+      "given": "Siddarth",
+      "family": "Agrawal",
+      "orcid": "https://orcid.org/0000-0003-1118-5090"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Antibodies, Viral",
+    "Treatment Outcome",
+    "Immunization, Passive",
+    "Randomized Controlled Trials as Topic",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Serotherapy"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70189",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70189",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42536815/",
+    "europe_pmc": "https://europepmc.org/article/MED/42536815"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

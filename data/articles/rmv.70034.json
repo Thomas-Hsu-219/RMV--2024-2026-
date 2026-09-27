@@ -1,0 +1,81 @@
+{
+  "doi": "10.1002/rmv.70034",
+  "title": "Monitoring Macrophage Polarization in Infectious Disease, Lesson From SARS‐CoV‐2 Infection",
+  "crossref_title": "Monitoring Macrophage Polarization in Infectious Disease, Lesson From SARS‐CoV‐2 Infection",
+  "abstract": "The concept of macrophage polarization has been largely used in human diseases to define a typology of activation of myeloid cells reminiscent of lymphocyte functional subsets. In COVID-19, several studies have investigated myeloid compartment dysregulation and macrophage polarization as an indicator of disease prognosis and monitoring. SARS-CoV-2 induces an in vitro activation state in monocytes and macrophages that does not match the polarization categories in most studies. In COVID-19 patients, monocytes and macrophages are activated but they do not show a polarization profile. Therefore, the investigation of polarization under basic conditions was not relevant to assess monocyte and macrophage activation. The analysis of monocytes and macrophages with high-throughput methods has allowed the identification of new functional subsets in the context of COVID-19. This approach proposes an innovative stratification of myeloid cell activation. These new functional subsets of myeloid cells would be better biomarkers to assess the risk of complications in COVID-19, reserving the concept of polarization for pharmacological programme evaluation. This review reappraises the polarization of monocytes and macrophages in viral infections, particularly in COVID-19.",
+  "keywords": [
+    "COVID‐19",
+    "M1/M2",
+    "SARS‐CoV‐2",
+    "macrophage",
+    "monocytes",
+    "polarization",
+    "viral infection"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "3",
+  "published_online": "2025-04-07",
+  "published_print": "2025-05",
+  "online_year": 2025,
+  "pmid": "40148134",
+  "pmcid": "PMC11976041",
+  "authors": [
+    {
+      "given": "Soraya",
+      "family": "Mezouar",
+      "orcid": "https://orcid.org/0000-0002-2285-7051"
+    },
+    {
+      "given": "Jean‐Louis",
+      "family": "Mege",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Monocytes",
+    "Macrophages",
+    "Humans",
+    "Macrophage Activation",
+    "Biomarkers",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70034",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70034",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40148134/",
+    "europe_pmc": "https://europepmc.org/article/MED/40148134"
+  },
+  "copyright_statement": "© 2025 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": [
+    "PubMed DOI differs; canonical publisher DOI used; title matched."
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "doi": "10.1002/rmv.70143",
+  "title": "Oncovirus‐Driven Endothelial Plasticity: Endothelial‐to‐Mesenchymal Transition as a Hijacked Pathway in Oncoviral Cardiovascular Pathogenesis",
+  "crossref_title": "Oncovirus‐Driven Endothelial Plasticity: Endothelial‐to‐Mesenchymal Transition as a Hijacked Pathway in Oncoviral Cardiovascular Pathogenesis",
+  "abstract": "Oncoviruses utilise various molecular strategies to modulate host cells and induce microenvironments that favour viral persistence, immune evasion, and disease progression. Endothelial-to-mesenchymal transition (EndMT) has recently emerged as a critical, yet underrecognized, pathway hijacked by oncoviral pathogens to modulate endothelial plasticity within the cardiovascular system. Accumulating evidence indicates that Oncogenic and non-oncogenic viruses, including Kaposi's sarcoma-associated herpesvirus (KSHV/HHV-8), severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), human immunodeficiency virus (HIV), and other endothelial-tropic viruses, directly manipulate host signalling networks, such as TGF-β, Wnt/β-catenin, Notch, and NF-κB, to induce partial or complete EndMT. This virus-driven EndMT contributes to vascular remodelling, chronic inflammation, aberrant angiogenesis, and the development of oncoviral-associated cardiovascular pathology and vascular tumours. The present review integrates current virological and mechanistic insights into EndMT as a hijacked host process, highlighting its role at the virus-host interface and discussing emerging antiviral and pathway-targeted strategies aimed at limiting oncovirus-mediated endothelial dysfunction.",
+  "keywords": [
+    "EndMT",
+    "HHV‐8",
+    "SARS‐CoV‐2",
+    "cardiovascular diseases",
+    "endothelial‐to‐mesenchymal transition"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-11",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "41965052",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Ming",
+      "family": "Li",
+      "orcid": "https://orcid.org/0000-0002-4332-8095"
+    },
+    {
+      "given": "Zhibo",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Zhuo",
+      "family": "Zhao",
+      "orcid": "https://orcid.org/0000-0003-4607-9474"
+    },
+    {
+      "given": "Ziyuan",
+      "family": "Guo",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Endothelial Cells",
+    "Animals",
+    "Humans",
+    "Herpesvirus 8, Human",
+    "Oncogenic Viruses",
+    "Cardiovascular Diseases",
+    "Neovascularization, Pathologic",
+    "Signal Transduction",
+    "Host-Pathogen Interactions",
+    "Epithelial-Mesenchymal Transition",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Endothelial-Mesenchymal Transition"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70143",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70143",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41965052/",
+    "europe_pmc": "https://europepmc.org/article/MED/41965052"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

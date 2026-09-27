@@ -1,0 +1,106 @@
+{
+  "doi": "10.1002/rmv.70120",
+  "title": "CMV Preventive and Treatment Studies in Children Undergoing Haematopoietic Stem Cell Transplant: A Systematic Review",
+  "crossref_title": "CMV Preventive and Treatment Studies in Children Undergoing Haematopoietic Stem Cell Transplant: A Systematic Review",
+  "abstract": "Cytomegalovirus (CMV) is one of the most important infectious causes of morbidity and mortality in children undergoing haematopoietic stem cell transplant (HSCT). However, the evidence for preventing and treating CMV disease in children in this context remains limited. We sought to review the current available evidence regarding the prevention and management of CMV infection and disease in children with HSCT and propose future research areas which could better inform evidence-based management.",
+  "keywords": [
+    "CMV",
+    "children",
+    "prevention",
+    "transplant",
+    "treatment"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-02-18",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41709518",
+  "pmcid": "PMC12917297",
+  "authors": [
+    {
+      "given": "Lara",
+      "family": "Fusani",
+      "orcid": null
+    },
+    {
+      "given": "Eleonora",
+      "family": "Fusco",
+      "orcid": null
+    },
+    {
+      "given": "Mariana",
+      "family": "Fonseca",
+      "orcid": null
+    },
+    {
+      "given": "Judith",
+      "family": "Breuer",
+      "orcid": null
+    },
+    {
+      "given": "Kanchan",
+      "family": "Rao",
+      "orcid": null
+    },
+    {
+      "given": "Luisa",
+      "family": "Galli",
+      "orcid": null
+    },
+    {
+      "given": "Alasdair",
+      "family": "Bamford",
+      "orcid": null
+    },
+    {
+      "given": "Seilesh",
+      "family": "Kadambari",
+      "orcid": "https://orcid.org/0000-0003-3658-7635"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Antiviral Agents",
+    "Hematopoietic Stem Cell Transplantation",
+    "Child"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70120",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70120",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41709518/",
+    "europe_pmc": "https://europepmc.org/article/MED/41709518"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

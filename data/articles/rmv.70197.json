@@ -1,0 +1,84 @@
+{
+  "doi": "10.1002/rmv.70197",
+  "title": "Human Cytomegalovirus Genetic Diversity, Clinical Relevance, and Emerging Insights",
+  "crossref_title": "Human Cytomegalovirus Genetic Diversity, Clinical Relevance, and Emerging Insights",
+  "abstract": "Human cytomegalovirus (HCMV) is a globally prevalent virus that poses a significant public health concern, especially for newborns and immunocompromised patients, causing a wide range of infections. Clinical outcomes associated with HCMV infection include congenital disease, graft rejection in transplant recipients, and life-threatening systemic infections with significant morbidity and mortality. HCMV is a member of the Beta-herpesvirinae subfamily. Distinguishing characteristics of HCMV, in particular, and herpesviruses in general are their ubiquitous presence in nature and the initial infection that often results in lifelong latency. Over the past 40 years, the genetics of HCMV have been explored, leading to the isolation of various genotypes, including those of glycoprotein B, glycoprotein N, and UL144. Despite operational obstacles in isolating HCMV genotypes due to heterogeneity in the technologies used for genotyping the virus, studies have been able to describe their clinical implications across a variety of human hosts. This review summarises the genotypic variation of HCMV and discusses its clinical relevance and impact on antiviral resistance and vaccine development. Understanding the genetic diversity of HCMV genotypes is crucial for advancing drug development to combat resistant strains and for developing new vaccines and treatment modalities.",
+  "keywords": [
+    "antiviral therapy",
+    "genotypic variation",
+    "glycoprotein",
+    "human cytomegalovirus (HCMV)"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-08-28",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42664505",
+  "pmcid": "PMC13524432",
+  "authors": [
+    {
+      "given": "Hajar Y.",
+      "family": "AlQahtani",
+      "orcid": "https://orcid.org/0000-0002-7719-8209"
+    },
+    {
+      "given": "Fadilah Sfouq",
+      "family": "Aleanizy",
+      "orcid": "https://orcid.org/0000-0002-6161-3121"
+    },
+    {
+      "given": "Fulwah Yahya",
+      "family": "Alqahtani",
+      "orcid": "https://orcid.org/0000-0002-9320-0516"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Viral Proteins",
+    "Viral Envelope Proteins",
+    "Cytomegalovirus Vaccines",
+    "Antiviral Agents",
+    "Drug Resistance, Viral",
+    "Genotype",
+    "Genetic Variation"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70197",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70197",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42664505/",
+    "europe_pmc": "https://europepmc.org/article/MED/42664505"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

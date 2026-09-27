@@ -1,0 +1,99 @@
+{
+  "doi": "10.1002/rmv.70105",
+  "title": "Global Epidemiology and Disease Burden of Human Parainfluenza Virus in Adults: A Systematic Review",
+  "crossref_title": "Global Epidemiology and Disease Burden of Human Parainfluenza Virus in Adults: A Systematic Review",
+  "abstract": "Parainfluenza virus (PIV) is a common cause of respiratory illness in children and immunocompromised adults, but little is known about its epidemiology or disease burden in the general adult population. This review evaluates published global epidemiological and disease burden for PIV in adults, including high-risk patients (immunocompromised or with chronic illnesses), and identifies existing data gaps. A PRISMA systematic review of publications from 2014 to 2023 in PubMed reporting PIV prevalence and disease burden (including hospitalisations, mortality) in adults (≥ 18 years) and high-risk patients was performed. Sixty-five studies were included; which skewed towards Asia, Europe, and North America, highlighting a data gap in global PIV prevalence. Overall prevalence of PIV (all strains) ranged from 0 to 15.2% [median 2%] in the general adult population (not considered high-risk but tested for infection). PIV3 was the most prevalent strain (0.6-15.2% [2.9]), followed by PIV4 (0.4-6.5% [1.9]), PIV1 (0.5-2.8% [1.1]), and PIV2 (0-2.9% [1.1]). PIV prevalence was generally higher in high-risk adults (up to 41% in certain risk groups) and those aged ≥ 65. Mortality rates ranged from 2 to 40% in those high-risk, while need for respiratory assistance ranged from 0.9% to 64.2% and hospitalisation from 3.7% to 45.3%. None of the studies reported cost-related healthcare resource utilisation. Variability of study designs, data stratification, and patient populations in the selected studies challenged evaluating the true prevalence of PIV and its burden. PIV infection carries an underappreciated burden, with substantial morbidity and mortality risks, especially in high-risk patients. Significant knowledge gaps exist regarding global prevalence and economic burden in the general adult population.",
+  "keywords": [
+    "PIV",
+    "burden",
+    "parainfluenza virus",
+    "prevalence",
+    "respiratory illness"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2026-01-25",
+  "published_print": "2026-01",
+  "online_year": 2026,
+  "pmid": "41581073",
+  "pmcid": "PMC12832067",
+  "authors": [
+    {
+      "given": "Oliver",
+      "family": "Martyn",
+      "orcid": "https://orcid.org/0000-0001-8126-5868"
+    },
+    {
+      "given": "Clemens",
+      "family": "Vlasich",
+      "orcid": null
+    },
+    {
+      "given": "Veronika",
+      "family": "Khariv",
+      "orcid": null
+    },
+    {
+      "given": "Lauren C.",
+      "family": "Boudewyn",
+      "orcid": null
+    },
+    {
+      "given": "Peter J. M.",
+      "family": "Openshaw",
+      "orcid": null
+    },
+    {
+      "given": "Rolf",
+      "family": "Kramer",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Respiratory Tract Infections",
+    "Paramyxoviridae Infections",
+    "Hospitalization",
+    "Prevalence",
+    "Cost of Illness",
+    "Adult",
+    "Global Health"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70105",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70105",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41581073/",
+    "europe_pmc": "https://europepmc.org/article/MED/41581073"
+  },
+  "copyright_statement": "© 2026 Sanofi and The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

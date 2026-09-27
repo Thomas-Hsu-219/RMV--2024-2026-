@@ -1,0 +1,82 @@
+{
+  "doi": "10.1002/rmv.70042",
+  "title": "Mechanisms of Immune Evasion of West Nile Virus",
+  "crossref_title": "Mechanisms of Immune Evasion of West Nile Virus",
+  "abstract": "West Nile virus (WNV), a globally distributed flavivirus, poses a significant public health threat, causing West Nile fever and potentially severe neuroinvasive disease in humans. The absence of specific antiviral treatments and licenced human vaccines underscores the importance of understanding WNV pathogenesis, particularly the mechanisms by which it evades host immune responses. This review comprehensively analyzes the multifaceted immune evasion strategies employed by WNV, encompassing the suppression of interferon (IFN) production and signalling through targeting of STAT proteins, IRF3, and RNA sensors, the modulation of antigen presentation via downregulation of MHC molecules and impairment of proteasome function, and the manipulation of cytokine and chemokine responses to dysregulate inflammation and promote viral persistence. Furthermore, WNV exploits the blood-brain barrier (BBB) to gain access to the central nervous system (CNS), both by disrupting the barrier integrity and utilising \"Trojan horse\" mechanisms. The potential for antibody-dependent enhancement (ADE) further complicates the host-virus interaction. Understanding these immune evasion mechanisms is crucial for deciphering WNV pathogenesis and informing the development of effective vaccines and targeted immunotherapies aimed at preventing and treating WNV-related diseases. Future research should focus on translating this knowledge into tangible clinical benefits for at-risk populations, particularly regarding strategies to induce broadly neutralising antibody responses and robust T-cell immunity while mitigating the risk of ADE.",
+  "keywords": [
+    "West Nile Virus",
+    "antigen presentation",
+    "immune evasion",
+    "interferon",
+    "neuroinvasion"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "3",
+  "published_online": "2025-05-27",
+  "published_print": "2025-05",
+  "online_year": 2025,
+  "pmid": "40432246",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Abdullah",
+      "family": "Alghamdi",
+      "orcid": null
+    },
+    {
+      "given": "Mohammed",
+      "family": "Alissa",
+      "orcid": "https://orcid.org/0000-0002-4045-0810"
+    },
+    {
+      "given": "Mohammed A.",
+      "family": "Alshehri",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Blood-Brain Barrier",
+    "Animals",
+    "Humans",
+    "West Nile virus",
+    "West Nile Fever",
+    "Host-Pathogen Interactions",
+    "Immune Evasion"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70042",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70042",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40432246/",
+    "europe_pmc": "https://europepmc.org/article/MED/40432246"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

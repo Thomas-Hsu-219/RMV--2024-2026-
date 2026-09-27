@@ -1,0 +1,107 @@
+{
+  "doi": "10.1002/rmv.2555",
+  "title": "What are the neurodevelopmental outcomes of children with asymptomatic congenital cytomegalovirus infection at birth? A systematic literature review",
+  "crossref_title": "What are the neurodevelopmental outcomes of children with asymptomatic congenital cytomegalovirus infection at birth? A systematic literature review",
+  "abstract": "Congenital cytomegalovirus (cCMV) is among the most common congenital infections globally. Of 85%-90% cCMV-infected infants without symptoms at birth, 10%-15% develop sequelae, most commonly sensorineural hearing loss (SNHL); their childhood neurodevelopmental outcomes are less well understood. Embase and MEDLINE were searched for publications from 16th September 2016 to 9th February 2024 to identify studies reporting primary data on neurodevelopmental outcomes in children with asymptomatic cCMV (AcCMV), measured using assessment tools or as evaluated by the study investigators, clinicians, educators, or parents. The Newcastle-Ottawa scale was applied to studies to assess risk of bias. Of 28 studies from 18 mostly high-income countries, there were 5-109 children with AcCMV per study and 6/28 had a mean or median age at last follow-up of ≥5 years. Children with AcCMV had better neurodevelopmental outcomes than children with symptomatic cCMV in 16/19 studies. Of 9/28 studies comparing AcCMV with CMV-uninfected children, six reported similar outcomes whilst three reported differences limited to measures of full-scale intelligence and receptive vocabulary among children with AcCMV and SNHL, or more generally in motor impairment. Common limitations of studies for our question were a lack of cCMV-uninfected controls, heterogeneous definitions of AcCMV, lack of focus on neurodevelopment, selection bias and inadequate follow-up. There was little evidence of children with AcCMV having worse neurodevelopmental outcomes than CMV-uninfected children, but this conclusion is limited by study characteristics and quality; findings highlight the need for well-designed and standardised approaches to investigate long-term sequelae.",
+  "keywords": [
+    "asymptomatic",
+    "congenital cytomegalovirus",
+    "neurodevelopment"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-21",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "39031854",
+  "pmcid": "PMC11262424",
+  "authors": [
+    {
+      "given": "Angeliki",
+      "family": "Smyrli",
+      "orcid": null
+    },
+    {
+      "given": "Vishnuga",
+      "family": "Raveendran",
+      "orcid": "https://orcid.org/0009-0003-8695-7304"
+    },
+    {
+      "given": "Simone",
+      "family": "Walter",
+      "orcid": null
+    },
+    {
+      "given": "Waheeda",
+      "family": "Pagarkar",
+      "orcid": null
+    },
+    {
+      "given": "Nigel",
+      "family": "Field",
+      "orcid": null
+    },
+    {
+      "given": "Seilesh",
+      "family": "Kadambari",
+      "orcid": null
+    },
+    {
+      "given": "Hermione",
+      "family": "Lyall",
+      "orcid": null
+    },
+    {
+      "given": "Heather",
+      "family": "Bailey",
+      "orcid": "https://orcid.org/0000-0003-3266-1041"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Hearing Loss, Sensorineural",
+    "Child",
+    "Child, Preschool",
+    "Infant",
+    "Infant, Newborn",
+    "Asymptomatic Infections",
+    "Neurodevelopmental Disorders"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2555",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2555",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39031854/",
+    "europe_pmc": "https://europepmc.org/article/MED/39031854"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

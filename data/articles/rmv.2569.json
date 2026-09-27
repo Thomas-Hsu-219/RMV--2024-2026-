@@ -1,0 +1,108 @@
+{
+  "doi": "10.1002/rmv.2569",
+  "title": "Test accuracy of rapid diagnostic tests and reverse‐transcription polymerase chain reaction against virus isolation in cell culture for assessing SARS‐CoV‐2 infectivity: Systematic review and meta‐analysis",
+  "crossref_title": "Test accuracy of rapid diagnostic tests and reverse‐transcription polymerase chain reaction against virus isolation in cell culture for assessing SARS‐CoV‐2 infectivity: Systematic review and meta‐analysis",
+  "abstract": "We aimed to assess the performance of Ag-RDT and RT-qPCR with regard to detecting infectious SARS-CoV-2 in cell cultures, as their diagnostic test accuracy (DTA) compared to virus isolation remains largely unknown. We searched three databases up to 15 December 2021 for DTA studies. The bivariate model was used to synthesise the estimates. Risk of bias was assessed using QUADAS-2/C. Twenty studies (2605 respiratory samples) using cell culture and at least one molecular test were identified. All studies were at high or unclear risk of bias in at least one domain. Three comparative DTA studies reported results on Ag-RDT and RT-qPCR against cell culture. Two studies evaluated RT-qPCR against cell culture only. Fifteen studies evaluated Ag-RDT against cell culture as reference standard in RT-qPCR-positive samples. For Ag-RDT, summary sensitivity was 93% (95% CI 78; 98%) and specificity 87% (95% CI 70; 95%). For RT-qPCR, summary sensitivity (continuity-corrected) was 98% (95% CI 95; 99%) and specificity 45% (95% CI 28; 63%). In studies relying on RT-qPCR-positive subsamples (n = 15), the summary sensitivity of Ag-RDT was 93% (95% CI 92; 93%) and specificity 63% (95% CI 63; 63%). Ag-RDT show moderately high sensitivity, detecting most but not all samples demonstrated to be infectious based on virus isolation. Although RT-qPCR exhibits high sensitivity across studies, its low specificity to indicate infectivity raises the question of its general superiority in all clinical settings. Study findings should be interpreted with caution due to the risk of bias, heterogeneity and the imperfect reference standard for infectivity.",
+  "keywords": [
+    "Ag‐RDT",
+    "RT‐PCR",
+    "cell culture",
+    "diagnostic accuracy"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-07-10",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38986606",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Alexey",
+      "family": "Fomenko",
+      "orcid": "https://orcid.org/0000-0002-4091-2747"
+    },
+    {
+      "given": "Theo",
+      "family": "Dähne",
+      "orcid": "https://orcid.org/0000-0003-4380-4431"
+    },
+    {
+      "given": "Stephanie",
+      "family": "Weibel",
+      "orcid": "https://orcid.org/0000-0003-1900-2535"
+    },
+    {
+      "given": "Marcus",
+      "family": "Panning",
+      "orcid": "https://orcid.org/0000-0003-3596-5964"
+    },
+    {
+      "given": "Kathrin",
+      "family": "Grummich",
+      "orcid": "https://orcid.org/0000-0003-4645-6014"
+    },
+    {
+      "given": "Sabrina",
+      "family": "Schlesinger",
+      "orcid": "https://orcid.org/0000-0003-4244-0832"
+    },
+    {
+      "given": "Gerta",
+      "family": "Rücker",
+      "orcid": "https://orcid.org/0000-0002-2192-2560"
+    },
+    {
+      "given": "Hartmut",
+      "family": "Hengel",
+      "orcid": "https://orcid.org/0000-0002-3482-816X"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cell Culture Techniques",
+    "Sensitivity and Specificity",
+    "Reverse Transcriptase Polymerase Chain Reaction",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Testing",
+    "COVID-19 Nucleic Acid Testing",
+    "Rapid Diagnostic Tests"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2569",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2569",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38986606/",
+    "europe_pmc": "https://europepmc.org/article/MED/38986606"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

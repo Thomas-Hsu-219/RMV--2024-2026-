@@ -1,0 +1,98 @@
+{
+  "doi": "10.1002/rmv.70015",
+  "title": "Immunobiology of MPox Infection and Its Management: Experience From Developing Nations",
+  "crossref_title": "Immunobiology of MPox Infection and Its Management: Experience From Developing Nations",
+  "abstract": "PURPOSE: As humanity grapples with the COVID-19 pandemic caused by the novel SARS-CoV-2 virus, the rising threats of the MPox virus (MPXV) in 2022 and 2024 have shown signs of global transmission and the potential to spark another pandemic. Though MPXV has been present for over 5 decades, with cases traditionally confined to endemic regions in West and Central Africa, recent outbreaks have occurred in multiple non-endemic regions, declaring itself as a Public Health Emergency of International Concern. This study aims to examine the patterns of MPXV transmission, its zoonotic potential, associated complications, and viable strategies to control its spread.\n\nMETHODS: The study examines recent outbreak data, case reports, and literature on MPXV transmission, emphasising zoonotic pathways and healthcare-associated cases. A bibliometric analysis has also been performed to deepen the understanding and identify emerging research trends.\n\nRESULTS: The findings suggest that while MPXV has traditionally been endemic in certain regions of Africa, recent outbreaks indicate an increased transmission risk in non-endemic countries, raising concerns about potential global spread. Data reveals that much of the transmission has occurred within healthcare settings. Additionally, global research on the outbreak remains limited and requires further exploration from various perspectives, emphasising the need for prompt intervention.\n\nCONCLUSION: Containing MPXV's spread is essential to prevent another potential pandemic. Effective management and control strategies, including enhanced surveillance, public health interventions, and targeted education within at-risk communities, are critical to mitigate the spread and impact of MPXV globally. This study advocates for a proactive approach to MPXV control to avoid its escalation into a widespread health crisis.",
+  "keywords": [
+    "infection",
+    "monkeypox",
+    "orthopoxvirus",
+    "sexually transmitted disease",
+    "vaccine"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "1",
+  "published_online": "2025-01-20",
+  "published_print": "2025-01",
+  "online_year": 2025,
+  "pmid": "39832826",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Om Saswat",
+      "family": "Sahoo",
+      "orcid": null
+    },
+    {
+      "given": "Daina",
+      "family": "Sapam",
+      "orcid": null
+    },
+    {
+      "given": "Swati",
+      "family": "Ajmeria",
+      "orcid": null
+    },
+    {
+      "given": "Hiya",
+      "family": "Aidasani",
+      "orcid": null
+    },
+    {
+      "given": "Ruby",
+      "family": "Dhar",
+      "orcid": "https://orcid.org/0000-0003-3600-6554"
+    },
+    {
+      "given": "Subhradip",
+      "family": "Karmakar",
+      "orcid": "https://orcid.org/0000-0002-4757-8729"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Monkeypox virus",
+    "Zoonoses",
+    "Disease Outbreaks",
+    "Developing Countries",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Mpox, Monkeypox"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70015",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70015",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39832826/",
+    "europe_pmc": "https://europepmc.org/article/MED/39832826"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,107 @@
+{
+  "doi": "10.1002/rmv.2533",
+  "title": "Passive immunotherapies for the next influenza pandemic",
+  "crossref_title": "Passive immunotherapies for the next influenza pandemic",
+  "abstract": "Influenzavirus is among the most relevant candidates for a next pandemic. We review here the phylogeny of former influenza pandemics, and discuss candidate lineages. After briefly reviewing the other existing antiviral options, we discuss in detail the evidences supporting the efficacy of passive immunotherapies against influenzavirus, with a focus on convalescent plasma.",
+  "keywords": [
+    "H1N1pdm09",
+    "H5N1",
+    "H7N9",
+    "bird fu",
+    "convalescent plasma",
+    "influenza virus",
+    "pandemic influenza",
+    "swine flu"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-04-18",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38635404",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Daniele",
+      "family": "Focosi",
+      "orcid": "https://orcid.org/0000-0001-8811-195X"
+    },
+    {
+      "given": "Massimo",
+      "family": "Franchini",
+      "orcid": null
+    },
+    {
+      "given": "Jonathon W.",
+      "family": "Senefeld",
+      "orcid": "https://orcid.org/0000-0001-8116-3538"
+    },
+    {
+      "given": "Michael J.",
+      "family": "Joyner",
+      "orcid": null
+    },
+    {
+      "given": "David J.",
+      "family": "Sullivan",
+      "orcid": "https://orcid.org/0000-0003-0319-0578"
+    },
+    {
+      "given": "Andrew",
+      "family": "Pekosz",
+      "orcid": null
+    },
+    {
+      "given": "Fabrizio",
+      "family": "Maggi",
+      "orcid": null
+    },
+    {
+      "given": "Arturo",
+      "family": "Casadevall",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Immunotherapy",
+    "Influenza, Human",
+    "Pandemics",
+    "Influenza A Virus, H7N9 Subtype"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2533",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2533",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38635404/",
+    "europe_pmc": "https://europepmc.org/article/MED/38635404"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

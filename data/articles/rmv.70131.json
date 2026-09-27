@@ -1,0 +1,97 @@
+{
+  "doi": "10.1002/rmv.70131",
+  "title": "Insights Into Highly Associated Co‐Factors on HPV‐Related Cervical Cancer",
+  "crossref_title": "Insights Into Highly Associated Co‐Factors on HPV‐Related Cervical Cancer",
+  "abstract": "Cervical cancer ranks among the most prevalent malignancies, representing a substantial threat to women's health. The incidence of cervical cancer is strongly correlated with persistent infections by high-risk human papillomavirus (HPV) types. Overall, the prevalence of HPV infection is high, with most cases being classified as recessive, latent, and subclinical. The predominant HPV types and overall infection rates exhibit variability across different tissue types, individuals, and regions. Numerous co-factors contribute to the processes underlying persistent HPV infection and carcinogenesis, including the microbiome, individual immune characteristics, and geographical population differences. Moreover, these factors affect the efficacy of chemotherapy and immunotherapy in cancer treatment. This review aims to summarise several key factors associated with HPV-related cervical cancer and discuss their mechanisms in promoting carcinogenesis in HPV-related malignancies. The insights gained may inform the development of more effective preventive and therapeutic strategies.",
+  "keywords": [
+    "cervical cancer",
+    "human leucocyte antigen gene",
+    "human papillomavirus",
+    "microbiome"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-07",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41793176",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Liyuan",
+      "family": "Zheng",
+      "orcid": "https://orcid.org/0009-0003-7656-9121"
+    },
+    {
+      "given": "Guangwei",
+      "family": "Zhao",
+      "orcid": null
+    },
+    {
+      "given": "Lili",
+      "family": "Zheng",
+      "orcid": "https://orcid.org/0009-0002-9901-0075"
+    },
+    {
+      "given": "Yujie",
+      "family": "Zou",
+      "orcid": null
+    },
+    {
+      "given": "Shengshuo",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Jinhua",
+      "family": "Dong",
+      "orcid": "https://orcid.org/0000-0002-7417-1932"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Papillomaviridae",
+    "Papillomavirus Infections",
+    "Prevalence",
+    "Uterine Cervical Neoplasms",
+    "Female",
+    "Microbiota",
+    "Human Papillomavirus Viruses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70131",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70131",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41793176/",
+    "europe_pmc": "https://europepmc.org/article/MED/41793176"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

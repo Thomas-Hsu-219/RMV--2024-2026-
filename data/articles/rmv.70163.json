@@ -1,0 +1,107 @@
+{
+  "doi": "10.1002/rmv.70163",
+  "title": "Post‐Viral Aspergillosis: A Systematic Review of Incidence, Clinical Manifestations, and Outcomes",
+  "crossref_title": "Post‐Viral Aspergillosis: A Systematic Review of Incidence, Clinical Manifestations, and Outcomes",
+  "abstract": "Invasive aspergillosis (IA) has traditionally been associated with immunocompromised individuals. Post-viral aspergillosis (PVA) has emerged as a significant secondary complication among patients with viral infections, particularly during the COVID-19 pandemic. This systematic review aimed to summarise the patients' clinical characteristics, diagnostic approaches, treatment options, and outcomes of PVA across various respiratory viral infections. This study was registered in PROSPERO (No. CRD420250652078) and followed the PRISMA 2020 guidelines. We systematically searched PubMed, Embase, Scopus, and Web of Science for publications without a time limitation up to the end of May 2025 reporting clinical data on PVA in patients following infections by respiratory viruses, including SARS-CoV-2, influenza, respiratory syncytial virus (RSV), metapneumovirus, parainfluenza, rhinovirus, adenovirus, and cytomegalovirus (CMV). Overall, the reports highlighted PVA occurrence after infections by SARS-CoV-2, influenza, and CMV. Our analyses revealed that PVA is a clinically heterogeneous but frequently deadly infection in patients who are critically ill, immunocompromised patients, or those receiving corticosteroids, following respiratory viral infections. Among critically ill patients, PVA is a clinically important complication of respiratory viral infections, and timely diagnosis and early initiation of appropriate antifungal therapy- considering that Aspergillus is an aerobic fungus requiring specific culture conditions-play a key role in improving patient outcomes.",
+  "keywords": [
+    "invasive aspergillosis",
+    "post‐viral aspergillosis",
+    "respiratory viral infections",
+    "viral‐associated pulmonary aspergillosis"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-06-01",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42223244",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mandana",
+      "family": "Akhavan",
+      "orcid": null
+    },
+    {
+      "given": "Sadegh",
+      "family": "Khodavaisy",
+      "orcid": "https://orcid.org/0000-0001-8039-4991"
+    },
+    {
+      "given": "Saba",
+      "family": "Akbarzadeh",
+      "orcid": null
+    },
+    {
+      "given": "Seyedeh Sabereh",
+      "family": "Mojtahedi",
+      "orcid": null
+    },
+    {
+      "given": "Jianping",
+      "family": "Xu",
+      "orcid": null
+    },
+    {
+      "given": "Farzad",
+      "family": "Aala",
+      "orcid": null
+    },
+    {
+      "given": "Maryam",
+      "family": "Shafaati",
+      "orcid": "https://orcid.org/0000-0002-7401-2237"
+    },
+    {
+      "given": "Mohammadreza",
+      "family": "Salehi",
+      "orcid": "https://orcid.org/0000-0002-5538-7586"
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Aspergillosis",
+    "Virus Diseases",
+    "Antifungal Agents",
+    "Incidence",
+    "Immunocompromised Host",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70163",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70163",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42223244/",
+    "europe_pmc": "https://europepmc.org/article/MED/42223244"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

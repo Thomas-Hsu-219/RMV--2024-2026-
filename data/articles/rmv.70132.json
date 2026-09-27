@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/rmv.70132",
+  "title": "The Management of Congenital Cytomegalovirus Infection in an Era of Universal Newborn CMV Screening",
+  "crossref_title": "The Management of Congenital Cytomegalovirus Infection in an Era of Universal Newborn CMV Screening",
+  "abstract": "The most common infectious disease responsible for paediatric developmental disability is congenital infection with human cytomegalovirus (cCMV). Many serious sequelae are caused by cCMV, including microcephaly, intracranial calcifications, neuronal migration defects, seizure disorders, developmental delay, and sensorineural hearing loss (SNHL). Although long-term neurodevelopmental impairment is clearly more common in newborns with clinically apparent disease at birth, more knowledge is needed about management in the era of universal cCMV screening, since screening identifies infants that, in the past, would not have been discovered during routine newborn care-infants that we reference in this review as having clinically inapparent cCMV (CICMV) infections. For newborns identified with CICMV infections by universal cCMV screening, longitudinal audiologic assessment is needed, but other necessary laboratory and neuroimaging studies, as well as indications for antiviral therapy, are uncertain. This review summarises current concepts about the approach to cCMV infections identified by universal screening, with emphasis on the CICMV infant. We identify areas for future research that should inform and direct future evaluation and management of these infants.",
+  "keywords": [
+    "CMV",
+    "antiviral",
+    "human cytomegalovirus",
+    "newborn screening",
+    "sensorineural hearing loss"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-03-30",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "41913397",
+  "pmcid": "PMC13036300",
+  "authors": [
+    {
+      "given": "Emily R.",
+      "family": "Harrison",
+      "orcid": null
+    },
+    {
+      "given": "W. Charles",
+      "family": "Huskins",
+      "orcid": "https://orcid.org/0000-0002-9989-175X"
+    },
+    {
+      "given": "Mark R.",
+      "family": "Schleiss",
+      "orcid": "https://orcid.org/0000-0002-2108-9433"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Hearing Loss, Sensorineural",
+    "Antiviral Agents",
+    "Neonatal Screening",
+    "Infant, Newborn",
+    "Disease Management"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70132",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70132",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41913397/",
+    "europe_pmc": "https://europepmc.org/article/MED/41913397"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

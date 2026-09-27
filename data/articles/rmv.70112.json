@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/rmv.70112",
+  "title": "From Surge to Stability: Navigating MPOX Epidemics Across the Globe With Genomic Insights, Paving the Way for Effective Management Plan",
+  "crossref_title": "From Surge to Stability: Navigating MPOX Epidemics Across the Globe With Genomic Insights, Paving the Way for Effective Management Plan",
+  "abstract": "MPOX has been declared endemic in Central Africa by WHO in 2017. More recently (2018-2021), MPOX cases have been reported in various regions (endemic as well as non-endemic) all over the world. The sudden, unexpected and simultaneously emerging cases at geographically disparate areas indicate the probable undetected transmission pattern of the disease. The double stranded DNA virus has evolved over the time into multiple sub-lineages. Clade I MPXV variant is considered to be more virulent as compared to clade II variety. Mutations in certain sub-lineages may alter transmission routes, potentially shifting from direct contact to airborne transmission. The clinical presentation involves an incubation phase of 7-9 days, during this phase extensive viral dissemination occurs into the neighbouring cells causing systemic inflammation. The viral prodrome comprising of fever, malaise and myalgias may or may not precede the cutaneous eruptions that evolve over a period of 1-2 weeks, followed by desquamation and scabbing. Treatments include antiviral agents such as tecovirimat, bocindofovir and cidofovir in addition to standard supportive therapy for severe cases or immunocompromised patients. Vaccines such as ACAM2000, JYNNEOS and LC16m8 are available, although they are linked with some risks such as myopericarditis in certain patients. Ongoing global spread and virus mutations highlight the urgent need to accelerate research focused on early MPOX detection, novel treatment options and prevention in order to properly handle potential long-term challenges such as drug-resistant strains and future outbreaks. Prioritising the development of targeted, efficient, and less resistance-prone anti-MPOX medicines and rapid response systems for effective MPOX management.",
+  "keywords": [
+    "MPOX",
+    "genome",
+    "infectious diseases",
+    "susceptibility",
+    "transmission"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-02-21",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41722055",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Tooba",
+      "family": "Malik",
+      "orcid": null
+    },
+    {
+      "given": "Muhammad",
+      "family": "Shahzad",
+      "orcid": "https://orcid.org/0000-0002-4812-8957"
+    },
+    {
+      "given": "Tasleem",
+      "family": "Akhtar",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Viral Vaccines",
+    "Antiviral Agents",
+    "Genomics",
+    "Genome, Viral",
+    "Epidemics",
+    "Global Health",
+    "Mpox, Monkeypox"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70112",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70112",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41722055/",
+    "europe_pmc": "https://europepmc.org/article/MED/41722055"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

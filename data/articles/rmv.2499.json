@@ -1,0 +1,96 @@
+{
+  "doi": "10.1002/rmv.2499",
+  "title": "Assessing the antiviral potential of melatonin: A comprehensive systematic review",
+  "crossref_title": "Assessing the antiviral potential of melatonin: A comprehensive systematic review",
+  "abstract": "This review assesses the antiviral potential of melatonin through comprehensive analysis of studies across human subjects, animal models, cell cultures, and in-silico simulations. The search strategy targeted relevant research until 22 June 2023, resulting in 20 primary studies after screening and deduplication. The findings highlight strong evidence supporting antiviral properties of melatonin. In silico studies identify melatonin as a candidate against SARS-CoV-2, reducing cytokine storm-related respiratory responses. Cell culture experiments reveal its multifaceted effects on different viruses including respiratory syncytial virus, anti-dengue virus, transmissible gastroenteritis virus, and encephalomyocarditis virus. Animal studies show melatonin reduces mortality and viral replication in various infections such as Venezuelan equine encephalomyelitis and COVID-19. Clinical trials show how it could be evaluated, but with no conclusive evidence of efficacy and safety so far from large, double-blind placebo-controlled trials. These insights showcase the potential of melatonin as a versatile antiviral agent with immunomodulatory, antioxidant, anti-inflammatory and antiviral properties. In summary, our review highlights melatonin's promising antiviral properties across diverse settings. Melatonin's immunomodulatory and antiviral potential makes it a compelling candidate for further investigation, emphasising the need for rigorous clinical trials to establish its safety and efficacy against viral infections.",
+  "keywords": [
+    "antiviral",
+    "melatonin",
+    "therapeutic potential",
+    "viral infection"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-12-21",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "38126924",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Tasneem",
+      "family": "Alomari",
+      "orcid": null
+    },
+    {
+      "given": "Haneen",
+      "family": "Al‐Abdallat",
+      "orcid": null
+    },
+    {
+      "given": "Rawan",
+      "family": "Hamamreh",
+      "orcid": null
+    },
+    {
+      "given": "Omar",
+      "family": "Alomari",
+      "orcid": "https://orcid.org/0000-0003-3651-4129"
+    },
+    {
+      "given": "Beria H.",
+      "family": "Hos",
+      "orcid": null
+    },
+    {
+      "given": "Russel J.",
+      "family": "Reiter",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Virus Diseases",
+    "Melatonin",
+    "Antiviral Agents",
+    "Randomized Controlled Trials as Topic",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2499",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2499",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38126924/",
+    "europe_pmc": "https://europepmc.org/article/MED/38126924"
+  },
+  "copyright_statement": "© 2023 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

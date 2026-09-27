@@ -1,0 +1,82 @@
+{
+  "doi": "10.1002/rmv.70032",
+  "title": "Biological and Pathogenic Blueprint of Chandipura Virus",
+  "crossref_title": "Biological and Pathogenic Blueprint of Chandipura Virus",
+  "abstract": "Chandipura virus (CHPV) is a single-stranded negative-sense RNA virus of the family Rhabdoviridae. CHPV is transmitted mainly through infected sandflies. CHPV paediatric encephalitis reported in 2003-2004 in central and south-western parts of India had a case fatality rate of ∼70%. CHPV infection leads to high-grade fever, vomiting, altered sensorium, generalised convulsions, decerebrate posture and coma. Neuroinflammation is the hallmark of CHPV infection and has a pronounced effect on cerebral and brainstem regions. Currently, there are no vaccines or treatments available for CHPV infection. Although previous studies have provided insights into the virus's pathology and host-pathogen interactions, the precise molecular mechanisms underlying CHPV pathogenesis are poorly understood. Understanding molecular pathogenesis is crucial for developing efficacious therapies and preventive measures. The review summarises CHPV epidemiology, transmission, genome structure, replication, pathogenesis and the latest antiviral therapies and vaccine developments.",
+  "keywords": [
+    "Chandipura virus",
+    "encephalitis",
+    "neuroinflammation",
+    "neurotropism",
+    "rhabdovirus",
+    "sandfly",
+    "vector‐borne disease"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-03-24",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "40128513",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Neha",
+      "family": "Pandey",
+      "orcid": "https://orcid.org/0000-0003-0900-019X"
+    },
+    {
+      "given": "Sunit K.",
+      "family": "Singh",
+      "orcid": "https://orcid.org/0000-0002-8802-1169"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Psychodidae",
+    "Vesiculovirus",
+    "Rhabdoviridae Infections",
+    "Viral Vaccines",
+    "Antiviral Agents",
+    "Virus Replication",
+    "Genome, Viral",
+    "India",
+    "Host-Pathogen Interactions"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70032",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70032",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40128513/",
+    "europe_pmc": "https://europepmc.org/article/MED/40128513"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

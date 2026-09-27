@@ -1,0 +1,109 @@
+{
+  "doi": "10.1002/rmv.70050",
+  "title": "Megakaryopoiesis Dysregulation, Thrombocytopaenia, and Dengue Virus Pathogenesis: Molecular Mechanisms and Therapeutic Advances",
+  "crossref_title": "Megakaryopoiesis Dysregulation, Thrombocytopaenia, and Dengue Virus Pathogenesis: Molecular Mechanisms and Therapeutic Advances",
+  "abstract": "Megakaryopoiesis is a complex biological process through which haematopoietic stem cells differentiate into megakaryocyte, leading to the formation of platelets. This process is characterised by a unique differentiation pathway involving endomitosis, resulting in the polyploidisation of megakaryocyte nuclei. Megakaryopoiesis is controlled by various factors, including transcription factors, cytokines and hormones. Defects in this complex process can cause significant complications. A major issue associated with this is thrombocytopaenia, a condition characterised by abnormally low platelet counts. Thrombocytopaenia is often seen in certain cancer-related complications, genetic bone marrow disorders, autoimmune diseases, and particularly in many types of infectious diseases. Among these, dengue virus infection presents a major challenge due to its strong association with thrombocytopaenia, which greatly complicates disease management and outcomes. By integrating knowledge of megakaryopoiesis, thrombocytopaenia, and dengue infection, this review aims to provide a comprehensive understanding of megakaryopoiesis dysregulation, the molecular mechanisms of thrombocytopaenia in DENV pathogenesis and to identify potential areas for future research and clinical intervention. Additionally, this review highlights emerging insights into the role of non-coding RNAs in thrombocytopaenia and offers a better understanding of the mechanisms by which the dengue virus interferes with megakaryocyte function and platelet production, elucidating the intricate viral-host interactions that exacerbate platelet depletion.",
+  "keywords": [
+    "DENV pathogenesis",
+    "megakaryopoiesis",
+    "molecular mechanisms",
+    "non‐coding RNAs",
+    "platelet",
+    "thrombocytopaenia"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-06-17",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40530544",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Preeti",
+      "family": "Sokhal",
+      "orcid": null
+    },
+    {
+      "given": "Kinjal",
+      "family": "Singh",
+      "orcid": null
+    },
+    {
+      "given": "Riya",
+      "family": "Roy",
+      "orcid": null
+    },
+    {
+      "given": "Saumya",
+      "family": "Sinha",
+      "orcid": null
+    },
+    {
+      "given": "Simran",
+      "family": "Mehra",
+      "orcid": null
+    },
+    {
+      "given": "Y. S.",
+      "family": "Ravi Kumar",
+      "orcid": null
+    },
+    {
+      "given": "Sankar",
+      "family": "Bhattacharyya",
+      "orcid": null
+    },
+    {
+      "given": "Bhupendra",
+      "family": "Verma",
+      "orcid": "https://orcid.org/0000-0003-1731-5335"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Blood Platelets",
+    "Megakaryocytes",
+    "Animals",
+    "Humans",
+    "Dengue Virus",
+    "Dengue",
+    "Thrombocytopenia",
+    "Thrombopoiesis"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70050",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70050",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40530544/",
+    "europe_pmc": "https://europepmc.org/article/MED/40530544"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

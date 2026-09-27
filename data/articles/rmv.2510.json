@@ -1,0 +1,76 @@
+{
+  "doi": "10.1002/rmv.2510",
+  "title": "The impact of trained immunity in respiratory viral infections",
+  "crossref_title": "The impact of trained immunity in respiratory viral infections",
+  "abstract": "Epidemic peaks of respiratory viruses that co-circulate during the winter-spring seasons can be synchronous or asynchronous. The occurrence of temporal patterns in epidemics caused by some respiratory viruses suggests that they could negatively interact with each other. These negative interactions may result from a programme of innate immune memory, known as trained immunity, which may confer broad protective effects against respiratory viruses. It is suggested that stimulation of innate immune cells by a vaccine or a pathogen could induce their long-term functional reprogramming through an interplay between metabolic and epigenetic changes, which influence the transcriptional response to a secondary challenge. During the coronavirus disease 2019 pandemic, the circulation of most respiratory viruses was prevented by non-pharmacological interventions and then resumed at unusual periods once sanitary measures were lifted. With time, respiratory viruses should find again their own ecological niches. This transition period provides an opportunity to study the interactions between respiratory viruses at the population level.",
+  "keywords": [
+    "epidemiology",
+    "epigenetic reprogramming",
+    "innate immune memory",
+    "respiratory viruses",
+    "trained immunity",
+    "vaccines"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01-05",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282407",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jocelyne",
+      "family": "Piret",
+      "orcid": null
+    },
+    {
+      "given": "Guy",
+      "family": "Boivin",
+      "orcid": "https://orcid.org/0000-0003-3027-4662"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Viruses",
+    "Vaccines",
+    "Immunity, Innate",
+    "COVID-19",
+    "Trained Immunity"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2510",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2510",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282407/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282407"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

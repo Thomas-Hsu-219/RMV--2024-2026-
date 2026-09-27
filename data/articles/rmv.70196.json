@@ -1,0 +1,101 @@
+{
+  "doi": "10.1002/rmv.70196",
+  "title": "Mpox Airborne Transmission: A Systematic Review",
+  "crossref_title": "Mpox Airborne Transmission: A Systematic Review",
+  "abstract": "Since May 2022, mpox has been reported across multiple nonendemic regions, with concurrent outbreaks in diverse geographic settings, raising concerns about broader international spread. However, evidence regarding the risk of airborne transmission remains limited. We conducted a systematic review to evaluate the risk of airborne transmission and the presence of viable viruses in air samples. PubMed, Web of Science, and the Cochrane Library were searched for studies published in English, including environmental studies, case reports, cross-sectional studies, and cohort studies. Data extraction included study characteristics (authors, year, design, and setting), sample size, diagnostic methods, participant characteristics, follow-up, type of respiratory particles assessed (droplets and/or aerosols), and key findings. Of 286 records identified, four studies met the inclusion criteria. All were environmental studies published between 2022 and 2023. MPXV DNA was detected in surface and air samples, with cycle threshold (Ct) values ranging from < 30 to < 45. However, none of the studies demonstrated consistent viral viability in aerosols or droplets sufficient to support airborne transmission. Overall, the available evidence is limited and does not support a clear risk of airborne infection. Further well-designed studies in human settings are needed to clarify the potential for mpox transmission through respiratory routes. SYSTEMATIC REVIEW REGISTRATION: PROSPERO: CRD42023391123.",
+  "keywords": [
+    "aerosol",
+    "droplets",
+    "mpox",
+    "transmission",
+    "virus"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-08-10",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42576377",
+  "pmcid": "PMC13457963",
+  "authors": [
+    {
+      "given": "Lucas Ferreira",
+      "family": "Theotonio dos Santos",
+      "orcid": "https://orcid.org/0000-0002-7911-7409"
+    },
+    {
+      "given": "Leonardo Javier",
+      "family": "Arcuri",
+      "orcid": null
+    },
+    {
+      "given": "Viviane Aparecida R.",
+      "family": "Sant’Anna",
+      "orcid": null
+    },
+    {
+      "given": "Patrícia Campos",
+      "family": "Couto",
+      "orcid": null
+    },
+    {
+      "given": "Guilherme de Paula P.",
+      "family": "Schettino",
+      "orcid": null
+    },
+    {
+      "given": "Luiz Vicente",
+      "family": "Rizzo",
+      "orcid": "https://orcid.org/0000-0001-9949-9849"
+    },
+    {
+      "given": "Henrique Andrade R.",
+      "family": "Fonseca",
+      "orcid": "https://orcid.org/0000-0001-8360-8465"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Aerosols",
+    "Air Microbiology",
+    "Disease Outbreaks",
+    "Respiratory Aerosols and Droplets",
+    "Mpox, Monkeypox"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70196",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70196",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42576377/",
+    "europe_pmc": "https://europepmc.org/article/MED/42576377"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,112 @@
+{
+  "doi": "10.1002/rmv.70057",
+  "title": "Oral Manifestations in the Post COVID‐19 Condition: A Systematic Review With Meta‐Analysis",
+  "crossref_title": "Oral Manifestations in the Post COVID‐19 Condition: A Systematic Review With Meta‐Analysis",
+  "abstract": "Post-COVID-19 condition, or Long COVID, is characterised by symptoms persisting or emerging beyond 12 weeks after acute infection. Among over 200 reported symptoms, oral manifestations such as taste loss and dry mouth have been identified. This systematic review reports the frequency and characteristics of these symptoms. Registered in PROSPERO and following PRISMA guidelines, the review included observational studies on COVID-19-positive adults presenting oral symptoms in the post-COVID-19 condition. A search in six databases (Medline/PubMed, Embase, Web of Science, Cochrane, SCOPUS, and LILACS) was conducted in January 2024. Risk of bias was assessed using Joanna Briggs Institute's critical appraisal tools, and certainty of evidence via GRADE. A meta-analysis using the inverse variance method estimated oral symptom prevalence. Of 4552 articles, 107 were included. Taste dysfunction persisted in 8% (95% CI 6%-10%) of patients beyond 12 weeks. Combined taste and smell alterations had a prevalence of 17% (95% CI 13%-21%). Less frequent symptoms included hyposalivation, periodontitis, mouth ulcers, tongue mucosal changes, facial tingling, sensitivity in the trigeminal nerve, difficulty swallowing, and lesions in the hard palate. Taste alterations were the most commonly reported symptom, underscoring the need for clinical recognition and appropriate management by oral health professionals. Additionally, the wide range of other oral manifestations highlights the necessity for further research to better understand their prevalence, underlying mechanisms, and clinical implications in post-COVID-19 patients.",
+  "keywords": [
+    "long COVID",
+    "oral health",
+    "oral manifestations",
+    "post‐acute COVID‐19 syndrome"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-07-15",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40663038",
+  "pmcid": "PMC12262108",
+  "authors": [
+    {
+      "given": "Letícia Simeoni",
+      "family": "Avais",
+      "orcid": "https://orcid.org/0000-0002-4603-7090"
+    },
+    {
+      "given": "Elis Carolina",
+      "family": "Pacheco",
+      "orcid": "https://orcid.org/0000-0003-0409-2881"
+    },
+    {
+      "given": "Luisa Pereira de Oliveira Zanetti",
+      "family": "Gomes",
+      "orcid": "https://orcid.org/0000-0001-7608-5790"
+    },
+    {
+      "given": "Márcia Helena",
+      "family": "Baldani",
+      "orcid": "https://orcid.org/0000-0003-1310-6771"
+    },
+    {
+      "given": "Camila Marinelli",
+      "family": "Martins",
+      "orcid": "https://orcid.org/0000-0002-6430-2687"
+    },
+    {
+      "given": "Eliseu Alves",
+      "family": "Waldman",
+      "orcid": "https://orcid.org/0000-0001-7807-6898"
+    },
+    {
+      "given": "Jean Paul J.",
+      "family": "Gonzalez",
+      "orcid": "https://orcid.org/0000-0003-3063-1770"
+    },
+    {
+      "given": "Tomoko Y.",
+      "family": "Steen",
+      "orcid": "https://orcid.org/0000-0002-3482-1849"
+    },
+    {
+      "given": "Pollyanna Kássia de Oliveira",
+      "family": "Borges",
+      "orcid": "https://orcid.org/0000-0002-9390-0459"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Mouth Diseases",
+    "Xerostomia",
+    "Taste Disorders",
+    "Prevalence",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70057",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70057",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40663038/",
+    "europe_pmc": "https://europepmc.org/article/MED/40663038"
+  },
+  "copyright_statement": "© 2025 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

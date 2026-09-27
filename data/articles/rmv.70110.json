@@ -1,0 +1,105 @@
+{
+  "doi": "10.1002/rmv.70110",
+  "title": "Advances in Rapid Nucleic Acid Diagnostics for Hepatitis B and C Viruses: A Comprehensive Review",
+  "crossref_title": "Advances in Rapid Nucleic Acid Diagnostics for Hepatitis B and C Viruses: A Comprehensive Review",
+  "abstract": "Chronic viral hepatitis, predominantly caused by HBV and HCV infections, remains a major global health burden and a leading cause of cirrhosis, hepatocellular carcinoma (HCC), and liver-related mortality. Achieving the World Health Organisation (WHO) target of diagnosing 90% of HBV and HCV infections by 2030 necessitates a fundamental transition from centralised laboratory-based testing towards rapid, accessible, and decentralised diagnostic solutions. This review provides a comprehensive and critical assessment of the current diagnostic landscape for viral hepatitis, spanning established commercial assays and emerging nucleic acid testing (NAT) technologies. We systematically examine recent advances in biosensor-enabled diagnostics, with particular emphasis on the integration of isothermal amplification and CRISPR-based molecular recognition into electrochemical and field-effect transistor (FET) platforms. These electronic sensing technologies enable label-free signal transduction, scalable miniaturisation, and seamless integration with point-of-care (POC) workflows, thereby addressing key limitations of conventional diagnostic pipelines. In addition, we discuss persistent challenges in sample preparation, signal amplification, and system integration, and highlight strategies that couple biochemical amplification with solid-state electronics to streamline diagnostic workflows. By synthesising the state of the art and identifying critical technological bottlenecks, this review describes the technological progression of next-generation diagnostic platforms required to accelerate the global elimination of viral hepatitis and to improve patient outcomes through earlier and more equitable access to diagnosis.",
+  "keywords": [
+    "CRISPR‐based diagnostics",
+    "field‐effect transistors",
+    "hepatitis B and C viruses",
+    "molecular diagnostics",
+    "point‐of‐care testing"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-02-08",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41656498",
+  "pmcid": "PMC12966980",
+  "authors": [
+    {
+      "given": "Hsin‐Ying",
+      "family": "Ho",
+      "orcid": "https://orcid.org/0000-0002-9883-8199"
+    },
+    {
+      "given": "Chia‐Yen",
+      "family": "Dai",
+      "orcid": null
+    },
+    {
+      "given": "I‐Jung",
+      "family": "Feng",
+      "orcid": "https://orcid.org/0000-0002-5763-929X"
+    },
+    {
+      "given": "Yen‐Hsu",
+      "family": "Chen",
+      "orcid": "https://orcid.org/0000-0002-8667-4844"
+    },
+    {
+      "given": "Ming‐Lung",
+      "family": "Yu",
+      "orcid": "https://orcid.org/0000-0001-8145-1900"
+    },
+    {
+      "given": "Che‐Hsin",
+      "family": "Lin",
+      "orcid": null
+    },
+    {
+      "given": "Ling‐Shan",
+      "family": "Yu",
+      "orcid": "https://orcid.org/0000-0001-7300-4393"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Hepatitis B virus",
+    "Hepacivirus",
+    "Hepatitis B",
+    "Hepatitis C",
+    "Molecular Diagnostic Techniques",
+    "Nucleic Acid Amplification Techniques",
+    "Biosensing Techniques",
+    "Point-of-Care Systems",
+    "Rapid Diagnostic Tests"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70110",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70110",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41656498/",
+    "europe_pmc": "https://europepmc.org/article/MED/41656498"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

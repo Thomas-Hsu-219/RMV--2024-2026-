@@ -1,0 +1,85 @@
+{
+  "doi": "10.1002/rmv.70097",
+  "title": "Oncoviruses as Emerging Players in Cardiovascular Pathogenesis: Evidence, Mechanisms and Clinical Perspectives",
+  "crossref_title": "Oncoviruses as Emerging Players in Cardiovascular Pathogenesis: Evidence, Mechanisms and Clinical Perspectives",
+  "abstract": "Oncogenic viruses, with their significant capacity to drive malignant transformation, are currently known as a major factor involved in cardiovascular diseases (CVDs) by intricate immunometabolic and inflammatory processes. In this context, viral pathogens such as Hepatitis B and C viruses (HBV/HCV), Human Cytomegalovirus (HCMV), Human Papillomavirus (HPV), Epstein-Barr Virus (EBV), and Human T-Lymphotropic Virus (HTLV) have been detected in vascular tissues and are hypothesised to contribute to endothelial dysfunction, atherogenesis, and myocarditis. These viruses can modulate host cell signalling, induce chronic inflammation, and promote oxidative stress, thereby accelerating vascular remodelling and plaque instability. Emerging evidence also suggests that viral oncogenes interfere with cardiomyocyte survival pathways and disrupt vascular smooth muscle cell homoeostasis. Despite growing interest, the causal relationship between oncoviral infection and cardiovascular disease remains underexplored, and current clinical guidelines do not address viral-driven cardiopathology. This review synthesises current mechanistic insights and highlights epidemiological links, aiming to bridge gaps between oncology and cardiovascular virology. Understanding the dual oncogenic and cardiotropic potential of these viruses may open new therapeutic perspectives and support the development of targeted antiviral and immunomodulatory strategies for cardiovascular prevention in high-risk populations.",
+  "keywords": [
+    "cancer",
+    "cardiopathology",
+    "cardiovascular diseases",
+    "oncoviruses"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2026-01-08",
+  "published_print": "2026-01",
+  "online_year": 2026,
+  "pmid": "41503717",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Chuang",
+      "family": "Yang",
+      "orcid": "https://orcid.org/0000-0002-2326-029X"
+    },
+    {
+      "given": "Zhibo",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Zhuo",
+      "family": "Zhao",
+      "orcid": "https://orcid.org/0000-0003-4607-9474"
+    },
+    {
+      "given": "Ziyuan",
+      "family": "Guo",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Oncogenic Viruses",
+    "Tumor Virus Infections",
+    "Cardiovascular Diseases",
+    "Human Papillomavirus Viruses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70097",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70097",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41503717/",
+    "europe_pmc": "https://europepmc.org/article/MED/41503717"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,128 @@
+{
+  "doi": "10.1002/rmv.70088",
+  "title": "Dengue Fever: Viral, Environmental, and Human Factors Driving Expansion and Pandemic Risk",
+  "crossref_title": "Dengue Fever: Viral, Environmental, and Human Factors Driving Expansion and Pandemic Risk",
+  "abstract": "Dengue fever (DF), caused by the dengue virus (DENV), is the fastest-spreading mosquito-borne viral disease globally and presents significant public health challenges. This comprehensive review explores the multifaceted factors influencing DENV expansion and control. We examine viral factors, including serotypes, sub-genotypes, genetic mutations, recombination, and immune evasion mechanisms, and their role in enhancing dengue's adaptability and virulence. The influence of environmental factors, such as climate change, global warming, and unplanned urbanization on mosquito vector distribution, and the impact of natural disasters and human conflicts on population dynamics and transmission risks are discussed. Human factors, including global travel, migration, inadequate public health infrastructure, and the role of herd immunity from previous infections and cyclical outbreaks, are critically assessed. Additionally, emerging challenges like co-infections, drug resistance, and the potential for pandemic outbreaks are considered. By synthesizing current knowledge across these dimensions, this review provides insights into dengue transmission complexities and identifies key intervention areas, aiming to enhance strategies for prevention, control, and preparedness in the face of evolving global health threats.",
+  "keywords": [
+    "arboviruses",
+    "dengue",
+    "disease outbreaks",
+    "preventive health services",
+    "vector borne diseases"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2025-12-05",
+  "published_print": "2026-01",
+  "online_year": 2025,
+  "pmid": "41347426",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mohsen",
+      "family": "Nakhaie",
+      "orcid": "https://orcid.org/0000-0001-7605-2593"
+    },
+    {
+      "given": "Amirhossein",
+      "family": "Shahpar",
+      "orcid": null
+    },
+    {
+      "given": "Mohammad",
+      "family": "Rezaei Zadeh Rukerd",
+      "orcid": "https://orcid.org/0000-0001-8390-4344"
+    },
+    {
+      "given": "Niloofar",
+      "family": "Farsiu",
+      "orcid": "https://orcid.org/0009-0007-5488-6969"
+    },
+    {
+      "given": "Javad",
+      "family": "Charostad",
+      "orcid": null
+    },
+    {
+      "given": "Davood",
+      "family": "Bashash",
+      "orcid": "https://orcid.org/0000-0002-8029-4920"
+    },
+    {
+      "given": "Nazanin",
+      "family": "Zeinali Nezhad",
+      "orcid": null
+    },
+    {
+      "given": "Mohammad",
+      "family": "Pardeshenas",
+      "orcid": null
+    },
+    {
+      "given": "Azadeh",
+      "family": "Haghi Navand",
+      "orcid": null
+    },
+    {
+      "given": "Hanieh",
+      "family": "Mirkamali",
+      "orcid": null
+    },
+    {
+      "given": "Keivan",
+      "family": "Zandi",
+      "orcid": null
+    },
+    {
+      "given": "Sazaly",
+      "family": "AbuBakar",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Dengue Virus",
+    "Dengue",
+    "Climate Change",
+    "Pandemics",
+    "Global Health",
+    "Mosquito Vectors"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70088",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70088",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41347426/",
+    "europe_pmc": "https://europepmc.org/article/MED/41347426"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

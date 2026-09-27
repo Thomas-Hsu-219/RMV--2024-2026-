@@ -1,0 +1,93 @@
+{
+  "doi": "10.1002/rmv.2576",
+  "title": "Systematic Review of the Efficacy and Safety of RSV‐Specific Monoclonal Antibodies and Antivirals in Development",
+  "crossref_title": "Systematic Review of the Efficacy and Safety of RSV‐Specific Monoclonal Antibodies and Antivirals in Development",
+  "abstract": "Respiratory syncytial virus (RSV) is a leading cause of acute respiratory infection amongst all ages, causing a significant global health burden. Preventative and therapeutic options for RSV infection have long been under development, and recently, several widely-publicised vaccines targeting older adult and maternal populations have become available. Promising monoclonal antibody (mAb) and antiviral (AV) therapies are also progressing in clinical trials, with the prophylactic mAb nirsevimab recently approved for clinical use in infant populations. A systematic review on current progress in this area is lacking. We performed a systematic literature search (PubMed, Embase, Web of Science, ClinicalTrials.gov, EudraCT, ANZCTR-searched Nov 29th, 2023) to identify studies on all RSV-specific mAbs and AV therapies that has undergone human clinical trials since year 2000. Data extraction focused on outcomes related to the therapeutic efficacy and safety of the intervention on trial, and all studies were graded against the OCEBM Levels of Evidence Table. Results from 59 studies were extracted, covering efficacy and safety data on six mAbs (motavizumab, motavizumab-YTE, nirsevimab, ALX-0171, suptavumab, clesrovimab) and 12 AV therapies (ALN-RSV01, RSV604, presatovir, MDT-637, lumicitabine, IFN-α1b, rilematovir, enzaplatovir, AK0529, sisunatovir, PC786, EDP-938). Of the mAbs reviewed, nirsevimab and clesrovimab hold considerable promise. The timeline for RSV-specific AV availability is less advanced, although EDP-938 and AK0529 have reported promising phase 2 efficacy and safety data. Moving forward, passive immunisation and treatment options for RSV infection will play a significant role in reducing the health burden of RSV, complementing recent advancements in vaccine development. TRIAL REGISTRATION: PROSPERO registration: CRD42022376633.",
+  "keywords": [
+    "RSV",
+    "antiviral",
+    "monoclonal antibody",
+    "respiratory syncytial virus",
+    "systematic review",
+    "therapeutics"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "5",
+  "published_online": "2024-08-29",
+  "published_print": "2024-09",
+  "online_year": 2024,
+  "pmid": "39209729",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Andrea T. K.",
+      "family": "Sevendal",
+      "orcid": "https://orcid.org/0009-0001-7860-5267"
+    },
+    {
+      "given": "Siobhan",
+      "family": "Hurley",
+      "orcid": null
+    },
+    {
+      "given": "Adam W.",
+      "family": "Bartlett",
+      "orcid": "https://orcid.org/0000-0002-7532-9316"
+    },
+    {
+      "given": "William",
+      "family": "Rawlinson",
+      "orcid": "https://orcid.org/0000-0003-0988-7827"
+    },
+    {
+      "given": "Gregory J.",
+      "family": "Walker",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Respiratory Syncytial Virus, Human",
+    "Respiratory Syncytial Virus Infections",
+    "Antibodies, Monoclonal",
+    "Antibodies, Viral",
+    "Antiviral Agents",
+    "Treatment Outcome",
+    "Clinical Trials as Topic"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2576",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2576",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39209729/",
+    "europe_pmc": "https://europepmc.org/article/MED/39209729"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

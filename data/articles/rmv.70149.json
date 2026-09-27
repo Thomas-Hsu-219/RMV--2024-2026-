@@ -1,0 +1,90 @@
+{
+  "doi": "10.1002/rmv.70149",
+  "title": "Global Vaccine Confidence at a Crossroads: Immunisation Coverage Declines, Misinformation, and the Future of Vaccine Policy",
+  "crossref_title": "Global Vaccine Confidence at a Crossroads: Immunisation Coverage Declines, Misinformation, and the Future of Vaccine Policy",
+  "abstract": "Vaccination remains one of the most effective public health interventions; however, recent global trends indicate a reversal in routine immunisation coverage alongside resurgent outbreaks of vaccine-preventable diseases. This review synthesises current evidence on declining immunisation coverage, the re-emergence of diseases such as measles and poliomyelitis, and the growing influence of vaccine hesitancy and misinformation on vaccine uptake. A systematic search of PubMed, Scopus, and WHO/UNICEF databases was conducted using terms including 'vaccine hesitancy', 'immunisation coverage', 'vaccine-preventable diseases', 'misinformation', and 'vaccine policy', covering literature published between 2000 and 2024. We examine how pandemic-related disruptions, structural inequities, and evolving information ecosystems have collectively weakened immunisation system resilience across diverse settings. Beyond epidemiological consequences, declining coverage reflects broader challenges related to trust, governance, and equity in vaccine delivery. The review highlights the limitations of reactive, outbreak-driven approaches and emphasises the central role of strong routine immunisation systems embedded within primary healthcare. We discuss policy implications for integrating behavioural and social science insights, strengthening risk communication, and advancing equity-oriented immunisation governance. We conclude that sustaining and extending global immunisation gains will depend on aligning scientific innovation with public trust and system resilience. Addressing vaccine confidence as a core component of immunisation performance is essential to safeguarding global health security in the coming decade.",
+  "keywords": [
+    "global health policy",
+    "immunisation coverage",
+    "vaccine confidence",
+    "vaccine hesitancy",
+    "vaccine‐preventable diseases"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-18",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "41999127",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Alfi",
+      "family": "Sophian",
+      "orcid": null
+    },
+    {
+      "given": "",
+      "family": "Normasari",
+      "orcid": null
+    },
+    {
+      "given": "Andhika",
+      "family": "Harumanto",
+      "orcid": null
+    },
+    {
+      "given": "",
+      "family": "Abinawanto",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Vaccines",
+    "Vaccination",
+    "Communication",
+    "Health Policy",
+    "Immunization Programs",
+    "Global Health",
+    "Vaccination Coverage",
+    "Vaccine-Preventable Diseases",
+    "Vaccination Hesitancy"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70149",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70149",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41999127/",
+    "europe_pmc": "https://europepmc.org/article/MED/41999127"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

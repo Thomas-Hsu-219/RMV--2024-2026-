@@ -1,0 +1,118 @@
+{
+  "doi": "10.1002/rmv.2495",
+  "title": "Serological response and immune‐related adverse events following COVID‐19 vaccination in cancer patients treated with immune checkpoint inhibitors: A systematic review and meta‐analysis",
+  "crossref_title": "Serological response and immune‐related adverse events following COVID‐19 vaccination in cancer patients treated with immune checkpoint inhibitors: A systematic review and meta‐analysis",
+  "abstract": "With the popularity of Coronavirus disease 2019 (COVID-19) vaccine and the development of vaccination strategies, the impact of COVID-19 vaccine on cancer patients receiving immune checkpoint inhibitors (ICIs) is still unclear. In the systematic review and meta-analysis of patients with ICIs, we assessed the serological response of cancer patients receiving COVID-19 vaccine, and explored the risk of immune related adverse events (irAEs). We searched PubMed, EMBASE and Cochrane Library as of 10 June 2023, and included cancer patients who received ICIs and COVID-19 vaccine. The systematic review and meta-analysis include cohort study, cross-sectional study and case report. The outcome included the serological response, Spike-specific T-cell response, irAEs and rare adverse events. When possible, the data were analysed by random effect analysis, and the statistical heterogeneity was assessed by Q-test and I2 statistics. We explored the sources of heterogeneity through L'Abbe plots, Galbraith radial plots, and sensitivity analysis. The publication bias was evaluated by Egger's, Begg's linear regression test and funnel plot, and the impact of publication bias was further analysed by trim and fill method. 27 studies were eligible (19 cohort studies, 1 cross-sectional study and 7 case reports), involving 8331 patients (with 4724 receiving ICIs). Most studies used mRNA vaccine (BNT162b2 or mRNA-1273). Compared with cancer patients receiving chemotherapy, cancer patients receiving ICIs were significantly more likely to have seroconversion (RR = 1.05, 95%CI 1.01-1.10, P = 0.02). There were no statistically significant differences in seroconversion rates when comparing cancer patients receiving ICIs with controls without cancer (RR = 0.95, 95% CI 0.89-1.01, P = 0.09) or with cancer patients receiving targeted therapy (RR = 1.05, 95% CI 0.79-1.39, P = 0.75). The incidence of irAEs in patients receiving ICIs before and after COVID-19 vaccination was (21.96%, 95%CI 16.66%-28.94%) and (14.88%, 95%CI 8.65%-25.57%), respectively. The most common irAEs were endocrine abnormalities, skin disorders, etc. The certainty of evidence was low in cancer patients with ICIs, compared with those receiving chemotherapy, and very low versus controls without cancer. Cancer patients treated with ICIs seem to be able to receive COVID-19 vaccine safely without increasing the incidence of irAEs.",
+  "keywords": [
+    "COVID-19 vaccination",
+    "immune checkpoint inhibitors",
+    "immune related adverse events",
+    "meta-analysis",
+    "serological response"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-11-28",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "38017632",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Yue",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Dong",
+      "family": "Chen",
+      "orcid": "https://orcid.org/0000-0002-7692-7529"
+    },
+    {
+      "given": "Yuancan",
+      "family": "Pan",
+      "orcid": null
+    },
+    {
+      "given": "Haiming",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Weizhe",
+      "family": "Zhao",
+      "orcid": null
+    },
+    {
+      "given": "Taicheng",
+      "family": "Lu",
+      "orcid": null
+    },
+    {
+      "given": "Weijia",
+      "family": "Kong",
+      "orcid": null
+    },
+    {
+      "given": "Min",
+      "family": "Ding",
+      "orcid": null
+    },
+    {
+      "given": "Xiaomin",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Ganlin",
+      "family": "Zhang",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Neoplasms",
+    "Cohort Studies",
+    "Cross-Sectional Studies",
+    "COVID-19",
+    "COVID-19 Vaccines",
+    "Immune Checkpoint Inhibitors",
+    "BNT162 Vaccine"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2495",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2495",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38017632/",
+    "europe_pmc": "https://europepmc.org/article/MED/38017632"
+  },
+  "copyright_statement": "© 2023 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

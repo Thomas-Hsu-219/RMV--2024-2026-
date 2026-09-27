@@ -1,0 +1,65 @@
+{
+  "doi": "10.1002/rmv.2514",
+  "title": "Opportunities and challenges for the application of artificial intelligence paradigms into the management of endemic viral infections: The example of Chronic Hepatitis C Virus",
+  "crossref_title": "Opportunities and challenges for the application of artificial intelligence paradigms into the management of endemic viral infections: The example of Chronic Hepatitis C Virus",
+  "abstract": "Despite the advent of direct‐acting antiviral agents (DAAs) as a definitive therapy for chronic hepatitis C virus (HCV) infection, the burden of the disease remains globally elevated. The emerging big data on different HCV paradigms fostered the introduction of artificial intelligence/machine learning (AI/ML) applications to help decrease that burden by providing more optimised strategies for early diagnosis and treatment prioritisation. The current review provides descriptive and analytical insight into the recently published AI/ML applications in five medical aspects of HCV infection. In addition, it highlights the opportunities these powerful tools offer in designing national health policies that prioritise HCV patients for the costly DAAs and developing broadly neutralising HCV antibodies. Finally, this paper highlights the challenges encountered in developing and applying these AI/ML models to clinical practice and suggests schemes to overcome some of them. The presented models were primarily evaluated using the Matthews correlation coefficient and the F1‐score to make a more reliable inference about their predictive power under imbalanced datasets. Many published AI/ML applications offered great utilities for predicting novel HCV treatments and prioritising patients for DAAs receipt, especially in settings of limited resources and high HCV burden. Some outperformed the classical diagnostic tools, such as third‐generation serological tests, alpha‐fetoprotein, and ultrasound, in detecting HCV infections and early HCV‐associated hepatocellular carcinoma, respectively. However, further statistical and clinical validation of AI/ML models is highly advocated before incorporating these applications into clinical practice.",
+  "keywords": [],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "2",
+  "published_online": "2024-02-02",
+  "published_print": "2024-03",
+  "online_year": 2024,
+  "pmid": null,
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Ahmed N.",
+      "family": "Farrag",
+      "orcid": "https://orcid.org/0000-0001-9241-0127"
+    },
+    {
+      "given": "Ahmed M.",
+      "family": "Kamel",
+      "orcid": "https://orcid.org/0000-0002-3791-5998"
+    },
+    {
+      "given": "Iman A.",
+      "family": "El‐Baraky",
+      "orcid": "https://orcid.org/0000-0001-6296-5877"
+    }
+  ],
+  "publication_types": [
+    "Review"
+  ],
+  "mesh_terms": [],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "Crossref",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "Wiley article landing page"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2514",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2514",
+    "publisher_supplement": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2514"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

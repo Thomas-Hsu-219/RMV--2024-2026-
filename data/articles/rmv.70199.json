@@ -1,0 +1,111 @@
+{
+  "doi": "10.1002/rmv.70199",
+  "title": "CRISPR‐Engineered CAR‐T Cell Therapy for Epstein–Barr Virus‐Associated Nasopharyngeal Carcinoma: A Review of Emerging Therapeutic Prospects",
+  "crossref_title": "CRISPR‐Engineered CAR‐T Cell Therapy for Epstein–Barr Virus‐Associated Nasopharyngeal Carcinoma: A Review of Emerging Therapeutic Prospects",
+  "abstract": "Epstein-Barr virus (EBV)-associated nasopharyngeal carcinoma (NPC) remains a clinically challenging malignancy, particularly in recurrent or metastatic disease where durable responses to chemoradiotherapy and immune checkpoint blockade are limited. The viral aetiology of NPC provides a strong biological rationale for immune-based treatment; however, translation of chimaeric antigen receptor (CAR) T-cell therapy into this solid tumour setting is constrained by poor tumour trafficking, antigen heterogeneity, limited surface accessibility of EBV latent antigens, T-cell exhaustion, and an immunosuppressive tumour microenvironment. This review critically evaluates the emerging therapeutic prospects of CRISPR-engineered CAR-T cell therapy for EBV-associated NPC. It synthesises evidence on EBV latency biology, NPC immune evasion, solid-tumour CAR-T limitations, and genome-engineering strategies including conventional CRISPR-Cas9, base editing, prime editing, and double-strand-break-sparing targeted integration. Particular attention is given to genotoxicity, chromosomal rearrangements, chromosome loss, bystander and off-target editing, manufacturing heterogeneity, and the regulatory and biological barriers that currently separate technical feasibility from NPC-specific clinical implementation. Available clinical evidence from checkpoint blockade, EBV-specific adoptive T-cell therapy, base-edited CAR-T cells in haematologic malignancy, and early CRISPR-edited T-cell trials supports the feasibility of immune and genetic redirection but does not establish efficacy of a clinically validated CRISPR-engineered CAR-T platform for NPC. Future development should prioritise surface-accessible antigen validation, fit-for-purpose selection of editing technology, genomic safety, scalable manufacturing, and biomarker-driven early-phase trials.",
+  "keywords": [
+    "CAR‐T cell therapy",
+    "CRISPR‐Cas9",
+    "adoptive cellular therapy",
+    "epstein‐barr virus",
+    "nasopharyngeal carcinoma",
+    "tumour microenvironment"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-09-05",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42700448",
+  "pmcid": "PMC13546091",
+  "authors": [
+    {
+      "given": "Noor",
+      "family": "Allehyani",
+      "orcid": "https://orcid.org/0009-0004-7482-3402"
+    },
+    {
+      "given": "Mohammed",
+      "family": "Alissa",
+      "orcid": "https://orcid.org/0000-0002-4045-0810"
+    },
+    {
+      "given": "Abdullah",
+      "family": "Alghamdi",
+      "orcid": "https://orcid.org/0009-0005-6635-3102"
+    },
+    {
+      "given": "Mohammed A.",
+      "family": "Alshehri",
+      "orcid": "https://orcid.org/0009-0006-2139-5904"
+    },
+    {
+      "given": "Ghadah S.",
+      "family": "Abusalim",
+      "orcid": "https://orcid.org/0000-0002-4986-9503"
+    },
+    {
+      "given": "Alaa S.",
+      "family": "Alhegaili",
+      "orcid": "https://orcid.org/0000-0002-0984-167X"
+    },
+    {
+      "given": "Tawfiq N.",
+      "family": "Juraybi",
+      "orcid": "https://orcid.org/0009-0002-8147-1922"
+    },
+    {
+      "given": "Meshari A.",
+      "family": "Alsuwat",
+      "orcid": "https://orcid.org/0000-0003-0953-0692"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Herpesvirus 4, Human",
+    "Epstein-Barr Virus Infections",
+    "Nasopharyngeal Neoplasms",
+    "Immunotherapy, Adoptive",
+    "Tumor Microenvironment",
+    "CRISPR-Cas Systems",
+    "Gene Editing",
+    "Receptors, Chimeric Antigen",
+    "Nasopharyngeal Carcinoma"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70199",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70199",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42700448/",
+    "europe_pmc": "https://europepmc.org/article/MED/42700448"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,50 @@
+{
+  "doi": "10.1002/rmv.70062",
+  "title": "Correction to “Relative Efficacy, Effectiveness and Safety of Newer And/Or Enhanced Seasonal Influenza Vaccines for the Prevention of Laboratory‐Confirmed Influenza in Individuals Aged 18 Years and Over: Update of a Systematic Review”",
+  "crossref_title": "Correction to “Relative Efficacy, Effectiveness and Safety of Newer And/Or Enhanced Seasonal Influenza Vaccines for the Prevention of Laboratory‐Confirmed Influenza in Individuals Aged 18 Years and Over: Update of a Systematic Review”",
+  "abstract": null,
+  "keywords": [],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-07-22",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40696564",
+  "pmcid": "PMC12481655",
+  "authors": [],
+  "publication_types": [
+    "Published Erratum"
+  ],
+  "mesh_terms": [],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70062",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70062",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40696564/",
+    "europe_pmc": "https://europepmc.org/article/MED/40696564"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

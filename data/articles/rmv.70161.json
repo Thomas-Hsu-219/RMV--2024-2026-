@@ -1,0 +1,108 @@
+{
+  "doi": "10.1002/rmv.70161",
+  "title": "A Comprehensive Review of Vaccine Technologies for Pandemic Preparedness Against Highly Pathogenic Avian Influenza",
+  "crossref_title": "A Comprehensive Review of Vaccine Technologies for Pandemic Preparedness Against Highly Pathogenic Avian Influenza",
+  "abstract": "Highly Pathogenic Avian Influenza Virus (HPAIV) poses a serious threat to the poultry industry and public health due to its global spread to avian and non-avian hosts. To combat the spread of HPAIVs in poultry and reduce the risk of zoonotic transmission, the World Health Organization underscores the importance of strategic surveillance and advancements in vaccination strategies. For the prevention of avian influenza outbreaks in poultry and their transmission to humans and cattle, vaccination would be a critical tool. We critically review the limitations of current vaccine platforms and highlight innovative vaccine strategies against HPAIV that are essential for addressing future pandemic threats. The aim is to clarify the progress and challenges in AIV vaccine development and offer insights into recent technological advancements shaping future vaccination strategies.",
+  "keywords": [
+    "antigenic target",
+    "avian influenza virus",
+    "escape mutant",
+    "immunoinformatics",
+    "one health approach",
+    "vaccine mismatch"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-05-03",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42071177",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Muzamil Ahmad",
+      "family": "Rather",
+      "orcid": null
+    },
+    {
+      "given": "Muttahir",
+      "family": "Aman",
+      "orcid": null
+    },
+    {
+      "given": "Amreena",
+      "family": "Hassan",
+      "orcid": null
+    },
+    {
+      "given": "Parvaiz A.",
+      "family": "Koul",
+      "orcid": "https://orcid.org/0000-0002-1700-9285"
+    },
+    {
+      "given": "Varsha",
+      "family": "Potdar",
+      "orcid": null
+    },
+    {
+      "given": "Nazir Ahmad",
+      "family": "Ganai",
+      "orcid": null
+    },
+    {
+      "given": "Nadeem",
+      "family": "Shabir",
+      "orcid": "https://orcid.org/0000-0001-6358-5251"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Birds",
+    "Poultry",
+    "Cattle",
+    "Humans",
+    "Influenza Vaccines",
+    "Vaccination",
+    "Influenza, Human",
+    "Influenza in Birds",
+    "Pandemics",
+    "Vaccine Development",
+    "Pandemic Preparedness"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70161",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70161",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42071177/",
+    "europe_pmc": "https://europepmc.org/article/MED/42071177"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

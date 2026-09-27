@@ -1,0 +1,106 @@
+{
+  "doi": "10.1002/rmv.70164",
+  "title": "Post‐Infectious Fatigue and Depression Following Dengue: A Systematic Review and Meta‐Analysis of Associated Factors",
+  "crossref_title": "Post‐Infectious Fatigue and Depression Following Dengue: A Systematic Review and Meta‐Analysis of Associated Factors",
+  "abstract": "Post-dengue fatigue syndrome is a debilitating long-term condition that affects daily activities, quality of life, and productivity. Its underlying mechanisms remain unclear, but clinical similarities with post-dengue depression complicate differentiation. Therefore, we conducted a systematic review and meta-analysis to identify and compare factors associated with post-dengue fatigue and post-dengue depression. We searched PubMed, Science Direct, Web of Science and Google Scholar databases until 6 June 2025, with an update performed on 31 December 2025. This systematic review was conducted according to PRISMA guidelines. Meta-analyses were conducted to assess associations of demographic, biological, clinical, medical or psychosocial factors with post-dengue fatigue and post-dengue depression using pooled odds ratios (OR). The study protocol was registered in PROSPERO (CRD420250655004). Nine studies (2006-2023) covering 1470 patients were included. The systematic review identified 13 factors eligible for meta-analysis: twelve factors for post-dengue fatigue and one for post-dengue depression. Among these factors, female sex (OR 1.69, 95% CI: 1.33-2.14), myalgia (OR 3.45, 95% CI: 2.10-5.69), and severe dengue (OR 4.02, 95% CI: 1.45-11.13), particularly dengue haemorrhagic fever (OR 1.53, 95% CI: 1.04-2.24), were associated with post-dengue fatigue. No factor was associated with post-dengue depression in the meta-analysis. However, narrative synthesis revealed thrombocytopaenia as a shared factor of both outcomes. This study highlights risk profiles for post-dengue fatigue syndrome and depression, with female sex, myalgia, and dengue severity specifically associated with fatigue, while thrombocytopaenia might indicate a shared pathway. These findings support targeted surveillance and management strategies for at-risk patients and highlight the need for further research into post-dengue depression mechanisms.",
+  "keywords": [
+    "associated factors",
+    "dengue",
+    "depression",
+    "fatigue",
+    "post‐infectious",
+    "systematic review"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-05-20",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42160632",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Anna",
+      "family": "Condé",
+      "orcid": "https://orcid.org/0009-0003-9903-4605"
+    },
+    {
+      "given": "Olivier",
+      "family": "Maillard",
+      "orcid": null
+    },
+    {
+      "given": "Chaturaka",
+      "family": "Rodrigo",
+      "orcid": "https://orcid.org/0000-0003-2189-9177"
+    },
+    {
+      "given": "Antoine",
+      "family": "Bertolotti",
+      "orcid": null
+    },
+    {
+      "given": "Carolina X.",
+      "family": "Sandler",
+      "orcid": null
+    },
+    {
+      "given": "Andrew R.",
+      "family": "Lloyd",
+      "orcid": null
+    },
+    {
+      "given": "Patrick",
+      "family": "Gérardin",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Dengue",
+    "Fatigue",
+    "Risk Factors",
+    "Depression",
+    "Quality of Life",
+    "Female",
+    "Male",
+    "Post-Infectious Disorders"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70164",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70164",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42160632/",
+    "europe_pmc": "https://europepmc.org/article/MED/42160632"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

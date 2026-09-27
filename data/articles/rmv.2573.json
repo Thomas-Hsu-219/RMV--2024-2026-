@@ -1,0 +1,116 @@
+{
+  "doi": "10.1002/rmv.2573",
+  "title": "Authors' Response: Safety and Efficacy of COVID‐19 Vaccines: A Systematic Review and Meta‐Analysis of Controlled and Randomized Clinical Trials",
+  "crossref_title": "Authors' Response: Safety and Efficacy of COVID‐19 Vaccines: A Systematic Review and Meta‐Analysis of Controlled and Randomized Clinical Trials",
+  "abstract": null,
+  "keywords": [
+    "COVID‐19",
+    "SARS‐CoV‐2",
+    "adverse events",
+    "efficacy",
+    "vaccines"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "5",
+  "published_online": "2024-07-31",
+  "published_print": "2024-09",
+  "online_year": 2024,
+  "pmid": "39085164",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jayesh",
+      "family": "Beladiya",
+      "orcid": "https://orcid.org/0000-0001-7203-7855"
+    },
+    {
+      "given": "Anup",
+      "family": "Kumar",
+      "orcid": "https://orcid.org/0000-0001-9308-4394"
+    },
+    {
+      "given": "Yogesh",
+      "family": "Vasava",
+      "orcid": null
+    },
+    {
+      "given": "Krupanshu",
+      "family": "Parmar",
+      "orcid": null
+    },
+    {
+      "given": "Dipanshi",
+      "family": "Patel",
+      "orcid": null
+    },
+    {
+      "given": "Sandip",
+      "family": "Patel",
+      "orcid": null
+    },
+    {
+      "given": "Sandip",
+      "family": "Dholakia",
+      "orcid": null
+    },
+    {
+      "given": "Devang",
+      "family": "Sheth",
+      "orcid": null
+    },
+    {
+      "given": "Sai H. S.",
+      "family": "Boddu",
+      "orcid": null
+    },
+    {
+      "given": "Chirag A.",
+      "family": "Patel",
+      "orcid": "https://orcid.org/0000-0003-2969-2955"
+    }
+  ],
+  "publication_types": [
+    "Letter",
+    "Comment"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Meta-Analysis as Topic",
+    "Randomized Controlled Trials as Topic",
+    "Systematic Reviews as Topic",
+    "COVID-19",
+    "COVID-19 Vaccines",
+    "Vaccine Efficacy"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2573",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2573",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39085164/",
+    "europe_pmc": "https://europepmc.org/article/MED/39085164"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

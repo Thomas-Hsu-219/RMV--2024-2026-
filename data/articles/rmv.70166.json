@@ -1,0 +1,80 @@
+{
+  "doi": "10.1002/rmv.70166",
+  "title": "Human Polyomaviruses of Clinical Relevance: Modes of Transmission and Associated Pathologies",
+  "crossref_title": "Human Polyomaviruses of Clinical Relevance: Modes of Transmission and Associated Pathologies",
+  "abstract": "Polyomaviruses are non-enveloped viruses with double-stranded circular DNA genome. Currently, 13 members of the Polyomaviridae family have been classified as human polyomavirus (HPyVs). Despite high seroprevalence values have been reported for the majority of the HPyVs worldwide, the main mode of transmission remains to be elucidated, and simple and common routes, such as faecal-oral and respiratory have been suggested. In general, HPyVs are responsible for asymptomatic primary infection, followed by asymptomatic lifelong persistent infection. In situations of severe immunosuppression, viral reactivation of some HPyVs may occur and result in the development of associated clinical manifestations. JCPyV is the causative agent of Progressive Multifocal Leukoencephalopathy, BKPyV is associated with nephropathy among kidney transplant recipients, MCPyV with Merkel Cell Carcinoma and TSPyV with Trichodysplasia spinulosa. The association of certain HPyVs with severe diseases, in addition to the high seroprevalence of the majority of HPyVs, emphasises the need to address various knowledge gaps that still exists in the natural history of these viruses, including the transmission routes and the pathogenic mechanisms. The present review summarises current information on HPyV transmission routes and associated diseases, including diagnosis and available treatment options, highlighting the need for further studies.",
+  "keywords": [
+    "BKPyV‐associated renal diseases",
+    "Merkel cell carcinoma",
+    "human polyomavirus",
+    "progressive multifocal leukoencephalopathy",
+    "transmission",
+    "trichodysplasia spinulosa"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-05-22",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42172084",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Joana M.",
+      "family": "Oliveira",
+      "orcid": "https://orcid.org/0000-0003-3267-095X"
+    },
+    {
+      "given": "Cristina",
+      "family": "Luxo",
+      "orcid": "https://orcid.org/0000-0002-4676-5258"
+    },
+    {
+      "given": "Ana M.",
+      "family": "Matos",
+      "orcid": "https://orcid.org/0000-0001-5764-0023"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Polyomavirus",
+    "Polyomavirus Infections",
+    "Tumor Virus Infections"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70166",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70166",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42172084/",
+    "europe_pmc": "https://europepmc.org/article/MED/42172084"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

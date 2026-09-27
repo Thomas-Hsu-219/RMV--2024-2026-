@@ -1,0 +1,123 @@
+{
+  "doi": "10.1002/rmv.2554",
+  "title": "Varicella‐zoster virus‐related neurological complications: From infection to immunomodulatory therapies",
+  "crossref_title": "Varicella‐zoster virus‐related neurological complications: From infection to immunomodulatory therapies",
+  "abstract": "The Varicella-zoster virus (VZV), classified as a neurotropic member of the Herpesviridae family, exhibits a characteristic pathogenicity, predominantly inducing varicella, commonly known as chickenpox, during the initial infectious phase, and triggering the reactivation of herpes zoster, more commonly recognized as shingles, following its emergence from a latent state. The pathogenesis of VZV-associated neuroinflammation involves a complex interplay between viral replication within sensory ganglia and immune-mediated responses that contribute to tissue damage and dysfunction. Upon primary infection, VZV gains access to sensory ganglia, establishing latent infection within neurons. During reactivation, the virus can spread along sensory nerves, triggering a cascade of inflammatory mediators, chemokines, and immune cell infiltration in the affected neural tissues. The role of both adaptive and innate immune reactions, including the contributions of T and B cells, macrophages, and dendritic cells, in orchestrating the immune-mediated damage in the central nervous system is elucidated. Furthermore, the aberrant activation of the natural defence mechanism, characterised by the dysregulated production of immunomodulatory proteins and chemokines, has been implicated in the pathogenesis of VZV-induced neurological disorders, such as encephalitis, myelitis, and vasculopathy. The intricate balance between protective and detrimental immune responses in the context of VZV infection emphasises the necessity for an exhaustive comprehension of the immunopathogenic mechanisms propelling neuroinflammatory processes. Despite the availability of vaccines and antiviral therapies, VZV-related neurological complications remain a significant concern, particularly in immunocompromised individuals and the elderly. Elucidating these mechanisms might facilitate the emergence of innovative immunomodulatory strategies and targeted therapies aimed at mitigating VZV-induced neuroinflammatory damage and improving clinical outcomes. This comprehensive understanding enhances our grasp of viral pathogenesis and holds promise for pioneering therapeutic strategies designed to mitigate the neurological ramifications of VZV infections.",
+  "keywords": [
+    "Varicella‐zoster virus (VZV)",
+    "herpes zoster",
+    "immunopathology",
+    "neuroinflammation",
+    "neurological complications",
+    "viral encephalitis"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-11",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38862398",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mohammed Ageeli",
+      "family": "Hakami",
+      "orcid": "https://orcid.org/0000-0002-1747-1277"
+    },
+    {
+      "given": "Farhan R.",
+      "family": "Khan",
+      "orcid": null
+    },
+    {
+      "given": "Osama",
+      "family": "Abdulaziz",
+      "orcid": null
+    },
+    {
+      "given": "Khalid",
+      "family": "Alshaghdali",
+      "orcid": null
+    },
+    {
+      "given": "Ali",
+      "family": "Hazazi",
+      "orcid": null
+    },
+    {
+      "given": "Awad F.",
+      "family": "Aleissi",
+      "orcid": null
+    },
+    {
+      "given": "Adil",
+      "family": "Abalkhail",
+      "orcid": null
+    },
+    {
+      "given": "Bader S.",
+      "family": "Alotaibi",
+      "orcid": null
+    },
+    {
+      "given": "Abdulfattah Yahya M.",
+      "family": "Alhazmi",
+      "orcid": null
+    },
+    {
+      "given": "Neelima",
+      "family": "Kukreti",
+      "orcid": null
+    },
+    {
+      "given": "Abdulkarim S.",
+      "family": "Binshaya",
+      "orcid": "https://orcid.org/0009-0006-0186-7601"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Herpesvirus 3, Human",
+    "Chickenpox",
+    "Herpes Zoster",
+    "Nervous System Diseases",
+    "Varicella Zoster Virus Infection",
+    "Neuroinflammatory Diseases"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2554",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2554",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38862398/",
+    "europe_pmc": "https://europepmc.org/article/MED/38862398"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

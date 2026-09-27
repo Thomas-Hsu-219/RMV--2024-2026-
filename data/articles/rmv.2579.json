@@ -1,0 +1,107 @@
+{
+  "doi": "10.1002/rmv.2579",
+  "title": "The Assessment of Anti–SARS‐CoV‐2 Antibodies in Different Vaccine Platforms: A Systematic Review and Meta‐Analysis of COVID‐19 Vaccine Clinical Trial Studies",
+  "crossref_title": "The Assessment of Anti–SARS‐CoV‐2 Antibodies in Different Vaccine Platforms: A Systematic Review and Meta‐Analysis of COVID‐19 Vaccine Clinical Trial Studies",
+  "abstract": "BACKGROUND AND OBJECTIVE: The COVID-19 pandemic spread rapidly throughout the world and caused millions of deaths globally. Several vaccines have been developed to control the COVID-19 pandemic and reduce the burden it placed on public health. This study aimed to assess the efficacy of different vaccine platforms in inducing potent antibody responses. Moreover, the seroconversion rate and common side effects of vaccine platforms were evaluated.\n\nMETHODS: This meta-analysis included clinical trials of COVID-19 vaccines that met the eligibility criteria. Electronic databases (including PubMed, Scopus, and Web of Science) and Google Scholar search engine were searched for eligible studies. Regarding the methodological heterogeneity between the included studies, we selected a random-effects model. The geometric mean ratio (GMR) was chosen as the effect size for this meta-analysis.\n\nRESULTS: Of the 1838 records identified through screening and after removing duplicate records, the full texts of 1076 records were assessed for eligibility. After the full-text assessment, 56 records were eligible and included in the study. Overall, vaccinated participants had a 150.8-fold increased rate of anti-spike IgG titres compared with the placebo group (GMR = 150.8; 95% CI, 95.9-237.1; I2 = 100%). Moreover, vaccinated participants had a 37.3-fold increased rate of neutralising antibody titres compared with the placebo group (GMR = 37.3; 95% CI, 28.5-48.7; I2 = 99%). The mRNA platform showed a higher rate of anti-spike IgG (GMR = 1263.5; 95% CI, 431.1-3702.8; I2 = 99%), while neutralising antibody titres were higher in the subunit platform (GMR = 53.4; 95% CI, 32.8-87.1; I2 = 99%) than in other platforms. Different vaccine platforms showed different rates of both anti-spike IgG and neutralising antibody titres with interesting results. The seroconversion rate of anti-spike IgG and neutralising antibody titres was more than 98% in the vaccinated participants.\n\nCONCLUSION: Inactivated and subunit vaccines produced a high percentage of neutralising antibodies and had a low common adverse reaction rate compared to other platforms. In this regard, subunit and inactivated vaccines can still be used as the main vaccine platforms for effectively controlling infections with high transmission rates.",
+  "keywords": [
+    "COVID‐19",
+    "SARS‐CoV‐2",
+    "anti‐spike IgG",
+    "neutralising antibody",
+    "spike glycoprotein",
+    "trails",
+    "vaccine"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "6",
+  "published_online": "2024-09-26",
+  "published_print": "2024-11",
+  "online_year": 2024,
+  "pmid": "39327654",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mohammad",
+      "family": "Mirzakhani",
+      "orcid": "https://orcid.org/0000-0002-8831-3006"
+    },
+    {
+      "given": "Maryam",
+      "family": "Bayat",
+      "orcid": null
+    },
+    {
+      "given": "Mohammadreza",
+      "family": "Dashti",
+      "orcid": null
+    },
+    {
+      "given": "Safa",
+      "family": "Tahmasebi",
+      "orcid": null
+    },
+    {
+      "given": "Maryam",
+      "family": "Rostamtabar",
+      "orcid": null
+    },
+    {
+      "given": "Hadi",
+      "family": "Esmaeili Gouvarchin Ghaleh",
+      "orcid": "https://orcid.org/0000-0001-8562-2295"
+    },
+    {
+      "given": "Jafar",
+      "family": "Amani",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Vaccines, Inactivated",
+    "Antibodies, Viral",
+    "Vaccination",
+    "Clinical Trials as Topic",
+    "Antibodies, Neutralizing",
+    "Seroconversion",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Vaccines"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2579",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2579",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39327654/",
+    "europe_pmc": "https://europepmc.org/article/MED/39327654"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

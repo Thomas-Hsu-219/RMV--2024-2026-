@@ -1,0 +1,78 @@
+{
+  "doi": "10.1002/rmv.2519",
+  "title": "The relationship between HIV‐1 neuroinflammation, neurocognitive impairment and encephalitis pathology: A systematic review of studies investigating post‐mortem brain tissue",
+  "crossref_title": "The relationship between HIV‐1 neuroinflammation, neurocognitive impairment and encephalitis pathology: A systematic review of studies investigating post‐mortem brain tissue",
+  "abstract": "The activities of HIV-1 in the central nervous system (CNS) are responsible for a dysregulated neuroinflammatory response and the subsequent development of HIV-associated neurocognitive disorders (HAND). The use of post-mortem human brain tissue is pivotal for studying the neuroimmune mechanisms of CNS HIV infection. To date, numerous studies have investigated HIV-1-induced neuroinflammation in post-mortem brain tissue. However, from the commonly investigated studies in this line of research, it is not clear which neuroinflammatory markers are consistently associated with HIV neurocognitive impairment (NCI) and neuropathology (i.e., HIV-encephalitis, HIVE). Therefore, we conducted a systematic review of the association between neuroinflammation and NCI/HIVE from studies investigating post-mortem brain tissue. Our aim was to synthesise the published data to date to provide commentary on the most noteworthy markers that are associated with NCI/HIVE. PubMed, Scopus, and Web of Science databases were searched using a search protocol designed specifically for this study. Sixty-one studies were included that investigated the levels of inflammatory markers based on their gene and protein expression in association with NCI/HIVE. The findings revealed that the (1) transcript expressions of IL-1β and TNF-α were consistently associated with NCI/HIVE, whereas CCL2 and IL-6 were commonly not associated with NCI/HIVE, (2) protein expressions of CD14, CD16, CD68, Iba-1, IL-1β and TNF-α were consistently associated with NCI/HIVE, while CD45, GFAP, HLA-DR, IL-1 and IL-6 were commonly not associated with NCI/HIVE, and (3) gene and protein expressions of CNS IL-1β and TNF-α were consistently associated with NCI/HIVE, while IL-6 was consistently not associated with NCI/HIVE. These markers highlight the commonly investigated markers in this line of research and elucidates the neuroinflammatory mechanisms in the HIV-1 brain that are involved in the pathophysiology of NCI/HIVE. These markers and related pathways should be investigated for the development of improved diagnostics, prognostics, and therapeutics of HAND.",
+  "keywords": [
+    "HIV-associated neurocognitive disorders",
+    "brain tissue",
+    "markers",
+    "neuroinflammation",
+    "neuronal damage"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01-27",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282400",
+  "pmcid": "PMC10909494",
+  "authors": [
+    {
+      "given": "Monray Edward",
+      "family": "Williams",
+      "orcid": "https://orcid.org/0000-0001-6698-8451"
+    },
+    {
+      "given": "Petrus J. W.",
+      "family": "Naudé",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Brain",
+    "Humans",
+    "HIV-1",
+    "Encephalitis",
+    "HIV Infections",
+    "HIV Seropositivity",
+    "Tumor Necrosis Factor-alpha",
+    "Interleukin-6",
+    "Neuroinflammatory Diseases"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2519",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2519",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282400/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282400"
+  },
+  "copyright_statement": "© 2024 The Authors. Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

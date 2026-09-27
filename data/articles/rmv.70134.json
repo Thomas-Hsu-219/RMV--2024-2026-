@@ -1,0 +1,135 @@
+{
+  "doi": "10.1002/rmv.70134",
+  "title": "Measles Resurgence: Could a Third Vaccine Dose Be the Solution?",
+  "crossref_title": "Measles Resurgence: Could a Third Vaccine Dose Be the Solution?",
+  "abstract": "Measles remains a highly infectious viral disease and continues to pose a major global public health concern, with recurrent outbreaks occurring despite the implementation of effective vaccination strategies. This review examines multifactorial drivers of current measles outbreaks, summarises current recommendations for the standard two-dose measles-containing vaccine schedule, and evaluates emerging immunological evidence regarding the administration of a third dose. Some studies indicate that a third measles-containing vaccine dose can result in an enhanced response for both humoral and cellular immune responses among individuals with declining antibody levels. However, existing evidence is largely derived from small, context-specific studies and does not yet demonstrate durable clinical protection or population-level impact on measles transmission. Consequently, the role of a routine third dose remains uncertain. In conclusion, addressing the multifactorial drivers of measles resurgence, including strengthening two-dose vaccination coverage, reducing vaccine hesitancy, improving surveillance, and closing immunity gaps, remains the primary priority for measles control. A third dose may be considered as an investigational strategy, but further large-scale epidemiologic and effectiveness data are needed before any policy implementation can be considered.",
+  "keywords": [
+    "immunogenicity",
+    "measles",
+    "measles resurgence",
+    "measles‐containg vaccine",
+    "vaccine coverage"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-11",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41814671",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Huynh Tran Bao",
+      "family": "Chau",
+      "orcid": "https://orcid.org/0009-0005-1280-7922"
+    },
+    {
+      "given": "Bui Cong",
+      "family": "Minh",
+      "orcid": "https://orcid.org/0009-0009-0713-7169"
+    },
+    {
+      "given": "Jeza Muhamad Abdul",
+      "family": "Aziz",
+      "orcid": "https://orcid.org/0000-0002-1522-1880"
+    },
+    {
+      "given": "Hoang Bao Tran",
+      "family": "Van",
+      "orcid": "https://orcid.org/0000-0001-5433-6093"
+    },
+    {
+      "given": "Bui Nguyen Ha",
+      "family": "Tien",
+      "orcid": "https://orcid.org/0009-0001-7995-9817"
+    },
+    {
+      "given": "Abdelrahman",
+      "family": "Gad",
+      "orcid": "https://orcid.org/0000-0002-4461-3517"
+    },
+    {
+      "given": "Khanh Dang",
+      "family": "Nguyen",
+      "orcid": "https://orcid.org/0009-0001-3184-3778"
+    },
+    {
+      "given": "Pham Hong",
+      "family": "Gam",
+      "orcid": "https://orcid.org/0009-0009-6515-7387"
+    },
+    {
+      "given": "Javeria",
+      "family": "Hamraa",
+      "orcid": "https://orcid.org/0009-0000-8963-9254"
+    },
+    {
+      "given": "Le Thi Thuy",
+      "family": "Hang",
+      "orcid": "https://orcid.org/0000-0002-9802-2552"
+    },
+    {
+      "given": "Tran Thi Kim",
+      "family": "Ngan",
+      "orcid": "https://orcid.org/0000-0002-1274-6729"
+    },
+    {
+      "given": "Pham Thai",
+      "family": "Son",
+      "orcid": "https://orcid.org/0000-0002-5524-1384"
+    },
+    {
+      "given": "Nguyen Tien",
+      "family": "Huy",
+      "orcid": "https://orcid.org/0000-0002-9543-9440"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Measles virus",
+    "Measles",
+    "Measles Vaccine",
+    "Antibodies, Viral",
+    "Immunization Schedule",
+    "Immunization, Secondary",
+    "Vaccination",
+    "Disease Outbreaks",
+    "Vaccination Coverage"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70134",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70134",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41814671/",
+    "europe_pmc": "https://europepmc.org/article/MED/41814671"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

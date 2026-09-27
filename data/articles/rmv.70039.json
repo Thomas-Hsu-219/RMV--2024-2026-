@@ -1,0 +1,77 @@
+{
+  "doi": "10.1002/rmv.70039",
+  "title": "The Correlation of Arboviruses With the Risk of Diabetes Mellitus: A Systematic Review and Meta‐Analysis of Current Evidence",
+  "crossref_title": "The Correlation of Arboviruses With the Risk of Diabetes Mellitus: A Systematic Review and Meta‐Analysis of Current Evidence",
+  "abstract": "Arboviruses have become endemic worldwide in the recent years. Growing evidence have shown that diabetes increases the risk of severe complications these virus infections, but previous results is conflicting. This systematic review and meta-analysis reassessed the data associated with this correlation to response to the question of whether patients with diabetes have an elevated susceptibility to virus. Four electronic databases of PubMed, Scopus, Web of Science (WoS) and Embase were searched as systematic to evoke relevant data to the risk of virus infection in individuals with diabetes up to January 31, 2025. A random-effects model was used to estimate the summary odds ratio (OR). Subgroup analyses depending on the geographic area, clinical symptoms of virus, study design and the diagnostic techniques of virus were conducted. Quality appraisal for primary outcome and quality assessment was preformed by the Grading of recommendation, assessment, development and evaluation (GRADE) and Newcastle-Ottawa scale (NOS), respectively. This study was registered with PROSPERO, code (CRD42025638835). In total, 33 studies were identified based on different in virus type and phenotype of diabetes. The summary OR between virus infection and the risk of diabetes was (0.81, [95% CI 0.51-1.12], p < 0.05). The separate analysis for each of virus showed an increased risk of severe clinical symptoms of both DENV (OR = 1.04, [95% CI 0.53-1.55], p = 0.00) and WNV (OR = 1.94, [95% CI 1.02-2.87], p = 0.00) except CHIKV (OR = 0.24, [95% CI -0.28-0.76], p = 0.36). No publication bias was observed using Begg's (p = 0.54) and Egger's (P = 0.38) tests. Subgroups of geographic area and severe clinical symptoms of viruses such as dengue fever and West Nile fever had higher risk in diabetic patients. Our results provide strong evidence suggesting the association between diabetes and higher risk of DENV and WNV. These findings will help to physicians to early detection and appropriate management for reducing the morbidity and mortality rates in diabetes patients with DENV and WNV. As a result, diabetes involvement in Arboviruses is usual, especially in DENV and WNV patients.",
+  "keywords": [
+    "West Nile virus",
+    "arbovirus",
+    "chikungunya virus",
+    "dengue virus",
+    "diabetes",
+    "meta‐analysis"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-06-02",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40454933",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jiangchen",
+      "family": "Ma",
+      "orcid": null
+    },
+    {
+      "given": "Xiaowei",
+      "family": "Ding",
+      "orcid": "https://orcid.org/0009-0008-5318-3169"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Arboviruses",
+    "Arbovirus Infections",
+    "Dengue",
+    "Diabetes Mellitus",
+    "Risk Factors"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70039",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70039",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40454933/",
+    "europe_pmc": "https://europepmc.org/article/MED/40454933"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

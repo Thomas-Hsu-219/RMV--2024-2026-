@@ -1,0 +1,114 @@
+{
+  "doi": "10.1002/rmv.70133",
+  "title": "Qualitative Modulation of Pattern Recognition Receptor Sensing in Human Oncoviral Infections: Shared and Virus‐Specific Innate Immune Strategies",
+  "crossref_title": "Qualitative Modulation of Pattern Recognition Receptor Sensing in Human Oncoviral Infections: Shared and Virus‐Specific Innate Immune Strategies",
+  "abstract": "Human oncogenic viruses can selectively modulate the innate immune system to regulate the recognition, strength, timing, and intracellular localization of pattern recognition receptors (PRRs) signalling in the host to their advantage. Manipulation of innate immune sensing allows the virus to affect the quality of sensing and ensure its long-term persistence in the cell without completely evading immunity or shutting down the innate immune system. The consequences of this reprogramming are altered interferon responses, reshaping inflammatory signalling, or, in other words, an insufficient innate immune activation to achieve complete viral clearance. On the other hand, continuous reprogramming of the immune system itself can lead to changes in the tissue microenvironment (TME) and change this environment in favour of tumour cell establishment and survival. In this review article, we intend to provide a conceptual framework for understanding the common viral pathways (convergent) and the different tissue-depend and virus-dependent effects (divergent), focussing on common oncoviruses such as human papillomavirus (HPV), hepatitis B virus (HBV), and Epstein-Barr virus (EBV). We try to review the interaction between oncogene viruses and the innate immune system, its effects on the TME, and the possibility of tumourigenesis, from a different perspective. This review proposes a spatial-temporal model of qualitative PRR modulation, distinguishing convergent interferon dampening from virus-specific microenvironmental reprogramming and also attempt to highlight the existing knowledge gaps and potential therapeutic targeting of innate sensing pathways.",
+  "keywords": [
+    "EBV",
+    "HBV",
+    "HPV",
+    "human oncoviruses",
+    "immune reprogramming",
+    "pattern recognition receptors (PRRs)",
+    "subcellular immune sensing"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-17",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41846270",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jingnan",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Xin",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Kai",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Zhaowei",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Haipeng",
+      "family": "Qi",
+      "orcid": null
+    },
+    {
+      "given": "Weibo",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Yuting",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Long",
+      "family": "Zhao",
+      "orcid": "https://orcid.org/0009-0008-4350-1186"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Hepatitis B virus",
+    "Herpesvirus 4, Human",
+    "Oncogenic Viruses",
+    "Signal Transduction",
+    "Receptors, Pattern Recognition",
+    "Host-Pathogen Interactions",
+    "Immunity, Innate",
+    "Tumor Microenvironment",
+    "Human Papillomavirus Viruses",
+    "Innate Immunity Recognition"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70133",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70133",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41846270/",
+    "europe_pmc": "https://europepmc.org/article/MED/41846270"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

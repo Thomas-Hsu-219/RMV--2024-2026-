@@ -1,0 +1,84 @@
+{
+  "doi": "10.1002/rmv.70026",
+  "title": "Regulation of miRNA in Cytokine Storm (CS) of COVID‐19 and Other Viral Infection: An Exhaustive Review",
+  "crossref_title": "Regulation of miRNA in Cytokine Storm (CS) of COVID‐19 and Other Viral Infection: An Exhaustive Review",
+  "abstract": "In the initial stage of the COVID-19 pandemic, high case fatality was noted. The case fatality during this was associated with the cytokine storm (CS) or cytokine storm syndrome (CSS). Sometimes, virus infections are due to the excessive secretion of pro-inflammatory cytokines, leading to cytokine storms, which might be directed to ARDS, multi-organ failure, and death. However, it was noted that several miRNAs are involved in regulating cytokines during SARS-CoV-2 and other viruses such as IFNs, ILs, GM-CSF, TNF, etc. The article spotlighted several miRNAs involved in regulating cytokines associated with the cytokine storm caused by SARS-CoV-2 and other viruses (influenza virus, MERS-CoV, SARS-CoV, dengue virus). Targeting those miRNAs might help in the discovery of novel therapeutics, considering CS or CSS associated with different virus infections.",
+  "keywords": [
+    "COVID‐19",
+    "SARS‐CoV‐2",
+    "cytokine storm",
+    "miRNAs"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-03-03",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "40032584",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Chiranjib",
+      "family": "Chakraborty",
+      "orcid": "https://orcid.org/0000-0002-3958-239X"
+    },
+    {
+      "given": "Manojit",
+      "family": "Bhattacharya",
+      "orcid": null
+    },
+    {
+      "given": "Arpita",
+      "family": "Das",
+      "orcid": null
+    },
+    {
+      "given": "Abinit",
+      "family": "Saha",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "MicroRNAs",
+    "Cytokines",
+    "Cytokine Release Syndrome",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70026",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70026",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40032584/",
+    "europe_pmc": "https://europepmc.org/article/MED/40032584"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,128 @@
+{
+  "doi": "10.1002/rmv.2584",
+  "title": "Role of Neurotropic Viruses in Brain Metastasis of Breast Cancer: Mechanisms and Therapeutic Implications",
+  "crossref_title": "Role of Neurotropic Viruses in Brain Metastasis of Breast Cancer: Mechanisms and Therapeutic Implications",
+  "abstract": "Neurotropic viruses have been implicated in altering the central nervous system microenvironment and promoting brain metastasis of breast cancer through complex interactions involving viral entry mechanisms, modulation of the blood-brain barrier, immune evasion, and alteration of the tumour microenvironment. This narrative review explores the molecular mechanisms by which neurotropic viruses such as Herpes Simplex Virus, Human Immunodeficiency Virus, Japanese Encephalitis Virus, and Rabies Virus facilitate brain metastasis, focusing on their ability to disrupt blood-brain barrier integrity, modulate immune responses, and create a permissive environment for metastatic cell survival and growth within the central nervous system. Current therapeutic implications and challenges in targeting neurotropic viruses to prevent or treat brain metastasis are discussed, highlighting the need for innovative strategies and multidisciplinary approaches in virology, oncology, and immunology.",
+  "keywords": [
+    "blood–brain barrier",
+    "brain metastasis",
+    "immune modulation",
+    "neurotropic viruses",
+    "tumour microenvironment"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "5",
+  "published_online": "2024-09-20",
+  "published_print": "2024-09",
+  "online_year": 2024,
+  "pmid": "39304923",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Ziran",
+      "family": "Qiu",
+      "orcid": null
+    },
+    {
+      "given": "Xinyu",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Wenqing",
+      "family": "Cao",
+      "orcid": null
+    },
+    {
+      "given": "Rui",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Jun",
+      "family": "Yang",
+      "orcid": null
+    },
+    {
+      "given": "Chengyu",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Zhong",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Xiaoqin",
+      "family": "Yao",
+      "orcid": null
+    },
+    {
+      "given": "Yuan",
+      "family": "Chen",
+      "orcid": null
+    },
+    {
+      "given": "Chunhua",
+      "family": "Ye",
+      "orcid": null
+    },
+    {
+      "given": "Shanzheng",
+      "family": "Chen",
+      "orcid": null
+    },
+    {
+      "given": "Na",
+      "family": "Jin",
+      "orcid": "https://orcid.org/0009-0009-3506-653X"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Blood-Brain Barrier",
+    "Animals",
+    "Humans",
+    "Simplexvirus",
+    "Rabies virus",
+    "Breast Neoplasms",
+    "Brain Neoplasms",
+    "Female",
+    "Tumor Microenvironment"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2584",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2584",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39304923/",
+    "europe_pmc": "https://europepmc.org/article/MED/39304923"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,102 @@
+{
+  "doi": "10.1002/rmv.2575",
+  "title": "Nanoparticle‐Based Therapies for Neurotropic Viral Infections: Mechanisms, Challenges, and Future Prospects",
+  "crossref_title": "Nanoparticle‐Based Therapies for Neurotropic Viral Infections: Mechanisms, Challenges, and Future Prospects",
+  "abstract": "Neurotropic viral infections pose a significant challenge due to their ability to target the central nervous system and cause severe neurological complications. Traditional antiviral therapies face limitations in effectively treating these infections, primarily due to the blood-brain barrier, which restricts the delivery of therapeutic agents to the central nervous system. Nanoparticle-based therapies have emerged as a promising approach to overcome these challenges. Nanoparticles offer unique properties that facilitate drug delivery across biological barriers, such as the blood-brain barrier, and can be engineered to possess antiviral activities.",
+  "keywords": [
+    "blood‐brain barrier",
+    "drug delivery systems",
+    "nanoparticles",
+    "neurotropic infections",
+    "therapeutics"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "5",
+  "published_online": "2024-08-19",
+  "published_print": "2024-09",
+  "online_year": 2024,
+  "pmid": "39160646",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Min",
+      "family": "Yang",
+      "orcid": null
+    },
+    {
+      "given": "Chuanbo",
+      "family": "Ding",
+      "orcid": null
+    },
+    {
+      "given": "Ting",
+      "family": "Zhao",
+      "orcid": null
+    },
+    {
+      "given": "Ge",
+      "family": "Song",
+      "orcid": null
+    },
+    {
+      "given": "Tingting",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Zeqi",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Ying",
+      "family": "Zhang",
+      "orcid": "https://orcid.org/0009-0008-8970-6478"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Blood-Brain Barrier",
+    "Animals",
+    "Humans",
+    "Virus Diseases",
+    "Central Nervous System Viral Diseases",
+    "Antiviral Agents",
+    "Drug Delivery Systems",
+    "Nanoparticles"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2575",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2575",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39160646/",
+    "europe_pmc": "https://europepmc.org/article/MED/39160646"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,77 @@
+{
+  "doi": "10.1002/rmv.70192",
+  "title": "Tobacco and Alcohol Exposure as Confounders in Assessing HPV‐Related Cancer Trends After Male Vaccination",
+  "crossref_title": "Tobacco and Alcohol Exposure as Confounders in Assessing HPV‐Related Cancer Trends After Male Vaccination",
+  "abstract": null,
+  "keywords": [],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-09-11",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42723506",
+  "pmcid": "PMC13563109",
+  "authors": [
+    {
+      "given": "Carlos",
+      "family": "Marin‐Lopez",
+      "orcid": null
+    },
+    {
+      "given": "Amir Reza",
+      "family": "Akbari",
+      "orcid": "https://orcid.org/0000-0002-8009-4945"
+    },
+    {
+      "given": "Noor",
+      "family": "Farhoud",
+      "orcid": null
+    },
+    {
+      "given": "Carmen Cajina",
+      "family": "Aguirre",
+      "orcid": null
+    },
+    {
+      "given": "Benyamin",
+      "family": "Alam",
+      "orcid": "https://orcid.org/0000-0002-6349-2650"
+    }
+  ],
+  "publication_types": [
+    "Letter"
+  ],
+  "mesh_terms": [],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70192",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70192",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42723506/",
+    "europe_pmc": "https://europepmc.org/article/MED/42723506"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

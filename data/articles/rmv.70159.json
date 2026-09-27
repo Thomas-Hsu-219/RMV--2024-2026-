@@ -1,0 +1,85 @@
+{
+  "doi": "10.1002/rmv.70159",
+  "title": "Tissue Reservoirs of HIV: The Hidden Protective Role of Lymphoid and Myeloid Cells",
+  "crossref_title": "Tissue Reservoirs of HIV: The Hidden Protective Role of Lymphoid and Myeloid Cells",
+  "abstract": "Acquired Immunodeficiency Syndrome (AIDS), caused by the Human Immunodeficiency Virus (HIV), has recently emerged as a significant global health concern. Latently infected lymphocytes, particularly CD4+ T lymphocytes and macrophages, together with organs that house these cells, serve as reservoirs for HIV. Despite the effectiveness of contemporary antiretroviral therapy (ART) in reducing circulating viral levels, these reservoirs may impede ART access, thereby deactivating latency-reversing agents and antibodies. A detailed comprehension of HIV reservoir sites in tissues is essential, as antiretroviral treatment can reduce the viral load in circulation to undetectable levels. This review analysed the body's primary systems that serve as safe harbour sites for HIV, including the Monocyte/Macrophage, lymphatic system, nervous system, respiratory system, reproductive system, and urinary system. Various databases such as Google Scholar, PubMed, Medline, Scopus, Science Direct, Clinical Trials, and UNAIDS were searched for literature related to the HIV reservoir in the human body. The fundamental principle of future treatments will be to identify these similarities to understand the differences. Developing personalised therapeutic protocols tailored to the unique characteristics of HIV in different tissues is vital for effective AIDS management.",
+  "keywords": [
+    "HIV",
+    "lymphoid",
+    "macrophages",
+    "myeloid",
+    "organs",
+    "reservoir"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-28",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42048183",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Shan",
+      "family": "He",
+      "orcid": "https://orcid.org/0000-0002-2698-0786"
+    },
+    {
+      "given": "Akmal",
+      "family": "Zubair",
+      "orcid": "https://orcid.org/0000-0002-1165-8305"
+    },
+    {
+      "given": "Ahmed",
+      "family": "Al‐Emam",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "CD4-Positive T-Lymphocytes",
+    "Macrophages",
+    "Myeloid Cells",
+    "Humans",
+    "HIV-1",
+    "HIV Infections",
+    "Viral Load",
+    "Disease Reservoirs",
+    "Virus Latency"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70159",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70159",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42048183/",
+    "europe_pmc": "https://europepmc.org/article/MED/42048183"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

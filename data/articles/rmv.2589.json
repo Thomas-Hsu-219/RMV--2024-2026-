@@ -1,0 +1,95 @@
+{
+  "doi": "10.1002/rmv.2589",
+  "title": "Immune Evasion Mechanism of Neurotropic Viruses",
+  "crossref_title": "Immune Evasion Mechanism of Neurotropic Viruses",
+  "abstract": "The persistent challenge posed by viruses that infect the central nervous system lies in their sophisticated ability to evade the host immune system. This review explores into the complex mechanisms of immune evasion employed by these neurotropic viruses, focussing on their modulation of host immune responses, evasion of adaptive immunity, and the cellular and molecular strategies that enable their persistence. Key areas explored include viral latency and reactivation, the inhibition of apoptosis, and antigenic variation, with a detailed examination of viral proteins and their interactions with host cellular processes.",
+  "keywords": [
+    "CNS infections",
+    "antigenic variation",
+    "immune evasion",
+    "neurotropic viruses",
+    "viral latency"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "6",
+  "published_online": "2024-10-09",
+  "published_print": "2024-11",
+  "online_year": 2024,
+  "pmid": "39384363",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Yayun",
+      "family": "Yan",
+      "orcid": null
+    },
+    {
+      "given": "Yu",
+      "family": "Sun",
+      "orcid": null
+    },
+    {
+      "given": "Xinyuan",
+      "family": "Guo",
+      "orcid": null
+    },
+    {
+      "given": "Yuanchao",
+      "family": "An",
+      "orcid": null
+    },
+    {
+      "given": "Ying",
+      "family": "Chang",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Viruses",
+    "Central Nervous System Viral Diseases",
+    "Virus Latency",
+    "Virus Activation",
+    "Apoptosis",
+    "Antigenic Variation",
+    "Host-Pathogen Interactions",
+    "Adaptive Immunity",
+    "Immune Evasion"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2589",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2589",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39384363/",
+    "europe_pmc": "https://europepmc.org/article/MED/39384363"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

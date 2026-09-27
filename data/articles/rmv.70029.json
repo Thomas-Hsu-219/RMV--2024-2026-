@@ -1,0 +1,100 @@
+{
+  "doi": "10.1002/rmv.70029",
+  "title": "Oral SARS‐CoV‐2 Infection and Risk for Long Covid",
+  "crossref_title": "Oral SARS‐CoV‐2 Infection and Risk for Long Covid",
+  "abstract": "SARS-CoV-2 is an oral pathogen that infects and replicates in mucosal and salivary epithelial cells, contributing to oral post-acute sequelae COVID-19 (PASC) and other oral and non-oral pathologies. While pre-existing inflammatory oral diseases provides a conducive environment for the virus, acute infection and persistence of SARS-CoV-2 can also results in oral microbiome dysbiosis that further worsens poor oral mucosal health. Indeed, oral PASC includes periodontal diseases, dysgeusia, xerostomia, pharyngitis, oral keratoses, and pulpitis suggesting significant bacterial contributions to SARS-CoV-2 and oral tissue tropism. Dysbiotic microbiome-induced inflammation can promote viral entry via angiotensin-converting enzyme receptor-2 (ACE2), serine transmembrane TMPRSS2 and possibly other non-canonical pathways. Additionally, metabolites derived from a dysbiotic microbiome can alter the physiological and biochemical pathways related to the metabolism of lipids, carbohydrates, and amino acids. This may promote a pro-inflammatory microenvironment, leading to immune exhaustion, loss of tolerance, and susceptibility to a variety of oral pathogens, causing acute and later chronic inflammation. Microbial release of mimics of host metallopeptidases related to furin, ADAM17 (A disintegrin and metalloproteinase 17), and glycoprotein metabolites can further aid viral attachment to T cell immunoglobulin-like (TIMs), enhancing viral entry while simultaneously depressing oral mucosal immune resistance and clearance. Membrane reorganization characterised by neuroproteins, such as neuropilins, also functionally assists with SARS-CoV-2 entry and extends the pathogenesis of PASC from the oral cavity to the brain, gut, or other non-oral tissues. Thus, poor oral health, characterised by disrupted oral microbiomes can promote viral tropism, weaken antiviral resistance, and heightens susceptibility to SARS-CoV-2 infection. This immune dysfunction also increases the risk of additional viral infections, exacerbating oral conditions like periodontal and endodontic diseases. These persistent oral health issues can contribute to systemic inflammation, creating bidirectional effects between oral and non-oral tissues, potentially leading to Post-Acute Sequelae of COVID-19 (PASC).",
+  "keywords": [
+    "SARS‐CoV‐2",
+    "long Covid",
+    "oral microbiome",
+    "oral mucosal immunity",
+    "viral clearance"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-03-12",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "40074704",
+  "pmcid": "PMC11903386",
+  "authors": [
+    {
+      "given": "Joel",
+      "family": "Schwartz",
+      "orcid": null
+    },
+    {
+      "given": "Kristelle",
+      "family": "Capistrano",
+      "orcid": null
+    },
+    {
+      "given": "Heba",
+      "family": "Hussein",
+      "orcid": null
+    },
+    {
+      "given": "Avin",
+      "family": "Hafedi",
+      "orcid": null
+    },
+    {
+      "given": "Deepak",
+      "family": "Shukla",
+      "orcid": null
+    },
+    {
+      "given": "Afsar",
+      "family": "Naqvi",
+      "orcid": "https://orcid.org/0000-0001-7436-3056"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "mesh_terms": [
+    "Mouth Mucosa",
+    "Humans",
+    "Mouth Diseases",
+    "Serine Endopeptidases",
+    "Microbiota",
+    "Dysbiosis",
+    "COVID-19",
+    "Angiotensin-Converting Enzyme 2",
+    "SARS-CoV-2",
+    "Post-Acute COVID-19 Syndrome"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70029",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70029",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40074704/",
+    "europe_pmc": "https://europepmc.org/article/MED/40074704"
+  },
+  "copyright_statement": "© 2025 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

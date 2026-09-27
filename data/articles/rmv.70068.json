@@ -1,0 +1,87 @@
+{
+  "doi": "10.1002/rmv.70068",
+  "title": "The Role of Neurophysiology in Investigating Neuropathology of Vertical Zika Virus Infection",
+  "crossref_title": "The Role of Neurophysiology in Investigating Neuropathology of Vertical Zika Virus Infection",
+  "abstract": null,
+  "keywords": [
+    "birth defect",
+    "brain abnormalities",
+    "brainstem",
+    "microcephaly",
+    "zika infection"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "5",
+  "published_online": "2025-09-03",
+  "published_print": "2025-09",
+  "online_year": 2025,
+  "pmid": "40903876",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Dimitri Marques",
+      "family": "Abramov",
+      "orcid": "https://orcid.org/0000-0003-2911-1997"
+    },
+    {
+      "given": "Daniel de Souza e",
+      "family": "Silva",
+      "orcid": null
+    },
+    {
+      "given": "Adriana Salvio",
+      "family": "Rios",
+      "orcid": null
+    },
+    {
+      "given": "Cecilia",
+      "family": "Hedin‐Pereira",
+      "orcid": null
+    },
+    {
+      "given": "Alessandra Augusta Barroso Penna e",
+      "family": "Costa",
+      "orcid": null
+    },
+    {
+      "given": "Maria Elizabeth Lopes",
+      "family": "Moreira",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Letter"
+  ],
+  "mesh_terms": [],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70068",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70068",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40903876/",
+    "europe_pmc": "https://europepmc.org/article/MED/40903876"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

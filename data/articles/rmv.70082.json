@@ -1,0 +1,90 @@
+{
+  "doi": "10.1002/rmv.70082",
+  "title": "Adaptive Evolution of Dengue Virus: Interplay Between Viral Genetics and Host Immunity",
+  "crossref_title": "Adaptive Evolution of Dengue Virus: Interplay Between Viral Genetics and Host Immunity",
+  "abstract": "Dengue virus (DENV), a major arboviral pathogen of global concern, evolves rapidly through a combination of intrinsic molecular mechanisms, vector adaptation, and host immune pressures. Despite extensive research, major gap remains in understanding how these forces, collectively generate, shape, and fix adaptive mutations that drive DENV evolution. In this review, we explore the molecular mechanisms underlying DENV evolution, with emphasising the error-prone RNA-dependent RNA polymerase, template switching, recombination, and the modulatory effects of viral RNA secondary structures. We also highlight the replicase complex's intrinsic tolerance to mutations as a driver of evolutionary plasticity. At the protein level, we summarise adaptive mutation in capsid, envelop, NS1 and NS5 protein that influence virulence, transmission efficiency, and immune escape. Additionally, we also address the role of vector adaptation, whereby DENV overcomes midgut and salivary gland infection barriers in Aedes mosquitoes, often through bottleneck-driven selection and compensatory mutations, consequently enhancing transmission potential. Finally, we discuss host immune-driven selection including T cell-mediated immune responses, and the regulation of IFN, NF-κB, and PI3K/Akt/mTOR signalling pathways shapes the evolution of DENV. Together, these insights highlight the dynamic interplay between viral genetics, mosquito vectors, and host immunity in shaping the evolutionary trajectory of DENV.",
+  "keywords": [
+    "antigenic variation",
+    "dengue virus evolution",
+    "host immune signalling",
+    "molecular adaptation",
+    "vector adaptation",
+    "viral mutation"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2025-12-05",
+  "published_print": "2026-01",
+  "online_year": 2025,
+  "pmid": "41347306",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Md. Eram",
+      "family": "Hosen",
+      "orcid": null
+    },
+    {
+      "given": "Sumaiya Jahan",
+      "family": "Supti",
+      "orcid": null
+    },
+    {
+      "given": "Paul F.",
+      "family": "Horwood",
+      "orcid": null
+    },
+    {
+      "given": "Subir",
+      "family": "Sarker",
+      "orcid": "https://orcid.org/0000-0002-2685-8377"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Aedes",
+    "Dengue Virus",
+    "Dengue",
+    "RNA, Viral",
+    "Evolution, Molecular",
+    "Mutation",
+    "Host-Pathogen Interactions"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70082",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70082",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41347306/",
+    "europe_pmc": "https://europepmc.org/article/MED/41347306"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

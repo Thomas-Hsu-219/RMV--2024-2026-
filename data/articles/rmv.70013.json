@@ -1,0 +1,84 @@
+{
+  "doi": "10.1002/rmv.70013",
+  "title": "Hospitalised Dengue Patients and Risk of Hypertension: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Hospitalised Dengue Patients and Risk of Hypertension: A Systematic Review and Meta‐Analysis",
+  "abstract": "Identification and management of hypertension is a crucial part in hospitalised patients suffering from dengue infection (DV). Several studies with data conflicting have shown that DI may be linked to an elevated risk of hypertension in hospitalised patients. To gain a comprehensive understanding of this association, a systematic review and meta-analysis was performed. A systematic search was conducted across electronic databases including PubMed, SCOPUS, Embase and Web of Science to gather pertinent published data up to 10 November 2024. A total of five articles were incorporated into the systematic review and meta-analysis. DerSimonian and Liard random-effects model was applied to determine the pooled odds ratio (OR). Sensitivity analysis was performed to evaluate the strength of the pooled findings by excluding every individual study from the overall effect size. Subgroup analyses were performed based on age, duration of dengue infection, study design, and geographical area to identify the source of considerable heterogeneity. We included five articles retrieved from the literature search in the meta-analysis. The findings indicate a statistically significant correlation between dengue infection and elevated risk of hypertension (OR: 4.2; 95% CI 1.05-16.9; p = 0.04). A notable degree of heterogeneity was observed among the included studies. The Begg's correlation (p = 0.80) and Egger's linear regression (p = 0.45) tests revealed no evidence of publication bias. Furthermore, meta-regression analysis demonstrated a significant relationship between high blood pressure and age, duration of dengue infection, study design and geographical area. Our finding supports risk of hypertension in patients with dengue infection. This result can help clinicians recognise risk of hypertension in the dengue infection in order to manage and treat it promptly.",
+  "keywords": [
+    "dengue infection",
+    "hypertension",
+    "meta‐analysis",
+    "systematic review"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "1",
+  "published_online": "2025-01-22",
+  "published_print": "2025-01",
+  "online_year": 2025,
+  "pmid": "39843252",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Tonggang",
+      "family": "Zhu",
+      "orcid": null
+    },
+    {
+      "given": "Xue",
+      "family": "Xiao",
+      "orcid": null
+    },
+    {
+      "given": "Xiaoming",
+      "family": "Zhu",
+      "orcid": null
+    },
+    {
+      "given": "Xiujiang",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0009-0001-6026-9285"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Dengue",
+    "Hypertension",
+    "Hospitalization",
+    "Risk Factors"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70013",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70013",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39843252/",
+    "europe_pmc": "https://europepmc.org/article/MED/39843252"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,91 @@
+{
+  "doi": "10.1002/rmv.70010",
+  "title": "The Potential Role of Zika and Dengue Virus Infection in the Urogenital System Disorders: An Overview",
+  "crossref_title": "The Potential Role of Zika and Dengue Virus Infection in the Urogenital System Disorders: An Overview",
+  "abstract": "Arboviruses currently are regarded as a major worldwide public health concern. The clinical outcomes associated with this group of viruses may vary from asymptomatic infections to severe forms of haemorrhagic fever characterised by bleeding disorders. Similar to other systemic viral infections, arboviruses can either directly or indirectly affect different parts of the body, such as the urogenital system. The human urogenital system anatomically consists of two major subdivisions: (i) the urinary system, including the kidneys, ureters, bladder, and urethra, which plays a significant role in osmoregulation, control of blood volume, pressure, and PH, absorption/excretion of different ions, and toxin metabolism, and (ii) the genital system, composed of the prostate, uterus, testes, ovaries, penis, and vagina, which are responsible for reproductive functions. Arboviruses can impair normal urogenital system functions by direct viral pathogen activity, systemic forms of inflammation, haemorrhagic events and related dysfunctions, and the nephrotoxic side effects of specific medications employed for treatment leading to various urogenital disorders. The present review provides an overview of the potential capacity of two main arboviruses, known as Zika and dengue viruses, to affect the urogenital system. Moreover, it addresses Zika virus as a potential therapeutic oncolytic virus for urogenital cancers.",
+  "keywords": [
+    "arboviruses",
+    "dengue virus",
+    "urogenital system",
+    "zika virus"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "1",
+  "published_online": "2025-01-13",
+  "published_print": "2025-01",
+  "online_year": 2025,
+  "pmid": "39804234",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jie",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Zongze",
+      "family": "Yu",
+      "orcid": null
+    },
+    {
+      "given": "Zhigui",
+      "family": "Chen",
+      "orcid": null
+    },
+    {
+      "given": "Fangdie",
+      "family": "Ye",
+      "orcid": null
+    },
+    {
+      "given": "Zhou",
+      "family": "Sun",
+      "orcid": "https://orcid.org/0009-0008-6700-8046"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Urogenital System",
+    "Animals",
+    "Humans",
+    "Dengue Virus",
+    "Dengue",
+    "Female",
+    "Zika Virus",
+    "Zika Virus Infection"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70010",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70010",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39804234/",
+    "europe_pmc": "https://europepmc.org/article/MED/39804234"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,94 @@
+{
+  "doi": "10.1002/rmv.70169",
+  "title": "Hepatitis B Non‐Vaccination Rate and Associated Factors Among Healthcare Workers in Low‐ and Middle‐Income Countries: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Hepatitis B Non‐Vaccination Rate and Associated Factors Among Healthcare Workers in Low‐ and Middle‐Income Countries: A Systematic Review and Meta‐Analysis",
+  "abstract": "Hepatitis B virus (HBV) remains a significant occupational hazard for healthcare workers (HCWs), especially in low- and middle-income countries (LMICs) where vaccination coverage is often suboptimal. This review examined the non-vaccination rate against HBV among HCWs in LMICs. We conducted a systematic search across multiple databases, including PubMed/MEDLINE, Embase, Web of Science, and Scopus, for studies published from the inception up to 04 Feb 2024. Non-vaccination (NV) was defined as the absence of any hepatitis B vaccination dose as reported by individual studies. Pooled NV rates were calculated using a random-effects model. This review was registered in PROSPERO (CRD42024510223). The search retrieved 2990 studies, of which 62 met the eligibility criteria for the final analysis, including data from over 23,000 HCWs. The pooled prevalence of unvaccinated (zero-dose) HBV individuals was 36.2% (95% CI: 27.7%-45.5%; I2 = 98.9%). Subgroup analysis revealed marked disparities, with the highest prevalence in low-income countries (61.4%; 95% CI: 30.6%-85.1%; I2 = 98.7%) compared to upper-middle-income countries (20.4%; 95% CI: 7.8%-43.9%; I2 = 98.8%). Regionally, the burden was greatest in Africa (45.3%; 95% CI: 32.7%-58.4%; I2 = 98.9%) and lowest in Latin America (8.8%; 95% CI: 0.0%-99.9%; I2 = 92.7). This review found that more than one-third of healthcare workers remain unvaccinated against HBV, with marked disparities across income levels and geographic regions. The consistently high heterogeneity suggests these gaps are context-specific, highlighting the need for targeted strategies to improve vaccine uptake and equity.",
+  "keywords": [
+    "healthcare workers",
+    "hepatitis B virus",
+    "low‐ and middle‐income countries",
+    "vaccine"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-05-22",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42170843",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Alphonce Ignace",
+      "family": "Marealle",
+      "orcid": "https://orcid.org/0000-0002-9864-5469"
+    },
+    {
+      "given": "Goodluck G.",
+      "family": "Nyondo",
+      "orcid": "https://orcid.org/0009-0007-7224-2251"
+    },
+    {
+      "given": "Martine Aron",
+      "family": "Manguzu",
+      "orcid": null
+    },
+    {
+      "given": "Castory G.",
+      "family": "Munishi",
+      "orcid": null
+    },
+    {
+      "given": "George Msema",
+      "family": "Bwire",
+      "orcid": "https://orcid.org/0000-0002-4867-7200"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Hepatitis B virus",
+    "Hepatitis B",
+    "Hepatitis B Vaccines",
+    "Vaccination",
+    "Prevalence",
+    "Developing Countries",
+    "Health Personnel",
+    "Unvaccinated Persons"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70169",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70169",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42170843/",
+    "europe_pmc": "https://europepmc.org/article/MED/42170843"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

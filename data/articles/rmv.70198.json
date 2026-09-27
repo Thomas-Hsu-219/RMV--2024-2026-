@@ -1,0 +1,66 @@
+{
+  "doi": "10.1002/rmv.70198",
+  "title": "An Appraisal of the Potential Downstream Benefits of RSV Vaccination in Older Adults",
+  "crossref_title": "An Appraisal of the Potential Downstream Benefits of RSV Vaccination in Older Adults",
+  "abstract": "Respiratory syncytial virus (RSV) has long been underrecognized as a significant pathogen in older adults, despite accumulating evidence of its substantial morbidity and mortality burden in this population. While RSV vaccination is now well established as an effective intervention for preventing lower respiratory tract disease, this narrative review examines whether its public health value may extend beyond these primary clinical endpoints. A targeted search of Scopus and Web of Science from database inception to May 2026 was conducted to identify biological, epidemiological, observational, interventional, and modelling evidence relevant to potential downstream vaccine effects. The available evidence potentially supports hypotheses concerning possible reductions in cardiovascular complications and secondary bacterial infections, possible decreases in transmission to younger household contacts, and potential preservation of functional status and independence. However, the strength of evidence varies substantially across these outcomes. Cardiovascular protection has not been independently demonstrated in randomized trials, bacterial and antimicrobial-use outcomes have rarely been prespecified, real-world household transmission studies are unavailable, and functional trajectories may be strongly modified by baseline frailty and pre-existing disability. RSV vaccination in older adults therefore remains a well-validated strategy for preventing acute respiratory disease, whereas its proposed broader effects should be regarded as biologically plausible but incompletely demonstrated benefits. Future studies should incorporate prespecified cardiovascular, bacterial, transmission, geriatric, and functional outcomes, with particular attention to frailty, antimicrobial use, and longer-term follow-up.",
+  "keywords": [],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-09-01",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42678150",
+  "pmcid": "PMC13532495",
+  "authors": [
+    {
+      "given": "Piotr",
+      "family": "Rzymski",
+      "orcid": "https://orcid.org/0000-0002-4713-0801"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Respiratory Syncytial Virus, Human",
+    "Respiratory Syncytial Virus Infections",
+    "Respiratory Syncytial Virus Vaccines",
+    "Vaccination",
+    "Aged",
+    "Aged, 80 and over"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70198",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70198",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42678150/",
+    "europe_pmc": "https://europepmc.org/article/MED/42678150"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,105 @@
+{
+  "doi": "10.1002/rmv.70147",
+  "title": "Enterovirus D68 and Acute Neurologic Outcomes: A Systematic Review and Meta‐Analysis (2010–2025)",
+  "crossref_title": "Enterovirus D68 and Acute Neurologic Outcomes: A Systematic Review and Meta‐Analysis (2010–2025)",
+  "abstract": "Enterovirus D68 (EV-D68) has been implicated in clusters of acute flaccid myelitis (AFM) and severe respiratory illness; however, the magnitude and consistency of association across settings and over time remain uncertain. We quantified the association between EV-D68 detection and acute neurologic outcomes (particularly AFM) and explored design- and time-related heterogeneity. Following PRISMA 2020 and MOOSE guidance, we systematically identified observational studies reporting associations between EV-D68 detection and neurologic outcomes. Random effects meta-analysis was performed using REML with Knapp-Hartung adjustment; heterogeneity was summarised with τ2 and I2. Prespecified moderators were examined with meta-regression. Small-study effects were evaluated using contour-enhanced funnel plots, Egger and Peters tests, and PET-PEESE bias-adjusted models. PROSPERO registration: 1152300. Across 98 studies, the pooled odds ratio (OR) was 1.39 (95% CI 1.14-1.69), with high heterogeneity (I2 = 98.9%; prediction interval 0.24-8.15). By design, respiratory surveillance studies showed stronger association (OR 1.59, 95% CI 1.35-1.86, k = 78) whereas AFM case-control studies did not (OR 0.86, 95% CI 0.40-1.86, k = 20). In multivariable meta-regression, study design and calendar year explained about 47% of inter-study variance. Predicted ORs declined from 2014 to 2022 across regions. Funnel asymmetry and small-study effects were suggested; PET-PEESE bias-adjusted estimates remained above the null. The EV-D68 outcome association is context-dependent and time-varying. Surveillance datasets enriched during outbreak waves drive the pooled signal, while AFM case-control designs yield attenuated estimates after adjustment. Standardising diagnostics and integrating design-specific surveillance will improve risk estimation and AFM preparedness.",
+  "keywords": [],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-05-01",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42066114",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Asif",
+      "family": "Naeem",
+      "orcid": "https://orcid.org/0000-0002-2088-0629"
+    },
+    {
+      "given": "Muhammad Masroor",
+      "family": "Alam",
+      "orcid": null
+    },
+    {
+      "given": "Musaed",
+      "family": "Alharbi",
+      "orcid": null
+    },
+    {
+      "given": "Maymunah",
+      "family": "Hakami",
+      "orcid": null
+    },
+    {
+      "given": "Nabeel",
+      "family": "Alzahrani",
+      "orcid": "https://orcid.org/0000-0002-1077-0872"
+    },
+    {
+      "given": "Seena",
+      "family": "Thomas",
+      "orcid": null
+    },
+    {
+      "given": "Sameera",
+      "family": "Aljohani",
+      "orcid": null
+    },
+    {
+      "given": "Mohammad",
+      "family": "Bosaeed",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Enterovirus D, Human",
+    "Central Nervous System Viral Diseases",
+    "Myelitis",
+    "Respiratory Tract Diseases",
+    "Neuromuscular Diseases",
+    "Observational Studies as Topic"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70147",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70147",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42066114/",
+    "europe_pmc": "https://europepmc.org/article/MED/42066114"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

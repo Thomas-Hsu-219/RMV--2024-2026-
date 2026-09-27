@@ -1,0 +1,89 @@
+{
+  "doi": "10.1002/rmv.70000",
+  "title": "Epigenetic Targeting for Controlling Persistent Neurotropic Infections Caused by Borna Virus and HIV",
+  "crossref_title": "Epigenetic Targeting for Controlling Persistent Neurotropic Infections Caused by Borna Virus and HIV",
+  "abstract": "Long-lasting persistence within infected cells is a major challenge for viral pathogens, as it necessitates an exact regulation of viral replication to reduce viral cytopathic effects. This is particularly challenging for viruses that persistently infect cells with limited renewal capabilities, such as neurons. Accordingly, neurotropic viruses have evolved various specific mechanisms to promote a long-lasting persistent infection in the host cells without inducing an exacerbated cytopathic effect. Borna disease virus (BDV) and Human immunodeficiency virus (HIV) are two neurotropic RNA viruses that, in contrast to other RNA viruses, can establish long-lasting intranuclear infections within the nervous system. These viruses interact with different cellular processes such as epigenetic modifications to develop a successful persistence infection. Studies show that cellular epigenetic mechanisms play a significant role in the pathogenesis of BDV and HIV and their neurological disorders. Hence, targeting these mechanisms by epigenetic modulator agents can be regarded as a novel therapeutic strategy to manage BDV- and HIV-associated neurological diseases. This review provides an overview of different epigenetic modulator compounds as a potential therapeutic target for controlling persistent neurotropic intranuclear infections caused by BDV and HIV.",
+  "keywords": [
+    "Borna disease virus",
+    "epigenetic modifications",
+    "human immunodeficiency virus",
+    "neurotropic viruses"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "1",
+  "published_online": "2024-12-06",
+  "published_print": "2025-01",
+  "online_year": 2024,
+  "pmid": "39643925",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Yadi",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Huating",
+      "family": "Luo",
+      "orcid": null
+    },
+    {
+      "given": "Hao",
+      "family": "Pang",
+      "orcid": null
+    },
+    {
+      "given": "Bo",
+      "family": "Qin",
+      "orcid": "https://orcid.org/0000-0002-7802-2854"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Borna disease virus",
+    "HIV",
+    "Borna Disease",
+    "HIV Infections",
+    "Antiviral Agents",
+    "Virus Replication",
+    "Epigenesis, Genetic",
+    "Host-Pathogen Interactions",
+    "Persistent Infection"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70000",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70000",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39643925/",
+    "europe_pmc": "https://europepmc.org/article/MED/39643925"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

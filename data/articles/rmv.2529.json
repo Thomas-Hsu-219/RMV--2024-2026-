@@ -1,0 +1,101 @@
+{
+  "doi": "10.1002/rmv.2529",
+  "title": "Pharmacological advances in anti‐retroviral therapy for human immunodeficiency virus‐1 infection: A comprehensive review",
+  "crossref_title": "Pharmacological advances in anti‐retroviral therapy for human immunodeficiency virus‐1 infection: A comprehensive review",
+  "abstract": "The discovery of anti-retroviral (ARV) drugs over the past 36 years has introduced various classes, including nucleoside/nucleotide reverse transcriptase inhibitors, non-nucleoside reverse transcriptase inhibitors, protease inhibitor, fusion, and integrase strand transfer inhibitors inhibitors. The introduction of combined highly active anti-retroviral therapies in 1996 was later proven to combat further ARV drug resistance along with enhancing human immunodeficiency virus (HIV) suppression. As though the development of ARV therapies was continuously expanding, the variation of action caused by ARV drugs, along with its current updates, was not comprehensively discussed, particularly for HIV-1 infection. Thus, a range of HIV-1 ARV medications is covered in this review, including new developments in ARV therapy based on the drug's mechanism of action, the challenges related to HIV-1, and the need for combination therapy. Optimistically, this article will consolidate the overall updates of HIV-1 ARV treatments and conclude the significance of HIV-1-related pharmacotherapy research to combat the global threat of HIV infection.",
+  "keywords": [
+    "AIDS",
+    "HIV",
+    "anti‐retroviral",
+    "inhibitors",
+    "resistance",
+    "treatment"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "2",
+  "published_online": "2024-03-23",
+  "published_print": "2024-03",
+  "online_year": 2024,
+  "pmid": "38520650",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Nursyuhada",
+      "family": "Azzman",
+      "orcid": "https://orcid.org/0000-0001-6525-6603"
+    },
+    {
+      "given": "Muhammad Shoaib Ali",
+      "family": "Gill",
+      "orcid": null
+    },
+    {
+      "given": "Sharifah Syed",
+      "family": "Hassan",
+      "orcid": null
+    },
+    {
+      "given": "Frauke",
+      "family": "Christ",
+      "orcid": null
+    },
+    {
+      "given": "Zeger",
+      "family": "Debyser",
+      "orcid": null
+    },
+    {
+      "given": "Wan Ahmad Syazani",
+      "family": "Mohamed",
+      "orcid": null
+    },
+    {
+      "given": "Nafees",
+      "family": "Ahemad",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "HIV-1",
+    "HIV Infections",
+    "Reverse Transcriptase Inhibitors",
+    "Anti-HIV Agents",
+    "Antiretroviral Therapy, Highly Active"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2529",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2529",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38520650/",
+    "europe_pmc": "https://europepmc.org/article/MED/38520650"
+  },
+  "copyright_statement": "© 2024 The Authors. Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

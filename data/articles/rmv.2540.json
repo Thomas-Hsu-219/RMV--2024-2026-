@@ -1,0 +1,101 @@
+{
+  "doi": "10.1002/rmv.2540",
+  "title": "Prevalence and factors associated with viral non‐suppression in people living with HIV receiving antiretroviral therapy in sub‐Saharan Africa: A systematic review and meta‐analysis",
+  "crossref_title": "Prevalence and factors associated with viral non‐suppression in people living with HIV receiving antiretroviral therapy in sub‐Saharan Africa: A systematic review and meta‐analysis",
+  "abstract": "Despite advances in HIV treatment, the burden of viral non-suppression (VNS) remains a treatment success concern, particularly in Sub-Saharan African (SSA) countries. We determined the prevalence and factors associated with VNS for people living with HIV (PLHIV) receiving antiretroviral therapy (ART). This review, registered with PROSPERO (CRD42023470234), conducted an extensive search for evidence, focusing on PLHIV living in SSA on ART from the year 2000 to 19th October 2023, across databases including PubMed/MEDLINE, Embase, Web of Science, and Scopus. A total of 2357 articles were screened, from which 32 studies met the criteria for the final analysis, involving 756,620 PLHIV of all ages. The pooled prevalance for VNS was found to be 20.0% (95% CI: 15.43%-25.52%, I2 = 100%, p-value <0.01) Children and adolescents demonstrated the highest prevalence of VNS (viral load ≥1000 copies/mL) at 27.98% (95% CI: 21.91%-34.97%, I2 = 94%, p-value <0.01). The study revealed various factors associated with increased odds (risk) of VNS, p-value <0.05. These factors encompassed socio-demographics such as sex, age, education level, and marital status. Additionally, aspects related to HIV care, such as the facility attended, HIV status disclosure and adherence exhibited higher odds of VNS. Suboptimal ART adherence, longer duration on ART, socio-economic factors, lack of family and social support, presence of co-morbidities, advanced WHO HIV clinical stage, ART regimens, lower CD4+ count, abnormal body mass index, history of treatment interruptions, and progression of HIV illness were associated with VNS. Furthermore, behavioural/psychological factors including depression, substance use, negative perceptions towards ART, experiences of abuse, alcohol use, stigma, and certain patterns of sexual behaviour were also identified as factors for VNS. The occurrence of two VNS to every ten PLHIV on ART poses a threat to the progress made towards reaching the third 95% UNAIDS target in SSA. Additionally, these findings highlight the intricate interplay of various factors, encompassing patient characteristics, behavioural patterns, sociocultural influences, and pharmacological factors, all impacting VNS among PLHIV. Recognising its multifaceted nature, we recommend designing and implementing high impact interventions to effectively address VNS in SSA.",
+  "keywords": [
+    "antiretroviral therapy",
+    "people living with HIV",
+    "prevalence",
+    "sub‐Saharan Africa",
+    "systematic review and meta‐analysis",
+    "viral non‐suppression"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-05-06",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38708846",
+  "pmcid": "PMC11829566",
+  "authors": [
+    {
+      "given": "Idda H.",
+      "family": "Mosha",
+      "orcid": null
+    },
+    {
+      "given": "Goodluck G.",
+      "family": "Nyondo",
+      "orcid": "https://orcid.org/0009-0007-7224-2251"
+    },
+    {
+      "given": "Castory G.",
+      "family": "Munishi",
+      "orcid": null
+    },
+    {
+      "given": "Belinda J.",
+      "family": "Njiro",
+      "orcid": null
+    },
+    {
+      "given": "George M.",
+      "family": "Bwire",
+      "orcid": "https://orcid.org/0000-0002-4867-7200"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "HIV Infections",
+    "Anti-Retroviral Agents",
+    "Anti-HIV Agents",
+    "Antiretroviral Therapy, Highly Active",
+    "Viral Load",
+    "Prevalence",
+    "Risk Factors",
+    "Adolescent",
+    "Adult",
+    "Child",
+    "Africa South of the Sahara",
+    "Female",
+    "Male"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2540",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2540",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38708846/",
+    "europe_pmc": "https://europepmc.org/article/MED/38708846"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

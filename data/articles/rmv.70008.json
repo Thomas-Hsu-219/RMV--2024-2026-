@@ -1,0 +1,85 @@
+{
+  "doi": "10.1002/rmv.70008",
+  "title": "Next Generation RNA/Protein‐Carrying Vector With Pleiotropic Activity",
+  "crossref_title": "Next Generation RNA/Protein‐Carrying Vector With Pleiotropic Activity",
+  "abstract": "Human parainfluenza virus type 2 (hPIV2), one of the causative agents of infantile common cold, is a non-segmented negative-sense RNA virus with a robust gene expression system. It infects recurrently throughout human life without causing severe disease. Because hPIV2 has a viral envelope that can carry ectopic proteins, we developed a non-propagative RNA/protein-carrying vector BC-PIV by deleting the F gene from hPIV2. BC-PIV can be vigorously proliferated in the stable packaging cell line Vero/BC-F cells expressing the hPIV2 F gene but not in other cells. BC-PIV can deliver exogenous gene(s) on a multigenic RNA genome as an inserted gene fragment(s) and simultaneously deliver exogenous protein(s) on its envelope in a membrane-anchored form. For example, influenza virus M2e protein, Ebola virus GP protein, and severe acute respiratory syndrome-coronavirus-2 (SARS-CoV-2) spike protein were shown to be highly expressed in packaging cells and incorporated into the virion. The Ebola virus GP protein and SARS-CoV-2 spike protein, each delivered via BC-PIV, efficiently induced neutralising antibodies against each virus, even after prior treatment with recombinant BC-PIV in mice and hamsters, respectively. In this review, we describe the properties of BC-PIV as a promising vaccine vector, and also demonstrate its application as an anti-tumour virus.",
+  "keywords": [
+    "anti‐tumour virus",
+    "human parainfluenza virus type 2",
+    "recombinant vaccine"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "6",
+  "published_online": "2024-11-02",
+  "published_print": "2024-11",
+  "online_year": 2024,
+  "pmid": "39488720",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Tetsuya",
+      "family": "Nosaka",
+      "orcid": "https://orcid.org/0000-0002-0037-7049"
+    },
+    {
+      "given": "Junpei",
+      "family": "Ohtsuka",
+      "orcid": null
+    },
+    {
+      "given": "Tomomi",
+      "family": "Ohtsuka",
+      "orcid": null
+    },
+    {
+      "given": "Masayuki",
+      "family": "Fukumura",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Mice",
+    "Viral Fusion Proteins",
+    "RNA, Viral",
+    "Genetic Vectors",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70008",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70008",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39488720/",
+    "europe_pmc": "https://europepmc.org/article/MED/39488720"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

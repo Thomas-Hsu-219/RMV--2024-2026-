@@ -1,0 +1,82 @@
+{
+  "doi": "10.1002/rmv.70086",
+  "title": "Arbovirus‐Host Epigenetic Interplay: Unraveling the Neurological Mechanisms and Therapeutic Opportunities",
+  "crossref_title": "Arbovirus‐Host Epigenetic Interplay: Unraveling the Neurological Mechanisms and Therapeutic Opportunities",
+  "abstract": "Globally, arboviral infections are major public health threats, and diseases caused by arboviruses-mainly Zika virus, Dengue virus, West Nile virus, and Japanese encephalitis virus-affect many people. Arboviruses can induce severe neurological disorders through complex interactions with host cellular and immune pathways. Recent global surges in infections highlight the urgent need to understand their neuropathogenic mechanisms. Increasing evidence shows that arboviruses exploit host epigenetic machinery, including DNA methylation, histone modification, and non-coding RNA regulation, to subvert antiviral defenses, modulate immune responses, and promote viral infection within the central nervous system. Here, we summarise current findings on the epigenetic regulation of arboviral infections and their contribution to neuropathology. We also discuss how the reversibility of epigenetic modifications presents novel therapeutic opportunities, with inhibitors targeting histone deacetylases, methyltransferases, and DNA methyltransferases emerging as potential antiviral interventions. Advances in epigenomic profiling offer unprecedented opportunities to dissect virus-host interactions, providing a foundation for precision therapies aimed at mitigating arboviral neuroinvasion and its long-term neurological consequences.",
+  "keywords": [
+    "arboviruses",
+    "epigenetic",
+    "neurological complications"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2025-12-06",
+  "published_print": "2026-01",
+  "online_year": 2025,
+  "pmid": "41351464",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Fayez M.",
+      "family": "Saleh",
+      "orcid": null
+    },
+    {
+      "given": "Zaid",
+      "family": "Bassfar",
+      "orcid": null
+    },
+    {
+      "given": "Zuhair M.",
+      "family": "Mohammedsaleh",
+      "orcid": "https://orcid.org/0009-0002-1124-5778"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Arboviruses",
+    "Arbovirus Infections",
+    "Nervous System Diseases",
+    "Antiviral Agents",
+    "DNA Methylation",
+    "Epigenesis, Genetic",
+    "Host-Pathogen Interactions"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70086",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70086",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41351464/",
+    "europe_pmc": "https://europepmc.org/article/MED/41351464"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

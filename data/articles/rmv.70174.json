@@ -1,0 +1,86 @@
+{
+  "doi": "10.1002/rmv.70174",
+  "title": "Pathogen‐Specific Evasion of Innate Immunity by Alphaviruses (CHIKV, VEEV, and SINV)",
+  "crossref_title": "Pathogen‐Specific Evasion of Innate Immunity by Alphaviruses (CHIKV, VEEV, and SINV)",
+  "abstract": "Alphaviruses, including significant human pathogens like Chikungunya (CHIKV), Venezuelan Equine Encephalitis (VEEV), and the model Sindbis virus (SINV), pose a considerable global health threat. Their ability to establish infection and cause disease is critically dependent on successfully subverting the host's innate immune defenses, particularly the Type I Interferon (IFN-I) system. This review provides a comparative analysis of the molecular strategies employed by CHIKV, VEEV, and SINV to dismantle these antiviral pathways. We first outline the conserved principles that form a core alphavirus \"toolkit\" for evasion, such as the formation of membrane-bound replication factories to shield viral RNA from cytosolic sensors and NSP1-mediated mRNA capping to mimic host transcripts. The review then delves into the divergent, virus-specific tactics, highlighting the central role of the non-structural protein 2 (NSP2) as a master antagonist. We contrast the aggressive strategies of pathogenic alphaviruses-such as CHIKV NSP2-mediated cleavage of MAVS and degradation of STAT2, and VEEV-induced degradation of STAT1-with the more subtle, modulatory approach of SINV, which relies more on a global shutdown of host gene expression. These distinct molecular mechanisms are directly correlated with their varying pathogenic outcomes. Furthermore, we examine the remarkable adaptability of these strategies between vertebrate hosts, where suppressing the IFN system is paramount, and invertebrate vectors, where evading the RNAi pathway is the primary challenge. A comprehensive understanding of these commonalities and divergences in immune evasion is essential for the rational design of broad-spectrum antiviral therapeutics and next-generation vaccines.",
+  "keywords": [
+    "alphavirus",
+    "immune evasion",
+    "innate immunity",
+    "type I interferon"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-06-06",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42250266",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Kambiz",
+      "family": "Feyzi",
+      "orcid": null
+    },
+    {
+      "given": "Fatemeh Sadat",
+      "family": "Mousavi",
+      "orcid": null
+    },
+    {
+      "given": "Samaneh",
+      "family": "Abbasi",
+      "orcid": "https://orcid.org/0000-0002-5441-5119"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Alphavirus",
+    "Chikungunya virus",
+    "Encephalitis Virus, Venezuelan Equine",
+    "Sindbis Virus",
+    "Alphavirus Infections",
+    "Interferon Type I",
+    "Virus Replication",
+    "Host-Pathogen Interactions",
+    "Immunity, Innate",
+    "Immune Evasion"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70174",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70174",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42250266/",
+    "europe_pmc": "https://europepmc.org/article/MED/42250266"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

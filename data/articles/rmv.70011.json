@@ -1,0 +1,113 @@
+{
+  "doi": "10.1002/rmv.70011",
+  "title": "Sarcoidosis and COVID‐19 Vaccines: A Systematic Review of Case Reports and Case Series",
+  "crossref_title": "Sarcoidosis and COVID‐19 Vaccines: A Systematic Review of Case Reports and Case Series",
+  "abstract": "COVID-19 vaccines play a crucial role in preventing complications and alleviating the impact of SARS-CoV-2. Nevertheless, these vaccines have been associated with side effects like pain, fatigue, fever, and, in rare instances, the development of sarcoidosis. This review seeks to provide an overview of research on sarcoidosis occurring after COVID-19 vaccination and attempt to identify potential factors that may contribute to this uncommon yet concerning complication. Our review protocol was registered on PROSPERO with ID: (CRD42023463854). We comprehensively searched five electronic databases (PubMed, Scopus, Web of Science, EMBASE, Cochrane) from August, 22 2023 until September, 1st 2023. We finally had 12 studies after the first and second scans. We used SPSS to analyse the extracted data. We included 31 participants who experienced lung sarcoidosis following COVID-19 vaccination, with 61.3% female, and 38.7% male. The study showed that most events were observed in individuals who got Pfizer-BioNTech or Moderna vaccines, particularly after the second dosage. Pain, local erythema, ulceration or swelling at the injection site, fever, urticaria, pityriasiform rash, and erythema multiforme were some of the most common presenting symptoms. A biopsy was the major diagnostic method. Other modalities were used, including a complete blood count, CT scans, and X-rays. Sarcoidosis has been shown in a limited number of individuals who got the COVID-19 vaccination; however, it is unclear if the vaccine is directly responsible for this condition. However, the COVID-19 vaccines are both safe and effective in preventing the disease, and the advantages of immunisation outweigh any potential risks.",
+  "keywords": [
+    "COVID‐19",
+    "sarcoidosis",
+    "side effects",
+    "systemic review",
+    "vaccine"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "1",
+  "published_online": "2024-11-28",
+  "published_print": "2025-01",
+  "online_year": 2024,
+  "pmid": "39609037",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Omar",
+      "family": "Al‐omoush",
+      "orcid": null
+    },
+    {
+      "given": "Leen",
+      "family": "Khalil",
+      "orcid": null
+    },
+    {
+      "given": "Alaa",
+      "family": "Ramadan",
+      "orcid": null
+    },
+    {
+      "given": "Husam",
+      "family": "Tarakhan",
+      "orcid": null
+    },
+    {
+      "given": "Ahmad",
+      "family": "Alzoubi",
+      "orcid": null
+    },
+    {
+      "given": "Abdallah",
+      "family": "Nabil",
+      "orcid": null
+    },
+    {
+      "given": "Momen",
+      "family": "Hajali",
+      "orcid": null
+    },
+    {
+      "given": "Basel",
+      "family": "Abdelazeem",
+      "orcid": "https://orcid.org/0000-0002-2919-6196"
+    },
+    {
+      "given": "Othman",
+      "family": "Saleh",
+      "orcid": "https://orcid.org/0000-0002-2194-7127"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Sarcoidosis",
+    "Vaccination",
+    "Adult",
+    "Middle Aged",
+    "Female",
+    "Male",
+    "COVID-19",
+    "COVID-19 Vaccines"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70011",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70011",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39609037/",
+    "europe_pmc": "https://europepmc.org/article/MED/39609037"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,86 @@
+{
+  "doi": "10.1002/rmv.2531",
+  "title": "Ferritin: Significance in viral infections",
+  "crossref_title": "Ferritin: Significance in viral infections",
+  "abstract": "As an indispensable trace element, iron is essential for many biological processes. Increasing evidence has shown that virus infection can perturb iron metabolism and play a role in the occurrence and development of viral infection-related diseases. Ferritin plays a crucial role in maintaining the body's iron homoeostasis. It is an important protein to stabilise the iron balance in cells. Ferritin is a 24-mer hollow iron storage protein composed of two subunits: ferritin heavy chain and ferritin light chain. It was reported that ferritin is not only an intra-cellular iron storage protein, but also a pathogenic mediator that enhances the inflammatory process and stimulates the further inflammatory pathway, which is a key member of the vicious pathogenic cycle to perpetuate. Ferritin exerts immuno-suppressive and pro-inflammatory functions during viral infection. In this review, we describe in detail the basic information of ferritin in the first section, including its structural features, the regulation of ferritin. In the second part, we focus on the role of ferritin in viral infection-related diseases and the molecular mechanisms by which viral infection regulates ferritin. The last section briefly outlines the potential of ferritin in antiviral therapy. Given the importance of iron and viral infection, understanding the role of ferritin during viral infection helps us understand the relationship between iron metabolic dysfunction and viral infection, which provides a new direction for the development of antiviral therapeutic drugs.",
+  "keywords": [
+    "ferritin",
+    "ferritin heavy chain",
+    "ferritin light chain",
+    "virus",
+    "virus-associated inflammation",
+    "virus-associated tumours"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "2",
+  "published_online": "2024-03-19",
+  "published_print": "2024-03",
+  "online_year": 2024,
+  "pmid": "38502012",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Xia",
+      "family": "Zhao",
+      "orcid": null
+    },
+    {
+      "given": "Yuntao",
+      "family": "Zhou",
+      "orcid": null
+    },
+    {
+      "given": "Yong",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Yan",
+      "family": "Zhang",
+      "orcid": "https://orcid.org/0000-0002-7111-7164"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Virus Diseases",
+    "Iron",
+    "Trace Elements",
+    "Antiviral Agents",
+    "Ferritins"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2531",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2531",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38502012/",
+    "europe_pmc": "https://europepmc.org/article/MED/38502012"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,124 @@
+{
+  "doi": "10.1002/rmv.70035",
+  "title": "Efficacy, Immune Response, and Safety of Dengue Vaccines in Adolescents: A Systematic Review",
+  "crossref_title": "Efficacy, Immune Response, and Safety of Dengue Vaccines in Adolescents: A Systematic Review",
+  "abstract": "Both health and economic burdens of dengue virus (DENV), as an increasingly prevalent pathogen and global threat, exist in endemic regions. Vaccination is a key strategy in decreasing dengue morbidity and mortality. This systematic review assesses the efficacy, immune response and safety of dengue vaccines (Qdenga (TAK-003) and Dengvaxia (CYD-TDV)) in adolescents against the need for evidence-based data for dengue vaccination strategies. We performed a systematic search of six databases (Scopus, PubMed, Web of Science, Cochrane, clinical trials. gov, and MEDLINE) for studies published until October 2024. A total of 482 articles were identified, 32 studies met the inclusion criteria after removing duplicates and title and abstract screening. Immunogenicity and safety profiles for both vaccines. TAK-003 showed high seropositivity rates with all of the four DENV serotypes, especially for DENV-2, with sustained antibody responses 3 years after vaccination. CYD-TDV induced neutralising antibodies with balanced activity, but such an immune response was most efficient in individuals with baseline seropositivity, for whom greater efficacy was observed. Most adverse events were mild to moderate, such as transitory pain at the injection site and headache, while serious adverse events were rare and did not correlate with vaccination. Nonetheless, specific issues regarding serotype-unique efficacy variations and the threat of vaccine-induced immune enhancement in seronegative groups contribute to worry. These findings highlighted the importance of TAK-003 and CYD-TDV in reducing the impact of dengue, especially in endemic regions. Ongoing research is essential to refine vaccine deployment strategies, optimise protection across diverse populations, and address outstanding concerns regarding long-term immunity and safety in seronegative individuals.",
+  "keywords": [
+    "CYD‐TDV",
+    "TAK‐003",
+    "dengue vaccines",
+    "efficacy",
+    "immunogenicity"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "3",
+  "published_online": "2025-04-07",
+  "published_print": "2025-05",
+  "online_year": 2025,
+  "pmid": "40195054",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Ramtin",
+      "family": "Naderian",
+      "orcid": null
+    },
+    {
+      "given": "Majid",
+      "family": "Eslami",
+      "orcid": null
+    },
+    {
+      "given": "Sajjad",
+      "family": "Ahmad",
+      "orcid": null
+    },
+    {
+      "given": "Elham",
+      "family": "Paraandavaji",
+      "orcid": null
+    },
+    {
+      "given": "Shayan",
+      "family": "Yaghmayee",
+      "orcid": null
+    },
+    {
+      "given": "Masood",
+      "family": "Soltanipur",
+      "orcid": null
+    },
+    {
+      "given": "Rayan",
+      "family": "Naderian",
+      "orcid": null
+    },
+    {
+      "given": "Omid",
+      "family": "Pajand",
+      "orcid": null
+    },
+    {
+      "given": "Parisa",
+      "family": "Tajdini",
+      "orcid": null
+    },
+    {
+      "given": "Akram",
+      "family": "Alizadeh",
+      "orcid": null
+    },
+    {
+      "given": "Samira",
+      "family": "Sanami",
+      "orcid": "https://orcid.org/0009-0008-1050-7880"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Dengue Virus",
+    "Dengue",
+    "Antibodies, Viral",
+    "Vaccination",
+    "Adolescent",
+    "Dengue Vaccines",
+    "Antibodies, Neutralizing",
+    "Immunogenicity, Vaccine",
+    "Vaccine Efficacy"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70035",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70035",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40195054/",
+    "europe_pmc": "https://europepmc.org/article/MED/40195054"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

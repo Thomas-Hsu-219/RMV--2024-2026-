@@ -1,0 +1,97 @@
+{
+  "doi": "10.1002/rmv.2560",
+  "title": "Potential relationship between cytomegalovirus and immunosenescence: Evidence from observational studies",
+  "crossref_title": "Potential relationship between cytomegalovirus and immunosenescence: Evidence from observational studies",
+  "abstract": "Immunosenescence (IS) occurs as a natural outcome of ageing and may be described as a decline in immune system flexibility and adaptability to sufficiently respond to new, foreign antigens. Potential factors that may precipitate IS include persistent herpesvirus infections, such as cytomegalovirus (CMV). Here, we conducted a review of the literature evaluating the potential association between CMV and IS. Twenty-seven epidemiologic studies that included direct comparisons between CMV-seropositive and CMV-seronegative immunocompetent individuals were analysed. The majority of these studies (n = 20) were conducted in European populations. The strength of evidence supporting a relationship between CMV, and various IS-associated immunologic endpoints was assessed. T-cell population restructuring was the most prominently studied endpoint, described in 21 studies, most of which reported a relationship between CMV and reduced CD4:CD8 T-cell ratio or modified CD8+ T-cell levels. Telomere length (n = 4) and inflammageing (n = 3) were less frequently described in the primary literature, and the association of these endpoints with CMV and IS was less pronounced. An emergent trend from our review is the potential effect modification of the CMV-IS relationship with both sex and age, indicating the importance of considering various effector variables when evaluating associations between CMV and IS. Our analysis revealed plausible mechanisms that may underlie the larger epidemiologic trends seen in the literature that support the indirect effect of CMV on IS. Future studies are needed to clarify CMV-associated and IS-associated immunologic endpoints, as well as in more diverse global and immunocompromised populations.",
+  "keywords": [
+    "CMV",
+    "immunosenescence",
+    "inflammageing"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-12",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38866595",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Adva",
+      "family": "Gadoth",
+      "orcid": "https://orcid.org/0000-0002-3217-2435"
+    },
+    {
+      "given": "Kevork",
+      "family": "Ourfalian",
+      "orcid": null
+    },
+    {
+      "given": "Sandeep",
+      "family": "Basnet",
+      "orcid": null
+    },
+    {
+      "given": "Colin",
+      "family": "Kunzweiler",
+      "orcid": null
+    },
+    {
+      "given": "Rhonda L.",
+      "family": "Bohn",
+      "orcid": null
+    },
+    {
+      "given": "Tamas",
+      "family": "Fülöp",
+      "orcid": null
+    },
+    {
+      "given": "John",
+      "family": "Diaz‐Decaro",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Observational Studies as Topic",
+    "Immunosenescence"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2560",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2560",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38866595/",
+    "europe_pmc": "https://europepmc.org/article/MED/38866595"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,99 @@
+{
+  "doi": "10.1002/rmv.2524",
+  "title": "Coinfections in human papillomavirus associated cancers and prophylactic recommendations",
+  "crossref_title": "Coinfections in human papillomavirus associated cancers and prophylactic recommendations",
+  "abstract": "The Human Papillomavirus (HPV) infection is responsible for more than 80% of reported cervical cancer and other virus-associated tumours. Although this global threat can be controlled using effective vaccination strategies, a growing perturbation of HPV infection is an emerging coinfection likely to increase the severity of the infection in humans. Moreover, these coinfections prolong the HPV infections, thereby risking the chances for oncogenic progression. The present review consolidated the clinically significant microbial coinfections/co-presence associated with HPV and their underlying molecular mechanisms. We discussed the gaps and concerns associated with demography, present vaccination strategies, and other prophylactic limitations. We concluded our review by highlighting the potential clinical as well as emerging computational intervention measures to kerb down HPV-associated severities.",
+  "keywords": [
+    "artificial intelligence",
+    "cervical cancer",
+    "coinfections",
+    "human papillomavirus",
+    "machine learning",
+    "vaccines"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "2",
+  "published_online": "2024-02-20",
+  "published_print": "2024-03",
+  "online_year": 2024,
+  "pmid": "38375992",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Gayathri",
+      "family": "Ashok",
+      "orcid": "https://orcid.org/0000-0001-5018-4125"
+    },
+    {
+      "given": "Soumya",
+      "family": "Basu",
+      "orcid": "https://orcid.org/0000-0003-3617-2106"
+    },
+    {
+      "given": "Priyamvada",
+      "family": "Priyamvada",
+      "orcid": "https://orcid.org/0000-0003-2426-5188"
+    },
+    {
+      "given": "Anand",
+      "family": "Anbarasu",
+      "orcid": "https://orcid.org/0000-0003-2216-7488"
+    },
+    {
+      "given": "Sreenivasulu",
+      "family": "Chintala",
+      "orcid": "https://orcid.org/0000-0002-5435-4248"
+    },
+    {
+      "given": "Sudha",
+      "family": "Ramaiah",
+      "orcid": "https://orcid.org/0000-0002-4800-329X"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Papillomaviridae",
+    "Papillomavirus Infections",
+    "Vaccination",
+    "Uterine Cervical Neoplasms",
+    "Female",
+    "Papillomavirus Vaccines",
+    "Coinfection",
+    "Human Papillomavirus Viruses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2524",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2524",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38375992/",
+    "europe_pmc": "https://europepmc.org/article/MED/38375992"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

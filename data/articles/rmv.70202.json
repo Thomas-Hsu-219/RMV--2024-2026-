@@ -1,0 +1,93 @@
+{
+  "doi": "10.1002/rmv.70202",
+  "title": "Gut Microbiota Alterations in People Living With HIV: Dysbiosis, Immune Dysfunction and Therapeutic Perspectives",
+  "crossref_title": "Gut Microbiota Alterations in People Living With HIV: Dysbiosis, Immune Dysfunction and Therapeutic Perspectives",
+  "abstract": "The interaction between the human immunodeficiency virus (HIV) and the gut microbiota is attracting growing interest due to its potential role in the progression of infection and the development of comorbidities. This review provides a comprehensive and critically appraised synthesis of current evidence on the bidirectional relationship between HIV infection and gut microbiota disruption, structured around four central themes: the mechanistic basis of HIV-associated gut dysbiosis and mucosal immune dysfunction and its link to chronic inflammation; the effects of different antiretroviral therapy (ART) classes on the intestinal ecosystem; the emerging role of the microbiota-gut-brain axis in the pathogenesis of HIV-associated neurocognitive disorders (HAND); and the therapeutic potential of microbiota-targeted interventions, including probiotics, prebiotics, synbiotics, faecal microbiota transplantation (FMT), and dietary strategies in people living with HIV (PLWH). By synthesising the current mechanistic, clinical, and translational evidence, this review aims to delineate the critical knowledge gaps and define the research priorities that will drive the next generation of microbiota-informed strategies for improving long-term outcomes in PLWH. This summary highlights the importance of considering the gut microbiota as a key player in the overall management of HIV infection.",
+  "keywords": [
+    "HAND",
+    "HIV",
+    "antiretroviral therapy",
+    "gut microbiota",
+    "microbial translocation",
+    "microbiota‐targeted interventions"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-09-16",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42748486",
+  "pmcid": "PMC13581345",
+  "authors": [
+    {
+      "given": "Soukaina",
+      "family": "EL Mheddeb",
+      "orcid": "https://orcid.org/0009-0002-9048-5066"
+    },
+    {
+      "given": "Assiya",
+      "family": "EL Kettani",
+      "orcid": null
+    },
+    {
+      "given": "Ahmed Aziz",
+      "family": "Bousfiha",
+      "orcid": null
+    },
+    {
+      "given": "Sayeh",
+      "family": "Ezzikouri",
+      "orcid": "https://orcid.org/0000-0002-3982-6163"
+    },
+    {
+      "given": "Ahd",
+      "family": "Ouladlahsen",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "HIV Infections",
+    "Probiotics",
+    "Prebiotics",
+    "Dysbiosis",
+    "Gastrointestinal Microbiome",
+    "Fecal Microbiota Transplantation"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70202",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70202",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42748486/",
+    "europe_pmc": "https://europepmc.org/article/MED/42748486"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

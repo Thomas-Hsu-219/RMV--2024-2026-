@@ -1,0 +1,120 @@
+{
+  "doi": "10.1002/rmv.70168",
+  "title": "The Natural History of Human Papillomavirus (HPV) Infection in Males: Global Evidence From a Systematic Review and Meta‐Analysis",
+  "crossref_title": "The Natural History of Human Papillomavirus (HPV) Infection in Males: Global Evidence From a Systematic Review and Meta‐Analysis",
+  "abstract": "This systematic review provides a comprehensive global synthesis of male-specific infection patterns and determinants, aiming to inform targeted prevention and control strategies in public health. A systematic review and meta-analysis were conducted in accordance with the PRISMA 2020 statement. We systematically searched PubMed, Embase, Wanfang, and CNKI for studies on the natural history of HPV infection in males published between January 1, 2003, and March 10, 2025. Meta-analyses were conducted to estimate pooled rates of HPV clearance, persistence, recurrence, progression and transmission. A total of 89 studies involving 68,477 males were included. The overall pooled clearance rate of any HPV in males was 71.04 per 1000 person-months (95% CI: 56.55-87.17). Clearance rates varied by anatomical site, with the lowest rate observed in the oral region (38.79 per 1000 person-months, 95% CI: 10.43-85.13), followed by the anal (65.14 per 1000 person-months, 95% CI: 49.04-83.52) and genital sites (89.40 per 1000 person-months, 95% CI: 66.52-116.99). Clearance rates were lower among men who have sex with men and people living with HIV (PLWH) compared with heterosexual men and those living without HIV, respectively. The pooled progression rate within 12-24 months was 20.75% (95% CI: 6.44%-40.28%). Female-to-male HPV transmission rates were higher than male-to-female transmission rates. The overall recurrence rate of anogenital warts was 50.00% (95% CI: 39.00%-60.00%). Risk factors associated with persistent infection included age over 30 years, current smoking, having male sexual partners, and CD4+ cell counts below 200 cells/mm3. The natural history of HPV infection in males exhibits considerable heterogeneity across behavioural, immunological, anatomical, and virological factors. These findings highlight the importance of including males, particularly high-risk populations, in HPV vaccination, surveillance, and prevention strategies to better inform clinical practice and public health policy.",
+  "keywords": [
+    "HIV",
+    "human papillomavirus (HPV)",
+    "male",
+    "meta‐analysis",
+    "natural history"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-05-26",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42198950",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jiaxing",
+      "family": "Qi",
+      "orcid": null
+    },
+    {
+      "given": "Haibin",
+      "family": "Wu",
+      "orcid": null
+    },
+    {
+      "given": "Rui",
+      "family": "Yan",
+      "orcid": null
+    },
+    {
+      "given": "Wenkai",
+      "family": "Zhou",
+      "orcid": null
+    },
+    {
+      "given": "Fang",
+      "family": "Shen",
+      "orcid": null
+    },
+    {
+      "given": "Juping",
+      "family": "Chen",
+      "orcid": null
+    },
+    {
+      "given": "Xingxing",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Rui",
+      "family": "Bian",
+      "orcid": null
+    },
+    {
+      "given": "Changtai",
+      "family": "Zhu",
+      "orcid": null
+    },
+    {
+      "given": "Shigui",
+      "family": "Yang",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Papillomaviridae",
+    "Papillomavirus Infections",
+    "Disease Progression",
+    "Recurrence",
+    "Risk Factors",
+    "Male",
+    "Human Papillomavirus Viruses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70168",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70168",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42198950/",
+    "europe_pmc": "https://europepmc.org/article/MED/42198950"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

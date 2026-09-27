@@ -1,0 +1,133 @@
+{
+  "doi": "10.1002/rmv.70125",
+  "title": "The Impact of Study Size on COVID-19 Treatment Outcomes: A Meta-Epidemiological Study Comparing Large and Small Randomized Controlled Trials: A Systematic Review and Meta-Analyses",
+  "crossref_title": "The Impact of Study Size on COVID‐19 Treatment Outcomes: A Meta‐Epidemiological Study Comparing Large and Small Randomized Controlled Trials",
+  "abstract": "Small randomized controlled trials (RCTs) in COVID-19 meta-analyses have been associated with more favourable treatment effects and reduced result stability. This study assessed how trial size impacts effect estimates, statistical stability, and risk of bias. Following PRISMA guidelines, we identified meta-analyses of COVID-19 treatments included in WHO, NIH, and the LIVING Project. Trials were classified by log-scale sample size, and separate pooled meta-analyses were conducted for large-only, small-only, and combined trials. Comparative metrics included the Ratio of Odds Ratios (ROR), Kappa statistics, Fragility Index (FI), Reverse Fragility Index (RFI), and Cochrane Risk of Bias assessments. Sensitivity analyses applied alternative size thresholds (≥ 1000 participants and median-based cutoffs) and stratified results by treatment and outcome type. Across 25 meta-analyses including 221 RCTs (46 large, 175 small), small trials produced more extreme estimates in 19 analyses and wider confidence intervals in 23. The pooled ROR was 0.85 (95% CI: 0.76-0.95; P = 0.004), decreasing to 0.81 (95% CI: 0.68-0.95; P = 0.011) when limited to small trials published before the first large trial. RORs remained below 1 across treatment and outcome types. Agreement between small and large trials was minimal, while large trials showed substantial agreement with overall estimates. Stability and bias profiles favoured large trials (FI: 14.0 vs. 4.0; RFI: 10.0 vs. 5.0). In conclusion, small RCTs tend to overestimate treatment effects and yield less precise, less stable results. Meta-analyses should prioritise large, high-quality trials and interpret small-study findings with caution, particularly in rapidly evolving research contexts.",
+  "keywords": [
+    "COVID‐19",
+    "bias",
+    "meta‐epidemiology",
+    "randomized controlled trials",
+    "small‐study effects",
+    "treatment outcome"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-07",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41793162",
+  "pmcid": "PMC12966952",
+  "authors": [
+    {
+      "given": "Dong Hyun",
+      "family": "Kim",
+      "orcid": "https://orcid.org/0009-0002-5618-1472"
+    },
+    {
+      "given": "Soojin",
+      "family": "Lim",
+      "orcid": null
+    },
+    {
+      "given": "Michael",
+      "family": "Eisenhut",
+      "orcid": "https://orcid.org/0000-0002-8505-1186"
+    },
+    {
+      "given": "Andreas",
+      "family": "Kronbichler",
+      "orcid": null
+    },
+    {
+      "given": "Eunyoung",
+      "family": "Kim",
+      "orcid": "https://orcid.org/0000-0003-3525-8805"
+    },
+    {
+      "given": "Min Seo",
+      "family": "Kim",
+      "orcid": null
+    },
+    {
+      "given": "Stefania I.",
+      "family": "Papatheodorou",
+      "orcid": null
+    },
+    {
+      "given": "Justin",
+      "family": "Stebbing",
+      "orcid": "https://orcid.org/0000-0002-1117-6947"
+    },
+    {
+      "given": "Yonghong",
+      "family": "Peng",
+      "orcid": "https://orcid.org/0000-0002-5508-1819"
+    },
+    {
+      "given": "Sarah Soyeon",
+      "family": "Oh",
+      "orcid": null
+    },
+    {
+      "given": "Jae Il",
+      "family": "Shin",
+      "orcid": "https://orcid.org/0000-0003-2326-1820"
+    },
+    {
+      "given": "Lee",
+      "family": "Smith",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Antiviral Agents",
+    "Treatment Outcome",
+    "Sample Size",
+    "Randomized Controlled Trials as Topic",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "field_sources": {
+    "title": "Wiley article page (title and subtitle)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70125",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70125",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41793162/",
+    "europe_pmc": "https://europepmc.org/article/MED/41793162",
+    "title_supplement": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70125"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": [
+    "Verified on publisher article page: main heading at line 21 and subtitle 'A Systematic Review and Meta-Analyses' at line 22. The issue TOC concatenates both with a colon. Crossref deposited title and HTML document title omit the displayed subtitle."
+  ]
+}

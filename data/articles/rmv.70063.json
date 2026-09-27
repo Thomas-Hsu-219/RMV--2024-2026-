@@ -1,0 +1,72 @@
+{
+  "doi": "10.1002/rmv.70063",
+  "title": "Cell Biology of Human Cytomegalovirus Latency: Implications for Pathogenesis and Treatment",
+  "crossref_title": "Cell Biology of Human Cytomegalovirus Latency: Implications for Pathogenesis and Treatment",
+  "abstract": "Human cytomegalovirus (HCMV), like all herpes viruses, can establish lifelong infections of the host. This is due to the capacity to establish latency-a defining characteristic of herpes virus infection. In healthy individuals, pathology associated with HCMV infection is rare due, in part, to a robust immune response that controls replication. Consequently, in patients with impaired immune responses substantial pathogenesis is observed due to a failure of immunological control. In this review, I discuss the biology of latency and reactivation with an emphasis on aspects important for our understanding of pathogenesis and treatment. In particular, I will represent how fundamental understanding of the cellular and molecular details of viral latency have, and will continue to be, pivotal for attempts to therapeutically target latent HCMV with a view to reducing the burden of disease. This will include pharmacological and immunological therapies that utilise the modulation of both host and viral functions important for latency and reactivation as well as strategies to harness the very well characterised and prodigious immune response directed against replicating HCMV to target latent infections as well.",
+  "keywords": [
+    "US28",
+    "epigenetics",
+    "haematopoiesis",
+    "immune control",
+    "latency",
+    "transplantation"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-07-25",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40714972",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Matthew B.",
+      "family": "Reeves",
+      "orcid": "https://orcid.org/0000-0002-4909-1076"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Virus Latency",
+    "Virus Activation",
+    "Host-Pathogen Interactions"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70063",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70063",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40714972/",
+    "europe_pmc": "https://europepmc.org/article/MED/40714972"
+  },
+  "copyright_statement": "© 2025 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

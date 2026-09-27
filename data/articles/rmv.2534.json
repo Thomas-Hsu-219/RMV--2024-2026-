@@ -1,0 +1,100 @@
+{
+  "doi": "10.1002/rmv.2534",
+  "title": "Unravelling the triad of neuroinvasion, neurodissemination, and neuroinflammation of human immunodeficiency virus type 1 in the central nervous system",
+  "crossref_title": "Unravelling the triad of neuroinvasion, neurodissemination, and neuroinflammation of human immunodeficiency virus type 1 in the central nervous system",
+  "abstract": "Since the identification of human immunodeficiency virus type 1 (HIV-1) in 1983, many improvements have been made to control viral replication in the peripheral blood and to treat opportunistic infections. This has increased life expectancy but also the incidence of age-related central nervous system (CNS) disorders and HIV-associated neurodegeneration/neurocognitive impairment and depression collectively referred to as HIV-associated neurocognitive disorders (HAND). HAND encompasses a spectrum of different clinical presentations ranging from milder forms such as asymptomatic neurocognitive impairment or mild neurocognitive disorder to a severe HIV-associated dementia (HAD). Although control of viral replication and suppression of plasma viral load with combination antiretroviral therapy has reduced the incidence of HAD, it has not reversed milder forms of HAND. The objective of this review, is to describe the mechanisms by which HIV-1 invades and disseminates in the CNS, a crucial event leading to HAND. The review will present the evidence that underlies the relationship between HIV infection and HAND. Additionally, recent findings explaining the role of neuroinflammation in the pathogenesis of HAND will be discussed, along with prospects for treatment and control.",
+  "keywords": [
+    "HIV‐1",
+    "HIV‐associated neurocognitive disorders",
+    "HIV‐cell interactions",
+    "central nervous system"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-04-08",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38588024",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Marta",
+      "family": "Calado",
+      "orcid": null
+    },
+    {
+      "given": "Rita",
+      "family": "Ferreira",
+      "orcid": "https://orcid.org/0009-0009-0480-5897"
+    },
+    {
+      "given": "David",
+      "family": "Pires",
+      "orcid": null
+    },
+    {
+      "given": "Quirina",
+      "family": "Santos‐Costa",
+      "orcid": null
+    },
+    {
+      "given": "Elsa",
+      "family": "Anes",
+      "orcid": "https://orcid.org/0000-0001-5934-0198"
+    },
+    {
+      "given": "Dora",
+      "family": "Brites",
+      "orcid": null
+    },
+    {
+      "given": "José Miguel",
+      "family": "Azevedo‐Pereira",
+      "orcid": "https://orcid.org/0000-0001-7434-7208"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Central Nervous System",
+    "Humans",
+    "HIV-1",
+    "HIV Infections",
+    "AIDS Dementia Complex",
+    "Central Nervous System Diseases",
+    "Neuroinflammatory Diseases"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2534",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2534",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38588024/",
+    "europe_pmc": "https://europepmc.org/article/MED/38588024"
+  },
+  "copyright_statement": "© 2024 The Authors. Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

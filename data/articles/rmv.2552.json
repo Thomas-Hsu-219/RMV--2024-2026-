@@ -1,0 +1,74 @@
+{
+  "doi": "10.1002/rmv.2552",
+  "title": "Blood‐borne viruses and neurological manifestations: An overview",
+  "crossref_title": "Blood‐borne viruses and neurological manifestations: An overview",
+  "abstract": "Infections caused by blood-borne viruses, such as human immunodeficiency virus (HIV), human T-lymphotropic virus (HTLV), hepatitis C virus (HCV), and hepatitis B virus (HBV), are systemic diseases that can lead to a wide range of pathological manifestations. Besides causing severe immune and hepatic disorders, these viral pathogens can also induce neurological dysfunctions via both direct and indirect mechanisms. Neurological dysfunctions are one of the most common manifestations caused by these viruses that can also serve as indicators of their infection, impacting the clinical presentation of the disease. The main neurological manifestations of these blood-borne viral pathogens consist of several central and peripheral nervous system (CNS and PNS, respectively) dysfunctions. The most common neurological manifestations of HIV, HTLV, HCV, and HBV include HIV-associated peripheral neuropathy (PN), HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP), and HCV-/HBV-associated PN, respectively. Nonetheless, patients infected with these viruses may experience other neurological disorders, either associated with these conditions or manifesting in isolation, which can often go unnoticed or undiagnosed by physicians. The present review aims to provide an overview of the latest evidence on the relationship between blood-borne viruses and neurological disorders to highlight neurological conditions that may be somewhat overlooked by mainstream literature and physicians.",
+  "keywords": [
+    "blood‐borne viruses",
+    "neurological manifestations"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-14",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38877365",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Yan",
+      "family": "Xu",
+      "orcid": null
+    },
+    {
+      "given": "Bo",
+      "family": "Yu",
+      "orcid": "https://orcid.org/0009-0008-5006-2900"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Blood-Borne Pathogens",
+    "Virus Diseases",
+    "Hepatitis B",
+    "Hepatitis C",
+    "HIV Infections",
+    "Nervous System Diseases",
+    "Blood-Borne Infections"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2552",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2552",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38877365/",
+    "europe_pmc": "https://europepmc.org/article/MED/38877365"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

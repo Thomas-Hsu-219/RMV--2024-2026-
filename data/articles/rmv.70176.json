@@ -1,0 +1,94 @@
+{
+  "doi": "10.1002/rmv.70176",
+  "title": "Immunological Interactions Between Gammadelta T Cells and West Nile Virus in the Infected Host",
+  "crossref_title": "Immunological Interactions Between Gammadelta T Cells and West Nile Virus in the Infected Host",
+  "abstract": "Between mosquitoes and birds, West Nile virus (WNV) is a neurotropic flavivirus, an arthropod-borne pathogen involved in an enzootic cycle. Additionally, it can infect both people and horses, leading to severe illness. Since 1999, WNV has spread across North and South America, including Mexico and the Caribbean. It is endemic in several regions of Europe, Africa, the Middle East, and Asia. WNV affects the central nervous system (CNS), causing severe disease in a small percentage of infected individuals, especially in immunocompromised or elderly hosts. This re-emerging pathogen was identified during an outbreak in July 2025 in the Lazio region of Italy, rekindling interest in an area where the virus had not circulated for some time and raising several questions about the WNV vector and its spread. Gammadelta T (γδ T) lymphocytes are innate cells that can respond rapidly and non-specifically to viral infections and other pathogens, thereby linking innate and adaptive immunity. Several studies in mice and humans suggest they play distinct roles in controlling WNV infection by communicating with other immune cells, underscoring their antiviral role, which is essential for containing viral dissemination in the host. This review will discuss recent studies on the role of γδ T cells in viral pathogenesis and in protective immunity during WNV infection.",
+  "keywords": [
+    "antiviral activity",
+    "gammadelta T cells",
+    "innate immunity",
+    "protective innate immunity",
+    "west nile virus"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-06-10",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42267629",
+  "pmcid": "PMC13250970",
+  "authors": [
+    {
+      "given": "E.",
+      "family": "Cimini",
+      "orcid": "https://orcid.org/0000-0002-2659-0868"
+    },
+    {
+      "given": "E.",
+      "family": "Tartaglia",
+      "orcid": null
+    },
+    {
+      "given": "F.",
+      "family": "Cristofanelli",
+      "orcid": null
+    },
+    {
+      "given": "S.",
+      "family": "Gili",
+      "orcid": null
+    },
+    {
+      "given": "F.",
+      "family": "Maggi",
+      "orcid": "https://orcid.org/0000-0001-7489-5271"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "West Nile virus",
+    "West Nile Fever",
+    "Receptors, Antigen, T-Cell, gamma-delta",
+    "Host-Pathogen Interactions",
+    "Immunity, Innate",
+    "Adaptive Immunity",
+    "Intraepithelial Lymphocytes"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70176",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70176",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42267629/",
+    "europe_pmc": "https://europepmc.org/article/MED/42267629"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

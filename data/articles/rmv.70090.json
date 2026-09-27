@@ -1,0 +1,100 @@
+{
+  "doi": "10.1002/rmv.70090",
+  "title": "Disruption of Signalling Pathways Induced by HBV HBx, HCV Core, and EBV LMP1 in Gastric Cancer",
+  "crossref_title": "Disruption of Signalling Pathways Induced by HBV HBx, HCV Core, and EBV LMP1 in Gastric Cancer",
+  "abstract": "Oncoviruses are a significant etiological factor in a substantial proportion of human cancers, with a particular impact on cancers of the digestive system. This review provides a comprehensive analysis of the complex molecular mechanisms through which viral oncoproteins, focusing on Hepatitis B Virus (HBV) HBx, Hepatitis C Virus (HCV) core protein, and Epstein-Barr Virus (EBV) latent membrane protein 1 (LMP1), hijack and disrupt host cell signalling networks to induce carcinogenesis. These disruptions include the inactivation of critical tumour suppressor proteins, such as p53 and the retinoblastoma protein (Rb), the constitutive activation of pro-proliferative and pro-survival pathways, including NF-κB and Akt, and the induction of chronic inflammation and metabolic dysregulation. A deeper understanding of these precise molecular interactions is essential to advancing precision oncology, enabling the development of next-generation targeted therapies and immunotherapies that can address the unique vulnerabilities of virus-associated cancers.",
+  "keywords": [
+    "EBV",
+    "HBV",
+    "HCV",
+    "digestive diseases",
+    "oncoviruses"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-02-25",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41736661",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mengli",
+      "family": "Gao",
+      "orcid": null
+    },
+    {
+      "given": "Yanmin",
+      "family": "Wu",
+      "orcid": null
+    },
+    {
+      "given": "Yan",
+      "family": "Chen",
+      "orcid": null
+    },
+    {
+      "given": "Tongying",
+      "family": "Hao",
+      "orcid": "https://orcid.org/0009-0008-2409-9718"
+    },
+    {
+      "given": "Xiaojing",
+      "family": "Sun",
+      "orcid": null
+    },
+    {
+      "given": "Jing",
+      "family": "Ji",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Hepatitis B virus",
+    "Herpesvirus 4, Human",
+    "Hepacivirus",
+    "Stomach Neoplasms",
+    "Trans-Activators",
+    "Viral Matrix Proteins",
+    "Signal Transduction",
+    "Viral Regulatory and Accessory Proteins",
+    "Host-Pathogen Interactions"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70090",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70090",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41736661/",
+    "europe_pmc": "https://europepmc.org/article/MED/41736661"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

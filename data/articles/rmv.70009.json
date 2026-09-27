@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/rmv.70009",
+  "title": "Neuroinflammation in Post COVID‐19 Sequelae: Neuroinvasion and Neuroimmune Crosstalk",
+  "crossref_title": "Neuroinflammation in Post COVID‐19 Sequelae: Neuroinvasion and Neuroimmune Crosstalk",
+  "abstract": "The emergence of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in December 2019 triggered a swift global spread, leading to a devastating pandemic. Alarmingly, approximately one in four individuals diagnosed with coronavirus disease 2019 (COVID-19) experience varying degrees of cognitive impairment, raising concerns about a potential increase in neurological sequelae cases. Neuroinflammation seems to be the key pathophysiological hallmark linking mild respiratory COVID-19 to cognitive impairment, fatigue, and neurological sequelae in COVID-19 patients, highlighting the interaction between the nervous and immune systems following SARS-CoV-2 infection. Several hypotheses have been proposed to explain how the virus disrupts physiological pathways to trigger inflammation within the CNS, potentially leading to neuronal damage. These include neuroinvasion, systemic inflammation, disruption of the lung and gut-brain axes, and reactivation of latent viruses. This review explores the potential origins of neuroinflammation and the underlying neuroimmune cross-talk, highlighting important unanswered questions in the field. Addressing these fundamental issues could enhance our understanding of the virus's impact on the CNS and inform strategies to mitigate its detrimental effects.",
+  "keywords": [],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "6",
+  "published_online": "2024-11-18",
+  "published_print": "2024-11",
+  "online_year": 2024,
+  "pmid": "39558491",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Roberta S.",
+      "family": "Dos Reis",
+      "orcid": "https://orcid.org/0000-0002-5731-4065"
+    },
+    {
+      "given": "Sathish",
+      "family": "Selvam",
+      "orcid": null
+    },
+    {
+      "given": "Velpandi",
+      "family": "Ayyavoo",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Brain",
+    "Humans",
+    "Neuroimmunomodulation",
+    "Cognitive Dysfunction",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Neuroinflammatory Diseases"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70009",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70009",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39558491/",
+    "europe_pmc": "https://europepmc.org/article/MED/39558491"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

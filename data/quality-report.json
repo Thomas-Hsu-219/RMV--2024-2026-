@@ -1,0 +1,323 @@
+{
+  "cutoff_date": "2026-09-27",
+  "coverage": "2024 and 2025 issue-year records; 2026 year-to-date. Completeness is relative to the retrieved Crossref and PubMed/Europe PMC indexes, not certified publisher archival completeness.",
+  "total_records": 294,
+  "by_issue_year": {
+    "2024": {
+      "records": 106,
+      "with_abstract": 100,
+      "with_keywords": 99
+    },
+    "2025": {
+      "records": 72,
+      "with_abstract": 63,
+      "with_keywords": 59
+    },
+    "2026": {
+      "records": 116,
+      "with_abstract": 110,
+      "with_keywords": 104
+    }
+  },
+  "by_online_year": {
+    "2026": 102,
+    "2025": 83,
+    "2024": 91,
+    "2023": 18
+  },
+  "crossref_issue_query_records": 329,
+  "crossref_publication_date_query_records": 310,
+  "epmc_query_records": 293,
+  "excluded_records": [
+    {
+      "doi": "10.1002/rmv.v34.1",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.70160",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.v35.2",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.2459",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.v35.6",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.v35.5",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.70183",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.v34.5",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.70018",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.v35.4",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.2549",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.v36.2",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.2548",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.v35.1",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.2455",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.2458",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.2456",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.v36.5",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.2457",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.70109",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.70124",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.v34.3",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.2553",
+      "title": "Cover Image",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.70087",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.2546",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.2547",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.v34.6",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.v34.4",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.v36.1",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.2544",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    },
+    {
+      "doi": "10.1002/rmv.v35.3",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.v36.4",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.v34.2",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.v36.3",
+      "title": null,
+      "reason": "journal_issue_record",
+      "crossref_type": "journal-issue"
+    },
+    {
+      "doi": "10.1002/rmv.2454",
+      "title": "Issue Information",
+      "reason": "front_matter",
+      "crossref_type": "journal-article"
+    }
+  ],
+  "identifier_corrections": [
+    {
+      "canonical_doi": "10.1002/rmv.70034",
+      "source_doi": "10.1002/ird3.70006",
+      "reason": "exact_normalized_title_match_to_publisher_Crossref_record",
+      "pmid": "40148134"
+    }
+  ],
+  "year_disagreements": [],
+  "missing_abstract_dois": [
+    "10.1002/rmv.70192",
+    "10.1002/rmv.70150",
+    "10.1002/rmv.70130",
+    "10.1002/rmv.70104",
+    "10.1002/rmv.70101",
+    "10.1002/rmv.70098",
+    "10.1002/rmv.70075",
+    "10.1002/rmv.70072",
+    "10.1002/rmv.70068",
+    "10.1002/rmv.70046",
+    "10.1002/rmv.70062",
+    "10.1002/rmv.70052",
+    "10.1002/rmv.70049",
+    "10.1002/rmv.70045",
+    "10.1002/rmv.70041",
+    "10.1002/rmv.2588",
+    "10.1002/rmv.2587",
+    "10.1002/rmv.2573",
+    "10.1002/rmv.2557",
+    "10.1002/rmv.2516",
+    "10.1002/rmv.2490"
+  ],
+  "missing_keywords_dois": [
+    "10.1002/rmv.70203",
+    "10.1002/rmv.70192",
+    "10.1002/rmv.70198",
+    "10.1002/rmv.70185",
+    "10.1002/rmv.70147",
+    "10.1002/rmv.70150",
+    "10.1002/rmv.70107",
+    "10.1002/rmv.70099",
+    "10.1002/rmv.70101",
+    "10.1002/rmv.70100",
+    "10.1002/rmv.70098",
+    "10.1002/rmv.70093",
+    "10.1002/rmv.70078",
+    "10.1002/rmv.70077",
+    "10.1002/rmv.70076",
+    "10.1002/rmv.70075",
+    "10.1002/rmv.70072",
+    "10.1002/rmv.70046",
+    "10.1002/rmv.70059",
+    "10.1002/rmv.70062",
+    "10.1002/rmv.70052",
+    "10.1002/rmv.70049",
+    "10.1002/rmv.70041",
+    "10.1002/rmv.70037",
+    "10.1002/rmv.70020",
+    "10.1002/rmv.70009",
+    "10.1002/rmv.2588",
+    "10.1002/rmv.2557",
+    "10.1002/rmv.2514",
+    "10.1002/rmv.2518",
+    "10.1002/rmv.2516",
+    "10.1002/rmv.2490"
+  ],
+  "duplicate_dois": 0,
+  "notes": [
+    "No AI-generated abstracts or keywords.",
+    "MeSH is stored separately and never substituted for author keywords.",
+    "Cross-year online and issue dates are retained independently.",
+    "2026 is not a completed full-year dataset.",
+    "Keywords absent from retrieved sources may exist elsewhere; absence is not proof that authors supplied none."
+  ],
+  "publisher_toc_audit_files": [
+    "coverage/wiley_2024_coverage.json",
+    "coverage/wiley_2025_coverage.json",
+    "coverage/wiley_2026_coverage.json"
+  ],
+  "publisher_toc_audit_summary": "2024: all 106 content DOI links in six issues matched. 2025: issues 2-6 (65 records) matched by title/issue, 35 links also resolved to DOI; issue 1 (7 records) not independently verified against unavailable Wiley TOC. 2026: five published issues, 116 titles matched; 91 DOI links resolved, 25 article-link fetches unavailable. Detailed evidence and limitations are in coverage files."
+}

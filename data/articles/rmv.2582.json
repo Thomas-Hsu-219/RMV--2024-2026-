@@ -1,0 +1,139 @@
+{
+  "doi": "10.1002/rmv.2582",
+  "title": "Dengue Infection During Pregnancy and Adverse Birth Outcomes: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Dengue Infection During Pregnancy and Adverse Birth Outcomes: A Systematic Review and Meta‐Analysis",
+  "abstract": "Dengue is a rapidly spreading mosquito-borne viral disease, posing significant public health challenges in tropical and subtropical regions. This systematic review and meta-analysis aimed to evaluate the relationship between maternal dengue virus infection and adverse birth outcomes. A literature search was conducted in PubMed, Embase, and web of science databases until April 2024. Observational studies examining the association between laboratory-confirmed maternal dengue infection and adverse birth outcomes such as preterm birth, low birth weight (LBW), small for gestational age (SGA), stillbirth, and postpartum haemorrhage were included. Data were extracted, and risk of bias was assessed using the Newcastle-Ottawa Scale. Random-effects meta-analysis models were used to pool data in R software (V 4.3). Twenty studies met the inclusion criteria. The pooled prevalence of preterm birth among dengue-affected pregnancies was 18.3% (95% CI: 12.6%-25.8%), with an OR of 1.21 (95% CI: 0.78-1.89). For LBW, the pooled prevalence was 17.1% (95% CI: 10.4%-26.6%), with an OR of 1.00 (95% CI: 0.69-1.41). SGA had a pooled prevalence of 11.2% (95% CI: 2.7%-36.9%) and an OR of 0.93 (95% CI: 0.41-2.14). The prevalence of stillbirth was 3.3% (95% CI: 1.6%-6.8%), with significant associations found in some studies (RR: 2.67; 95% CI: 1.09-6.57). Postpartum haemorrhage had an OR of 1.97 (95% CI: 0.53-2.69). While maternal dengue infection was associated with a higher prevalence of preterm birth and LBW, the associations were not statistically significant. Significant associations were observed for stillbirth in specific studies. Further research with standardized methodologies is needed to clarify these relationships and identify potential mechanisms.",
+  "keywords": [
+    "dengue viral infection",
+    "low birth weight",
+    "meta‐analysis",
+    "pregnancy",
+    "preterm birth",
+    "still birth"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "5",
+  "published_online": "2024-09-08",
+  "published_print": "2024-09",
+  "online_year": 2024,
+  "pmid": "39245582",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Muhammed",
+      "family": "Shabil",
+      "orcid": "https://orcid.org/0000-0003-2491-2779"
+    },
+    {
+      "given": "Mahalaqua Nazli",
+      "family": "Khatib",
+      "orcid": null
+    },
+    {
+      "given": "Quazi Syed",
+      "family": "Zahiruddin",
+      "orcid": null
+    },
+    {
+      "given": "M. M.",
+      "family": "Rekha",
+      "orcid": null
+    },
+    {
+      "given": "Mandeep",
+      "family": "Kaur",
+      "orcid": null
+    },
+    {
+      "given": "Bindu",
+      "family": "Rani",
+      "orcid": null
+    },
+    {
+      "given": "Apurva",
+      "family": "Koul",
+      "orcid": null
+    },
+    {
+      "given": "M.",
+      "family": "Ravi Kumar",
+      "orcid": null
+    },
+    {
+      "given": "Ashish Singh",
+      "family": "Chauhan",
+      "orcid": null
+    },
+    {
+      "given": "Nishant",
+      "family": "Rai",
+      "orcid": null
+    },
+    {
+      "given": "Sanjit",
+      "family": "Sah",
+      "orcid": null
+    },
+    {
+      "given": "Sorabh",
+      "family": "Lakhanpal",
+      "orcid": null
+    },
+    {
+      "given": "Ganesh",
+      "family": "Bushi",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Pregnancy Complications, Infectious",
+    "Dengue",
+    "Premature Birth",
+    "Postpartum Hemorrhage",
+    "Pregnancy Outcome",
+    "Prevalence",
+    "Pregnancy",
+    "Infant, Newborn",
+    "Infant, Low Birth Weight",
+    "Infant, Small for Gestational Age",
+    "Female",
+    "Stillbirth"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2582",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2582",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39245582/",
+    "europe_pmc": "https://europepmc.org/article/MED/39245582"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

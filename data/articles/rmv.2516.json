@@ -1,0 +1,61 @@
+{
+  "doi": "10.1002/rmv.2516",
+  "title": "Higher body temperatures associated with immunotherapy may affect the activity of therapeutic antibodies",
+  "crossref_title": "Higher body temperatures associated with immunotherapy may affect the activity of therapeutic antibodies",
+  "abstract": null,
+  "keywords": [],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01-27",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282402",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Razvan C.",
+      "family": "Stan",
+      "orcid": "https://orcid.org/0000-0002-9539-6532"
+    }
+  ],
+  "publication_types": [
+    "Letter"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Antibodies, Monoclonal",
+    "Body Temperature",
+    "Immunotherapy"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2516",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2516",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282402/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282402"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

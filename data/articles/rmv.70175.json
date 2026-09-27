@@ -1,0 +1,103 @@
+{
+  "doi": "10.1002/rmv.70175",
+  "title": "A Cross‐Country Evaluation of Respiratory Syncytial Virus and Human Metapneumovirus Surveillance Systems: Identifying Gaps and Best Practices for Improved Disease Monitoring",
+  "crossref_title": "A Cross‐Country Evaluation of Respiratory Syncytial Virus and Human Metapneumovirus Surveillance Systems: Identifying Gaps and Best Practices for Improved Disease Monitoring",
+  "abstract": "Respiratory syncytial virus (RSV) and human metapneumovirus (hMPV) are seasonal respiratory viruses that can cause severe outcomes, particularly in older adults; however, their burden remains under-captured. The World Health Organisation (WHO) recommends expanding surveillance over pathogens, such as RSV and hMPV, through the Mosaic Respiratory Surveillance Framework. Although COVID-19 accelerated RSV surveillance, similar advancements for hMPV are lacking. This study evaluated and compared RSV and hMPV surveillance across multiple countries. A comparative qualitative analysis of RSV and hMPV surveillance was conducted in France, Germany, Italy, Japan, Spain, the United Kingdom, and the United States using a framework based on the WHO guidance. Surveillance systems were mapped across seven modules: non-medically attended community, virological, community, outbreak, primary care, hospital, and mortality surveillance. Each was assessed using five criteria: granularity, timing, representativeness, sampling strategy, and communication. Sources included public health institution webpages, surveillance subsystems, and peer-reviewed publications. Most countries have dedicated RSV surveillance frameworks, with the United States and Spain having the most comprehensive systems. Key areas for potential improvement included limited adult-centric data and severe outcome reporting. No country had robust surveillance for hMPV (Germany reported hMPV-specific hospital data, whereas France, Germany, and the United Kingdom published sentinel positivity rates), and detection was mainly through influenza or COVID-19 virological surveillance. The absence of hMPV reporting from active sentinel surveillance, year-round monitoring, demographic and severity data, and restricted public information dissemination are common limitations. Significant limitations persist in RSV and particularly hMPV surveillance, highlighting the need for more robust, comprehensive systems.",
+  "keywords": [
+    "epidemiology",
+    "human metapneumovirus",
+    "respiratory syncytial virus",
+    "surveillance"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-06-16",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42299918",
+  "pmcid": "PMC13270497",
+  "authors": [
+    {
+      "given": "Oliver",
+      "family": "Martyn",
+      "orcid": "https://orcid.org/0000-0001-8126-5868"
+    },
+    {
+      "given": "Jill",
+      "family": "Devos",
+      "orcid": null
+    },
+    {
+      "given": "Pierre",
+      "family": "Bourron",
+      "orcid": null
+    },
+    {
+      "given": "Dina",
+      "family": "AbouElwafa",
+      "orcid": null
+    },
+    {
+      "given": "Olivier",
+      "family": "Vitoux",
+      "orcid": null
+    },
+    {
+      "given": "Thierry Rigoine de",
+      "family": "Fougerolles",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Metapneumovirus",
+    "Respiratory Syncytial Virus, Human",
+    "Paramyxoviridae Infections",
+    "Respiratory Syncytial Virus Infections",
+    "Population Surveillance",
+    "United States",
+    "Japan",
+    "France",
+    "Germany",
+    "Italy",
+    "Spain",
+    "Epidemiological Monitoring",
+    "United Kingdom"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70175",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70175",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42299918/",
+    "europe_pmc": "https://europepmc.org/article/MED/42299918"
+  },
+  "copyright_statement": "© 2026 Sanofi. Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

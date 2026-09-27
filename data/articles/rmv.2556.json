@@ -1,0 +1,96 @@
+{
+  "doi": "10.1002/rmv.2556",
+  "title": "A comprehensive, updated systematic review and meta‐analysis of epidemiologic evidence on the connection between herpes zoster infection and the risk of stroke",
+  "crossref_title": "A comprehensive, updated systematic review and meta‐analysis of epidemiologic evidence on the connection between herpes zoster infection and the risk of stroke",
+  "abstract": "Stroke is a common worldwide cause of death and disability, resulting from an obstruction or reduction in blood flow to the brain. Research has demonstrated that systemic infection such as herpes zoster (HZ) / ophthalmicus herpes zoster (HZO) can potentially trigger stroke. This study includes an updated systematic review and meta-analysis of the epidemiologic data on the connection between HZ/HZO infection and the risk of stroke. A meticulous search of different database yielded 905 studies. Furthermore, an additional 14 studies from a previous meta-analysis were incorporated. Eligible studies underwent rigorous screening, resulting in 18 papers. Statistical analyses, including random/fixed effects models and subgroup analyses, were conducted to assess pooled relative risk (RR) and heterogeneity. The meta-analysis consisted of 5,505,885 participants and found a statistically significant association between HZ infection and the risk of stroke (pooled RR = 1.22, 95% confidence interval [CI] 1.12-1.34). The HZO infection showed a significantly higher overall pooled RR of 1.71 (95% CI 1.06-2.75), indicating a strong connection with the risk of stroke. Subgroup analysis revealed that the odds ratio might play a significant role in causing heterogeneity. Time since infection emerged as a crucial factor, with heightened stroke risk in the initial year post-HZ/HZO exposure, followed by a decline after the first year. Asian/Non-Asian studies demonstrated varied results in HZ/HZO patients. Meta-analysis reveals a significant HZ/HZO-stroke link. Subgroups highlight varied risks and warrant extended Asian/non-Asian patient investigation.",
+  "keywords": [
+    "haemorrhagic stroke",
+    "herpes zoster",
+    "ischaemic stroke",
+    "stroke",
+    "varicella zoster virus"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-10",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38853706",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mohammad",
+      "family": "Heiat",
+      "orcid": null
+    },
+    {
+      "given": "Mahmood",
+      "family": "Salesi",
+      "orcid": null
+    },
+    {
+      "given": "Mohammad Hossein",
+      "family": "Peypar",
+      "orcid": "https://orcid.org/0009-0006-0374-6547"
+    },
+    {
+      "given": "Ali",
+      "family": "Ramazani",
+      "orcid": null
+    },
+    {
+      "given": "Mahdi",
+      "family": "Abdorrashidi",
+      "orcid": null
+    },
+    {
+      "given": "Amin Vesal",
+      "family": "Yeganeh",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Meta-Analysis",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Herpesvirus 3, Human",
+    "Herpes Zoster",
+    "Risk Assessment",
+    "Risk Factors",
+    "Stroke"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2556",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2556",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38853706/",
+    "europe_pmc": "https://europepmc.org/article/MED/38853706"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,88 @@
+{
+  "doi": "10.1002/rmv.70179",
+  "title": "Dysregulated Metabolism in People Living With HIV in the Modern ART‐Era: A Systematic Review of Targeted Metabolomics Studies",
+  "crossref_title": "Dysregulated Metabolism in People Living With HIV in the Modern ART‐Era: A Systematic Review of Targeted Metabolomics Studies",
+  "abstract": "HIV remains a significant public health issue, with 1.3 million new infections and 630,000 deaths annually, and 40.8 million people living with HIV (PLHIV) globally in 2024. Although antiretroviral therapy (ART) suppresses viral replication, it does not eradicate the virus, and metabolic dysregulation persists despite treatment. Metabolomics allows for a detailed investigation of these alterations; however, targeted metabolomics studies in ART-treated PLHIV are limited, and there is no consensus on consistently dysregulated metabolites in PLHIV compared to healthy controls (HCs). This systematic review aimed to identify frequently investigated metabolites and key metabolic alterations in ART-treated PLHIV. A search strategy was designed for this study. PubMed, Scopus, and Web of Science were searched to identify relevant articles. We collected all search results in a reference manager and assessed titles and abstracts, as well as the full-text of the articles, for inclusion eligibility according to PRISMA guidelines. A total of 3217 studies were identified, of which 15 studies met the inclusion criteria. The review included 15 studies, comprising 886 PLHIV and 389 HCs. The most investigated metabolites were glutamine, tryptophan (Trp), kynurenine (Kyn), Kyn/Trp ratio, glycine, and ornithine. Consistent trends showed lower glutamine and glycine, and higher Kyn/Trp and ornithine, in PLHIV compared to HCs. Notably, metabolic dysregulation persisted in PLHIV despite viral suppression. Furthermore, studies conducted in the Global North more frequently reported metabolic dysregulation in PLHIV relative to HCs, compared with studies from the Global South, potentially reflecting regional variation or methodological differences. These findings offer insight into the targeted metabolic profiles of ART-treated PLHIV using metabolomics and suggest that metabolites such as glutamine, glycine, Kyn/Trp ratio and ornithine may play important roles in understanding HIV-1 pathogenesis in the modern ART-era.",
+  "keywords": [
+    "HIV‐1",
+    "antiretroviral therapy",
+    "targeted metabolomics"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-07-06",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42406562",
+  "pmcid": "PMC13335820",
+  "authors": [
+    {
+      "given": "Levanco K.",
+      "family": "Asia",
+      "orcid": null
+    },
+    {
+      "given": "Du Toit",
+      "family": "Loots",
+      "orcid": "https://orcid.org/0000-0002-0339-6237"
+    },
+    {
+      "given": "Shayne",
+      "family": "Mason",
+      "orcid": null
+    },
+    {
+      "given": "Esme",
+      "family": "Jansen Van Vuren",
+      "orcid": "https://orcid.org/0000-0002-0307-4537"
+    },
+    {
+      "given": "Monray E.",
+      "family": "Williams",
+      "orcid": "https://orcid.org/0000-0001-6698-8451"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "HIV Infections",
+    "Anti-HIV Agents",
+    "Metabolomics",
+    "Metabolome"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70179",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70179",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42406562/",
+    "europe_pmc": "https://europepmc.org/article/MED/42406562"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,98 @@
+{
+  "doi": "10.1002/rmv.70001",
+  "title": "Next‐Generation Sequencing Methods for Near‐Real‐Time Molecular Epidemiology of HIV and HCV",
+  "crossref_title": "Next‐Generation Sequencing Methods for Near‐Real‐Time Molecular Epidemiology of HIV and HCV",
+  "abstract": "The World Health Organisation has set targets of reducing the transmission of new hepatitis C (HCV) infections by 90%, and ending human immunodeficiency virus-1 (HIV) as a public health threat, by 2030. To achieve this, efficient and timely viral surveillance, and effective public health interventions, are required. Traditional epidemiological methods are largely dependent on the recognition of incident cases with symptomatic illness; acute HIV and HCV infections are commonly asymptomatic, which may lead to delays in the recognition of such new infections. Instead, for these viruses, molecular epidemiology may improve the detection of, and response to, clusters of viral transmission. Molecular epidemiology using historical datasets has highlighted key populations that may have benefitted from a timely intervention. Similar analyses performed on contemporary samples are needed to underpin the 2030 targets, but this requires the generation of a cohesive dataset of viral genome sequences in near-real-time. To generate such data, methodologies harnessing next-generation sequencing (NGS) should be utilised. Here we discuss the opportunity presented by NGS for public health surveillance of HIV and HCV, and discuss three methods that can generate sequences for such analysis. These include full-length genome amplification, utilised for analysis of HCV in the research space; tiling PCR, which was the method of choice for many diagnostic laboratories in the SARS-CoV-2 pandemic; and bait-capture hybridisation, which has been utilised in local HIV outbreaks. These techniques could be applied for near-real-time HIV and HCV surveillance, informing public health strategies that will be key to achieving 2030 targets.",
+  "keywords": [
+    "HCV",
+    "HIV",
+    "assays",
+    "next‐generation‐sequencing",
+    "surveillance",
+    "transmission"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "6",
+  "published_online": "2024-10-20",
+  "published_print": "2024-11",
+  "online_year": 2024,
+  "pmid": "39428551",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Bethany A.",
+      "family": "Horsburgh",
+      "orcid": "https://orcid.org/0000-0002-4263-2351"
+    },
+    {
+      "given": "Gregory J.",
+      "family": "Walker",
+      "orcid": null
+    },
+    {
+      "given": "Anthony",
+      "family": "Kelleher",
+      "orcid": null
+    },
+    {
+      "given": "Andrew R.",
+      "family": "Lloyd",
+      "orcid": null
+    },
+    {
+      "given": "Rowena A.",
+      "family": "Bull",
+      "orcid": "https://orcid.org/0000-0002-9844-3744"
+    },
+    {
+      "given": "Francesca Di",
+      "family": "Giallonardo",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Hepacivirus",
+    "HIV-1",
+    "Hepatitis C",
+    "HIV Infections",
+    "Genome, Viral",
+    "Molecular Epidemiology",
+    "High-Throughput Nucleotide Sequencing"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70001",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70001",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39428551/",
+    "europe_pmc": "https://europepmc.org/article/MED/39428551"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

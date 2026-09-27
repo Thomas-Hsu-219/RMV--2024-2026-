@@ -1,0 +1,137 @@
+{
+  "doi": "10.1002/rmv.2523",
+  "title": "Risk of kidney and liver diseases after COVID‐19 infection: A systematic review and meta‐analysis",
+  "crossref_title": "Risk of kidney and liver diseases after COVID‐19 infection: A systematic review and meta‐analysis",
+  "abstract": "COVID-19 is not only associated with substantial acute liver and kidney injuries, but also with an elevated risk of post-acute sequelae involving the kidney and liver system. We aimed to investigate whether COVID-19 exposure increases the long-term risk of kidney and liver disease, and what are the magnitudes of these associations. We searched PubMed, Embase, Web of Science, ClinicalTrials.gov, and the Living Overview of the Evidence COVID-19 Repository for cohort studies estimating the association between COVID-19 and kidney and liver outcomes. Random-effects meta-analyses were performed to combine the results of the included studies. We assessed the certainty of the evidence using the Grading of Recommendations Assessment, Development and Evaluation approach. Fifteen cohort studies with more than 32 million participants were included in the systematic review COVID-19 was associated with a 35% greater risk of kidney diseases (10 more per 1000 persons; low certainty evidence) and 54% greater risk of liver disease (3 more per 1000 persons; low certainty evidence). The absolute increases due to COVID-19 for acute kidney injury, chronic kidney disease, and liver test abnormality were 3, 8, and 3 per 1000 persons, respectively. Subgroup analyses found no differences between different type of kidney and liver diseases. The findings provide further evidence for the association between COVID-19 and incident kidney and liver conditions. The absolute magnitude of the effect of COVID-19 on kidney and liver outcomes was, however, relatively small.",
+  "keywords": [
+    "COVID‐19",
+    "kidney",
+    "liver",
+    "meta‐analysis",
+    "systematic review"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "2",
+  "published_online": "2024-03-21",
+  "published_print": "2024-03",
+  "online_year": 2024,
+  "pmid": "38512106",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Bei",
+      "family": "Pan",
+      "orcid": null
+    },
+    {
+      "given": "Xiaoman",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Honghao",
+      "family": "Lai",
+      "orcid": null
+    },
+    {
+      "given": "Robin W. M.",
+      "family": "Vernooij",
+      "orcid": null
+    },
+    {
+      "given": "Xiyuan",
+      "family": "Deng",
+      "orcid": null
+    },
+    {
+      "given": "Ning",
+      "family": "Ma",
+      "orcid": null
+    },
+    {
+      "given": "Dan",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Jiajie",
+      "family": "Huang",
+      "orcid": null
+    },
+    {
+      "given": "Weilong",
+      "family": "Zhao",
+      "orcid": null
+    },
+    {
+      "given": "Jinling",
+      "family": "Ning",
+      "orcid": null
+    },
+    {
+      "given": "Jianing",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Jinhui",
+      "family": "Tian",
+      "orcid": null
+    },
+    {
+      "given": "Long",
+      "family": "Ge",
+      "orcid": "https://orcid.org/0000-0002-3555-1107"
+    },
+    {
+      "given": "Kehu",
+      "family": "Yang",
+      "orcid": "https://orcid.org/0000-0001-7864-3012"
+    }
+  ],
+  "publication_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Liver Diseases",
+    "Kidney Diseases",
+    "Risk Factors",
+    "Acute Kidney Injury",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2523",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2523",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38512106/",
+    "europe_pmc": "https://europepmc.org/article/MED/38512106"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

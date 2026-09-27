@@ -1,0 +1,101 @@
+{
+  "doi": "10.1002/rmv.70191",
+  "title": "The Changing Landscape of Hantavirus Infections: A Narrative Review of Epidemiology, Pathogenesis, and Countermeasures",
+  "crossref_title": "The Changing Landscape of Hantavirus Infections: A Narrative Review of Epidemiology, Pathogenesis, and Countermeasures",
+  "abstract": "Hantaviruses are emerging zoonotic pathogens of increasing global public health significance. Their epidemiological landscape is rapidly changing due to ecological disruption, climate variability, urbanisation, and evolving human-animal interfaces. This narrative review synthesises current knowledge on hantavirus virology, epidemiology, pathogenesis, clinical management, and emerging countermeasures, with a focus on developments from the past 5 years. Traditionally classified into Old World viruses causing haemorrhagic fever with renal syndrome (HFRS) and New World viruses causing hantavirus cardiopulmonary syndrome (HCPS), this dichotomy has become increasingly blurred, with overlapping renal and pulmonary manifestations now recognized. Among the most consequential recent advances is the consolidated evidence for person-to-person transmission of Andes virus, documented among household contacts and during the prodromal phase, with viral shedding in respiratory secretions. Endothelial dysfunction remains the pathological hallmark of severe disease, driven by VEGF sensitisation, Src kinase and RhoA pathway activation, pericyte infection, and dysregulated inflammatory responses including IL-6 trans-signalling. Concurrently, environmental and ecological studies have linked climate change, rodent population dynamics, land-use modification, and urbanisation to increased human disease risk across multiple continents. Diagnostic strategies continue to rely on serology and molecular testing, while management remains predominantly supportive, with extracorporeal membrane oxygenation (ECMO) improving survival in fulminant HCPS. Importantly, recent structural virology advances have enabled the development of broadly neutralising monoclonal antibodies targeting conserved quaternary epitopes, as well as next-generation vaccine platforms including DNA, mRNA, and prefusion-stabilised glycoprotein candidates. Hantaviruses represent a paradigmatic One Health challenge at the intersection of environmental change, viral evolution, and global interconnectedness. Despite major progress in understanding transmission dynamics and endothelial pathogenesis, critical gaps remain regarding determinants of person-to-person spread, long-term post-infection sequelae, and the absence of licenced broadly protective vaccines or specific antiviral therapies. Future preparedness will require integrated surveillance frameworks combining ecological monitoring, genomic epidemiology, and clinical readiness within coordinated international public health strategies.",
+  "keywords": [
+    "andes virus",
+    "climate change",
+    "endothelial dysfunction",
+    "haemorrhagic fever with renal syndrome",
+    "hantavirus cardiopulmonary syndrome",
+    "hantaviruses",
+    "monoclonal antibodies",
+    "one health",
+    "person‐to‐person transmission",
+    "zoonotic spillover"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-07-31",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42536803",
+  "pmcid": "PMC13427222",
+  "authors": [
+    {
+      "given": "Francesco",
+      "family": "De Maria",
+      "orcid": "https://orcid.org/0009-0004-9687-4841"
+    },
+    {
+      "given": "Francesco",
+      "family": "Branda",
+      "orcid": "https://orcid.org/0000-0002-9485-3877"
+    },
+    {
+      "given": "Giancarlo",
+      "family": "Ceccarelli",
+      "orcid": "https://orcid.org/0000-0001-5921-3180"
+    },
+    {
+      "given": "Fabio",
+      "family": "Scarpa",
+      "orcid": "https://orcid.org/0000-0002-3501-714X"
+    },
+    {
+      "given": "Massimo",
+      "family": "Ciccozzi",
+      "orcid": null
+    },
+    {
+      "given": "Alessandro",
+      "family": "Russo",
+      "orcid": "https://orcid.org/0000-0003-3846-4620"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Zoonoses",
+    "Hantavirus Infections",
+    "Global Health",
+    "Orthohantavirus"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70191",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70191",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42536803/",
+    "europe_pmc": "https://europepmc.org/article/MED/42536803"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

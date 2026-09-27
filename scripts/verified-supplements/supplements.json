@@ -1,0 +1,44 @@
+{
+  "10.1002/rmv.2518": {
+    "doi": "10.1002/rmv.2518",
+    "title": "Increased risk of new‐onset cardiovascular disease after COVID‐19: A systematic review and meta‐analysis of 14 cohorts",
+    "abstract": "Cardiovascular diseases (CVD) are common in long COVID, yet the associated risk remains uncertain. We aimed to quantify the risk of new‐onset cardiovascular diseases after COVID‐19. We searched PubMed, Embase, and Web of Science from inception up to October 2022. Cohort studies that provided information on the number, proportion, or relative risks (RR) of cardiovascular diseases after COVID‐19 were included. Paired reviewers independently screened studies, extracted data, and assessed the risk of bias. We performed random‐effects models meta‐analyses to calculate RR and corresponding 95% confidence interval (95%CI), and conducted subgroup analyses and meta‐regression to explore the potential risk factors. Absolute effects were calculated to facilitate interpretation. The Grading of Recommendations, Assessment, Development and Evaluation approach was used to assess the certainty of evidence. Outcomes of interest were any CVD, major adverse cardiovascular events (MACE), arrhythmias, heart failure, myocarditis, and thrombotic events. Fourteen cohort studies with over 25.37 million participants were included. The results showed a 2.42 times higher risk of any CVD (RR = 2.42, 95% CI: 1.24–4.71; 51 more per 1000), a 95% higher risk of MACE (RR = 1.95, 95% CI: 1.59–2.40; 4 more per 1000), a 61% higher risk of arrhythmias (RR = 1.61, 95% CI: 1.42–1.83; 12 more per 1000), a 71% higher risk of heart failure (RR = 1.71, 95% CI: 1.33–2.21; 2 more per 1000), a 5 times higher risk of myocarditis (RR = 5.06, 95% CI: 3.78–6.77; 4 more per 1000), and a 2.49 times higher risk of thrombotic events (RR = 2.49, 95% CI: 1.22–5.06; 6 more per 1000) associated with COVID‐19. Besides, for thrombotic events, a statistically significant subgroup effect was observed in male participants compared to females ( P interaction = 0.008). The certainty of evidence was high for myocarditis, but low or very low for other outcomes. The results clearly showed varying degrees of elevated new‐onset CVD risk in post‐COVID‐19 individuals. Additionally, our findings suggest that male patients face a higher risk of thrombotic events. However, the differences in pooled results between studies, and the over‐precision due to the large sample size of the included studies resulted in high heterogeneity of exceeding 90% in most outcomes, which led to low certainty of evidence.",
+    "abstract_source_url": "https://api.crossref.org/works/10.1002/rmv.2518",
+    "keywords": [],
+    "keywords_status": "not_found_in_accessible_original_sources",
+    "pmid": null,
+    "pmid_status": "no_results_by_doi_in_pubmed_and_by_doi_or_exact_title_in_europe_pmc",
+    "publication_type": "Review",
+    "publication_type_source": "Wiley article landing page",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2518",
+    "checked_at": "2026-09-27",
+    "verification_notes": [
+      "Title, DOI, volume 34 issue 2, and review article type verified on Wiley landing page.",
+      "Abstract is present in publisher-deposited Crossref metadata and on Wiley landing page.",
+      "Wiley readable landing and abstract pages did not expose an author-keyword section.",
+      "Direct Wiley HTTP returned 403; browser connector returned nodeRepl.fetch request failed.",
+      "No keywords have been inferred or generated; missing does not mean the publisher never supplied them."
+    ]
+  },
+  "10.1002/rmv.2514": {
+    "doi": "10.1002/rmv.2514",
+    "title": "Opportunities and challenges for the application of artificial intelligence paradigms into the management of endemic viral infections: The example of Chronic Hepatitis C Virus",
+    "abstract": "Despite the advent of direct‐acting antiviral agents (DAAs) as a definitive therapy for chronic hepatitis C virus (HCV) infection, the burden of the disease remains globally elevated. The emerging big data on different HCV paradigms fostered the introduction of artificial intelligence/machine learning (AI/ML) applications to help decrease that burden by providing more optimised strategies for early diagnosis and treatment prioritisation. The current review provides descriptive and analytical insight into the recently published AI/ML applications in five medical aspects of HCV infection. In addition, it highlights the opportunities these powerful tools offer in designing national health policies that prioritise HCV patients for the costly DAAs and developing broadly neutralising HCV antibodies. Finally, this paper highlights the challenges encountered in developing and applying these AI/ML models to clinical practice and suggests schemes to overcome some of them. The presented models were primarily evaluated using the Matthews correlation coefficient and the F1‐score to make a more reliable inference about their predictive power under imbalanced datasets. Many published AI/ML applications offered great utilities for predicting novel HCV treatments and prioritising patients for DAAs receipt, especially in settings of limited resources and high HCV burden. Some outperformed the classical diagnostic tools, such as third‐generation serological tests, alpha‐fetoprotein, and ultrasound, in detecting HCV infections and early HCV‐associated hepatocellular carcinoma, respectively. However, further statistical and clinical validation of AI/ML models is highly advocated before incorporating these applications into clinical practice.",
+    "abstract_source_url": "https://api.crossref.org/works/10.1002/rmv.2514",
+    "keywords": [],
+    "keywords_status": "not_found_in_accessible_original_sources",
+    "pmid": null,
+    "pmid_status": "no_results_by_doi_in_pubmed_and_by_doi_or_exact_title_in_europe_pmc",
+    "publication_type": "Review",
+    "publication_type_source": "Wiley article landing page",
+    "source_url": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2514",
+    "checked_at": "2026-09-27",
+    "verification_notes": [
+      "Title, DOI, volume 34 issue 2, and review article type verified on Wiley landing page.",
+      "Abstract is present in publisher-deposited Crossref metadata and on Wiley landing page.",
+      "Wiley readable landing and abstract pages did not expose an author-keyword section.",
+      "Direct Wiley HTTP returned 403; browser connector returned nodeRepl.fetch request failed.",
+      "No keywords have been inferred or generated; missing does not mean the publisher never supplied them."
+    ]
+  }
+}

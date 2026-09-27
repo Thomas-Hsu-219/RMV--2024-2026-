@@ -1,0 +1,81 @@
+{
+  "doi": "10.1002/rmv.2536",
+  "title": "Cerebrospinal fluid viral escape in HIV patients on antiretroviral therapy: A systematic review of reported cases",
+  "crossref_title": "Cerebrospinal fluid viral escape in HIV patients on antiretroviral therapy: A systematic review of reported cases",
+  "abstract": "Cerebrospinal fluid (CSF) viral escape rarely occurs when HIV is detected in the CSF, while it is undetectable in the blood plasma or detectable in CSF at levels that exceed those in the blood plasma. We conducted this review to comprehensively synthesise its clinical presentation, diagnosis, management strategies and treatment outcomes. A review registered with PROSPERO (CRD42023475311) searched evidence across PubMed/MEDLINE, Embase, Web of Science, Scopus, and Google Scholar to gather articles (case reports/series) that report on CSF viral escape in people living with HIV (PLHIV) on antiretroviral therapy (ART). The quality of studies was assessed based on the domains of selection, ascertainment, causality, and reporting. A systematic search identified 493 articles and 27 studies that include 21 case reports, and six case series were involved in the review. The studies reported 62 cases of CSF viral escape in PLHIV. The majority were men (66.67%), with a median age of 43 (range: 28-73) years. Approximately, 31 distinct symptoms were documented, mostly being cognitive dysfunction, gait abnormalities, and tremors (12.51%). Diagnosis involved blood and CSF analysis, magnetic resonance imaging, and neuropsychological assessments. Over 36 ART regimens were employed, with a focus on ART intensification; almost one-third of the regimens contained Raltegravir (integrase strand transfer inhibitor). The outcomes showed 64.49% full recovery, 30.16% partial recovery, and 4.76% died. When neuropsychological symptoms manifest in PLHIV, monitoring for CSF viral escape is essential, regardless of plasma viral suppression. Personalised treatment strategies, particularly ART intensification, are strongly advised for optimising treatment outcomes in PLHIV diagnosed with CSF HIV escape.",
+  "keywords": [
+    "HIV",
+    "antiretroviral therapy",
+    "cerebral spinal fluid",
+    "people living with HIV",
+    "viral escape"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-04-05",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38578230",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Goodluck G.",
+      "family": "Nyondo",
+      "orcid": "https://orcid.org/0009-0007-7224-2251"
+    },
+    {
+      "given": "Belinda J.",
+      "family": "Njiro",
+      "orcid": null
+    },
+    {
+      "given": "George M.",
+      "family": "Bwire",
+      "orcid": "https://orcid.org/0000-0002-4867-7200"
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Plasma",
+    "Humans",
+    "HIV-1",
+    "HIV Infections",
+    "RNA, Viral",
+    "Treatment Outcome",
+    "Viral Load"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2536",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2536",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38578230/",
+    "europe_pmc": "https://europepmc.org/article/MED/38578230"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

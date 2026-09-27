@@ -1,0 +1,87 @@
+{
+  "doi": "10.1002/rmv.70098",
+  "title": "Global Landscape of Lenacapavir Resistance: Analysis of 52,927 Sequences Across 85 Countries",
+  "crossref_title": "Global Landscape of Lenacapavir Resistance: Analysis of 52,927 Sequences Across 85 Countries",
+  "abstract": null,
+  "keywords": [],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2025-12-30",
+  "published_print": "2026-01",
+  "online_year": 2025,
+  "pmid": "41467466",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Yangyang",
+      "family": "Liu",
+      "orcid": "https://orcid.org/0000-0003-4344-4034"
+    },
+    {
+      "given": "Defu",
+      "family": "Yuan",
+      "orcid": "https://orcid.org/0009-0004-5669-5232"
+    },
+    {
+      "given": "Yueqi",
+      "family": "Yin",
+      "orcid": "https://orcid.org/0000-0003-1164-4074"
+    },
+    {
+      "given": "Qian",
+      "family": "He",
+      "orcid": null
+    },
+    {
+      "given": "Meng",
+      "family": "Zhao",
+      "orcid": null
+    },
+    {
+      "given": "Bei",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0000-0002-5232-0933"
+    },
+    {
+      "given": "Pingmin",
+      "family": "Wei",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Letter"
+  ],
+  "mesh_terms": [],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70098",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70098",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41467466/",
+    "europe_pmc": "https://europepmc.org/article/MED/41467466"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,128 @@
+{
+  "doi": "10.1002/rmv.70137",
+  "title": "Adverse Pregnancy Outcomes and Prevalence Associated With Arboviral Infections (Zika, Dengue, and Chikungunya): An Umbrella Review of Systematic Reviews and Meta‐Analyses",
+  "crossref_title": "Adverse Pregnancy Outcomes and Prevalence Associated With Arboviral Infections (Zika, Dengue, and Chikungunya): An Umbrella Review of Systematic Reviews and Meta‐Analyses",
+  "abstract": "Maternal infection with Zika virus (ZIKV), dengue virus (DENV), or chikungunya virus (CHIKV) may increase the risk of adverse pregnancy and foetal outcomes, but evidence credibility varies. The aim of this study is to evaluate and compare the strength of evidence from systematic reviews and meta-analyses on these arboviruses and pregnancy outcomes. PubMed, Web of Science, and Cochrane Library from inception to December 31, 2025 were searched. Two reviewers independently screened studies, extracted data, and assessed methodological quality using AMSTAR 2. Evidence credibility was graded as high, moderate, or weak based on precision, consistency, and small-study effects. Nine meta-analyses were included (five on ZIKV, three on DENV, one on CHIKV). AMSTAR 2 ratings were high (n = 5) and low (n = 4), with lack of protocol registration as the main flaw. High credibility evidence linked maternal ZIKV infection to microcephaly (including severe cases > 3SD) and corpus callosum anomalies. Moderate credibility supported ZIKV associations with decreased brain volume, ventriculomegaly, and other neuroimaging abnormalities, and DENV associations with preterm birth, low birth weight, miscarriage, stillbirth, and postpartum haemorrhage. Prevalence estimates for small for gestational age (ZIKV) had high credibility, and intracranial calcifications and joint abnormalities (ZIKV), small for gestational age and stillbirth (DENV), and intrapartum mother-to-child transmission and symptomatic neonatal infection (CHIKV) had moderate credibility. Most other associations were weak. Strong evidence confirms ZIKV causes severe congenital malformations. DENV shows moderate associations with major adverse outcomes, while evidence for CHIKV remains limited at the meta-analytic level despite emerging primary data. Improved methodological rigour and surveillance are needed to protect maternal and child health. Trial Registration: PROSPERO number: CRD420251150405.",
+  "keywords": [
+    "Zika virus",
+    "adverse outcomes",
+    "chikungunya virus",
+    "dengue virus",
+    "umbrella review"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-16",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41840925",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Dazhi",
+      "family": "Fan",
+      "orcid": "https://orcid.org/0000-0003-2773-9166"
+    },
+    {
+      "given": "Dongxin",
+      "family": "Lin",
+      "orcid": null
+    },
+    {
+      "given": "Jiaming",
+      "family": "Rao",
+      "orcid": null
+    },
+    {
+      "given": "Congcong",
+      "family": "Guo",
+      "orcid": null
+    },
+    {
+      "given": "Li",
+      "family": "Sun",
+      "orcid": null
+    },
+    {
+      "given": "Wen",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Pengzhen",
+      "family": "Hu",
+      "orcid": null
+    },
+    {
+      "given": "Li",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Yubo",
+      "family": "Ma",
+      "orcid": null
+    },
+    {
+      "given": "Xiaoling",
+      "family": "Guo",
+      "orcid": null
+    },
+    {
+      "given": "Juan",
+      "family": "Liu",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Chikungunya virus",
+    "Pregnancy Complications, Infectious",
+    "Dengue",
+    "Pregnancy Outcome",
+    "Prevalence",
+    "Pregnancy",
+    "Female",
+    "Meta-Analysis as Topic",
+    "Chikungunya Fever",
+    "Zika Virus Infection",
+    "Systematic Reviews as Topic"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70137",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70137",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41840925/",
+    "europe_pmc": "https://europepmc.org/article/MED/41840925"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

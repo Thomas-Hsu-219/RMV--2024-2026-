@@ -1,0 +1,76 @@
+{
+  "doi": "10.1002/rmv.2527",
+  "title": "Overview of reemerging mpox infection with a focus on neurological manifestations",
+  "crossref_title": "Overview of reemerging mpox infection with a focus on neurological manifestations",
+  "abstract": "Mpox, a reemerging zoonotic disease caused by the mpox virus, has garnered increasing attention due to its potential for severe clinical manifestations. While the cutaneous and systemic presentations of mpox have been well-documented, its neurological complications have recently emerged as an area of concern. This review provides a brief overview of the neurological aspects of mpox infection, highlighting the key findings and challenges in understanding and managing these complications. Neurological manifestations in mpox patients range from mild symptoms such as headaches and dizziness to more severe conditions, including encephalitis and seizures. The pathogenesis of neurological involvement is not yet fully elucidated but is thought to involve viral dissemination to the central nervous system. This dissemination may occur through haematogenous or neuronal routes, contributing to the diverse clinical spectrum observed. Early recognition and diagnosis of neurological complications in mpox are crucial for implementing appropriate therapeutic interventions and improving patient outcomes.",
+  "keywords": [
+    "mpox",
+    "nervous system",
+    "re-emerging infection"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "2",
+  "published_online": "2024-03-07",
+  "published_print": "2024-03",
+  "online_year": 2024,
+  "pmid": "38453168",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mohammed",
+      "family": "Alissa",
+      "orcid": "https://orcid.org/0000-0002-4045-0810"
+    },
+    {
+      "given": "Abdullah",
+      "family": "Alghamdi",
+      "orcid": null
+    },
+    {
+      "given": "Suad A.",
+      "family": "Alghamdi",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Zoonoses",
+    "Mpox, Monkeypox"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2527",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2527",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38453168/",
+    "europe_pmc": "https://europepmc.org/article/MED/38453168"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

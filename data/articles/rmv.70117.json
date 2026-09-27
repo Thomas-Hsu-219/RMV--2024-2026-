@@ -1,0 +1,147 @@
+{
+  "doi": "10.1002/rmv.70117",
+  "title": "Improved Safety of Nucleic Acid Amplification Technology Combined With Serological Tests for Screening Blood Donors: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Improved Safety of Nucleic Acid Amplification Technology Combined With Serological Tests for Screening Blood Donors: A Systematic Review and Meta‐Analysis",
+  "abstract": "No laboratory test performed to date provides an absolute guarantee for detecting infectious agents. Nucleic acid amplification techniques/tests (NAT) associated with serological tests can increase safety and provide greater diagnostic accuracy for patients. We investigated the added safety of NAT technology combined with serological tests for screening blood donors for Hepatitis C virus (HCV), human immunodeficiency virus (HIV) and hepatitis B virus (HBV). Data were obtained from a systematic search conducted up until march 30, 2024 in five electronic databases: PubMed, Web of Science, Scopus, Embase, and the Cochrane library. Twenty-nine studies, published between 1998 and 2023, were included in the review. Notably, HBV infection was predominant among donors with positive NAT results, with 425 cases, including 373 with positive serology and 52 with negative serology. Data from the diagnostic window period (WP) indicated the highest number of HBV infection cases, with 154 reported. Of the 29 included studies, 10 reported cases of occult HBV infection and diagnostic WP infection. Thirteen studies identified donors during the occult HBV infection period, and 17 identified WP cases. Meta-analyses of positive NAT results following negative serological screening for HBV, HCV, and HIV revealed a significantly pooled frequency (p < 0.001). Positive NAT results retrieved from donors with negative serological HBV and HCV showed a significantly combined frequency (p < 0.001), while for HIV occurs the opposite (p = 0.085). For HBV, HBC and HIV serological tests and NAT-positive results, the pooled frequency was significantly (p < 0.001). The findings demonstrate the positive relationship and safety of molecular technology in screening blood donors for HBV, HCV, and HIV using serological tests. Molecular testing remains a valuable tool for detecting and elucidating bloodborne infections.",
+  "keywords": [
+    "blood donors",
+    "hepatitis B virus",
+    "hepatitis C",
+    "nucleic acid amplification techniques",
+    "serologic tests"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-02-21",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41722066",
+  "pmcid": "PMC12924692",
+  "authors": [
+    {
+      "given": "Heloise Skiavine",
+      "family": "Madeira",
+      "orcid": "https://orcid.org/0000-0003-1061-8042"
+    },
+    {
+      "given": "Aline Ávila",
+      "family": "Brustolin",
+      "orcid": "https://orcid.org/0000-0001-5051-5369"
+    },
+    {
+      "given": "Marcos Elias da Silva",
+      "family": "Almeida",
+      "orcid": "https://orcid.org/0000-0002-0529-7400"
+    },
+    {
+      "given": "Maiara Vanusa Guedes",
+      "family": "Ribeiro",
+      "orcid": "https://orcid.org/0000-0002-4066-9142"
+    },
+    {
+      "given": "Raul Gomes",
+      "family": "Aguera",
+      "orcid": "https://orcid.org/0000-0002-6090-8585"
+    },
+    {
+      "given": "Fernando Américo",
+      "family": "Jorge",
+      "orcid": "https://orcid.org/0000-0001-8994-5411"
+    },
+    {
+      "given": "Luciana Dias",
+      "family": "Ghiraldi",
+      "orcid": "https://orcid.org/0000-0003-0355-2284"
+    },
+    {
+      "given": "Débora de Castro",
+      "family": "Moreira",
+      "orcid": "https://orcid.org/0000-0002-8901-071X"
+    },
+    {
+      "given": "Maria Valdrinez Campana",
+      "family": "Lonardoni",
+      "orcid": "https://orcid.org/0000-0003-2185-4163"
+    },
+    {
+      "given": "Dennis Armando",
+      "family": "Bertolini",
+      "orcid": "https://orcid.org/0000-0002-6460-7560"
+    },
+    {
+      "given": "Leyde Daiane de",
+      "family": "Peder",
+      "orcid": "https://orcid.org/0000-0002-0814-2586"
+    },
+    {
+      "given": "Claudinei Mesquita da",
+      "family": "Silva",
+      "orcid": "https://orcid.org/0000-0003-4393-0331"
+    },
+    {
+      "given": "Daniele Stéfanie Sara Lopes",
+      "family": "Lera‐Nonose",
+      "orcid": "https://orcid.org/0000-0002-6717-6022"
+    },
+    {
+      "given": "Áquila Carolina Fernandes Herculano",
+      "family": "Ramos‐Milaré",
+      "orcid": "https://orcid.org/0000-0001-9068-7958"
+    },
+    {
+      "given": "Jorge Juarez Vieira",
+      "family": "Teixeira",
+      "orcid": "https://orcid.org/0000-0001-7719-5350"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Hepatitis B virus",
+    "Hepacivirus",
+    "Hepatitis B",
+    "Hepatitis C",
+    "HIV Infections",
+    "Mass Screening",
+    "Serologic Tests",
+    "Nucleic Acid Amplification Techniques",
+    "Blood Donors",
+    "Blood Donation"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70117",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70117",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41722066/",
+    "europe_pmc": "https://europepmc.org/article/MED/41722066"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

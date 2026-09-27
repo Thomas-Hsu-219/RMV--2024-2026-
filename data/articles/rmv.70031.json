@@ -1,0 +1,100 @@
+{
+  "doi": "10.1002/rmv.70031",
+  "title": "Oropouche Virus: Implications for Transfusion Services",
+  "crossref_title": "Oropouche Virus: Implications for Transfusion Services",
+  "abstract": "In 2024, a novel recombinant of the Oropouche virus emerged as a potential threat. This virus has caused a significant outbreak in Brazil and Cuba, with imported cases subsequently reported in the USA and Europe. This review summarises the existing knowledge on the Oropouche virus, and discusses potential risk mitigation strategies for the transfusion community.",
+  "keywords": [
+    "arbovirus",
+    "oropouche virus",
+    "transfusion",
+    "transplantation"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-03-10",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "40064585",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Daniele",
+      "family": "Focosi",
+      "orcid": "https://orcid.org/0000-0001-8811-195X"
+    },
+    {
+      "given": "Francesca",
+      "family": "Colavita",
+      "orcid": null
+    },
+    {
+      "given": "Silvia",
+      "family": "Meschi",
+      "orcid": null
+    },
+    {
+      "given": "Eleonora",
+      "family": "Lalle",
+      "orcid": null
+    },
+    {
+      "given": "Massimo",
+      "family": "Franchini",
+      "orcid": null
+    },
+    {
+      "given": "Fabrizio",
+      "family": "Maggi",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Orthobunyavirus",
+    "Bunyaviridae Infections",
+    "Blood Transfusion",
+    "Disease Outbreaks",
+    "Cuba",
+    "United States",
+    "Brazil",
+    "Europe",
+    "Transfusion Reaction"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70031",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70031",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40064585/",
+    "europe_pmc": "https://europepmc.org/article/MED/40064585"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

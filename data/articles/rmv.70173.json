@@ -1,0 +1,103 @@
+{
+  "doi": "10.1002/rmv.70173",
+  "title": "Synergistic Oncogenesis Cooperative Role of Epstein Barr Virus and Human Papillomavirus in Cancer Progression",
+  "crossref_title": "Synergistic Oncogenesis Cooperative Role of Epstein Barr Virus and Human Papillomavirus in Cancer Progression",
+  "abstract": "Oncogenic viruses cause approximately 20% of cancers globally burden, with Epstein-Barr virus and high-risk Human papillomavirus recognized as major contributors to epithelial malignancies. Increasing evidence suggests that EBV-HPV co-infection may enhance tumour progression through overlapping molecular and immunological mechanisms, particularly in cervical, oropharyngeal, and nasopharyngeal cancers. This review critically summarizes current evidence regarding the cooperative role of EBV and HPV in carcinogenesis while distinguishing viral co-presence from biologically active co-infection. EBV latent proteins, including LMP1, LMP2A, and EBNA1, activate oncogenic signalling pathways such as NF-κB, PI3K/Akt, and JAK/STAT, whereas HPV oncoproteins E6 and E7 disrupt p53 and retinoblastoma (Rb) tumour suppressor pathways. Together, these alterations may promote genomic instability, chronic inflammation, immune evasion, epigenetic dysregulation, and epithelial-mesenchymal transition (EMT), thereby enhancing invasive and metastatic potential. Epidemiological studies report higher frequencies of EBV-HPV co-detection in advanced lesions and aggressive tumours; however, causal synergy remains insufficiently validated because of methodological heterogeneity and variability in viral detection techniques, including PCR, in situ hybridization, and immunohistochemistry. Emerging technologies such as spatial transcriptomics and single-cell profiling may improve characterization of biologically meaningful co-infection. In addition, circulating viral DNA, viral microRNAs, and HPV genotyping are being explored as biomarkers for disease monitoring and prognosis. Therapeutic strategies targeting viral oncogenes, immune checkpoints, and gene-editing technologies also represent promising investigational approaches. Overall, EBV-HPV co-infection represents a biologically plausible but incompletely understood contributor to tumour aggressiveness, emphasizing the need for standardized diagnostics, longitudinal studies, and functional experimental models.",
+  "keywords": [
+    "Epstein–Barr virus",
+    "cervical cancer",
+    "human papillomavirus",
+    "nasopharyngeal carcinoma",
+    "oncogenic viruses",
+    "oropharyngeal cancer",
+    "viral co‐infection"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-06-06",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42250259",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Neetesh",
+      "family": "Jindal",
+      "orcid": null
+    },
+    {
+      "given": "Sindhuprava",
+      "family": "Rana",
+      "orcid": "https://orcid.org/0000-0002-2131-2017"
+    },
+    {
+      "given": "Bipin Bihari",
+      "family": "Mishra",
+      "orcid": null
+    },
+    {
+      "given": "Kanak Raj",
+      "family": "Kanak",
+      "orcid": null
+    },
+    {
+      "given": "Krishna",
+      "family": "Pandey",
+      "orcid": null
+    },
+    {
+      "given": "Ganesh Chandra",
+      "family": "Sahoo",
+      "orcid": "https://orcid.org/0000-0002-3560-9815"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Herpesvirus 4, Human",
+    "Papillomaviridae",
+    "Epstein-Barr Virus Infections",
+    "Papillomavirus Infections",
+    "Neoplasms",
+    "Disease Progression",
+    "Coinfection",
+    "Carcinogenesis",
+    "Human Papillomavirus Viruses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70173",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70173",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42250259/",
+    "europe_pmc": "https://europepmc.org/article/MED/42250259"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

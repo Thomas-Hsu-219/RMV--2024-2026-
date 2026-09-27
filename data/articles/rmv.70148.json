@@ -1,0 +1,85 @@
+{
+  "doi": "10.1002/rmv.70148",
+  "title": "Updates on Trichodysplasia Spinulosa Disease",
+  "crossref_title": "Updates on Trichodysplasia Spinulosa Disease",
+  "abstract": "Trichodysplasia spinulosa (TS) is a rare disorder that only appears in patients who have undergone immunosuppression. TS presents with keratin spines protruding from hair follicle openings, which are called spicules. TS often progresses to alopecia and a leonine face if untreated. To date, fewer than 100 cases have been reported in the literature and are primarily in patients who underwent solid organ transplant. The infection pathway of the human polyomavirus causing TS, Trichodysplasia spinulosa-associated polyomavirus (TSPyV), remains unclear. Roughly 75% of adults have IgG antibodies to TSPyV, and the virus can be transiently detected in about 1% of the population at any given time. This review article summarises the updates in TS over the last 5 years. We discuss articles on seroepidemiology, insights into the mechanism of proliferation, and treatment options of TSPyV.",
+  "keywords": [
+    "HIV",
+    "TSPyV",
+    "human polyomavirus",
+    "immunosuppression",
+    "organ transplant",
+    "seroepidemiology",
+    "trichodysplasia spinulosa",
+    "trichodysplasia spinulosa–associated polyomavirus"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-11",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "41965049",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Luke",
+      "family": "Moore",
+      "orcid": "https://orcid.org/0009-0009-0368-3648"
+    },
+    {
+      "given": "Peter",
+      "family": "Rady",
+      "orcid": null
+    },
+    {
+      "given": "Stephen",
+      "family": "Tyring",
+      "orcid": "https://orcid.org/0000-0002-7771-6571"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Hair Follicle",
+    "Humans",
+    "Polyomavirus",
+    "Polyomavirus Infections",
+    "Hair Diseases",
+    "Seroepidemiologic Studies",
+    "Immunocompromised Host"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70148",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70148",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41965049/",
+    "europe_pmc": "https://europepmc.org/article/MED/41965049"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

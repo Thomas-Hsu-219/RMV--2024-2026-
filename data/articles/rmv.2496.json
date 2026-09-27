@@ -1,0 +1,99 @@
+{
+  "doi": "10.1002/rmv.2496",
+  "title": "Relationship of human cytomegalovirus‐infected endothelial cells and circulating leukocytes in the pathogenesis of disseminated human cytomegalovirus infection: A narrative review",
+  "crossref_title": "Relationship of human cytomegalovirus‐infected endothelial cells and circulating leukocytes in the pathogenesis of disseminated human cytomegalovirus infection: A narrative review",
+  "abstract": "Among the leucocyte subpopulations circulating in peripheral blood of immune-compromised patients with disseminated Human cytomegalovirus (HCMV) infection, polymorphonuclear leuckocytes (PMNL) and M/M may carry infectious virus. While only in PMNL early HCMV replicative events do occur, monocytes are susceptible to complete virus replication when they enter human organs, where as macrophages become a site of active complete virus replication. In vivo leucocytes and endothelial cells interact continuously, as suggested by several in vitro experimental findings showing the bidirectional HCMV transmission from leucocytes to and from endothelial cells with the critical aid of adhesion molecules. Recently, the neutralising antibody response in sera from subjects with primary HCMV infection was reported to be much higher and earlier than in human embryonic lung fibroblasts (HELF) cells when measured in endothelial cells and epithelial cells, where virus entry is mediated mostly by the pentamer complex gH/gL/pUL128/pUL130/pUL131, whereas it was much lower and delayed when determined in HELF, where virus entry is mediated mostly by the trimer complex gH/gL/gO. Thus, these results suggested that products of UL128L were the molecules primary responsible for the differential neutralising antibody response. This conclusion was confirmed by a series of polyclonal and monoclonal antibodies directed to the components of pUL128L. Very recently, based on two sets of experiments including inhibition and immunoblotting assays, the pentamer complex/trimer complex ratio has been finally identified as the main factor of the neutralising antibody response. This ratio may change with the virus suspension producer and target cell system as well as number of cell culture passages.",
+  "keywords": [
+    "HELF",
+    "HUVEC",
+    "M/M",
+    "PBL",
+    "PMNL",
+    "UL128L",
+    "UL131UL130UL128 locus",
+    "human embryonic lung fibroblasts",
+    "human umbilical vein endothelial cells",
+    "monocytes/macrophages",
+    "peripheral blood leucocytes",
+    "polymorphonuclear leucocytes"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-12-28",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "38282408",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Giuseppe",
+      "family": "Gerna",
+      "orcid": "https://orcid.org/0000-0001-5956-2786"
+    },
+    {
+      "given": "Daniele",
+      "family": "Lilleri",
+      "orcid": "https://orcid.org/0000-0001-7747-7622"
+    },
+    {
+      "given": "Chiara",
+      "family": "Fornara",
+      "orcid": "https://orcid.org/0000-0002-8589-2647"
+    },
+    {
+      "given": "Piera",
+      "family": "d’Angelo",
+      "orcid": "https://orcid.org/0000-0003-0232-5071"
+    },
+    {
+      "given": "Fausto",
+      "family": "Baldanti",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Leukocytes",
+    "Endothelial Cells",
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Viral Envelope Proteins",
+    "Virus Internalization",
+    "Antibodies, Neutralizing"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2496",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2496",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282408/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282408"
+  },
+  "copyright_statement": "© 2023 The Authors. Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

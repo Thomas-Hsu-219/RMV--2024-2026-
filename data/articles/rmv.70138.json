@@ -1,0 +1,88 @@
+{
+  "doi": "10.1002/rmv.70138",
+  "title": "Towards Ending HIV/AIDS by 2030: Trajectory of Sub‐Saharan Africa—A Post‐COVID‐19 (2019–2024) Review",
+  "crossref_title": "Towards Ending HIV/AIDS by 2030: Trajectory of Sub‐Saharan Africa—A Post‐COVID‐19 (2019–2024) Review",
+  "abstract": "Globally, the COVID-19 pandemic perturbed HIV services, jeopardising progress towards the Joint United Nations Programme on HIV/AIDS (UNAIDS) 95-95-95 targets in sub-Saharan Africa (SSA). This review is an evaluation of sub-Saharan Africa's progress towards attaining the UNAIDS target of ending HIV/AIDS by the year 2030 in the context of COVID-19. Data from UNAIDS, the World Health Organisation (WHO), and peer-reviewed literature were analysed to assess HIV service delivery in SSA from 2019 to 2024, with special attention to regional disparities and health system adaptations before, during, and after the pandemic. Before the COVID-19 pandemic, Southern and Eastern Africa were nearing the 90-90-90 goals while West and Central Africa made slower progress because of weaker health systems and other situational challenges. Between 2020 and 2022, lockdowns and service disruptions reduced HIV testing, delayed the start of antiretroviral therapy (ART), and led to fewer viral load analyses. To adapt, health systems provided ART for longer periods, offered more community-based care, expanded health worker roles, and used digital tools to maintain services, especially where infrastructure was strong. By 2023 and 2024, most countries in Southern and Eastern Africa were closer to achieving the 95-95-95 targets, while West and Central Africa continued to recover more slowly. The pandemic revealed both strengths and weaknesses in the HIV response in sub-Saharan Africa. Institutionalising innovations developed during the pandemic and addressing persistent regional disparities, which reflect uneven progress across the sub-region, are essential to sustaining progess and achieving epidemic control by 2030.",
+  "keywords": [
+    "COVID‐19 pandemic",
+    "HIV/AIDS",
+    "UNAIDS 95–95–95 targets",
+    "sub‐Saharan Africa"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-15",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41832744",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Perpetual",
+      "family": "Nyame",
+      "orcid": "https://orcid.org/0009-0006-1790-8420"
+    },
+    {
+      "given": "Olayinka S.",
+      "family": "Okoh",
+      "orcid": "https://orcid.org/0000-0001-6438-3379"
+    },
+    {
+      "given": "Akua K.",
+      "family": "Yalley",
+      "orcid": "https://orcid.org/0000-0002-7429-1707"
+    },
+    {
+      "given": "Nicholas I.",
+      "family": "Nii‐Trebi",
+      "orcid": "https://orcid.org/0000-0001-5012-9564"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "HIV Infections",
+    "Acquired Immunodeficiency Syndrome",
+    "Delivery of Health Care",
+    "Africa South of the Sahara",
+    "Pandemics",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Sub-Saharan African People"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70138",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70138",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41832744/",
+    "europe_pmc": "https://europepmc.org/article/MED/41832744"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

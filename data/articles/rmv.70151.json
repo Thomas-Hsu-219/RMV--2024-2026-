@@ -1,0 +1,98 @@
+{
+  "doi": "10.1002/rmv.70151",
+  "title": "Epidemiological Changes in\n Mycoplasma pneumoniae\n Infections in Children and Adolescents Before and After COVID‐19: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Epidemiological Changes in\n Mycoplasma pneumoniae\n Infections in Children and Adolescents Before and After COVID‐19: A Systematic Review and Meta‐Analysis",
+  "abstract": "Mycoplasma pneumoniae (M. pneumoniae) is a major cause of respiratory tract infections in children and adolescents, yet its epidemiological burden before, during, and after the COVID-19 pandemic remains unclear. This meta-analysis, which searched Web of Science, Embase, PubMed, and Cochrane Library for reports published up to December 25, 2025, aimed to evaluate trends in the prevalence of M. pneumoniae infections across these three periods to guide clinical practice and public health responses. A total of 70 studies were included, and methodological quality was assessed using the Joanna Briggs Institute criteria. The pooled prevalence of M. pneumoniae infections before, during, and after COVID-19 was calculated in R 4.5.0, with Freeman-Tukey double arcsine transformation for extreme proportions. The prevalence of M. pneumoniae infections before COVID-19, during COVID-19, and after COVID-19 was 21.72% (95% CI: 17.09, 26.73), 10.73% (95% CI: 7.57, 14.35), and 28.64% (95% CI: 22.74, 34.93), respectively. Age-stratified analysis revealed the highest prevalence consistently in children > 6 years (pre-pandemic: 46.35%; during-pandemic: 27.32%; post-pandemic: 41.36%) and the lowest in infants < 1 year (8.21%, 4.87%, and 7.81%, respectively). Seasonally, pre-pandemic prevalence peaked in summer (33.34%) and autumn (31.00%). During the pandemic, overall rates declined but remained highest in autumn (15.51%). Post-pandemic, prevalence rebounded broadly, peaking in autumn (37.97%). In conclusion, this study summarises M. pneumoniae trends in children and adolescents before and after COVID-19, indicating a delayed resurgence following the pandemic, and highlights the need for further research to explain these patterns and improve future pandemic preparedness.",
+  "keywords": [
+    "COVID‐19",
+    "Mycoplasma pneumoniae",
+    "children/adolescents",
+    "systematic review/meta‐analysis"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-14",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "41981982",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Hao",
+      "family": "Gou",
+      "orcid": null
+    },
+    {
+      "given": "Yiman",
+      "family": "Zhai",
+      "orcid": null
+    },
+    {
+      "given": "Qinyue",
+      "family": "Yu",
+      "orcid": null
+    },
+    {
+      "given": "Yan",
+      "family": "Liu",
+      "orcid": "https://orcid.org/0000-0002-3725-4317"
+    },
+    {
+      "given": "Hongyun",
+      "family": "Zhou",
+      "orcid": "https://orcid.org/0000-0001-5935-0556"
+    },
+    {
+      "given": "Qiong",
+      "family": "Zhao",
+      "orcid": "https://orcid.org/0000-0002-8606-1124"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Mycoplasma pneumoniae",
+    "Pneumonia, Mycoplasma",
+    "Prevalence",
+    "Adolescent",
+    "Child",
+    "Child, Preschool",
+    "COVID-19"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70151",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70151",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41981982/",
+    "europe_pmc": "https://europepmc.org/article/MED/41981982"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

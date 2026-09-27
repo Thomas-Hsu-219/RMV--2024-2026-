@@ -1,0 +1,159 @@
+{
+  "doi": "10.1002/rmv.2504",
+  "title": "Duration of protective immunity following COVID‐19 vaccination of individuals with underlying health conditions: A rapid review",
+  "crossref_title": "Duration of protective immunity following COVID‐19 vaccination of individuals with underlying health conditions: A rapid review",
+  "abstract": "The World Health Organization has stated that the primary goal of immunisation in the COVID-19 pandemic remains to protect against hospitalisation, severe disease and death. Vaccination is particularly important for those with underlying health conditions given the high risk of severe disease in this population. The aim of this review was to examine the change in efficacy and effectiveness of COVID-19 vaccination over time in individuals with underlying conditions. A rapid review was undertaken in Cochrane, Embase, Medline, Europe PMC, MedRxiv and Google Scholar from 01/01/2020 to 27/10/2021. A total of 14 unique studies (3 randomised controlled trials and 11 observational studies) were included. Overall, there was limited and inconsistent evidence regarding vaccine efficacy and effectiveness in those with underlying health conditions. However, the evidence suggests potentially faster waning of vaccine effectiveness against infection, severe disease and death in individuals with underlying conditions, particularly for older adults with these conditions, and in those who are immunocompromised. Protection in younger age groups with underlying conditions who are not immunocompromised, may be largely comparable to that observed in the general population, though this is uncertain. Given the significant burden of infection on individuals with underlying conditions, any small decrease in protection is likely to have a substantial impact in this population. Hence, the evidence supports a policy of providing additional doses to those who are immunocompromised, and boosters to all those with underlying health conditions. Further research is required to understand the impact of new variants on vaccine efficacy/effectiveness in this population.",
+  "keywords": [
+    "COVID‐19",
+    "SARS‐CoV‐2",
+    "effectiveness",
+    "immunocompromised",
+    "underlying conditions",
+    "vaccine"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "2",
+  "published_online": "2024-02-03",
+  "published_print": "2024-03",
+  "online_year": 2024,
+  "pmid": "41063671",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Kieran A.",
+      "family": "Walsh",
+      "orcid": "https://orcid.org/0000-0002-4386-3012"
+    },
+    {
+      "given": "Helen",
+      "family": "O’Donnell",
+      "orcid": "https://orcid.org/0000-0003-1266-187X"
+    },
+    {
+      "given": "Mark",
+      "family": "O’Loughlin",
+      "orcid": "https://orcid.org/0000-0002-7156-6496"
+    },
+    {
+      "given": "Heather",
+      "family": "Eames",
+      "orcid": null
+    },
+    {
+      "given": "Jingjing",
+      "family": "Jiang",
+      "orcid": "https://orcid.org/0000-0002-6839-5147"
+    },
+    {
+      "given": "Katie M.",
+      "family": "O’Brien",
+      "orcid": "https://orcid.org/0000-0003-1853-5663"
+    },
+    {
+      "given": "Natasha",
+      "family": "Broderick",
+      "orcid": null
+    },
+    {
+      "given": "Kirsty K.",
+      "family": "O’Brien",
+      "orcid": null
+    },
+    {
+      "given": "Marie",
+      "family": "Carrigan",
+      "orcid": null
+    },
+    {
+      "given": "Laura",
+      "family": "Comber",
+      "orcid": "https://orcid.org/0000-0003-2752-6558"
+    },
+    {
+      "given": "Karen",
+      "family": "Cardwell",
+      "orcid": "https://orcid.org/0000-0002-5909-7439"
+    },
+    {
+      "given": "Joan",
+      "family": "Quigley",
+      "orcid": null
+    },
+    {
+      "given": "Susan M.",
+      "family": "Smith",
+      "orcid": null
+    },
+    {
+      "given": "Éamon",
+      "family": "Ó Murchú",
+      "orcid": null
+    },
+    {
+      "given": "Karina",
+      "family": "Butler",
+      "orcid": null
+    },
+    {
+      "given": "Brenda",
+      "family": "Corcoran",
+      "orcid": null
+    },
+    {
+      "given": "Kevin",
+      "family": "Connolly",
+      "orcid": null
+    },
+    {
+      "given": "Patricia",
+      "family": "Harrington",
+      "orcid": null
+    },
+    {
+      "given": "Máirín",
+      "family": "Ryan",
+      "orcid": "https://orcid.org/0000-0002-3145-0878"
+    },
+    {
+      "given": "Michelle",
+      "family": "O'Neill",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2504",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2504",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41063671/",
+    "europe_pmc": "https://europepmc.org/article/MED/41063671"
+  },
+  "copyright_statement": "© 2024 The Authors. Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

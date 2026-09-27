@@ -1,0 +1,150 @@
+{
+  "doi": "10.1002/rmv.70079",
+  "title": "Global Hesitancy of COVID‐19 Vaccine Among Vulnerable Population From 2020 to 2023: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Global Hesitancy of COVID‐19 Vaccine Among Vulnerable Population From 2020 to 2023: A Systematic Review and Meta‐Analysis",
+  "abstract": "Vaccination is an effective response to the COVID-19 pandemic, but vaccine hesitancy is a major challenge. This study aims to explore the pooled prevalence and factors of COVID-19 vaccine hesitancy. We searched the studies published from January 2020 to December 2023 in PubMed, Web of Science, and Embase. The studies with complete start time of the study and national information were included in the generalised additive model to explore the factors affecting the COVID-19 vaccine hesitancy rate by calculating OR and 95%CI. A total of 629 studies were included. The pooled global hesitancy rates of COVID-19 vaccine were 34.6% (95% CI: 31.2%-38.1%) in vulnerable population and 33.2% (95% CI: 31.7%-34.8%) in general populations. The regression model showed that the hesitancy rate of COVID-19 vaccine was correlated with the duration of the epidemic, the monthly governmental stringency index, the monthly incidence and mortality of COVID-19, SDI, geographical location, and health status. Local governments should pay special attention to vaccination of vulnerable population and encourage vaccination to cope with the next possible wave of pandemic as incidence declines and restrictions are eased. The international community should timely provide vaccines for low economy countries.",
+  "keywords": [
+    "COVID‐19",
+    "hesitancy",
+    "meta‐analysis",
+    "vaccination",
+    "vulnerable population"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "6",
+  "published_online": "2025-11-02",
+  "published_print": "2025-11",
+  "online_year": 2025,
+  "pmid": "41177982",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Qingsong",
+      "family": "Xu",
+      "orcid": null
+    },
+    {
+      "given": "Tianshuo",
+      "family": "Zhao",
+      "orcid": null
+    },
+    {
+      "given": "Xianming",
+      "family": "Cai",
+      "orcid": null
+    },
+    {
+      "given": "Mingting",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Le",
+      "family": "Ao",
+      "orcid": null
+    },
+    {
+      "given": "Tingting",
+      "family": "Wei",
+      "orcid": null
+    },
+    {
+      "given": "Han",
+      "family": "Yang",
+      "orcid": null
+    },
+    {
+      "given": "Sihui",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Xiyu",
+      "family": "Zhang",
+      "orcid": "https://orcid.org/0000-0002-8347-3916"
+    },
+    {
+      "given": "Shifeng",
+      "family": "Jin",
+      "orcid": null
+    },
+    {
+      "given": "Xinyu",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Xin",
+      "family": "Feng",
+      "orcid": null
+    },
+    {
+      "given": "Jiayi",
+      "family": "Zhao",
+      "orcid": null
+    },
+    {
+      "given": "Yifei",
+      "family": "Wu",
+      "orcid": null
+    },
+    {
+      "given": "Jieru",
+      "family": "Yang",
+      "orcid": null
+    },
+    {
+      "given": "Fuqiang",
+      "family": "Cui",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Vaccination",
+    "Vulnerable Populations",
+    "Pandemics",
+    "Global Health",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Vaccines",
+    "Vaccination Hesitancy"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70079",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70079",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41177982/",
+    "europe_pmc": "https://europepmc.org/article/MED/41177982"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

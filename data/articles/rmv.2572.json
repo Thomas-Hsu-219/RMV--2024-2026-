@@ -1,0 +1,89 @@
+{
+  "doi": "10.1002/rmv.2572",
+  "title": "The Impact of HIV Upon the PCI Results: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "The Impact of HIV Upon the PCI Results: A Systematic Review and Meta‐Analysis",
+  "abstract": "The aim of this systematic review and meta-analysis was to comprehensively evaluate the latest evidences and summarise the impact of HIV on PCI outcomes. A PRISMA guided literature search was conducted on 14 February 2024 in Web of Science, PubMed, Virtual Health Library, Google Scholar and Scopus. We searched with the term '(\"percutaneous coronary intervention\" OR \"PCI\") AND (\"human immunodeficiency virus\" OR \"HIV\" OR \"acquired immunodeficiency syndrome\" OR \"AIDS\")' after selecting the keywords from randomly chosen included papers. We included 8 papers of 781 screened records. HIV (+) patients had significant in-hospital, 1-year and overall (event at the last follow up point) all-cause mortality compared to HIV (-) group (OR: 1.73, 95%CI: 1.57-1.90, p < 0.01), (OR: 1.39, 95%CI: 1.07-1.81, p = 0.01) and (OR: 1.69, 95%CI: 1.55-1.85, p < 0.01), respectively. HIV (+) patients had significantly higher odds of developing MACE (OR: 1.35, 95%CI: 1.12-1.62, p = 0.001) compared to the HIV (-) group. No differences between both groups were detected regarding in-hospital and overall CV mortality, TVR, TLR, post-PCI TIMI grade 3 flow, cerebrovascular accidents and recurrent coronary events (p > 0.05). Our study revealed that people with HIV who underwent PCI in this modern era may have worse short and long-term PCI outcomes. This finding highlights the need for specialised cardiovascular care protocols for the HIV population. However, enhanced clinical management and preventative measures are imperative to improve PCI success rates in patients with HIV.",
+  "keywords": [
+    "HIV",
+    "PCI",
+    "cardiovascular",
+    "meta‐analysis",
+    "systematic review"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "5",
+  "published_online": "2024-07-29",
+  "published_print": "2024-09",
+  "online_year": 2024,
+  "pmid": "39075545",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Amr Ehab",
+      "family": "El‐Qushayri",
+      "orcid": "https://orcid.org/0000-0002-0967-797X"
+    },
+    {
+      "given": "Mohammad Rashidul",
+      "family": "Hashan",
+      "orcid": "https://orcid.org/0000-0002-1627-4976"
+    },
+    {
+      "given": "Md Mahfuj",
+      "family": "Alam",
+      "orcid": "https://orcid.org/0000-0003-2137-5779"
+    },
+    {
+      "given": "Muhammad Sanowar",
+      "family": "Khan",
+      "orcid": null
+    },
+    {
+      "given": "Nasser G.",
+      "family": "Alqahtani",
+      "orcid": "https://orcid.org/0000-0003-2302-2651"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "HIV Infections",
+    "Treatment Outcome",
+    "Percutaneous Coronary Intervention"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2572",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2572",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39075545/",
+    "europe_pmc": "https://europepmc.org/article/MED/39075545"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

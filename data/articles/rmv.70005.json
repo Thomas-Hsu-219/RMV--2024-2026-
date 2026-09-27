@@ -1,0 +1,95 @@
+{
+  "doi": "10.1002/rmv.70005",
+  "title": "Targeting the Ubiquitin Proteasome System to Combat Influenza A Virus: Hijacking the Cleanup Crew",
+  "crossref_title": "Targeting the Ubiquitin Proteasome System to Combat Influenza A Virus: Hijacking the Cleanup Crew",
+  "abstract": "Influenza A virus (IAV) remains a significant global public health threat, causing substantial illness and economic burden. Despite existing antiviral drugs, the emergence of resistant strains necessitates alternative therapeutic strategies. This review explores the complex interplay between the ubiquitin proteasome system (UPS) and IAV pathogenesis. We discuss how IAV manipulates the UPS to promote its lifecycle, while also highlighting how host cells utilise the UPS to counteract viral infection. Recent research on deubiquitinases as potential regulators of IAV infection is also addressed. By elucidating the multifaceted role of the UPS in IAV pathogenesis, this review aims to identify potential targets for novel therapeutic interventions.",
+  "keywords": [
+    "E3 ligase",
+    "deubiquitinase",
+    "influenza A virus",
+    "ubiquitin proteasome system"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "6",
+  "published_online": "2024-11-08",
+  "published_print": "2024-11",
+  "online_year": 2024,
+  "pmid": "39516190",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Vandana",
+      "family": "Anang",
+      "orcid": null
+    },
+    {
+      "given": "Laura",
+      "family": "Antonescu",
+      "orcid": null
+    },
+    {
+      "given": "Richard",
+      "family": "Nho",
+      "orcid": null
+    },
+    {
+      "given": "Sourabh",
+      "family": "Soni",
+      "orcid": "https://orcid.org/0000-0002-2323-1245"
+    },
+    {
+      "given": "Yohannes A.",
+      "family": "Mebratu",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Influenza A virus",
+    "Proteasome Endopeptidase Complex",
+    "Ubiquitin",
+    "Antiviral Agents",
+    "Virus Replication",
+    "Influenza, Human",
+    "Host-Pathogen Interactions",
+    "Deubiquitinating Enzymes"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70005",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70005",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39516190/",
+    "europe_pmc": "https://europepmc.org/article/MED/39516190"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

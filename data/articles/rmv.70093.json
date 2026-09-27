@@ -1,0 +1,73 @@
+{
+  "doi": "10.1002/rmv.70093",
+  "title": "Advancements and Uncertainties in the Treatment of Congenital CMV Disease",
+  "crossref_title": "Advancements and Uncertainties in the Treatment of Congenital CMV Disease",
+  "abstract": "Congenital cytomegalovirus (CMV) is a large contributor to neurodevelopmental delay and non-genetic related sensorineural hearing loss, which can often be delayed in onset. While a majority of CMV infections are asymptomatic in healthy children and adults, CMV infection of immunocompromised hosts and in utero infection in neonates can cause more clinically significant and potentially long-term disease. Increased awareness of the significance of congenital CMV is reflected in the evolution of treatment recommendations over the past 20 years. Most therapeutic studies conducted thus far have focused on the treatment and outcomes of neonates with moderate to severe congenital CMV disease, while more recent studies have explored treatment for neonates and infants with CMV-related isolated sensorineural hearing loss. This review focuses on the clinical significance and treatment of congenital CMV infection, as well as the potential role for universal newborn CMV screening.",
+  "keywords": [],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2025-12-28",
+  "published_print": "2026-01",
+  "online_year": 2025,
+  "pmid": "41457642",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Yarlini",
+      "family": "Vipulanandan",
+      "orcid": "https://orcid.org/0000-0002-5534-7306"
+    },
+    {
+      "given": "David W.",
+      "family": "Kimberlin",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Pregnancy Complications, Infectious",
+    "Cytomegalovirus Infections",
+    "Hearing Loss, Sensorineural",
+    "Antiviral Agents",
+    "Neonatal Screening",
+    "Pregnancy",
+    "Infant, Newborn"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70093",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70093",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41457642/",
+    "europe_pmc": "https://europepmc.org/article/MED/41457642"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

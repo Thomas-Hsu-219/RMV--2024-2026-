@@ -1,0 +1,82 @@
+{
+  "doi": "10.1002/rmv.70170",
+  "title": "Immune Reprogramming by EBV and KSHV in the Tumour Microenvironment: From Mechanisms of Immune Escape to Immunotherapy",
+  "crossref_title": "Immune Reprogramming by EBV and KSHV in the Tumour Microenvironment: From Mechanisms of Immune Escape to Immunotherapy",
+  "abstract": "Oncogenic gamma herpesviruses in humans, such as Epstein-Barr virus (EBV) and Kaposi's sarcoma-associated herpesvirus (KSHV), can persist in the host for a long time by establishing persistent latent infection and by dynamic reshaping of the immune system that eventually can lead to virus-related malignancies. The focus of this narrative review is on the immune reprogramming of these viruses, which goes beyond mere immune evasion. Unlike immune escape, which is largely a passive process based on reduced antigen visibility or masking, immune reprogramming is an active and virus-directed remodelling of host immunity towards tolerance and tumour-supportive functions. Immune system rewiring, or functional rewiring, is essentially a multi-layered modulation of the innate and adaptive immune systems. By targeting similar and virus-specific pathways, these viruses can induce changes in the tumour microenvironment (TME) and alter the conditions in favour of their survival through the establishment and survival of tumour cells. Comparing the convergences and differences of the virus-specific consequences can help to understand how these viruses perform immune rewiring and highlight the challenges of therapeutic pathways and therapeutic resistance.",
+  "keywords": [
+    "Epstein–Barr virus (EBV)",
+    "Kaposi's sarcoma–associated herpesvirus (KSHV)",
+    "immune escape",
+    "immune reprogramming",
+    "oncogenic viruses",
+    "tumour microenvironment (TME)"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-05-27",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42202101",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Yang",
+      "family": "Yu",
+      "orcid": null
+    },
+    {
+      "given": "Taihu",
+      "family": "Wan",
+      "orcid": "https://orcid.org/0000-0002-5028-254X"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Herpesvirus 4, Human",
+    "Herpesvirus 8, Human",
+    "Herpesviridae Infections",
+    "Epstein-Barr Virus Infections",
+    "Neoplasms",
+    "Immunotherapy",
+    "Host-Pathogen Interactions",
+    "Immune Evasion",
+    "Tumor Microenvironment"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70170",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70170",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42202101/",
+    "europe_pmc": "https://europepmc.org/article/MED/42202101"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

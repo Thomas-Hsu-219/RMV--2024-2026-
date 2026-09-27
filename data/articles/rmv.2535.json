@@ -1,0 +1,85 @@
+{
+  "doi": "10.1002/rmv.2535",
+  "title": "Modulation of immune responses in the central nervous system by Zika virus, West Nile virus, and dengue virus",
+  "crossref_title": "Modulation of immune responses in the central nervous system by Zika virus, West Nile virus, and dengue virus",
+  "abstract": "Arthropod-borne viruses (arboviruses) pose significant threats to global public health by causing a spectrum of diseases ranging from mild febrile illnesses to severe neurological complications. Understanding the intricate interplay between arboviruses and the immune system within the central nervous system is crucial for developing effective strategies to combat these infections and mitigate their neurological sequelae. This review comprehensively explores the mechanisms by which arboviruses such as Zika virus, West Nile virus, and Dengue virus manipulate immune responses within the CNS, leading to diverse clinical manifestations.",
+  "keywords": [
+    "West Nile virus",
+    "Zika virus",
+    "dengue virus",
+    "immune response"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-04-12",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38610091",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Shuhui",
+      "family": "Wu",
+      "orcid": "https://orcid.org/0009-0004-1171-118X"
+    },
+    {
+      "given": "Ting",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Weidong",
+      "family": "Qiang",
+      "orcid": null
+    },
+    {
+      "given": "Yang",
+      "family": "Yang",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Central Nervous System",
+    "Humans",
+    "Dengue Virus",
+    "West Nile virus",
+    "Immunity",
+    "Zika Virus",
+    "Zika Virus Infection"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2535",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2535",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38610091/",
+    "europe_pmc": "https://europepmc.org/article/MED/38610091"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

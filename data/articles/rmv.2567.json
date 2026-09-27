@@ -1,0 +1,81 @@
+{
+  "doi": "10.1002/rmv.2567",
+  "title": "Novel insights into human T‐lymphotropic virus type‐1 (HTLV‐1) pathogenesis‐host interactions in the manifestation of HTLV‐1‐associated myelopathy/tropical spastic paraparesis",
+  "crossref_title": "Novel insights into human T‐lymphotropic virus type‐1 (HTLV‐1) pathogenesis‐host interactions in the manifestation of HTLV‐1‐associated myelopathy/tropical spastic paraparesis",
+  "abstract": "Human T-lymphotropic virus type-1 (HTLV-1) was the first discovered human oncogenic retrovirus, the etiological agent of two serious diseases have been identified as adult T-cell leukaemia/lymphoma malignancy and HTLV-1-associated myelopathy/tropical spastic paraparesis (HAM/TSP), a debilitating chronic neuro-myelopathy. Despite more than 40 years of molecular, histopathological and immunological studies on HTLV-1-associated diseases, the virulence and pathogenicity of this virus are yet to be clarified. The reason why the majority of HTLV-1-infected individuals (∼95%) remain asymptomatic carriers is still unclear. The deterioration of the immune system towards oncogenicity and autoimmunity makes HTLV-1 a natural probe for the study of malignancy and neuro-inflammatory diseases. Additionally, its slow worldwide spreading has prompted public health authorities and researchers, as urged by the WHO, to focus on eradicating HTLV-1. In contrast, neither an effective therapy nor a protective vaccine has been introduced. This comprehensive review focused on the most relevant studies of the neuro-inflammatory propensity of HTLV-1-induced HAM/TSP. Such an emphasis on the virus-host interactions in the HAM/TSP pathogenesis will be critically discussed epigenetically. The findings may shed light on future research venues in designing and developing proper HTLV-1 therapeutics.",
+  "keywords": [
+    "HTLV‐1‐associated myelopathy/tropical spastic paraparesis (HAM/TSP)",
+    "HTLV‐1‐host interactions",
+    "human T‐lymphotropic virus type‐1 (HTLV‐1)",
+    "immune response",
+    "molecular pathogenesis"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-27",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38937135",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Sanaz",
+      "family": "Ahmadi Ghezeldasht",
+      "orcid": "https://orcid.org/0000-0002-9050-9016"
+    },
+    {
+      "given": "Arman",
+      "family": "Mosavat",
+      "orcid": "https://orcid.org/0000-0002-8408-4664"
+    },
+    {
+      "given": "Seyed Abdolrahim",
+      "family": "Rezaee",
+      "orcid": "https://orcid.org/0000-0001-6814-5992"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Human T-lymphotropic virus 1",
+    "Paraparesis, Tropical Spastic",
+    "HTLV-I Infections",
+    "Host-Pathogen Interactions",
+    "Host Microbial Interactions"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2567",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2567",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38937135/",
+    "europe_pmc": "https://europepmc.org/article/MED/38937135"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

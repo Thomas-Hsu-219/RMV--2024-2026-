@@ -1,0 +1,74 @@
+{
+  "doi": "10.1002/rmv.2557",
+  "title": "Fluvoxamine and long COVID: Post‐acute recovery",
+  "crossref_title": "Fluvoxamine and long COVID: Post‐acute recovery",
+  "abstract": null,
+  "keywords": [],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-02",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38825753",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Angela M.",
+      "family": "Reiersen",
+      "orcid": "https://orcid.org/0000-0003-3203-4590"
+    },
+    {
+      "given": "Charles F.",
+      "family": "Zorumski",
+      "orcid": null
+    },
+    {
+      "given": "Eric J.",
+      "family": "Lenze",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Letter"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Fluvoxamine",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Selective Serotonin Reuptake Inhibitors",
+    "Post-Acute COVID-19 Syndrome",
+    "COVID-19 Drug Treatment"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2557",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2557",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38825753/",
+    "europe_pmc": "https://europepmc.org/article/MED/38825753"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

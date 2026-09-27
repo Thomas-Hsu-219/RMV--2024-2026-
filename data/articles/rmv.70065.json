@@ -1,0 +1,113 @@
+{
+  "doi": "10.1002/rmv.70065",
+  "title": "Immunoinformatics‐Driven Design of a Multi‐Epitope Vaccine Targeting Simian Virus VP1 Major Capsid Protein for Oncogenic Viral Infection Prevention",
+  "crossref_title": "Immunoinformatics‐Driven Design of a Multi‐Epitope Vaccine Targeting Simian Virus VP1 Major Capsid Protein for Oncogenic Viral Infection Prevention",
+  "abstract": "Simian Virus (SV) 40 is a DNA virus that remains dormant in the body but occasionally induces tumours in animals. Evidence indicates that SV40 could be crucial in developing certain human cancers. There is no commercial vaccine available against SV40. Our study uses a reverse vaccinology strategy to design a vaccine containing the viral Major capsid protein VP1 protein of the Simian virus's B and T-cell epitopes. Eleven MHC-I restricted, ten MHC-II restricted, and five B-cell specific epitopes were prioritised for the design of vaccine model, based on non-allergenicity as a crucial feature and an antigenicity score of > 0.4. An immunogenic and stable vaccine design was generated using the 6-histidine tag, including a 30S ribosomal protein AS04 as an adjuvant with linkers (EAAAK, GPGPG, and AYY). Highly broad-spectrum vaccine was generated with 99.75% of global population coverage. Ramachandran score of 91.7% indicated the structural stability of the designed vaccine. The immunological simulations presented that a persistent antibody response occurred even if the antigen was expelled. IgM + IgG titres were predicted to rise to 6000 after 10 days of injection, and stabilised at 3000 after 30 days, suggesting that the vaccine is effective and provides long-lasting protection against SV40. Molecular docking and MD simulation analyses were performed to study the stability and dynamic confirmation of the designed vaccine model and immune receptor (8JBV), validating strong molecular interactions, hence triggering innate and immune responses against the SV40. Further immunological assays are required to validate the results of this study.",
+  "keywords": [
+    "immunoinformatics",
+    "multiepitope vaccine",
+    "reverse vaccinology",
+    "simian virus",
+    "vaccine designing"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "5",
+  "published_online": "2025-08-08",
+  "published_print": "2025-09",
+  "online_year": 2025,
+  "pmid": "40781525",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Roman",
+      "family": "Akbar",
+      "orcid": null
+    },
+    {
+      "given": "Shabeen",
+      "family": "Fatima",
+      "orcid": null
+    },
+    {
+      "given": "Siddiq ur",
+      "family": "Rahman",
+      "orcid": null
+    },
+    {
+      "given": "Abdul",
+      "family": "Malik",
+      "orcid": null
+    },
+    {
+      "given": "Suhail",
+      "family": "Akhtar",
+      "orcid": null
+    },
+    {
+      "given": "Nikhat J.",
+      "family": "Siddiqi",
+      "orcid": null
+    },
+    {
+      "given": "Sara",
+      "family": "Aiman",
+      "orcid": "https://orcid.org/0000-0002-4115-4984"
+    },
+    {
+      "given": "Kaisong",
+      "family": "Huang",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Simian virus 40",
+    "Polyomavirus Infections",
+    "Tumor Virus Infections",
+    "Capsid Proteins",
+    "Viral Vaccines",
+    "Antibodies, Viral",
+    "Epitopes, B-Lymphocyte",
+    "Epitopes, T-Lymphocyte",
+    "Computational Biology",
+    "Vaccinology",
+    "Immunoinformatics"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70065",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70065",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40781525/",
+    "europe_pmc": "https://europepmc.org/article/MED/40781525"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

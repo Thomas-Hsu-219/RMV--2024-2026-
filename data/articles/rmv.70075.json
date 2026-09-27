@@ -1,0 +1,50 @@
+{
+  "doi": "10.1002/rmv.70075",
+  "title": "Correction to ‘Immunoinformatics‐Driven Design of a Multi‐Epitope Vaccine Targeting Simian Virus VP1 Major Capsid Protein for Oncogenic Viral Infection Prevention’",
+  "crossref_title": "Correction to ‘Immunoinformatics‐Driven Design of a Multi‐Epitope Vaccine Targeting Simian Virus VP1 Major Capsid Protein for Oncogenic Viral Infection Prevention’",
+  "abstract": null,
+  "keywords": [],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "6",
+  "published_online": "2025-10-24",
+  "published_print": "2025-11",
+  "online_year": 2025,
+  "pmid": "41133920",
+  "pmcid": null,
+  "authors": [],
+  "publication_types": [
+    "Published Erratum"
+  ],
+  "mesh_terms": [],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70075",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70075",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41133920/",
+    "europe_pmc": "https://europepmc.org/article/MED/41133920"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

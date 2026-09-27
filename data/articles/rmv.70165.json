@@ -1,0 +1,88 @@
+{
+  "doi": "10.1002/rmv.70165",
+  "title": "Possible Effects of C‐Reactive Protein in the Central Nervous System During Venezuelan Equine Encephalitis Virus Infection",
+  "crossref_title": "Possible Effects of C‐Reactive Protein in the Central Nervous System During Venezuelan Equine Encephalitis Virus Infection",
+  "abstract": "Venezuelan equine encephalitis virus (VEEV) is an alphavirus vectored by mosquitos. It can cause disease in equines and humans characterised by a febrile illness that may progress into encephalitis. Replication of VEEV in the central nervous system induces activation of glial cells and neurons, compromising the blood-brain barrier (BBB) and inducing a state of neuroinflammation. This inflammation can lead to symptoms such as confusion, seizures, and coma, and sustained inflammation contributes to neurodegeneration. C-reactive protein (CRP) is a biomarker that has previously been associated with inflammation and infection. It is now known that its functions are related to various brain disorders. Circulating increased CRP levels correlate with alterations in brain structure and metabolism associated with cognitive vulnerability, suggesting the effect of CRP on brain cell biology. However, the fact that alphavirus (including VEEV) infection is accompanied by increased CRP production makes it likely that VEEV infection induces the production of this protein systemically and/or mediated by the activation of brain cells. This review highlights a role of CRP in the brain parenchyma, influencing various aspects of VEEV brain infection such as general inflammation, BBB permeability, hypoxia, apoptosis, interaction with different brain cells, and brain metabolism. The influence of CRP in the brain may exacerbate the inflammatory process induced by VEEV. The existence of several drugs with anti-CRP effects opens their use in the treatment of VEEV brain infection.",
+  "keywords": [
+    "C‐reactive protein",
+    "alphaviruses",
+    "brain",
+    "brain blood barrier",
+    "inflammation",
+    "pathogenesis",
+    "venezuelan equine encephalitis"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-05-16",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42142379",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Nereida",
+      "family": "Valero‐Cedeño",
+      "orcid": "https://orcid.org/0000-0002-4997-7168"
+    },
+    {
+      "given": "Anyelo",
+      "family": "Durán",
+      "orcid": "https://orcid.org/0000-0003-4422-2783"
+    },
+    {
+      "given": "Jesus A.",
+      "family": "Mosquera",
+      "orcid": "https://orcid.org/0000-0002-1496-5511"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Blood-Brain Barrier",
+    "Central Nervous System",
+    "Brain",
+    "Animals",
+    "Horses",
+    "Humans",
+    "Encephalitis Virus, Venezuelan Equine",
+    "Encephalomyelitis, Venezuelan Equine",
+    "Inflammation",
+    "C-Reactive Protein",
+    "Biomarkers"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70165",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70165",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42142379/",
+    "europe_pmc": "https://europepmc.org/article/MED/42142379"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

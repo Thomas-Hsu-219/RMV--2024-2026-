@@ -1,0 +1,94 @@
+{
+  "doi": "10.1002/rmv.2506",
+  "title": "Assessment of the relationship between the dopaminergic pathway and severe acute respiratory syndrome coronavirus 2 infection, with related neuropathological features, and potential therapeutic approaches in COVID‐19 infection",
+  "crossref_title": "Assessment of the relationship between the dopaminergic pathway and severe acute respiratory syndrome coronavirus 2 infection, with related neuropathological features, and potential therapeutic approaches in COVID‐19 infection",
+  "abstract": "Dopamine is a known catecholamine neurotransmitter involved in several physiological processes, including motor control, motivation, reward, cognition, and immune function. Dopamine receptors are widely distributed throughout the nervous system and in immune cells. Several viruses, including human immunodeficiency virus and Japanese encephalitis virus, can use dopaminergic receptors to replicate in the nervous system and are involved in viral neuropathogenesis. In addition, studies suggest that dopaminergic receptors may play a role in the progression and pathogenesis of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection. When SARS-CoV-2 binds to angiotensin-converting enzyme 2 receptors on the surface of neuronal cells, the spike protein of the virus can bind to dopaminergic receptors on neighbouring cells to accelerate its life cycle and exacerbate neurological symptoms. In addition, recent research has shown that dopamine is an important regulator of the immune-neuroendocrine system. Most immune cells express dopamine receptors and other dopamine-related proteins, indicating the importance of dopaminergic immune regulation. The increase in dopamine concentration during SARS-CoV2 infection may reduce immunity (innate and adaptive) that promotes viral spread, which could lead to neuronal damage. In addition, dopaminergic signalling in the nervous system may be affected by SARS-CoV-2 infection. COVID -19 can cause various neurological symptoms as it interacts with the immune system. One possible treatment strategy for COVID -19 patients could be the use of dopamine antagonists. To fully understand how to protect the neurological system and immune cells from the virus, we need to study the pathophysiology of the dopamine system in SARS-CoV-2 infection.",
+  "keywords": [
+    "SARS-CoV-2",
+    "dopaminergic pathway",
+    "dopaminergic receptors"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01-05",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282395",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Yousef",
+      "family": "Rasmi",
+      "orcid": "https://orcid.org/0000-0003-1506-1909"
+    },
+    {
+      "given": "Ameneh",
+      "family": "Shokati",
+      "orcid": null
+    },
+    {
+      "given": "Shima",
+      "family": "Hatamkhani",
+      "orcid": null
+    },
+    {
+      "given": "Yeganeh",
+      "family": "Farnamian",
+      "orcid": null
+    },
+    {
+      "given": "Roya",
+      "family": "Naderi",
+      "orcid": null
+    },
+    {
+      "given": "Ladan",
+      "family": "Jalali",
+      "orcid": "https://orcid.org/0000-0002-4281-9642"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Nervous System Diseases",
+    "Dopamine",
+    "Receptors, Dopamine",
+    "RNA, Viral",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2506",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2506",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282395/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282395"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

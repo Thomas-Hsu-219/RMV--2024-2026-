@@ -1,0 +1,96 @@
+{
+  "doi": "10.1002/rmv.2494",
+  "title": "The association between various viral infections and multiple sclerosis: An umbrella review on systematic review and meta‐analysis",
+  "crossref_title": "The association between various viral infections and multiple sclerosis: An umbrella review on systematic review and meta‐analysis",
+  "abstract": "Multiple Sclerosis (MS) is one of the immune-mediated demyelinating disorders. Multiple components, including the environment and genetics, are possible factors in the pathogenesis of MS. Also, it can be said that infections are a key component of the host's response to MS development. Finally, we evaluated the relationship between different pathogens and MS disease in this umbrella research. We systematically collected and analysed multiple meta-analyses focused on one particular topic. We utilised the Scopus, PubMed, and Web of Science databases starting with inception until 30 May 2023. The methodological quality of the analysed meta-analysis has been determined based on Assessing the Methodological Quality of Systematic Reviews 2 and Grade, and graph construction and statistical analysis were conducted using Comprehensive Meta-Analysis. The Confidence Interval of effect size was 95% in meta-analyses, and p < 0.05 indicated a statistically meaningful relationship. The included studies evaluated the association between MS and 12 viruses containing SARS-CoV-2, Epstein-Barr virus (EBV), Hepatitis B virus, varicella-zoster virus (VZV), human herpesvirus 6 (HHV-6), HHV-7, HHV-8, HSV-1, HSV-2, Cytomegalovirus, Human Papillomavirus, and influenza. SARS-CoV-2, with a 3.74 odds ratio, has a significantly more potent negative effect on MS among viral infections. After that, EBV, HHV-6, HSV-2, and VZV, respectively, with 3.33, 2.81, 1.76, and 1.72 odds ratios, had a significantly negative relationship with MS (p < 0.05). Although the theoretical evidence mostly indicates that EBV has the greatest effect on MS, recent epidemiological studies have challenged this conclusion and put forward possibilities that SARS-CoV-2 is the culprit. Hence, it was necessary to investigate the effects of SARS-CoV-2 and EBV on MS.",
+  "keywords": [
+    "multiple sclerosis",
+    "umbrella review",
+    "viral infection"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-11-27",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "38010852",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Arash",
+      "family": "Bakhshi",
+      "orcid": null
+    },
+    {
+      "given": "Narges",
+      "family": "Eslami",
+      "orcid": null
+    },
+    {
+      "given": "Naeim",
+      "family": "Norouzi",
+      "orcid": null
+    },
+    {
+      "given": "Negin",
+      "family": "Letafatkar",
+      "orcid": null
+    },
+    {
+      "given": "Ehsan",
+      "family": "Amini‐Salehi",
+      "orcid": null
+    },
+    {
+      "given": "Soheil",
+      "family": "Hassanipour",
+      "orcid": "https://orcid.org/0000-0002-6661-4908"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Viruses",
+    "Herpesvirus 3, Human",
+    "Herpesvirus 4, Human",
+    "Virus Diseases",
+    "Epstein-Barr Virus Infections",
+    "Multiple Sclerosis",
+    "Meta-Analysis as Topic",
+    "Systematic Reviews as Topic"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2494",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2494",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38010852/",
+    "europe_pmc": "https://europepmc.org/article/MED/38010852"
+  },
+  "copyright_statement": "© 2023 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

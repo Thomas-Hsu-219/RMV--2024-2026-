@@ -1,0 +1,91 @@
+{
+  "doi": "10.1002/rmv.70089",
+  "title": "Dengue Fever and Its Burden in Burkina Faso: An Overview",
+  "crossref_title": "Dengue Fever and Its Burden in Burkina Faso: An Overview",
+  "abstract": "Dengue fever is an arbovirus disease caused by the dengue virus and has been diagnosed in Burkina Faso for many years. In recent decades, the disease has become a growing concern, thereby impacting the public health system. Several factors contribute to the pathogenesis of dengue fever, including the immune system and the virulence of different serotypes. Additionally, multiple complex conditions, including the spread of the Aedes mosquito vector and meteorological factors, contribute to the disease's spread. Therefore, effective disease management must be comprehensive, involving strategic combinations including community engagement, mosquito control, and public health measures. This approach has been implemented in Burkina Faso, with some success. Although several studies have focused on viral control, the isolation of virus serotypes, the prevalence and seroprevalence of the disease in specific populations, information on the overall burden of dengue fever is scarce in the country, as it presents classic symptoms similar to those of malaria and some arbovirus diseases encountered in the country. However, limited access to diagnostic tools, an inadequate surveillance system, a lack of awareness among healthcare workers, auto-medication, and ongoing conflicts in the country may lead to an underestimation of its burden and a limited understanding of its epidemiology. Here, we discuss dengue fever and the factors associated with the underestimation of its burden in Burkina Faso, drawing on government documents and published data. This review aims to describe the impact of managing this neglected tropical disease, advocating for improved surveillance and control efforts in the country.",
+  "keywords": [
+    "Burkina Faso",
+    "burden of dengue",
+    "dengue",
+    "diagnosis",
+    "prevention and control",
+    "public health surveillance"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2025-12-06",
+  "published_print": "2026-01",
+  "online_year": 2025,
+  "pmid": "41351622",
+  "pmcid": "PMC12681262",
+  "authors": [
+    {
+      "given": "Wendimi",
+      "family": "Fatimata Belem",
+      "orcid": "https://orcid.org/0009-0002-5044-4745"
+    },
+    {
+      "given": "Ibrahim",
+      "family": "Sangare",
+      "orcid": "https://orcid.org/0000-0002-0926-3881"
+    },
+    {
+      "given": "Caroline",
+      "family": "Gilbert",
+      "orcid": "https://orcid.org/0000-0003-2722-1180"
+    },
+    {
+      "given": "Wilfried",
+      "family": "Wenceslas Bazié",
+      "orcid": "https://orcid.org/0000-0002-7660-9280"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Aedes",
+    "Dengue Virus",
+    "Dengue",
+    "Prevalence",
+    "Seroepidemiologic Studies",
+    "Cost of Illness",
+    "Burkina Faso",
+    "Mosquito Vectors"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70089",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70089",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41351622/",
+    "europe_pmc": "https://europepmc.org/article/MED/41351622"
+  },
+  "copyright_statement": "© 2025 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

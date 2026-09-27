@@ -1,0 +1,118 @@
+{
+  "doi": "10.1002/rmv.70054",
+  "title": "Clinical Use of Zinc in Treatment of Human Papillomavirus Cervical Infection and Viral Warts: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Clinical Use of Zinc in Treatment of Human Papillomavirus Cervical Infection and Viral Warts: A Systematic Review and Meta‐Analysis",
+  "abstract": "Human papillomavirus (HPV) is a global public health issue with a lack of therapeutic strategies that can eradicate the virus. This study investigates the efficacy of zinc and nitric-zinc complex solution (NZCS) in viral warts and cervical HPV infection and associated lesions. A systematic review and meta-analysis of clinical trials investigating efficacy, safety, dosage, and duration of treatment was performed by searching Medline, Web of Science, and Scopus libraries. A total of 33 clinical trials on 2728 patients were included in our study. We calculated and reported the response rate (RR) for each component and the log odds ratio (OR) to compare the efficacy of zinc to placebo. The log OR was 2.97 [95% CI: 0.96; 4.97], I2 = 74.74% for oral zinc, and 1.33 [95% CI: 0.63; 2.03], I2 = 0%, for topical zinc. Zinc was also significantly efficacious for clearance of cervical HPV infection (log OR = 2.23 [95% CI: 1.65; 2.81] I2 = 0%), but not significantly efficacious as adjuvant therapy in combination with other treatments such as cryotherapy (0.41 [95% CI: -0.28; 1.10], I2 = 0%). The results of the recurrence of lesions and the side effects of treatments were reported. Sensitivity analysis and subgroup meta-analysis were provided based on the types and locations of warts to address the source of heterogeneity and compare the efficacy of zinc-based treatments in different sorts of warts. Our findings demonstrated that zinc compounds and NZCS are efficacious and safe choices for patients with viral warts and cervical HPV infection.",
+  "keywords": [
+    "NZCS",
+    "cervical infection",
+    "human papillomavirus (HPV)",
+    "treatment",
+    "wart",
+    "zinc"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-07-16",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40670323",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mohammadreza",
+      "family": "Shafiei",
+      "orcid": "https://orcid.org/0009-0000-0907-8478"
+    },
+    {
+      "given": "Kamyar",
+      "family": "Feyzi",
+      "orcid": null
+    },
+    {
+      "given": "Ali",
+      "family": "Hosseinpour",
+      "orcid": null
+    },
+    {
+      "given": "Pegah",
+      "family": "Zaryab",
+      "orcid": null
+    },
+    {
+      "given": "Sofia",
+      "family": "Saeedi",
+      "orcid": null
+    },
+    {
+      "given": "Shayan",
+      "family": "Mardi",
+      "orcid": null
+    },
+    {
+      "given": "Reihane",
+      "family": "Ahmadi",
+      "orcid": null
+    },
+    {
+      "given": "Atefeh",
+      "family": "Bahavar",
+      "orcid": null
+    },
+    {
+      "given": "Sayed‐Hamidreza",
+      "family": "Mozhgani",
+      "orcid": "https://orcid.org/0000-0003-4570-2252"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Papillomaviridae",
+    "Papillomavirus Infections",
+    "Warts",
+    "Zinc",
+    "Antiviral Agents",
+    "Treatment Outcome",
+    "Uterine Cervical Diseases",
+    "Female",
+    "Clinical Trials as Topic",
+    "Human Papillomavirus Viruses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70054",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70054",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40670323/",
+    "europe_pmc": "https://europepmc.org/article/MED/40670323"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

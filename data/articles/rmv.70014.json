@@ -1,0 +1,103 @@
+{
+  "doi": "10.1002/rmv.70014",
+  "title": "Zika and Dengue Virus Autoimmunity: An Overview of Related Disorders and Their Potential Mechanisms",
+  "crossref_title": "Zika and Dengue Virus Autoimmunity: An Overview of Related Disorders and Their Potential Mechanisms",
+  "abstract": "Zika virus (ZIKV) and dengue virus (DENV) are two major mosquito-borne flaviviruses that pose a significant threat to the global public health system, particularly in tropical regions. The clinical outcomes related to these viral pathogens can vary from self-limiting asymptomatic infections to various forms of life-threatening pathological conditions such as haemorrhagic disorders. In addition to the direct effects of the viral pathogens, immune processes play also a significant function in the development of diseases mediated by ZIKV and DENV. Studing these processes is important for developing safer vaccines and targeted therapeutic strategies. These viruses have been reported to trigger various autoimmune disorders affecting different parts of human organ systems. It also has been shown that preexisting immunity to ZIKV or DENV can impact the outcome of subsequent infections caused by another virus. ZIKV and DENV infection can promote the development of autoimmune disorders by different mechanisms, such as molecular mimicry and autoantibody formation. The present review provides an overview of various autoimmune disorders associated with ZIKV and DENV infection and their potential underlying mechanisms.",
+  "keywords": [
+    "Zika virus",
+    "arbovirus",
+    "autoimmunity",
+    "dengue virus"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "1",
+  "published_online": "2025-01-08",
+  "published_print": "2025-01",
+  "online_year": 2025,
+  "pmid": "39779915",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Feifan",
+      "family": "Zhou",
+      "orcid": null
+    },
+    {
+      "given": "Yuanze",
+      "family": "Xu",
+      "orcid": null
+    },
+    {
+      "given": "Xing",
+      "family": "Liu",
+      "orcid": null
+    },
+    {
+      "given": "Yan",
+      "family": "Xu",
+      "orcid": null
+    },
+    {
+      "given": "Yan",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Donghui",
+      "family": "Jiang",
+      "orcid": null
+    },
+    {
+      "given": "Pengfei",
+      "family": "Du",
+      "orcid": "https://orcid.org/0009-0008-4729-9886"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Dengue Virus",
+    "Dengue",
+    "Autoimmune Diseases",
+    "Autoantibodies",
+    "Autoimmunity",
+    "Molecular Mimicry",
+    "Zika Virus",
+    "Zika Virus Infection"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70014",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70014",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39779915/",
+    "europe_pmc": "https://europepmc.org/article/MED/39779915"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

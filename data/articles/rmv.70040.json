@@ -1,0 +1,98 @@
+{
+  "doi": "10.1002/rmv.70040",
+  "title": "Role of Angiotensin II in Venezuelan Equine Encephalitis: Narrative Review",
+  "crossref_title": "Role of Angiotensin II in Venezuelan Equine Encephalitis: Narrative Review",
+  "abstract": "Venezuelan equine encephalitis virus (VEEV) is an alphavirus in the family Togaviridae, transmitted by a mosquito bite and is highly infectious in aerosol form. Inflammation plays a role of antiviral response as well as development of lethal encephalitis. Infection through a mosquito bite is biphasic, beginning with an inflammatory process and viral replication in different organs with subsequent infiltration to the central nervous system (CNS), inducing encephalitis. The direct route is through inhalation of aerosols containing the virus with direct brain infection through the olfactory nerve. Significant damage is due to exacerbated inflammation in the host. Angiotensin II (Ang II) is a molecule with high pro-inflammatory capacity, which has been found to be upregulated in the brain of VEEV-infected rats, suggesting its role in the pathogenesis of this disease. Limited information regarding the association of Ang II expression with VEEV brain infection has been reported. The aim of this review is to highlight published reports indicating a possible association between Ang II expression and VEEV-induced encephalitis. Several studies reflect a possible expression and function of Ang II during VEEV infection. Factors such as the relationship of Ang II with proteins involved in viral replication and entry into the cell (furin, Rab5, Rab7), activation of protein kinase C (necessary for the phosphorylation of VEEV), presence of microRNAs related to viral biology, increased permeability of the blood-brain barrier, and use of transcription pathways common to Ang II and VEEV, may conceivable an association of Ang II with the pathogenesis of VEEV encephalitis.",
+  "keywords": [
+    "angiotensin II",
+    "brain",
+    "encephalitis",
+    "immune activation",
+    "pathogenesis",
+    "viral replication"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "3",
+  "published_online": "2025-05-02",
+  "published_print": "2025-05",
+  "online_year": 2025,
+  "pmid": "40317791",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Adriana",
+      "family": "Pedreañez",
+      "orcid": "https://orcid.org/0000-0002-3937-0469"
+    },
+    {
+      "given": "Renata",
+      "family": "Vargas",
+      "orcid": "https://orcid.org/0009-0007-0598-6971"
+    },
+    {
+      "given": "Yenddy",
+      "family": "Carrero",
+      "orcid": "https://orcid.org/0000-0003-4050-4468"
+    },
+    {
+      "given": "Juan P.",
+      "family": "Hernández‐Fonseca",
+      "orcid": "https://orcid.org/0000-0001-6353-6345"
+    },
+    {
+      "given": "Hugo",
+      "family": "Hernández‐Fonseca",
+      "orcid": "https://orcid.org/0000-0001-5572-2084"
+    },
+    {
+      "given": "Jesús",
+      "family": "Mosquera",
+      "orcid": "https://orcid.org/0000-0002-1496-5511"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Brain",
+    "Animals",
+    "Humans",
+    "Rats",
+    "Encephalitis Virus, Venezuelan Equine",
+    "Encephalomyelitis, Venezuelan Equine",
+    "Angiotensin II",
+    "Virus Replication"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70040",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70040",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40317791/",
+    "europe_pmc": "https://europepmc.org/article/MED/40317791"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

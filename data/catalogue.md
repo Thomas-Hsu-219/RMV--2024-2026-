@@ -1,0 +1,300 @@
+# RMV 文献目录
+
+- [2026] [Antiviral Resistance in the Genomic Era: Molecular Mechanisms, Clinical Challenges, and Pharmacogenetic Perspectives](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70205) · `10.1002/rmv.70205`
+- [2026] [Epitranscriptomic Regulation in Oncogenic Viruses: Emerging Roles of RNA Modifications in Viral Persistence and Tumourigenesis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70204) · `10.1002/rmv.70204`
+- [2026] [Efficacy and Effectiveness of the Recombinant Zoster Vaccine Against Herpes Zoster, Herpes Zoster Ophthalmicus, Postherpetic Neuralgia and Dementia: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70203) · `10.1002/rmv.70203`
+- [2026] [Gut Microbiota Alterations in People Living With HIV: Dysbiosis, Immune Dysfunction and Therapeutic Perspectives](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70202) · `10.1002/rmv.70202`
+- [2026] [Tobacco and Alcohol Exposure as Confounders in Assessing HPV‐Related Cancer Trends After Male Vaccination](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70192) · `10.1002/rmv.70192`
+- [2026] [CRISPR‐Engineered CAR‐T Cell Therapy for Epstein–Barr Virus‐Associated Nasopharyngeal Carcinoma: A Review of Emerging Therapeutic Prospects](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70199) · `10.1002/rmv.70199`
+- [2026] [An Appraisal of the Potential Downstream Benefits of RSV Vaccination in Older Adults](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70198) · `10.1002/rmv.70198`
+- [2026] [Human Cytomegalovirus Genetic Diversity, Clinical Relevance, and Emerging Insights](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70197) · `10.1002/rmv.70197`
+- [2026] [Emerging and Re‐Emerging Viral Pathogens in Oncolytic Virotherapy: A Comprehensive Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70167) · `10.1002/rmv.70167`
+- [2026] [The Role of the Medical Laboratory in Identifying ‘Super‐Spreaders’: Correlation Between Viral Load Kinetics and Human‐to‐Human Infectivity](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70194) · `10.1002/rmv.70194`
+- [2026] [Oncoviruses at the Crossroads of Ageing and Cancer: Molecular Mechanisms and Key Signalling Pathways](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70195) · `10.1002/rmv.70195`
+- [2026] [Mpox Airborne Transmission: A Systematic Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70196) · `10.1002/rmv.70196`
+- [2026] [HHV‐8 Infection in Solid‐Organ Transplant—Pathogenesis, Epidemiology, Clinical Manifestations and Management](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70193) · `10.1002/rmv.70193`
+- [2026] [The Changing Landscape of Hantavirus Infections: A Narrative Review of Epidemiology, Pathogenesis, and Countermeasures](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70191) · `10.1002/rmv.70191`
+- [2026] [Timing, Titre, and Host Determinants of Convalescent Plasma Efficacy in COVID‐19: A Systematic Review With Design‐Stratified Narrative Synthesis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70189) · `10.1002/rmv.70189`
+- [2026] [Delivery Strategies for Oncolytic Viruses in Gastrointestinal Cancers: Progress, Mechanisms and Clinical Translations](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70186) · `10.1002/rmv.70186`
+- [2026] [Convalescent Plasma Restores Viral Clearance After Anti‐Spike Monoclonal Antibody Failure in Immunocompromised COVID‐19 Patients: A Systematic Review and Meta‐Analysis of Individual Patient Data](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70185) · `10.1002/rmv.70185`
+- [2026] [Hantavirus: A Comprehensive Narrative Review of Virology, Epidemiology, Pathogenesis, Clinical Manifestations, Diagnostics, and Emerging Therapeutic Strategies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70190) · `10.1002/rmv.70190`
+- [2026] [John Cunningham Virus and Colorectal Carcinogenesis: Current Evidence, Molecular Mechanisms, and Unresolved Controversies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70187) · `10.1002/rmv.70187`
+- [2026] [Human Sapovirus in the Post‐Rotavirus Vaccine Era: From an Overlooked Gastroenteritis Pathogen to a Target for Precision Surveillance](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70188) · `10.1002/rmv.70188`
+- [2026] [West Nile Neuroinvasive Disease: Current Management, Emerging Therapies and Future Clinical Trial Priorities](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70182) · `10.1002/rmv.70182`
+- [2026] [Oncogenic Viruses and Inhaled Microplastics: A Double Hit Hypothesis for Asthma Progression and Lung Cancer Development](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70181) · `10.1002/rmv.70181`
+- [2026] [Dysregulated Metabolism in People Living With HIV in the Modern ART‐Era: A Systematic Review of Targeted Metabolomics Studies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70179) · `10.1002/rmv.70179`
+- [2026] [From Norovirus to Andes Hantavirus: Indirect Viral Transmission and Emerging Prevention Strategies for Cruise Ship and Confined Environments](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70180) · `10.1002/rmv.70180`
+- [2026] [Matrix Metalloproteinases and Viral Hepatitis: A Complex Interplay Driving Liver Fibrosis, Immune Dysregulation, and Hepatocarcinogenesis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70178) · `10.1002/rmv.70178`
+- [2026] [Kyasanur Forest Disease: Advances in Experimental Animal Models, Immune Assays, and Challenges in Vaccine Development](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70177) · `10.1002/rmv.70177`
+- [2026] [A Cross‐Country Evaluation of Respiratory Syncytial Virus and Human Metapneumovirus Surveillance Systems: Identifying Gaps and Best Practices for Improved Disease Monitoring](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70175) · `10.1002/rmv.70175`
+- [2026] [The Global Health Security Challenges Posed by Recurring Nipah Virus Outbreaks](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70154) · `10.1002/rmv.70154`
+- [2026] [Immunological Interactions Between Gammadelta T Cells and West Nile Virus in the Infected Host](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70176) · `10.1002/rmv.70176`
+- [2026] [Pathogen‐Specific Evasion of Innate Immunity by Alphaviruses (CHIKV, VEEV, and SINV)](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70174) · `10.1002/rmv.70174`
+- [2026] [Synergistic Oncogenesis Cooperative Role of Epstein Barr Virus and Human Papillomavirus in Cancer Progression](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70173) · `10.1002/rmv.70173`
+- [2026] [Metformin for COVID‐19: An Updated Systematic Review and Meta‐Analysis of Randomized Controlled Trials](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70172) · `10.1002/rmv.70172`
+- [2026] [Post‐Viral Aspergillosis: A Systematic Review of Incidence, Clinical Manifestations, and Outcomes](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70163) · `10.1002/rmv.70163`
+- [2026] [Impact of Male Human Papillomavirus (HPV) Vaccination on HPV Infection and HPV‐Related Diseases: A Systematic Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70171) · `10.1002/rmv.70171`
+- [2026] [Immune Reprogramming by EBV and KSHV in the Tumour Microenvironment: From Mechanisms of Immune Escape to Immunotherapy](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70170) · `10.1002/rmv.70170`
+- [2026] [The Natural History of Human Papillomavirus (HPV) Infection in Males: Global Evidence From a Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70168) · `10.1002/rmv.70168`
+- [2026] [Hepatitis B Non‐Vaccination Rate and Associated Factors Among Healthcare Workers in Low‐ and Middle‐Income Countries: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70169) · `10.1002/rmv.70169`
+- [2026] [Human Polyomaviruses of Clinical Relevance: Modes of Transmission and Associated Pathologies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70166) · `10.1002/rmv.70166`
+- [2026] [Post‐Infectious Fatigue and Depression Following Dengue: A Systematic Review and Meta‐Analysis of Associated Factors](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70164) · `10.1002/rmv.70164`
+- [2026] [Possible Effects of C‐Reactive Protein in the Central Nervous System During Venezuelan Equine Encephalitis Virus Infection](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70165) · `10.1002/rmv.70165`
+- [2026] [LRP‐1 as Target of Broad‐Specific Antivirals: Benefits, Risks and Challenges](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70136) · `10.1002/rmv.70136`
+- [2026] [A Comprehensive Review of Vaccine Technologies for Pandemic Preparedness Against Highly Pathogenic Avian Influenza](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70161) · `10.1002/rmv.70161`
+- [2026] [HTLV‐1–Driven Clonal Evolution and Immune Escape in Adult T‐Cell Leukaemia: From Viral Persistence to Therapeutic Failure](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70162) · `10.1002/rmv.70162`
+- [2026] [Enterovirus D68 and Acute Neurologic Outcomes: A Systematic Review and Meta‐Analysis (2010–2025)](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70147) · `10.1002/rmv.70147`
+- [2026] [Comparative Effectiveness of High‐Dose and Standard‐Dose Influenza Vaccines for Hospitalisation and Mortality in Adults Aged 65 and Older: An Updated Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70158) · `10.1002/rmv.70158`
+- [2026] [The Expanding Organ Tropism of Herpes Simplex Virus Type 1](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70155) · `10.1002/rmv.70155`
+- [2026] [Tissue Reservoirs of HIV: The Hidden Protective Role of Lymphoid and Myeloid Cells](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70159) · `10.1002/rmv.70159`
+- [2026] [SARS‐CoV‐2 Variants and Immune Evasion: Mapping the Future of Vaccine Design](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70157) · `10.1002/rmv.70157`
+- [2026] [Congenital CMV and Hearing Loss—How Does it Happen and How to Prevent it](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70156) · `10.1002/rmv.70156`
+- [2026] [Beyond the Usual Suspects: Emerging Associations Between Epstein‐Barr Virus Infection/Infectious Mononucleosis and Cancers](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70153) · `10.1002/rmv.70153`
+- [2026] [Virus‐Like Nanoparticles for Vaccine Development and Drug Delivery](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70139) · `10.1002/rmv.70139`
+- [2026] [Clinical Importance of the Newly Emerging Influenza A(H3N2) Subclade K as the Dominant Variant](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70150) · `10.1002/rmv.70150`
+- [2026] [Global Vaccine Confidence at a Crossroads: Immunisation Coverage Declines, Misinformation, and the Future of Vaccine Policy](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70149) · `10.1002/rmv.70149`
+- [2026] [Mpox Clinical Outcomes in People With and Without HIV Treated With Tecovirimat: A Systematic Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70152) · `10.1002/rmv.70152`
+- [2026] [USP10 Dysregulation in Oncogenic Virus‐Driven Tumourigenesis and Immune Evasion](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70145) · `10.1002/rmv.70145`
+- [2026] [Epidemiological Changes in
+ Mycoplasma pneumoniae
+ Infections in Children and Adolescents Before and After COVID‐19: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70151) · `10.1002/rmv.70151`
+- [2026] [Risk Factors for Mortality in Patients With Novel Bunyavirus Infection: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70146) · `10.1002/rmv.70146`
+- [2026] [Human Cytomegalovirus Infection in Haematopoietic Stem Cell Transplant Recipients and CAR T Cell Recipients
+ – PART 1: Risk Factors, Clinical Impact and Immune Response](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70142) · `10.1002/rmv.70142`
+- [2026] [Updates on Trichodysplasia Spinulosa Disease](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70148) · `10.1002/rmv.70148`
+- [2026] [Oncovirus‐Driven Endothelial Plasticity: Endothelial‐to‐Mesenchymal Transition as a Hijacked Pathway in Oncoviral Cardiovascular Pathogenesis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70143) · `10.1002/rmv.70143`
+- [2026] [Vertical Transmission of Type B Coxsackieviruses: A Systematic Review Emphasising Clinical Evidence and Seriousness of a Neglected Issue](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70144) · `10.1002/rmv.70144`
+- [2026] [Human Cytomegalovirus Infection in Haematopoietic Stem Cell Transplant Recipients and CAR‐T Cell Recipients—
+ PART 2: Antiviral Therapy and Virus‐Specific T Cell Therapy for HCMV in Allo‐HSCT](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70135) · `10.1002/rmv.70135`
+- [2026] [The Management of Congenital Cytomegalovirus Infection in an Era of Universal Newborn CMV Screening](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70132) · `10.1002/rmv.70132`
+- [2026] [The Impact of SARS‐CoV‐2 on Male Infertility: A Systematic Review and Meta‐Analysis of Cohort Studies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70128) · `10.1002/rmv.70128`
+- [2026] [Potential Relationship Between Cytomegalovirus and Cardiovascular Disease: Evidence From Observational Studies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70141) · `10.1002/rmv.70141`
+- [2026] [Chronic Gastric Ulceration Due to Cytomegalovirus in Immunocompetent Adults – A Case Report and Systematic Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70140) · `10.1002/rmv.70140`
+- [2026] [Qualitative Modulation of Pattern Recognition Receptor Sensing in Human Oncoviral Infections: Shared and Virus‐Specific Innate Immune Strategies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70133) · `10.1002/rmv.70133`
+- [2026] [Adverse Pregnancy Outcomes and Prevalence Associated With Arboviral Infections (Zika, Dengue, and Chikungunya): An Umbrella Review of Systematic Reviews and Meta‐Analyses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70137) · `10.1002/rmv.70137`
+- [2026] [Towards Ending HIV/AIDS by 2030: Trajectory of Sub‐Saharan Africa—A Post‐COVID‐19 (2019–2024) Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70138) · `10.1002/rmv.70138`
+- [2026] [Measles Resurgence: Could a Third Vaccine Dose Be the Solution?](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70134) · `10.1002/rmv.70134`
+- [2026] [Langat Virus Biology and Infection](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70127) · `10.1002/rmv.70127`
+- [2026] [Insights Into Highly Associated Co‐Factors on HPV‐Related Cervical Cancer](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70131) · `10.1002/rmv.70131`
+- [2026] [The Impact of Study Size on COVID-19 Treatment Outcomes: A Meta-Epidemiological Study Comparing Large and Small Randomized Controlled Trials: A Systematic Review and Meta-Analyses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70125) · `10.1002/rmv.70125`
+- [2026] [When Norovirus Stress‐Tests Mass Gatherings: From Outbreaks to System Fragility](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70130) · `10.1002/rmv.70130`
+- [2026] [The Burden of HPV35 in African Cervical Pathologies: Prevalence, Contributing Factors, and Vaccine Prospects](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70129) · `10.1002/rmv.70129`
+- [2026] [Colchicine in COVID‐19: Mechanistic Insights and Clinical Uncertainties](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70126) · `10.1002/rmv.70126`
+- [2026] [Chandipura Virus: A Neglected Sandfly‐Borne Neurotropic Virus in Children ‐ Insights From Seven Decades of Evidence](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70119) · `10.1002/rmv.70119`
+- [2026] [Characteristics, Motivation, and Challenges of Global Research on Dengue Vaccination](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70122) · `10.1002/rmv.70122`
+- [2026] [Structural Basis of MERS‐CoV Receptor Interactions and Antibody Neutralisations](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70113) · `10.1002/rmv.70113`
+- [2026] [Japanese Encephalitis: Understanding Its Impact, Prevention, and the Role of Vaccination](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70123) · `10.1002/rmv.70123`
+- [2026] [Viral Pathogens and Pulmonary Fibrosis: EMT‐Driven Mechanisms and Insights From Traditional Chinese Medicine](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70118) · `10.1002/rmv.70118`
+- [2026] [Disruption of Signalling Pathways Induced by HBV HBx, HCV Core, and EBV LMP1 in Gastric Cancer](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70090) · `10.1002/rmv.70090`
+- [2026] [A Deep Dive Into Oncogenic Viruses Understanding Their Role in Cancer and Approaches for Prevention](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70121) · `10.1002/rmv.70121`
+- [2026] [Improved Safety of Nucleic Acid Amplification Technology Combined With Serological Tests for Screening Blood Donors: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70117) · `10.1002/rmv.70117`
+- [2026] [Comparison of Azvudine and Nirmatrelvir‐Ritonavir in Hospitalised Patients With COVID‐19: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70114) · `10.1002/rmv.70114`
+- [2026] [From Surge to Stability: Navigating MPOX Epidemics Across the Globe With Genomic Insights, Paving the Way for Effective Management Plan](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70112) · `10.1002/rmv.70112`
+- [2026] [CMV Preventive and Treatment Studies in Children Undergoing Haematopoietic Stem Cell Transplant: A Systematic Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70120) · `10.1002/rmv.70120`
+- [2026] [An Update on Mpox: Focussing on Current and Emerging Antiviral Strategies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70116) · `10.1002/rmv.70116`
+- [2026] [High‐Risk HPV in Men: A Hidden Threat to Public Health?](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70115) · `10.1002/rmv.70115`
+- [2026] [Advances in Rapid Nucleic Acid Diagnostics for Hepatitis B and C Viruses: A Comprehensive Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70110) · `10.1002/rmv.70110`
+- [2026] [Chapare Virus: A Re‐Emerging Zoonotic Arenavirus With Limited Preparedness](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70111) · `10.1002/rmv.70111`
+- [2026] [A Systematic Review and Meta‐Analysis of Global DENV, CHIKV, and ZIKV Co‐Infection](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70108) · `10.1002/rmv.70108`
+- [2026] [Global Epidemiology and Disease Burden of Human Parainfluenza Virus in Adults: A Systematic Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70105) · `10.1002/rmv.70105`
+- [2026] [Forecasting Influenza Epidemics and Pandemics in the Age of AI and Machine Learning](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70107) · `10.1002/rmv.70107`
+- [2026] [Microplastics and Nanoplastics as Carriers for Viral Transmission: Effects on Viral Properties, Infection, Immune Response, and Public Health](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70106) · `10.1002/rmv.70106`
+- [2026] [Defining Viro‐Osteopathology: Unresolved Mechanistic Questions in the Pathogenesis of RNA Virus‐Associated Bone Disorders](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70099) · `10.1002/rmv.70099`
+- [2026] [Understanding Monkeypox Virus Evolution, Host‐Pathogen Interactions, and Therapeutic Advances](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70103) · `10.1002/rmv.70103`
+- [2026] [Overlapping Environmental Shocks and Arboviral Risk: Earthquakes as an Underrecognized Catalyst](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70104) · `10.1002/rmv.70104`
+- [2026] [Oncoviruses as Emerging Players in Cardiovascular Pathogenesis: Evidence, Mechanisms and Clinical Perspectives](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70097) · `10.1002/rmv.70097`
+- [2026] [The Right to Know About CMV—Perspectives of Pregnant Women and Families With Lived Experience of CMV](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70096) · `10.1002/rmv.70096`
+- [2026] [Incidence of Cytomegalovirus (CMV) Infection in After Kidney Transplant Patients: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70092) · `10.1002/rmv.70092`
+- [2026] [The Impact of the COVID‐19 Pandemic on HPV Vaccination Coverage Among Adolescents From High‐Income Countries and Challenges: A Scoping Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70102) · `10.1002/rmv.70102`
+- [2026] [Long Covid Syndrome and Role of Autonomic Nervous System](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70101) · `10.1002/rmv.70101`
+- [2026] [Post‐Vaccination Syndromes: The Evidence and a Roadmap for Rigorous Research](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70100) · `10.1002/rmv.70100`
+- [2026] [Global Landscape of Lenacapavir Resistance: Analysis of 52,927 Sequences Across 85 Countries](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70098) · `10.1002/rmv.70098`
+- [2026] [Neurological Consequences of CMV Infection: Overview of Pathogenesis and Host Responses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70095) · `10.1002/rmv.70095`
+- [2026] [Advancements and Uncertainties in the Treatment of Congenital CMV Disease](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70093) · `10.1002/rmv.70093`
+- [2026] [SARS‐CoV‐2 Genome and S2 Spike Protein: IRF‐Driven Interferon Regulation and Host Cell Responses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70094) · `10.1002/rmv.70094`
+- [2026] [Varicella Zoster Virus in Giant Cell Arteritis: Evidence From a Systematic Review and Meta‐Analytic Synthesis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70091) · `10.1002/rmv.70091`
+- [2026] [Immune Evasion Mechanisms of Neurotropic Dengue Virus](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70083) · `10.1002/rmv.70083`
+- [2026] [Dengue Fever and Its Burden in Burkina Faso: An Overview](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70089) · `10.1002/rmv.70089`
+- [2026] [Arbovirus‐Host Epigenetic Interplay: Unraveling the Neurological Mechanisms and Therapeutic Opportunities](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70086) · `10.1002/rmv.70086`
+- [2026] [Dengue Fever: Viral, Environmental, and Human Factors Driving Expansion and Pandemic Risk](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70088) · `10.1002/rmv.70088`
+- [2026] [Adaptive Evolution of Dengue Virus: Interplay Between Viral Genetics and Host Immunity](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70082) · `10.1002/rmv.70082`
+- [2026] [COVID‐19 in Diabetic Patients: Mechanisms, Risks, and Therapeutic Considerations](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70085) · `10.1002/rmv.70085`
+- [2026] [Discovery, Diversity and Evolution of Emerging Jingmenviruses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70084) · `10.1002/rmv.70084`
+- [2025] [Gut Virome: What's the Role in Irritable Bowel Syndrome?](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70080) · `10.1002/rmv.70080`
+- [2025] [CVID Enteropathy Associated With Chronic Norovirus Infection: Background, Clinical Features, and Therapeutic Aspects](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70081) · `10.1002/rmv.70081`
+- [2025] [Therapeutic Targeting of Osteogenic Signalling in Arboviral Musculoskeletal Disease](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70078) · `10.1002/rmv.70078`
+- [2025] [Cell Surface Markers of HIV Latency: Current Insights and Future Directions](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70077) · `10.1002/rmv.70077`
+- [2025] [Global Hesitancy of COVID‐19 Vaccine Among Vulnerable Population From 2020 to 2023: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70079) · `10.1002/rmv.70079`
+- [2025] [Beyond the Viroporin: The Envelope Protein as a Therapeutic Target in Viral Immunomodulation](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70076) · `10.1002/rmv.70076`
+- [2025] [Correction to ‘Immunoinformatics‐Driven Design of a Multi‐Epitope Vaccine Targeting Simian Virus VP1 Major Capsid Protein for Oncogenic Viral Infection Prevention’](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70075) · `10.1002/rmv.70075`
+- [2025] [Glecaprevir/Pibrentasvir Versus Sofosbuvir/Velpatasvir for Hepatitis C Virus Genotype 6: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70074) · `10.1002/rmv.70074`
+- [2025] [Landscape of Prophylactic Strategies Against Human Parainfluenza Virus Type 3](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70071) · `10.1002/rmv.70071`
+- [2025] [The Dual Role of Autophagy in the Pathogenesis of Arboviruses With a Focus on JEV and DENV](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70073) · `10.1002/rmv.70073`
+- [2025] [Database‐Driven Surveillance of Lenacapavir Resistance Profiles in China: Analysis of HIV‐1 Gag Sequences From People Living With HIV](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70072) · `10.1002/rmv.70072`
+- [2025] [Post‐COVID‐19 Vaccination (or Long Vax) Syndrome: Putative Manifestation, Pathophysiology, and Therapeutic Options](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70070) · `10.1002/rmv.70070`
+- [2025] [The Cerebral Haemorrhage and SARS‐CoV‐2: An Emerging Virus From a Meta‐Analysis Perspective](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70069) · `10.1002/rmv.70069`
+- [2025] [The Role of Neurophysiology in Investigating Neuropathology of Vertical Zika Virus Infection](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70068) · `10.1002/rmv.70068`
+- [2025] [Prevalence and the Mutual Relationship Between Chronic Obstructive Pulmonary Disease and Arbovirus: A Comprehensive Systematic Review and Meta‐Analysis of Current Evidence](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70061) · `10.1002/rmv.70061`
+- [2025] [Crosstalk Between Viral Envelop‐E Protein and Host Innate Immune System: Exploring Pharmacological Targets and Agents](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70067) · `10.1002/rmv.70067`
+- [2025] [Immunoinformatics‐Driven Design of a Multi‐Epitope Vaccine Targeting Simian Virus VP1 Major Capsid Protein for Oncogenic Viral Infection Prevention](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70065) · `10.1002/rmv.70065`
+- [2025] [Impact of Rotavac Vaccine on Hospital‐Based Disease Prevalence and Strain Diversity in India: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70066) · `10.1002/rmv.70066`
+- [2025] [The Intracerebral Haemorrhage in Patients With Dengue Fever: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70060) · `10.1002/rmv.70060`
+- [2025] [Response to: Revisiting H7N9 Case Fatality Rate and Pathogenicity of Non‐H5/H7 Avian Influenza Viruses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70046) · `10.1002/rmv.70046`
+- [2025] [Dried Blood Spots and Plasma Separation Cards can Broaden Access to Molecular Testing for HBV, HCV and HIV](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70059) · `10.1002/rmv.70059`
+- [2025] [Comparison Between Various Immunosensor Methods for the Early Detection of Dengue Virus in Real Samples: A Systematic Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70064) · `10.1002/rmv.70064`
+- [2025] [Cell Biology of Human Cytomegalovirus Latency: Implications for Pathogenesis and Treatment](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70063) · `10.1002/rmv.70063`
+- [2025] [The Role of Emerging/Re‐Emerging RNA Viruses in Bone‐Related Diseases With a Focus on DENV, CHIKV, and SARS‐CoV‐2](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70053) · `10.1002/rmv.70053`
+- [2025] [Correction to “Relative Efficacy, Effectiveness and Safety of Newer And/Or Enhanced Seasonal Influenza Vaccines for the Prevention of Laboratory‐Confirmed Influenza in Individuals Aged 18 Years and Over: Update of a Systematic Review”](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70062) · `10.1002/rmv.70062`
+- [2025] [Neuropsychiatric Complications of Two Re‐Emerging Viruses (DENV and MPXV): Current Evidence, Pathophysiological Mechanisms, and Diagnostic Challenges](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70058) · `10.1002/rmv.70058`
+- [2025] [An Overview of Ophthalmic Complications Associated With Emerging/Re‐Emerging Viruses: Focus on ZIKV, DENV, SARS‐CoV‐2, and MPXV](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70056) · `10.1002/rmv.70056`
+- [2025] [Arboviruses and Osteogenesis‐Associated Signalling Pathways: A Potential Therapeutic Target for Musculoskeletal Complications](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70055) · `10.1002/rmv.70055`
+- [2025] [Clinical Use of Zinc in Treatment of Human Papillomavirus Cervical Infection and Viral Warts: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70054) · `10.1002/rmv.70054`
+- [2025] [Oral Manifestations in the Post COVID‐19 Condition: A Systematic Review With Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70057) · `10.1002/rmv.70057`
+- [2025] [Commentary on ‘Confounding Variable in Recent Clinical Trial on ORFV‐Based Therapeutics’](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70052) · `10.1002/rmv.70052`
+- [2025] [Treatment Efficacy in Herpes Zoster Ophthalmoplegia: A Systematic Review and Meta‐Analysis of Case Reports and Series](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70044) · `10.1002/rmv.70044`
+- [2025] [Unravelling the Treatment Strategies for Monkeypox Virus: Success and Bottlenecks](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70051) · `10.1002/rmv.70051`
+- [2025] [Reviewing the Advancing of ORFV‐Based Therapeutics to the Clinical Stage](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70049) · `10.1002/rmv.70049`
+- [2025] [Megakaryopoiesis Dysregulation, Thrombocytopaenia, and Dengue Virus Pathogenesis: Molecular Mechanisms and Therapeutic Advances](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70050) · `10.1002/rmv.70050`
+- [2025] [A Review of Arboviral‐Induced Liver Damage: Acute Manifestations and Speculative Links to Chronic Inflammation](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70047) · `10.1002/rmv.70047`
+- [2025] [A Systematic Review of BK and JC Polyomaviruses in Asia: Molecular Insights and Prevalence](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70048) · `10.1002/rmv.70048`
+- [2025] [Revisiting H7N9 Case Fatality Rate and Pathogenicity of Non‐H5/H7 Avian Influenza Viruses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70045) · `10.1002/rmv.70045`
+- [2025] [Human Metapneumovirus: A Review of Its Epidemiology, Clinical Features, Public Health Implications and Treatment Options](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70043) · `10.1002/rmv.70043`
+- [2025] [The Correlation of Arboviruses With the Risk of Diabetes Mellitus: A Systematic Review and Meta‐Analysis of Current Evidence](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70039) · `10.1002/rmv.70039`
+- [2025] [Mechanisms of Immune Evasion of West Nile Virus](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70042) · `10.1002/rmv.70042`
+- [2025] [Nutritional Status as a Key Consideration in Dengue Vaccine Outcomes for Adolescents](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70041) · `10.1002/rmv.70041`
+- [2025] [Advancing ORFV‐Based Therapeutics to the Clinical Stage](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70038) · `10.1002/rmv.70038`
+- [2025] [Role of Angiotensin II in Venezuelan Equine Encephalitis: Narrative Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70040) · `10.1002/rmv.70040`
+- [2025] [mTOR Signalling in Arbovirus Infections: Molecular Mechanisms and Therapeutic Opportunities](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70037) · `10.1002/rmv.70037`
+- [2025] [Emerging Viral Infections (ZIKV, SARS‐CoV‐2, and MPXV) and Depression: Ketamine and (S, R)‐Ketamine as Promising Antidepressants](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70036) · `10.1002/rmv.70036`
+- [2025] [Efficacy, Immune Response, and Safety of Dengue Vaccines in Adolescents: A Systematic Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70035) · `10.1002/rmv.70035`
+- [2025] [Monitoring Macrophage Polarization in Infectious Disease, Lesson From SARS‐CoV‐2 Infection](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70034) · `10.1002/rmv.70034`
+- [2025] [Arbovirus Infections and Epigenetic Mechanisms; a Potential Therapeutic Target](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70033) · `10.1002/rmv.70033`
+- [2025] [Sex‐Based Differences in Cardiovascular Outcomes Associated With COVID‐19: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70022) · `10.1002/rmv.70022`
+- [2025] [Biological and Pathogenic Blueprint of Chandipura Virus](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70032) · `10.1002/rmv.70032`
+- [2025] [Oral SARS‐CoV‐2 Infection and Risk for Long Covid](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70029) · `10.1002/rmv.70029`
+- [2025] [Oropouche Virus: Implications for Transfusion Services](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70031) · `10.1002/rmv.70031`
+- [2025] [Alphavirus nsP2: A Multifunctional Regulator of Viral Replication and Promising Target for Anti‐Alphavirus Therapies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70030) · `10.1002/rmv.70030`
+- [2025] [Dengue Virus Life Cycle and Host Protein Interactions: Focus on RNA Binding Proteins and Therapeutic Advances](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70025) · `10.1002/rmv.70025`
+- [2025] [Emerging Nipah Virus With Pandemic Potential and High Mortality Rates: Is the Scientific Community Learning From Former Pandemics?](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70028) · `10.1002/rmv.70028`
+- [2025] [Zika Virus‐Related Birth Defects and Neurological Complications: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70019) · `10.1002/rmv.70019`
+- [2025] [Regulation of miRNA in Cytokine Storm (CS) of COVID‐19 and Other Viral Infection: An Exhaustive Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70026) · `10.1002/rmv.70026`
+- [2025] [Effect of Comorbidities on the Mortality of Patients With COVID‐19: A Systematic Review of Reviews and Meta‐Analyses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70024) · `10.1002/rmv.70024`
+- [2025] [Rethinking Paediatric Respiratory Infections: The Role of Mixed Pathogen Infections](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70021) · `10.1002/rmv.70021`
+- [2025] [Novel Human Polyomaviruses Discovered From 2007 to the Present: An Update of Current Knowledge](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70017) · `10.1002/rmv.70017`
+- [2025] [Anti‐SARS‐CoV‐2 Antibodies in Long‐COVID—Markers of Protection or Elevated Risk? A Systematic Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70027) · `10.1002/rmv.70027`
+- [2025] [Relative Efficacy, Effectiveness and Safety of Newer and/or Enhanced Seasonal Influenza Vaccines for the Prevention of Laboratory‐Confirmed Influenza in Individuals Aged 18 years and Over: Update of a Systematic Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70020) · `10.1002/rmv.70020`
+- [2025] [Nuclear Factor of Activated T Cells Signalling and Viral Pathogens: A Dynamic Cross‐Talk](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70023) · `10.1002/rmv.70023`
+- [2025] [Clinical Manifestation of Arboviruses in Paediatrics](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70016) · `10.1002/rmv.70016`
+- [2025] [Hospitalised Dengue Patients and Risk of Hypertension: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70013) · `10.1002/rmv.70013`
+- [2025] [Immunobiology of MPox Infection and Its Management: Experience From Developing Nations](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70015) · `10.1002/rmv.70015`
+- [2025] [The Potential Role of Zika and Dengue Virus Infection in the Urogenital System Disorders: An Overview](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70010) · `10.1002/rmv.70010`
+- [2025] [Zika and Dengue Virus Autoimmunity: An Overview of Related Disorders and Their Potential Mechanisms](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70014) · `10.1002/rmv.70014`
+- [2025] [Molecular Evolution of the H5 and H7 Highly Pathogenic Avian Influenza Virus Haemagglutinin Cleavage Site Motif](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70012) · `10.1002/rmv.70012`
+- [2025] [Epigenetic Targeting for Controlling Persistent Neurotropic Infections Caused by Borna Virus and HIV](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70000) · `10.1002/rmv.70000`
+- [2025] [Sarcoidosis and COVID‐19 Vaccines: A Systematic Review of Case Reports and Case Series](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70011) · `10.1002/rmv.70011`
+- [2024] [Neuroinflammation in Post COVID‐19 Sequelae: Neuroinvasion and Neuroimmune Crosstalk](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70009) · `10.1002/rmv.70009`
+- [2024] [The Association Between Male Viral Infections and Infertility: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70002) · `10.1002/rmv.70002`
+- [2024] [Clinical Relevance of Oxidative Stress Biomarkers in Human Flavivirus Infections as Predictors of Disease Progression and Severity](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70007) · `10.1002/rmv.70007`
+- [2024] [An Overview on Disease Burden and Management of Respiratory Syncytial Virus Infections in Older Adults in the Asia‐Pacific Region](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70003) · `10.1002/rmv.70003`
+- [2024] [Seroprevalence of Viral Hepatitis B and Occult Hepatitis B Among Blood Donors in Africa: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70006) · `10.1002/rmv.70006`
+- [2024] [Targeting the Ubiquitin Proteasome System to Combat Influenza A Virus: Hijacking the Cleanup Crew](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70005) · `10.1002/rmv.70005`
+- [2024] [Enterovirus Antibodies: Friends and Foes](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70004) · `10.1002/rmv.70004`
+- [2024] [Next Generation RNA/Protein‐Carrying Vector With Pleiotropic Activity](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70008) · `10.1002/rmv.70008`
+- [2024] [Next‐Generation Sequencing Methods for Near‐Real‐Time Molecular Epidemiology of HIV and HCV](https://onlinelibrary.wiley.com/doi/10.1002/rmv.70001) · `10.1002/rmv.70001`
+- [2024] [Immune Evasion Mechanism of Neurotropic Viruses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2589) · `10.1002/rmv.2589`
+- [2024] [Crosstalk Between Innate Immunity and Autophagy in Viral Myocarditis Leading to Dilated Cardiomyopathy](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2586) · `10.1002/rmv.2586`
+- [2024] [Interplays Between Matrix Metalloproteinases and Neurotropic Viruses: An Overview](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2585) · `10.1002/rmv.2585`
+- [2024] [Acute Post‐Measles Encephalitis in a Returning Traveller: Highlighting the Need for MMR Vaccination](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2588) · `10.1002/rmv.2588`
+- [2024] [Underlying Factors Predisposing to Viral‐Induced Neurological Diseases](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2587) · `10.1002/rmv.2587`
+- [2024] [The Assessment of Anti–SARS‐CoV‐2 Antibodies in Different Vaccine Platforms: A Systematic Review and Meta‐Analysis of COVID‐19 Vaccine Clinical Trial Studies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2579) · `10.1002/rmv.2579`
+- [2024] [Role of Neurotropic Viruses in Brain Metastasis of Breast Cancer: Mechanisms and Therapeutic Implications](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2584) · `10.1002/rmv.2584`
+- [2024] [Autoantibodies in COVID‐19 and Other Viral Diseases: Molecular, Cellular, and Clinical Perspectives](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2583) · `10.1002/rmv.2583`
+- [2024] [Dengue Infection During Pregnancy and Adverse Birth Outcomes: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2582) · `10.1002/rmv.2582`
+- [2024] [Neurological Implications of Poxvirus Infections: Pathogenesis, Neurotropism, and Clinical Manifestations](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2581) · `10.1002/rmv.2581`
+- [2024] [Merkel Cell Polyomavirus—Pathophysiology and Treatment in the Era of Gene‐Targeted Therapies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2580) · `10.1002/rmv.2580`
+- [2024] [Role of Gut Microbiota in Dengue](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2577) · `10.1002/rmv.2577`
+- [2024] [Systematic Review of the Efficacy and Safety of RSV‐Specific Monoclonal Antibodies and Antivirals in Development](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2576) · `10.1002/rmv.2576`
+- [2024] [Virus‐Induced Host Chemokine CCL2 in COVID‐19 Pathogenesis: Potential Prognostic Marker and Target of Anti‐Inflammatory Strategy](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2578) · `10.1002/rmv.2578`
+- [2024] [Nanoparticle‐Based Therapies for Neurotropic Viral Infections: Mechanisms, Challenges, and Future Prospects](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2575) · `10.1002/rmv.2575`
+- [2024] [Management of Refractory/Resistant Herpes Simplex Virus Infections in Haematopoietic Stem Cell Transplantation Recipients: A Literature Review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2574) · `10.1002/rmv.2574`
+- [2024] [Authors' Response: Safety and Efficacy of COVID‐19 Vaccines: A Systematic Review and Meta‐Analysis of Controlled and Randomized Clinical Trials](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2573) · `10.1002/rmv.2573`
+- [2024] [The Impact of HIV Upon the PCI Results: A Systematic Review and Meta‐Analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2572) · `10.1002/rmv.2572`
+- [2024] [Neurological manifestations of Flaviviridae, Togaviridae, and Peribunyaviridae as vector‐borne viruses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2571) · `10.1002/rmv.2571`
+- [2024] [Test accuracy of rapid diagnostic tests and reverse‐transcription polymerase chain reaction against virus isolation in cell culture for assessing SARS‐CoV‐2 infectivity: Systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2569) · `10.1002/rmv.2569`
+- [2024] [Hepatitis A in Latin America: The current scenario](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2566) · `10.1002/rmv.2566`
+- [2024] [Estimating the key outcomes and hepatocellular carcinoma risk in patients in immune‐tolerant phase of chronic hepatitis B virus infection: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2570) · `10.1002/rmv.2570`
+- [2024] [Follicular oocyte as a potential target for severe acute respiratory syndrome coronavirus 2 infection](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2568) · `10.1002/rmv.2568`
+- [2024] [Novel insights into human T‐lymphotropic virus type‐1 (HTLV‐1) pathogenesis‐host interactions in the manifestation of HTLV‐1‐associated myelopathy/tropical spastic paraparesis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2567) · `10.1002/rmv.2567`
+- [2024] [Liver involvement in dengue: A systematic review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2564) · `10.1002/rmv.2564`
+- [2024] [Exosomes, and the potential for exosome‐based interventions against COVID‐19](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2562) · `10.1002/rmv.2562`
+- [2024] [Infectious viruses and neurodegenerative diseases: The mitochondrial defect hypothesis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2565) · `10.1002/rmv.2565`
+- [2024] [What are the neurodevelopmental outcomes of children with asymptomatic congenital cytomegalovirus infection at birth? A systematic literature review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2555) · `10.1002/rmv.2555`
+- [2024] [Human immunodeficiency virus infection challenges: Current therapeutic limitations and strategies for improved management through long‐acting injectable formulation](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2563) · `10.1002/rmv.2563`
+- [2024] [Epidemiology, biosafety, and biosecurity of Avian Influenza: Insights from the East Mediterranean region](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2559) · `10.1002/rmv.2559`
+- [2024] [Association between Epstein‐Barr virus LMP‐1 and Hodgkin lymphoma LMP‐1 mechanisms in Hodgkin lymphoma development](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2561) · `10.1002/rmv.2561`
+- [2024] [Efficacy and safety of adoptive T‐cell therapy in treating cytomegalovirus infections post‐haematopoietic stem cell transplantation: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2558) · `10.1002/rmv.2558`
+- [2024] [Blood‐borne viruses and neurological manifestations: An overview](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2552) · `10.1002/rmv.2552`
+- [2024] [Potential relationship between cytomegalovirus and immunosenescence: Evidence from observational studies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2560) · `10.1002/rmv.2560`
+- [2024] [Varicella‐zoster virus‐related neurological complications: From infection to immunomodulatory therapies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2554) · `10.1002/rmv.2554`
+- [2024] [A comprehensive, updated systematic review and meta‐analysis of epidemiologic evidence on the connection between herpes zoster infection and the risk of stroke](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2556) · `10.1002/rmv.2556`
+- [2024] [Azvudine versus Paxlovid in COVID‐19: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2551) · `10.1002/rmv.2551`
+- [2024] [Fluvoxamine and long COVID: Post‐acute recovery](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2557) · `10.1002/rmv.2557`
+- [2024] [Alzheimer's disease and herpes viruses: Current events and perspectives](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2550) · `10.1002/rmv.2550`
+- [2024] [SARS‐CoV‐2, periodontal pathogens, and host factors: The trinity of oral post‐acute sequelae of COVID‐19](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2543) · `10.1002/rmv.2543`
+- [2024] [Global seroprevalence and prevalence of infection of influenza in dogs (Canis familiaris): A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2542) · `10.1002/rmv.2542`
+- [2024] [Transmission dynamics, complications and mitigation strategies of the current mpox outbreak: A comprehensive review with bibliometric study](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2541) · `10.1002/rmv.2541`
+- [2024] [Potential therapeutic strategies to halt viral neuroinvasion](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2539) · `10.1002/rmv.2539`
+- [2024] [Prevalence and factors associated with viral non‐suppression in people living with HIV receiving antiretroviral therapy in sub‐Saharan Africa: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2540) · `10.1002/rmv.2540`
+- [2024] [Human papillomavirus infection: Epidemiology, biology, host interactions, cancer development, prevention, and therapeutics](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2537) · `10.1002/rmv.2537`
+- [2024] [Serious neurological adverse events in immunocompetent children and adolescents caused by viral reactivation in the years following varicella vaccination](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2538) · `10.1002/rmv.2538`
+- [2024] [Passive immunotherapies for the next influenza pandemic](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2533) · `10.1002/rmv.2533`
+- [2024] [Modulation of immune responses in the central nervous system by Zika virus, West Nile virus, and dengue virus](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2535) · `10.1002/rmv.2535`
+- [2024] [Unravelling the triad of neuroinvasion, neurodissemination, and neuroinflammation of human immunodeficiency virus type 1 in the central nervous system](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2534) · `10.1002/rmv.2534`
+- [2024] [Cerebrospinal fluid viral escape in HIV patients on antiretroviral therapy: A systematic review of reported cases](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2536) · `10.1002/rmv.2536`
+- [2024] [Association between cytomegalovirus infection and neurological disorders: A systematic review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2532) · `10.1002/rmv.2532`
+- [2024] [Pharmacological advances in anti‐retroviral therapy for human immunodeficiency virus‐1 infection: A comprehensive review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2529) · `10.1002/rmv.2529`
+- [2024] [Hijacking and rewiring of host CircRNA/miRNA/mRNA competitive endogenous RNA (ceRNA) regulatory networks by oncoviruses during development of viral cancers](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2530) · `10.1002/rmv.2530`
+- [2024] [Risk of kidney and liver diseases after COVID‐19 infection: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2523) · `10.1002/rmv.2523`
+- [2024] [Ferritin: Significance in viral infections](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2531) · `10.1002/rmv.2531`
+- [2024] [Clinical and laboratory diagnosis of Mayaro virus (MAYV): Current status and opportunities for further development](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2528) · `10.1002/rmv.2528`
+- [2024] [Overview of reemerging mpox infection with a focus on neurological manifestations](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2527) · `10.1002/rmv.2527`
+- [2024] [Regulatory role of miRNAs in the human immune and inflammatory response during the infection of SARS‐CoV‐2 and other respiratory viruses: A comprehensive review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2526) · `10.1002/rmv.2526`
+- [2024] [Biomarkers of transfusion transmitted occult hepatitis B virus infection: Where are we and what next?](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2525) · `10.1002/rmv.2525`
+- [2024] [Coinfections in human papillomavirus associated cancers and prophylactic recommendations](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2524) · `10.1002/rmv.2524`
+- [2024] [Breakthrough infection and reinfection in patients with mpox](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2522) · `10.1002/rmv.2522`
+- [2024] [Clinical manifestations of dengue, Zika and chikungunya in the Pacific Islands: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2521) · `10.1002/rmv.2521`
+- [2024] [Duration of protective immunity following COVID‐19 vaccination of individuals with underlying health conditions: A rapid review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2504) · `10.1002/rmv.2504`
+- [2024] [Opportunities and challenges for the application of artificial intelligence paradigms into the management of endemic viral infections: The example of Chronic Hepatitis C Virus](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2514) · `10.1002/rmv.2514`
+- [2024] [Increased risk of new‐onset cardiovascular disease after COVID‐19: A systematic review and meta‐analysis of 14 cohorts](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2518) · `10.1002/rmv.2518`
+- [2024] [The relationship between HIV‐1 neuroinflammation, neurocognitive impairment and encephalitis pathology: A systematic review of studies investigating post‐mortem brain tissue](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2519) · `10.1002/rmv.2519`
+- [2024] [Higher body temperatures associated with immunotherapy may affect the activity of therapeutic antibodies](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2516) · `10.1002/rmv.2516`
+- [2024] [Human‐virus protein‐protein interactions maps assist in revealing the pathogenesis of viral infection](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2517) · `10.1002/rmv.2517`
+- [2024] [Immunogenicity, clinical efficacy and safety of additional second COVID‐19 booster vaccines against Omicron and its subvariants: A systematic review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2515) · `10.1002/rmv.2515`
+- [2024] [A comprehensive review of Langya virus and framework for future zoonotic disease control](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2520) · `10.1002/rmv.2520`
+- [2024] [Utilising biosensor‐based approaches for identifying neurotropic viruses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2513) · `10.1002/rmv.2513`
+- [2024] [The controversy of SARS‐CoV‐2 integration into the human genome](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2511) · `10.1002/rmv.2511`
+- [2024] [An overview of SARS‐CoV2 natural infections in companion animals: A systematic review of the current evidence](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2512) · `10.1002/rmv.2512`
+- [2024] [The impact of trained immunity in respiratory viral infections](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2510) · `10.1002/rmv.2510`
+- [2024] [Assessment of the relationship between the dopaminergic pathway and severe acute respiratory syndrome coronavirus 2 infection, with related neuropathological features, and potential therapeutic approaches in COVID‐19 infection](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2506) · `10.1002/rmv.2506`
+- [2024] [Virus‐induced host cell metabolic alteration](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2505) · `10.1002/rmv.2505`
+- [2024] [Prevalence and outcomes of upper gastrointestinal bleeding in COVID‐19: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2509) · `10.1002/rmv.2509`
+- [2024] [Estimates of congenital cytomegalovirus‐attributable infant mortality in high‐income countries: A review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2502) · `10.1002/rmv.2502`
+- [2024] [Clinical characteristics and outcomes of patients with mpox during the 2022 mpox outbreak compared with those before the outbreak: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2508) · `10.1002/rmv.2508`
+- [2024] [Safety and efficacy of COVID‐19 vaccines: A systematic review and meta‐analysis of controlled and randomized clinical trials](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2507) · `10.1002/rmv.2507`
+- [2024] [Targeting the mammalian target of rapamycin pathway in neurological manifestations of Covid‐19](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2503) · `10.1002/rmv.2503`
+- [2024] [Relationship of human cytomegalovirus‐infected endothelial cells and circulating leukocytes in the pathogenesis of disseminated human cytomegalovirus infection: A narrative review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2496) · `10.1002/rmv.2496`
+- [2024] [Evaluating fluvoxamine for the outpatient treatment of COVID‐19: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2501) · `10.1002/rmv.2501`
+- [2024] [Targeting epidermal growth factor receptor signalling pathway: A promising therapeutic option for COVID‐19](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2500) · `10.1002/rmv.2500`
+- [2024] [Assessing the antiviral potential of melatonin: A comprehensive systematic review](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2499) · `10.1002/rmv.2499`
+- [2024] [Cumulative incidence and mortality rate of cardiovascular complications due to laboratory‐confirmed influenza virus infection: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2497) · `10.1002/rmv.2497`
+- [2024] [Virus‐like particles as powerful vaccination strategy against human viruses](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2498) · `10.1002/rmv.2498`
+- [2024] [Role of the VEGF in virus‐associated cancers](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2493) · `10.1002/rmv.2493`
+- [2024] [Serological response and immune‐related adverse events following COVID‐19 vaccination in cancer patients treated with immune checkpoint inhibitors: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2495) · `10.1002/rmv.2495`
+- [2024] [The association between various viral infections and multiple sclerosis: An umbrella review on systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2494) · `10.1002/rmv.2494`
+- [2024] [Comparable performance of antigen‐detecting rapid test by healthcare worker‐collected and self‐collected swabs for SARS‐CoV‐2 diagnostic: A systematic review and meta‐analysis](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2492) · `10.1002/rmv.2492`
+- [2024] [Immunopathology of herpes simplex virus‐associated neuroinflammation: Unveiling the mysteries](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2491) · `10.1002/rmv.2491`
+- [2024] [Reply to Kleebayoon and Wiwanitkit on ‘Effects of COVID‐19 vaccination during pregnancy on SARS‐CoV‐2 infection and maternal and neonatal outcomes: A systematic review and meta‐analysis’](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2490) · `10.1002/rmv.2490`
+- [2024] [The 2022 monkeypox outbreak 1 year on: The 5 Ws](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2489) · `10.1002/rmv.2489`
+- [2024] [Genomic and biological variation in bat IFNs: An antiviral treatment approach](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2488) · `10.1002/rmv.2488`
+- [2024] [Targeting EBV‐encoded products: Implications for drug development in EBV‐associated diseases](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2487) · `10.1002/rmv.2487`
+- [2024] [The programed death‐1/programed death ligand‐1 axis and its potential as a therapeutic target for virus‐associated tumours](https://onlinelibrary.wiley.com/doi/10.1002/rmv.2486) · `10.1002/rmv.2486`

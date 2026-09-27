@@ -1,0 +1,74 @@
+{
+  "doi": "10.1002/rmv.2513",
+  "title": "Utilising biosensor‐based approaches for identifying neurotropic viruses",
+  "crossref_title": "Utilising biosensor‐based approaches for identifying neurotropic viruses",
+  "abstract": "Neurotropic viruses, with their ability to invade the central nervous system, present a significant public health challenge, causing a spectrum of neurological diseases. Clinical manifestations of neurotropic viral infections vary widely, from mild to life-threatening conditions, such as HSV-induced encephalitis or poliovirus-induced poliomyelitis. Traditional diagnostic methods, including polymerase chain reaction, serological assays, and imaging techniques, though valuable, have limitations. To address these challenges, biosensor-based methods have emerged as a promising approach. These methods offer advantages such as rapid results, high sensitivity, specificity, and potential for point-of-care applications. By targeting specific biomarkers or genetic material, biosensors utilise technologies like surface plasmon resonance and microarrays, providing a direct and efficient means of diagnosing neurotropic infections. This review explores the evolving landscape of biosensor-based methods, highlighting their potential to enhance the diagnostic toolkit for neurotropic viruses.",
+  "keywords": [
+    "biosensors",
+    "central nervous system",
+    "diagnostic methods",
+    "neurotropic viruses",
+    "virus detection"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01-09",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282404",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mohammed",
+      "family": "Alissa",
+      "orcid": "https://orcid.org/0009-0000-2056-5998"
+    },
+    {
+      "given": "Ahmed",
+      "family": "Hjazi",
+      "orcid": "https://orcid.org/0000-0002-4045-0810"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Viruses",
+    "Poliomyelitis",
+    "Nervous System Diseases",
+    "Biosensing Techniques"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2513",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2513",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282404/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282404"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

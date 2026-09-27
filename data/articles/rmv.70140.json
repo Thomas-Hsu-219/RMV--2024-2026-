@@ -1,0 +1,86 @@
+{
+  "doi": "10.1002/rmv.70140",
+  "title": "Chronic Gastric Ulceration Due to Cytomegalovirus in Immunocompetent Adults – A Case Report and Systematic Review",
+  "crossref_title": "Chronic Gastric Ulceration Due to Cytomegalovirus in Immunocompetent Adults – A Case Report and Systematic Review",
+  "abstract": "This case report and systematic review describe the complete clinical course of chronic gastric ulceration complicating acute gastrointestinal CMV disease in a 72-year-old immunocompetent woman, with demonstrable response to ganciclovir but not valganciclovir. The unusual nature of this presentation prompted a systematic review to identify similar cases, which yielded 1432 records. Following de-duplication, title/abstract screening, and full article review 54 studies reporting 59 further cases of CMV-related gastric ulceration in immunocompetent patients were included. The derived epidemiologic, clinical and treatment features of this cohort indicated that CMV is an uncommon but potentially treatable cause of both acute and chronic gastric ulceration in immunocompetent adults. Acute gastric ulcers due to CMV in immunocompetent patients have been shown to respond well to antivirals but may also improve without specific antiviral treatment. Chronic gastric ulceration (lasting > 1 month) due to CMV in immunocompetent patients is a rare but distinct disease phenotype which may complicate both acute and non-acute CMV. For patients with chronic gastric ulceration, ganciclovir may have greater efficacy than valganciclovir based on the small subset of patients with this disease phenotype. Finally, CMV may represent an under-recognised and treatable contributor to the increasing cohort of patients, particularly older patients, with Helicobacter pylori and non-steroidal anti-inflammatory drug negative gastric ulcers, though CMV-associated gastric ulcers remain rare overall. Accordingly, diagnosis requires a high index of suspicion, with pursuit of CMV PCR and/or immunohistochemistry of gastric ulcer biopsies strongly encouraged.",
+  "keywords": [
+    "adult",
+    "cytomegalovirus",
+    "gastric ulcer",
+    "immunocompetent"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-19",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41855140",
+  "pmcid": "PMC13002027",
+  "authors": [
+    {
+      "given": "Zayn",
+      "family": "Al‐Timimi",
+      "orcid": "https://orcid.org/0000-0002-4296-7995"
+    },
+    {
+      "given": "Ashleigh",
+      "family": "Geddes",
+      "orcid": null
+    },
+    {
+      "given": "Richard",
+      "family": "Lawrence",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Case Reports"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Stomach Ulcer",
+    "Chronic Disease",
+    "Ganciclovir",
+    "Antiviral Agents",
+    "Treatment Outcome",
+    "Immunocompetence",
+    "Aged",
+    "Female"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70140",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70140",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41855140/",
+    "europe_pmc": "https://europepmc.org/article/MED/41855140"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

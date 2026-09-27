@@ -1,0 +1,92 @@
+{
+  "doi": "10.1002/rmv.70071",
+  "title": "Landscape of Prophylactic Strategies Against Human Parainfluenza Virus Type 3",
+  "crossref_title": "Landscape of Prophylactic Strategies Against Human Parainfluenza Virus Type 3",
+  "abstract": "Human parainfluenza virus-type 3 (HPIV3) is a respiratory virus responsible for mild illnesses in most of the population and severe illnesses, such as bronchiolitis and pneumonia, in young children, immunocompromised individuals and the elderly. To date, no vaccines nor antiviral drugs have been approved against HPIV3, despite its significant burden in vulnerable people. In this review, we present both past and current prophylactic strategies against HPIV3, such as live-attenuated virus, vector-based, subunit and mRNA vaccine candidates or antibody-based passive protection. For each strategy, we give an overview of the most promising candidates evaluated in preclinical studies and we report immunogenicity and protection data from clinical trials. Finally, we discuss the most important challenges regarding those vaccine strategies and their potential administration to the different vulnerable populations.",
+  "keywords": [
+    "monoclonal antibodies",
+    "parainfluenza virus type 3",
+    "respiratory infections",
+    "vaccine candidates"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "6",
+  "published_online": "2025-10-09",
+  "published_print": "2025-11",
+  "online_year": 2025,
+  "pmid": "41066648",
+  "pmcid": "PMC12510674",
+  "authors": [
+    {
+      "given": "Clémence",
+      "family": "Vacher",
+      "orcid": null
+    },
+    {
+      "given": "Julia",
+      "family": "Dubois",
+      "orcid": "https://orcid.org/0000-0002-9777-2968"
+    },
+    {
+      "given": "Marie‐Eve",
+      "family": "Hamelin",
+      "orcid": "https://orcid.org/0000-0002-7568-5097"
+    },
+    {
+      "given": "Guy",
+      "family": "Boivin",
+      "orcid": null
+    },
+    {
+      "given": "Manuel",
+      "family": "Rosa‐Calatrava",
+      "orcid": "https://orcid.org/0000-0002-7559-9527"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Parainfluenza Virus 3, Human",
+    "Respirovirus Infections",
+    "Vaccines, Attenuated",
+    "Parainfluenza Vaccines",
+    "Antibodies, Viral",
+    "Clinical Trials as Topic"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70071",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70071",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41066648/",
+    "europe_pmc": "https://europepmc.org/article/MED/41066648"
+  },
+  "copyright_statement": "© 2025 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

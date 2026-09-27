@@ -1,0 +1,107 @@
+{
+  "doi": "10.1002/rmv.70195",
+  "title": "Oncoviruses at the Crossroads of Ageing and Cancer: Molecular Mechanisms and Key Signalling Pathways",
+  "crossref_title": "Oncoviruses at the Crossroads of Ageing and Cancer: Molecular Mechanisms and Key Signalling Pathways",
+  "abstract": "Oncoviruses are responsible for a substantial fraction of human cancers and have emerged as critical modulators of host cellular pathways that also govern ageing. The convergence of viral oncogenesis, ageing, and cancer reflects shared molecular mechanisms, including genomic instability, epigenetic alterations, telomere attrition, and chronic inflammation. Increasing evidence indicates that oncoviruses such as human papillomavirus, Epstein-Barr virus, hepatitis B and C viruses, and Kaposi's sarcoma-associated herpesvirus actively reprogramme host signalling networks to promote persistent infection, immune evasion, and malignant transformation. This review synthesises current knowledge on how oncoviruses intersect with key hallmarks of ageing and cancer, with particular emphasis on the signalling pathways that bridge these processes. Central pathways, including p53, mTOR, NF-κB, PI3K/AKT, and Wnt/β-catenin, are frequently targeted by viral proteins, leading to dysregulated cell survival, proliferation, and senescence. These interactions not only facilitate tumourigenesis but also accelerate ageing-associated cellular dysfunctions, such as immunosenescence and inflammaging. Furthermore, we discuss how virus-induced modulation of the tumour microenvironment and host immune responses contributes to the dynamic interplay between ageing and cancer. Understanding these interconnected pathways provides valuable insights into the dual role of oncoviruses as drivers of both age-related decline and cancer development. Elucidating these mechanisms may reveal novel therapeutic targets and strategies for preventing and treating virus-associated malignancies in ageing populations.",
+  "keywords": [
+    "ageing",
+    "cancer",
+    "oncoviruses",
+    "senescence"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-08-12",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42583998",
+  "pmcid": "PMC13463676",
+  "authors": [
+    {
+      "given": "Noor",
+      "family": "Allehyani",
+      "orcid": null
+    },
+    {
+      "given": "Mohammed",
+      "family": "Alissa",
+      "orcid": null
+    },
+    {
+      "given": "Abdullah",
+      "family": "Alghamdi",
+      "orcid": "https://orcid.org/0009-0005-6635-3102"
+    },
+    {
+      "given": "Mohammed A.",
+      "family": "Alshehri",
+      "orcid": null
+    },
+    {
+      "given": "Ghadah S.",
+      "family": "Abusalim",
+      "orcid": null
+    },
+    {
+      "given": "Tawfiq N.",
+      "family": "Juraybi",
+      "orcid": null
+    },
+    {
+      "given": "Meshari A.",
+      "family": "Alsuwat",
+      "orcid": null
+    },
+    {
+      "given": "Awaji Y.",
+      "family": "Safhi",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Oncogenic Viruses",
+    "Neoplasms",
+    "Signal Transduction",
+    "Aging",
+    "Host-Pathogen Interactions",
+    "Human Papillomavirus Viruses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70195",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70195",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42583998/",
+    "europe_pmc": "https://europepmc.org/article/MED/42583998"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

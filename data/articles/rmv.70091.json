@@ -1,0 +1,88 @@
+{
+  "doi": "10.1002/rmv.70091",
+  "title": "Varicella Zoster Virus in Giant Cell Arteritis: Evidence From a Systematic Review and Meta‐Analytic Synthesis",
+  "crossref_title": "Varicella Zoster Virus in Giant Cell Arteritis: Evidence From a Systematic Review and Meta‐Analytic Synthesis",
+  "abstract": "Giant cell arteritis (GCA) is a systemic vasculitis of older adults with potential for severe ischaemic complications. Although its aetiology remains unclear, varicella zoster virus (VZV) has been proposed as a potential trigger due to its neurotropism and ability to induce granulomatous vasculitis. However, conflicting evidence has clouded this association. To systematically assess and synthesise the available evidence on the presence of VZV in arterial tissues of patients with GCA, and to evaluate the strength and consistency of this association. We conducted a systematic review and meta-analysis according to PRISMA guidelines. We searched Web of Science, PubMed, and Scopus (up to April 2025) for studies examining VZV detection in arterial tissues of GCA-positive and GCA-negative patients. Eligible studies reported original data using immunohistochemistry, PCR, or molecular methods. Pooled log odds ratios (LogORs) were calculated using a random-effects model. Heterogeneity, publication bias, subgroup effects (by geography), and study quality (NOS scores) were assessed. Eighteen studies met inclusion criteria, encompassing 606 GCA cases and 589 controls. Meta-analysis revealed a significant association between VZV presence and GCA (pooled LogOR: 1.03; 95% CI: 0.35-1.71; p = 0.003). Heterogeneity was moderate (I2 = 38.7%). Sensitivity analyses confirmed robustness of the association. Subgroup analysis demonstrated a significant association in U.S.-based studies (LogOR: 1.86; 95% CI: 0.70-3.01), but not in European cohorts (LogOR: 0.09; 95% CI: -0.62-0.79; p for difference = 0.011). Egger's test suggested potential publication bias (p = 0.027). Meta-regression showed no significant relationship between study quality and effect size. Our findings indicate a statistically significant but heterogenous association between VZV and GCA. The signal appears geographically and methodologically dependent, with conflicting high-quality studies reporting both positive and null findings. While the data support further investigation into a potential viral role in GCA pathogenesis, current evidence does not justify routine antiviral treatment or changes in clinical practice. Future research should employ standardized, blinded, and multicenter approaches to clarify this potential link.",
+  "keywords": [
+    "VZV vasculopathy",
+    "giant cell arteritis (GCA)",
+    "immunohistochemistry",
+    "inflammatory arteritis",
+    "meta‐analysis",
+    "polymerase chain reaction (PCR)",
+    "temporal arteritis",
+    "varicella zoster virus (VZV)"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2025-12-26",
+  "published_print": "2026-01",
+  "online_year": 2025,
+  "pmid": "41450088",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Golbarg",
+      "family": "Mehrpoor",
+      "orcid": null
+    },
+    {
+      "given": "Omid Kohandel",
+      "family": "Gargari",
+      "orcid": "https://orcid.org/0000-0002-8182-0582"
+    },
+    {
+      "given": "Saleheh",
+      "family": "Khorasani",
+      "orcid": null
+    },
+    {
+      "given": "Sheida Mobader",
+      "family": "Sani",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Herpesvirus 3, Human",
+    "Giant Cell Arteritis",
+    "Varicella Zoster Virus Infection"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70091",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70091",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41450088/",
+    "europe_pmc": "https://europepmc.org/article/MED/41450088"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

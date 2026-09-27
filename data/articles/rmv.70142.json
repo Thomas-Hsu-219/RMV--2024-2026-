@@ -1,0 +1,113 @@
+{
+  "doi": "10.1002/rmv.70142",
+  "title": "Human Cytomegalovirus Infection in Haematopoietic Stem Cell Transplant Recipients and CAR T Cell Recipients\n – PART 1: Risk Factors, Clinical Impact and Immune Response",
+  "crossref_title": "Human Cytomegalovirus Infection in Haematopoietic Stem Cell Transplant Recipients and CAR T Cell Recipients\n – PART 1: Risk Factors, Clinical Impact and Immune Response",
+  "abstract": "Human cytomegalovirus (HCMV) is one of the most important opportunistic pathogens in immunocompromised individuals, including allogeneic haematopoietic stem cell transplant (allo-HSCT) recipients. In allo-HSCT, HCMV seropositivity of the recipient and donor is associated with inferior survival outcomes, and post-transplant HCMV reactivation is a frequent complication, necessitating close viral monitoring and pre-emptive and prophylactic antiviral therapies. We present a review in two parts that focuses on the risk factors, immunological responses and treatment strategies for HCMV infection in allo-HSCT recipients, and also explores current evidence surrounding HCMV reactivation in recipients of chimeric antigen receptor T cell (CAR T) therapies. In the current article (Part 1), the impact of HCMV infection in allo-HSCT and CAR T cell recipients is investigated. HCMV reactivation in allo-HSCT recipients is associated with increased mortality, graft-versus-host disease (GvHD) and other microbial infections. Prominent alterations in T cell and natural killer (NK) cell recovery represent distinct immune reconstitution features associated with HCMV reactivation. Immunological biomarkers to predict HCMV complications have been proposed and their adoption in future immune monitoring strategies may allow individualised risk assessment to guide antiviral treatment decisions. The clinical significance of HCMV reactivation after CAR T cell infusion is yet to be fully determined. Continued viral surveillance and investigation of viral dynamics with correlative studies of immune function are needed in this patient population. Current and emerging strategies for treatment and prevention of HCMV complications in allo-HSCT, including use of letermovir prophylaxis and adoptive HCMV-specific T cell therapies, are explored in the following article (Part 2).",
+  "keywords": [
+    "CAR T",
+    "CMV",
+    "HSCT",
+    "chimeric antigen receptor",
+    "cytomegalovirus",
+    "haematopoietic stem cell transplant"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-14",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "41982051",
+  "pmcid": "PMC13080285",
+  "authors": [
+    {
+      "given": "Danya",
+      "family": "Kaplan",
+      "orcid": "https://orcid.org/0009-0009-6540-9337"
+    },
+    {
+      "given": "Emily",
+      "family": "Blyth",
+      "orcid": "https://orcid.org/0000-0002-7849-7139"
+    },
+    {
+      "given": "Gaurav",
+      "family": "Sutrave",
+      "orcid": "https://orcid.org/0000-0002-5566-2488"
+    },
+    {
+      "given": "Michelle K.",
+      "family": "Yong",
+      "orcid": "https://orcid.org/0000-0002-8692-4145"
+    },
+    {
+      "given": "David J.",
+      "family": "Gottlieb",
+      "orcid": "https://orcid.org/0000-0001-5807-1766"
+    },
+    {
+      "given": "Allison",
+      "family": "Abendroth",
+      "orcid": null
+    },
+    {
+      "given": "Barry",
+      "family": "Slobedman",
+      "orcid": "https://orcid.org/0000-0002-9431-6094"
+    },
+    {
+      "given": "Lauren",
+      "family": "Stern",
+      "orcid": "https://orcid.org/0000-0002-9455-0008"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "T-Lymphocytes",
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Antiviral Agents",
+    "Immunotherapy, Adoptive",
+    "Hematopoietic Stem Cell Transplantation",
+    "Risk Factors",
+    "Virus Activation",
+    "Immunocompromised Host",
+    "Transplant Recipients",
+    "Receptors, Chimeric Antigen"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70142",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70142",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41982051/",
+    "europe_pmc": "https://europepmc.org/article/MED/41982051"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

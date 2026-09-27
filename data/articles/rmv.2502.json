@@ -1,0 +1,88 @@
+{
+  "doi": "10.1002/rmv.2502",
+  "title": "Estimates of congenital cytomegalovirus‐attributable infant mortality in high‐income countries: A review",
+  "crossref_title": "Estimates of congenital cytomegalovirus‐attributable infant mortality in high‐income countries: A review",
+  "abstract": "As many as 5%-10% of infants with symptomatic congenital cytomegalovirus (cCMV) disease, or 0.4%-0.8% of all liveborn infants with cCMV infection, die in early infancy in high-income countries. However, estimates are uncertain due to several potential biases that can result from data limitations and study designs. First, infants with cCMV infections who die prior to diagnosis, which usually occurs at 1-4 weeks after birth, may be excluded from both the count of deaths and the denominator of cCMV births, resulting in left truncation and immortal time biases. These 'biases' are features of the data and do not reflect bias on the part of researchers, but understanding the potential existence of threats to validity can help with interpretation of findings. Left truncation of infant deaths occurring prior to diagnosis of cCMV can result in understatement of the burden of infant deaths due to cCMV. Conversely, overestimation of infant deaths associated with symptomatic cCMV may occur in clinical case series owing to greater representation of relatively severely affected infants owing to ascertainment and referral biases. In this review, we summarise the characteristics of 26 studies that reported estimates of cCMV-associated infant deaths, including potential biases or limitations to which those estimates may have been subject. We discuss study designs whose implementation might generate improved estimates of infant deaths attributable to cCMV. More complete estimates of the overall public health impact of cCMV could inform current and future screening, prevention, and vaccine research.",
+  "keywords": [
+    "burden of disease",
+    "congenital cytomegalovirus",
+    "epidemiology",
+    "infant deaths",
+    "mortality"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01-03",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282398",
+  "pmcid": "PMC10878676",
+  "authors": [
+    {
+      "given": "Scott D.",
+      "family": "Grosse",
+      "orcid": "https://orcid.org/0000-0003-1078-6855"
+    },
+    {
+      "given": "Patrick",
+      "family": "Fleming",
+      "orcid": null
+    },
+    {
+      "given": "Megan H.",
+      "family": "Pesch",
+      "orcid": null
+    },
+    {
+      "given": "William D.",
+      "family": "Rawlinson",
+      "orcid": "https://orcid.org/0000-0003-0988-7827"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Neonatal Screening",
+    "Infant Mortality",
+    "Developed Countries",
+    "Infant",
+    "Infant, Newborn",
+    "Infant Death"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2502",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2502",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282398/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282398"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

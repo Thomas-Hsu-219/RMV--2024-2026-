@@ -1,0 +1,196 @@
+{
+  "doi": "10.1002/rmv.70020",
+  "title": "Relative Efficacy, Effectiveness and Safety of Newer and/or Enhanced Seasonal Influenza Vaccines for the Prevention of Laboratory‐Confirmed Influenza in Individuals Aged 18 years and Over: Update of a Systematic Review",
+  "crossref_title": "Relative Efficacy, Effectiveness and Safety of Newer and/or Enhanced Seasonal Influenza Vaccines for the Prevention of Laboratory‐Confirmed Influenza in Individuals Aged 18 years and Over: Update of a Systematic Review",
+  "abstract": "We performed an update (last search: 24 July 2023) of a systematic review on relative efficacy/effectiveness (rVE) and safety of newer/enhanced seasonal influenza vaccines in comparison with standard influenza vaccine or in head-to-head comparison. Eligible studies investigated adults aged ≥ 18 years, analysed the MF59-adjuvanted or high-dose or cell-based or recombinant or mRNA-based influenza vaccine and reported rVE or safety in randomised controlled trials (RCT) or non-randomised studies of interventions (NRSI). Of 1561 new entries identified, 17 studies were included. Together with 42 studies identified in the previous primary review they added up to 59 studies, all comparing newer/enhanced with standard seasonal influenza vaccines. Relative VE against laboratory-confirmed influenza was -30% (95%CI: -146% to 31%) to 88% (51%-100%; 7 NRSI) for the MF59-adjuvanted vaccine (low certainty of evidence, CoE); 24.2% (9.7%-36.5%; 1 RCT) and -9% (-158% to 54%) to 19% (-27% to 48%; 1 NRSI) for the high-dose vaccine (moderate CoE); -5.8% (-36.1% to 17.7%) to 21.4% (-7.3% to 42.4%; 2 NRSI) for the cell-based vaccine (low CoE); 30% (10%-47%; 1 RCT) and 3% (-31% to 28%) to 19% (-27% to 48%; 1 NRSI) for the recombinant vaccine (moderate CoE), respectively. Relative VE against laboratory-confirmed influenza-related hospitalisation was 59.2% (14.6%-80.5%; 1 NRSI) for the MF59-adjuvanted (moderate CoE); 27% (-1 to 48%; 1 NRSI) for the high-dose (low CoE); 8.5% (-75.9% to 52.3%; 1 NRSI) for the cell-based (low CoE); -7.3% (-52.1% to 24.4%) to 16.3% (-8.7% to 35.5%; 1 RCT) for the recombinant vaccine. No increased risk of serious adverse events was detected for any vaccine (12 RCT, 7 NRSI; low CoE). While all have a favourable safety profile, evidence on rVE of newer/enhanced vaccines is still limited, warranting further studies.",
+  "keywords": [],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-02-24",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "39994168",
+  "pmcid": "PMC11850296",
+  "authors": [
+    {
+      "given": "Mona",
+      "family": "Askar",
+      "orcid": null
+    },
+    {
+      "given": "Karam Adel",
+      "family": "Ali",
+      "orcid": null
+    },
+    {
+      "given": "Madeleine",
+      "family": "Batke",
+      "orcid": null
+    },
+    {
+      "given": "Timo",
+      "family": "Brugger",
+      "orcid": null
+    },
+    {
+      "given": "Annika",
+      "family": "Falman",
+      "orcid": "https://orcid.org/0009-0002-7176-0894"
+    },
+    {
+      "given": "Anna Hayman",
+      "family": "Robertson",
+      "orcid": null
+    },
+    {
+      "given": "Jaime Jesús",
+      "family": "Pérez",
+      "orcid": null
+    },
+    {
+      "given": "Kari",
+      "family": "Johansen",
+      "orcid": null
+    },
+    {
+      "given": "Jorgen",
+      "family": "de Jonge",
+      "orcid": "https://orcid.org/0000-0003-3167-2435"
+    },
+    {
+      "given": "Tyra Grove",
+      "family": "Krause",
+      "orcid": null
+    },
+    {
+      "given": "Wiebe",
+      "family": "Külper‐Schiek",
+      "orcid": null
+    },
+    {
+      "given": "Joerg J.",
+      "family": "Meerpohl",
+      "orcid": null
+    },
+    {
+      "given": "Angeliki",
+      "family": "Melidou",
+      "orcid": null
+    },
+    {
+      "given": "Hanna",
+      "family": "Nohynek",
+      "orcid": null
+    },
+    {
+      "given": "Carmen",
+      "family": "Olmedo",
+      "orcid": null
+    },
+    {
+      "given": "Kate",
+      "family": "Olsson",
+      "orcid": null
+    },
+    {
+      "given": "Ioanna",
+      "family": "Pavlopoulou",
+      "orcid": null
+    },
+    {
+      "given": "Vanessa",
+      "family": "Piechotta",
+      "orcid": null
+    },
+    {
+      "given": "Johanna",
+      "family": "Rubin",
+      "orcid": null
+    },
+    {
+      "given": "Johanna",
+      "family": "Schlaberg",
+      "orcid": null
+    },
+    {
+      "given": "Christine",
+      "family": "Schmucker",
+      "orcid": null
+    },
+    {
+      "given": "Waldemar",
+      "family": "Siemens",
+      "orcid": null
+    },
+    {
+      "given": "Jan",
+      "family": "Stratil",
+      "orcid": null
+    },
+    {
+      "given": "Veronika",
+      "family": "Učakar",
+      "orcid": null
+    },
+    {
+      "given": "Ole",
+      "family": "Wichmann",
+      "orcid": null
+    },
+    {
+      "given": "Thomas",
+      "family": "Harder",
+      "orcid": "https://orcid.org/0009-0004-8659-220X"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Polysorbates",
+    "Squalene",
+    "Influenza Vaccines",
+    "Adjuvants, Immunologic",
+    "Seasons",
+    "Adolescent",
+    "Adult",
+    "Influenza, Human",
+    "Randomized Controlled Trials as Topic",
+    "Young Adult",
+    "Vaccine Efficacy"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70020",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70020",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39994168/",
+    "europe_pmc": "https://europepmc.org/article/MED/39994168"
+  },
+  "copyright_statement": "© 2025 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

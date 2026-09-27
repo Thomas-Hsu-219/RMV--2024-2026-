@@ -1,0 +1,98 @@
+{
+  "doi": "10.1002/rmv.70204",
+  "title": "Epitranscriptomic Regulation in Oncogenic Viruses: Emerging Roles of RNA Modifications in Viral Persistence and Tumourigenesis",
+  "crossref_title": "Epitranscriptomic Regulation in Oncogenic Viruses: Emerging Roles of RNA Modifications in Viral Persistence and Tumourigenesis",
+  "abstract": "Oncogenic viral pathogens, such as human papillomavirus (HPV), Epstein-Barr virus (EBV), hepatitis B and C viruses (HBV, HCV), and Kaposi's sarcoma-associated herpesvirus (KSHV), are involved in a significant proportion of human cancers worldwide. While genetic and epigenetic mechanisms underlying viral oncogenesis have been thoroughly investigated, emerging evidence underscores a critical role for epitranscriptomic regulation in virus-host interactions and their clinical consequences. RNA modifications such as N6-methyladenosine (m6A), 5-methylcytosine (m5C), and pseudouridine (Ψ) dynamically modulate RNA stability, translation, and immune recognition, thereby regulating viral replication and persistence. The present review describes current knowledge on the epitranscriptomic landscape of oncogenic viral pathogens and its functional implications. This review discusses how viral and host transcripts are selectively modified by cellular writers, erasers, and readers, shaping key stages of the viral life cycle, including replication, latency, and reactivation. Particular emphasis is placed on the role of RNA modifications in maintaining chronic infection and promoting tumourigenesis through the regulation of oncogenic pathways, cell proliferation, and apoptosis. Additionally, the present review examines how epitranscriptomic marks contribute to immune evasion by altering innate immune sensing and interferon responses. Finally, it explores the therapeutic potential of targeting epitranscriptomic machinery, highlighting recent advances in small-molecule inhibitors and the challenges associated with specificity and off-target effects. A deeper understanding of epitranscriptomic regulation in oncogenic viruses may reveal novel biomarkers and therapeutic strategies for virus-linked malignancies.",
+  "keywords": [
+    "RNA modifications",
+    "cancer",
+    "epitranscriptomic",
+    "oncogenic viruses",
+    "tumourigenesis"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-09-19",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42762501",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Zinan",
+      "family": "Yang",
+      "orcid": null
+    },
+    {
+      "given": "Yang",
+      "family": "Bai",
+      "orcid": null
+    },
+    {
+      "given": "Lihui",
+      "family": "Jia",
+      "orcid": null
+    },
+    {
+      "given": "Ying",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Qiang",
+      "family": "Sun",
+      "orcid": "https://orcid.org/0009-0003-7579-655X"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Oncogenic Viruses",
+    "Neoplasms",
+    "RNA, Viral",
+    "Virus Replication",
+    "Epigenesis, Genetic",
+    "RNA Processing, Post-Transcriptional",
+    "Host-Pathogen Interactions",
+    "Carcinogenesis",
+    "RNA Methylation",
+    "Epitranscriptome",
+    "Epitranscriptomics"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70204",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70204",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42762501/",
+    "europe_pmc": "https://europepmc.org/article/MED/42762501"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

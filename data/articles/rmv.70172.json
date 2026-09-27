@@ -1,0 +1,139 @@
+{
+  "doi": "10.1002/rmv.70172",
+  "title": "Metformin for COVID‐19: An Updated Systematic Review and Meta‐Analysis of Randomized Controlled Trials",
+  "crossref_title": "Metformin for COVID‐19: An Updated Systematic Review and Meta‐Analysis of Randomized Controlled Trials",
+  "abstract": "Metformin has been shown to reduce hospitalisation and symptom duration among adults with COVID-19, but the effect has not been studied. We conducted this meta-analysis to assess the efficacy and safety of metformin in patients with COVID-19. Randomized controlled trials (RCTs) comparing metformin with placebo in COVID-19 were identified through major databases through November 2025. We performed statistical analyses using RevMan 5.4, employing the random-effects model, along with Risk Ratio (RR) and Mean Difference (MD) as the effect measures. Our meta-analysis of four RCTs showed that metformin did not significantly reduce the composite outcome of hospitalisation, emergency department (ED) visits, or death, compared with placebo (RR 0.60, 95% CI 0.40-0.90.21). The incidence of all-cause mortality (RR 1.00; 95% CI 0.06-15.91) and serious adverse events (RR 2.86; 95% CI 0.76-10.76) was also comparable between the two groups. Our meta-analysis, with low to moderate certainty, found that metformin may provide modest benefit in reducing hospitalisation, ED visits, or mortality in patients with COVID-19 without an association with increased serious adverse events. However, these findings should be interpreted cautiously, given the limited number of trials, low event rates, and clinical heterogeneity across studies. Further large RCTs are needed before metformin can be considered for use in COVID-19.",
+  "keywords": [
+    "COVID‐19",
+    "meta‐analysis",
+    "metformin",
+    "systematic review"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-06-06",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42250263",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Taimoor",
+      "family": "Tahir",
+      "orcid": null
+    },
+    {
+      "given": "Muhammad Abubakr",
+      "family": "Siddique",
+      "orcid": "https://orcid.org/0009-0001-5651-5148"
+    },
+    {
+      "given": "Khadija",
+      "family": "Ijaz",
+      "orcid": null
+    },
+    {
+      "given": "Hania",
+      "family": "Nadeem",
+      "orcid": null
+    },
+    {
+      "given": "Abdur",
+      "family": "Rehman",
+      "orcid": null
+    },
+    {
+      "given": "Sameen",
+      "family": "Khan",
+      "orcid": null
+    },
+    {
+      "given": "Amna Humayun",
+      "family": "Tarar",
+      "orcid": null
+    },
+    {
+      "given": "",
+      "family": "Lajwanti",
+      "orcid": null
+    },
+    {
+      "given": "Muhammad Ahmad Shujja",
+      "family": "Zafar",
+      "orcid": null
+    },
+    {
+      "given": "Fatima",
+      "family": "Raja",
+      "orcid": null
+    },
+    {
+      "given": "Uzair",
+      "family": "Jafar",
+      "orcid": null
+    },
+    {
+      "given": "Asma'a Munasar Ali",
+      "family": "Alsubari",
+      "orcid": "https://orcid.org/0009-0005-1722-3926"
+    },
+    {
+      "given": "Muhammad",
+      "family": "Ehsan",
+      "orcid": "https://orcid.org/0000-0002-6021-2342"
+    },
+    {
+      "given": "Jibran",
+      "family": "Ikram",
+      "orcid": "https://orcid.org/0009-0003-6653-0661"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Metformin",
+    "Hypoglycemic Agents",
+    "Treatment Outcome",
+    "Hospitalization",
+    "Randomized Controlled Trials as Topic",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70172",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70172",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42250263/",
+    "europe_pmc": "https://europepmc.org/article/MED/42250263"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

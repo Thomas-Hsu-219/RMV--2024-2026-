@@ -1,0 +1,75 @@
+{
+  "doi": "10.1002/rmv.2489",
+  "title": "The 2022 monkeypox outbreak 1 year on: The 5 Ws",
+  "crossref_title": "The 2022 monkeypox outbreak 1 year on: The 5 Ws",
+  "abstract": "In May 2022, World Health Organization (WHO) reported an outbreak of Mpox in several European countries which were previously Mpox free. Mpox (formerly known as monkeypox) is a zoonotic viral disease endemic in Central and West Africa. The sudden emergence of Mpox outside Africa and its subsequent rapid spread lead the WHO to declare the outbreak as Public Health Emergency of International Concern. By 15 May 2023, a total of 87,704 confirmed cases and 140 deaths had been reported from 111 countries and territories worldwide. Looking back on this outbreak 1 year later, several important questions have arisen. Here, we address these questions using the classic 5 Ws: What, When, Where, Who and Why? We discuss these questions to understand how this outbreak emerged and how it was effectively managed. We outline what needs to be done to prevent, or at least minimise, outbreaks due to emerging and re-emerging viral infections.",
+  "keywords": [
+    "5 Ws",
+    "Mpox",
+    "Mpox virus",
+    "emerging and re-emerging viral infections"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-11-06",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "37930054",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Gulfaraz",
+      "family": "Khan",
+      "orcid": "https://orcid.org/0000-0001-6836-1783"
+    },
+    {
+      "given": "Nighat",
+      "family": "Perveen",
+      "orcid": "https://orcid.org/0000-0002-9292-8679"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Zoonoses",
+    "Public Health",
+    "Disease Outbreaks",
+    "Africa",
+    "Mpox, Monkeypox"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2489",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2489",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/37930054/",
+    "europe_pmc": "https://europepmc.org/article/MED/37930054"
+  },
+  "copyright_statement": "© 2023 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

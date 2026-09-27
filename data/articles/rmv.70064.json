@@ -1,0 +1,137 @@
+{
+  "doi": "10.1002/rmv.70064",
+  "title": "Comparison Between Various Immunosensor Methods for the Early Detection of Dengue Virus in Real Samples: A Systematic Review",
+  "crossref_title": "Comparison Between Various Immunosensor Methods for the Early Detection of Dengue Virus in Real Samples: A Systematic Review",
+  "abstract": "Dengue (DENV) is a mosquito-borne virus that spreads to humans through the bite of infected female Aedes mosquitoes, causing significant global health problems. This crisis has become more serious due to global warming and the increased prevalence of vector-borne diseases, such as those transmitted by mosquitoes. On the other hand, the request for early detection has increased due to the drawbacks of current serological and molecular procedures. We systematically searched major electronic databases including Web of Science, PubMed, Cochrane Library, Scopus, Science Direct, and Google Scholar for original English articles published between 2010 to June 2025. From an initial 148 citations, data were extracted from 22 meticulously selected articles that met our inclusion criteria. Our findings reveal that while all reviewed biosensor methods contribute valuable tools for DENV diagnostics (electrochemical, optical, magnetic, colourimetric), electrochemical biosensors consistently demonstrated the most impressive sensitivity, achieving the lowest Limits of Detection (LODs). Notably, some electrochemical approaches reported LODs as low as 0.665 pg/mL, making them critical for detecting early-stage infections. Electrochemical biosensors currently stand out for their unparallelled sensitivity, coupled with their inherent simplicity, affordability, and potential for miniaturisation, positioning them as leading candidates for broad applicability in DENV early diagnosis.",
+  "keywords": [
+    "DENV infection",
+    "biosensor",
+    "dengue virus",
+    "electrochemical biosensor",
+    "immunosensor"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "5",
+  "published_online": "2025-07-28",
+  "published_print": "2025-09",
+  "online_year": 2025,
+  "pmid": "40726024",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Hailah M.",
+      "family": "Almohaimeed",
+      "orcid": null
+    },
+    {
+      "given": "Yasmeen A.",
+      "family": "Albalawi",
+      "orcid": null
+    },
+    {
+      "given": "Zuhair M.",
+      "family": "Mohammedsaleh",
+      "orcid": null
+    },
+    {
+      "given": "Fayez M.",
+      "family": "Saleh",
+      "orcid": null
+    },
+    {
+      "given": "Deema",
+      "family": "Fallatah",
+      "orcid": null
+    },
+    {
+      "given": "Amany I.",
+      "family": "Almars",
+      "orcid": null
+    },
+    {
+      "given": "Fayez",
+      "family": "Alsulaimani",
+      "orcid": null
+    },
+    {
+      "given": "Ahmed M.",
+      "family": "Basri",
+      "orcid": null
+    },
+    {
+      "given": "Safaa Abdullah",
+      "family": "Alowaidi",
+      "orcid": null
+    },
+    {
+      "given": "Suad Hamdan",
+      "family": "Almasoudi",
+      "orcid": null
+    },
+    {
+      "given": "Fahad Eid",
+      "family": "Albalawi",
+      "orcid": null
+    },
+    {
+      "given": "Qwait",
+      "family": "AlGabbani",
+      "orcid": null
+    },
+    {
+      "given": "Mona H.",
+      "family": "Soliman",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Systematic Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Aedes",
+    "Dengue Virus",
+    "Dengue",
+    "Early Diagnosis",
+    "Immunoassay",
+    "Sensitivity and Specificity",
+    "Biosensing Techniques",
+    "Electrochemical Techniques",
+    "Limit of Detection"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70064",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70064",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40726024/",
+    "europe_pmc": "https://europepmc.org/article/MED/40726024"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

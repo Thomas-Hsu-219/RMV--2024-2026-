@@ -1,0 +1,94 @@
+{
+  "doi": "10.1002/rmv.70023",
+  "title": "Nuclear Factor of Activated T Cells Signalling and Viral Pathogens: A Dynamic Cross‐Talk",
+  "crossref_title": "Nuclear Factor of Activated T Cells Signalling and Viral Pathogens: A Dynamic Cross‐Talk",
+  "abstract": "The signalling pathway of the nuclear factor of activated T cells (NFAT) plays a crucial role in regulating various cellular processes such as cardiac hypertrophy, adipose differentiation, chondrocyte development, angiogenesis, inflammation, immune system activation, organogenesis, cancer cell migration, differentiation and survival. In addition, the NFAT signalling pathway acts as a key regulator of viral infections. Accordingly, it is plausible to assume that viruses have developed different mechanisms to manipulate this pathway to promote their pathogenicity. Viral pathogens can either inhibit or upregulate NFAT signalling through various mechanisms, including modulation of calcineurin activity, calcineurin/NFAT interaction, NFAT stability and translocation, NFAT-DNA-binding activity and NFAT-transcription partner interaction. Therefore, the NFAT signalling pathway can be regarded as a promising target to control viral infections. This review discusses the dynamic interactions between the NFAT signalling pathway and viral pathogens. It also addresses several drugs and agents that can target the NFAT signalling pathway at different levels to control viral infections.",
+  "keywords": [
+    "NFAT proteins",
+    "cell signalling",
+    "virus"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-02-17",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "39961771",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Sayyad",
+      "family": "Khanizadeh",
+      "orcid": null
+    },
+    {
+      "given": "Kiana",
+      "family": "Shahzamani",
+      "orcid": null
+    },
+    {
+      "given": "Mohsen",
+      "family": "Nakhaie",
+      "orcid": null
+    },
+    {
+      "given": "Ali",
+      "family": "Pormohammad",
+      "orcid": null
+    },
+    {
+      "given": "Gholamreza",
+      "family": "Talei",
+      "orcid": null
+    },
+    {
+      "given": "Habibollah",
+      "family": "Mirzaei",
+      "orcid": "https://orcid.org/0009-0002-5340-0529"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Viruses",
+    "Virus Diseases",
+    "Signal Transduction",
+    "NFATC Transcription Factors",
+    "Host-Pathogen Interactions"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70023",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70023",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39961771/",
+    "europe_pmc": "https://europepmc.org/article/MED/39961771"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

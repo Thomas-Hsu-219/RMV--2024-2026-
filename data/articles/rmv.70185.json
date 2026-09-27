@@ -1,0 +1,184 @@
+{
+  "doi": "10.1002/rmv.70185",
+  "title": "Convalescent Plasma Restores Viral Clearance After Anti‐Spike Monoclonal Antibody Failure in Immunocompromised COVID‐19 Patients: A Systematic Review and Meta‐Analysis of Individual Patient Data",
+  "crossref_title": "Convalescent Plasma Restores Viral Clearance After Anti‐Spike Monoclonal Antibody Failure in Immunocompromised COVID‐19 Patients: A Systematic Review and Meta‐Analysis of Individual Patient Data",
+  "abstract": "Anti-Spike monoclonal antibodies (mAbs) progressively lost efficacy during the COVID-19 pandemic due to the emergence and predominance of resistant SARS-CoV-2 variants. By contrast, high-titre COVID-19 convalescent plasma (CCP) collected from vaccinated donors recently recovered from infection provides a polyclonal source of antibodies that remains effective in clearing SARS-CoV-2 in immunosuppressed patients, unable to mount an adequate immune response against the virus. We conducted a systematic review and individual participant data meta-analysis to examine the effect of CCP in immunocompromised patients persistently positive for SARS-CoV-2 viraemia following mAb therapy, and to evaluate possible biological factors associated with a favourable outcome. Electronic databases were searched for studies published from January 2020 to January 2026. All studies including eligible cases were considered in the systematic review. Unpublished cases were also collected from investigators of the selected studies. The protocol was registered at PROSPERO (CRD420251142891). Forty-seven cases (30 cases from 12 published studies and 17 unpublished cases) were included. In 33 out of 47 patients (70.2%) with a mAb-resistant infection, SARS-CoV-2 clearance occurred following CCP transfusion, with a mean of 2.7 CCP units administered. In logistic regression, total CCP volume transfused was positively associated with SARS-CoV-2 clearance. In conclusion, CCP transfusion was associated with SARS-CoV-2 clearance in persistently positive immunocompromised patients following failure of anti-Spike mAb therapy.",
+  "keywords": [],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "5",
+  "published_online": "2026-07-31",
+  "published_print": "2026-09",
+  "online_year": 2026,
+  "pmid": "42536824",
+  "pmcid": "PMC13427266",
+  "authors": [
+    {
+      "given": "Daniele",
+      "family": "Focosi",
+      "orcid": "https://orcid.org/0000-0001-8811-195X"
+    },
+    {
+      "given": "Tommaso Francesco",
+      "family": "Aiello",
+      "orcid": "https://orcid.org/0000-0003-4441-6318"
+    },
+    {
+      "given": "Arturo",
+      "family": "Casadevall",
+      "orcid": null
+    },
+    {
+      "given": "Mario",
+      "family": "Cruciani",
+      "orcid": "https://orcid.org/0000-0002-1641-7367"
+    },
+    {
+      "given": "Alessandra",
+      "family": "D'Abramo",
+      "orcid": "https://orcid.org/0000-0002-5160-9743"
+    },
+    {
+      "given": "Patrizia",
+      "family": "De Marco",
+      "orcid": "https://orcid.org/0009-0002-7061-0472"
+    },
+    {
+      "given": "David",
+      "family": "Gachoud",
+      "orcid": "https://orcid.org/0000-0001-9843-8761"
+    },
+    {
+      "given": "Carolina",
+      "family": "Garcia‐Vidal",
+      "orcid": null
+    },
+    {
+      "given": "Claudia",
+      "family": "Glingani",
+      "orcid": null
+    },
+    {
+      "given": "Thomas",
+      "family": "Hueso",
+      "orcid": "https://orcid.org/0000-0003-3354-332X"
+    },
+    {
+      "given": "Michael J.",
+      "family": "Joyner",
+      "orcid": "https://orcid.org/0000-0002-7135-7643"
+    },
+    {
+      "given": "Karine",
+      "family": "Lacombe",
+      "orcid": "https://orcid.org/0000-0001-8772-9029"
+    },
+    {
+      "given": "Carlo",
+      "family": "Mengoli",
+      "orcid": "https://orcid.org/0009-0008-4037-1435"
+    },
+    {
+      "given": "Emanuele",
+      "family": "Nicastri",
+      "orcid": "https://orcid.org/0000-0002-5606-8712"
+    },
+    {
+      "given": "Quentin",
+      "family": "Richier",
+      "orcid": "https://orcid.org/0000-0002-4962-6405"
+    },
+    {
+      "given": "Nathalie",
+      "family": "Rufer",
+      "orcid": "https://orcid.org/0000-0002-9871-6271"
+    },
+    {
+      "given": "Jonathon W.",
+      "family": "Senefeld",
+      "orcid": "https://orcid.org/0000-0001-8116-3538"
+    },
+    {
+      "given": "Shmuel",
+      "family": "Shoham",
+      "orcid": null
+    },
+    {
+      "given": "David J.",
+      "family": "Sullivan",
+      "orcid": "https://orcid.org/0000-0003-0319-0578"
+    },
+    {
+      "given": "Luca",
+      "family": "Tomisti",
+      "orcid": null
+    },
+    {
+      "given": "Barbora",
+      "family": "Weinbergerova",
+      "orcid": null
+    },
+    {
+      "given": "Matteo",
+      "family": "Zani",
+      "orcid": null
+    },
+    {
+      "given": "Solomiia",
+      "family": "Zaremba",
+      "orcid": "https://orcid.org/0009-0006-3030-7232"
+    },
+    {
+      "given": "Massimo",
+      "family": "Franchini",
+      "orcid": "https://orcid.org/0000-0002-8795-0580"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Antibodies, Monoclonal",
+    "Antibodies, Viral",
+    "Immunization, Passive",
+    "Immunocompromised Host",
+    "Spike Glycoprotein, Coronavirus",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Serotherapy"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70185",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70185",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42536824/",
+    "europe_pmc": "https://europepmc.org/article/MED/42536824"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd. All rights reserved, including rights for text and data mining and training of artificial intelligence technologies or similar technologies.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

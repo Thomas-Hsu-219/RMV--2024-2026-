@@ -1,0 +1,92 @@
+{
+  "doi": "10.1002/rmv.70044",
+  "title": "Treatment Efficacy in Herpes Zoster Ophthalmoplegia: A Systematic Review and Meta‐Analysis of Case Reports and Series",
+  "crossref_title": "Treatment Efficacy in Herpes Zoster Ophthalmoplegia: A Systematic Review and Meta‐Analysis of Case Reports and Series",
+  "abstract": "Varicella zoster virus (VZV) causes herpes zoster ophthalmicus (HZO), a disease resulting from VZV reactivation in the eye branch of the trigeminal nerve, primarily affecting the elderly or immunocompromised. Current research on the relative prevalence of ocular HZO is limited to case series and reports. This study aims to conduct a systematic review and meta-analysis comparing the effects of antiviral drugs, corticosteroids, and their combination in published cases of ophthalmoplegic HZO. We reviewed the Scopus, PubMed, and Google Scholar databases for HZO-related studies, analysing all case reports and case series interventional studies. Our initial search yielded 14,100 articles, with 92 articles encompassing 111 patients included in the final analysis. Steroid treatment showed a greater improvement in visual score compared to antiviral treatment (ß = 0.80, 95% CI = 0.10, 1.50 = 1.10, p = 0.024). We found no significant relationship between treatment type and extraocular movement improvement (p > 0.05). While corticosteroid administration timing did not correlate with extraocular movement improvement (p = 0.108), increased acyclovir duration was associated with 3.64 times higher odds of improvement (OR = 3.64, 95% CI = 1.004, 13.23, p = 0.049). Patients with myositis had 19.42 times higher odds of skin involvement after orbital symptoms compared to those with orbital apex syndrome (OAS) (OR = 19.42, 95% CI = 1.16, 325.05, p = 0.039). Our findings suggest corticosteroid treatment may be more effective for visual outcomes than antiviral drugs or combination therapy. Additionally, longer antiviral therapy duration is linked to better extraocular motor outcomes. Most ophthalmoplegic HZO patients exhibited signs of aseptic meningitis in cerebrospinal fluid (CSF) examinations.",
+  "keywords": [
+    "Varicella zoster virus",
+    "antiviral agents",
+    "herpes zoster ophthalmicus",
+    "steroids"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-07",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40596424",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mansoor",
+      "family": "Shahriari",
+      "orcid": "https://orcid.org/0009-0003-5649-5102"
+    },
+    {
+      "given": "Sadra",
+      "family": "Ashrafi",
+      "orcid": "https://orcid.org/0000-0002-2115-598X"
+    },
+    {
+      "given": "Seyyed Morteza",
+      "family": "Hosseini Imeni",
+      "orcid": "https://orcid.org/0000-0002-3229-1370"
+    },
+    {
+      "given": "Saeed",
+      "family": "Mohammad Soleymani",
+      "orcid": "https://orcid.org/0000-0003-1462-3930"
+    },
+    {
+      "given": "Hadi",
+      "family": "Esmaily",
+      "orcid": "https://orcid.org/0000-0001-6915-6028"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Herpesvirus 3, Human",
+    "Herpes Zoster Ophthalmicus",
+    "Ophthalmoplegia",
+    "Acyclovir",
+    "Adrenal Cortex Hormones",
+    "Antiviral Agents",
+    "Treatment Outcome"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70044",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70044",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40596424/",
+    "europe_pmc": "https://europepmc.org/article/MED/40596424"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

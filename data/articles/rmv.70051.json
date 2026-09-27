@@ -1,0 +1,132 @@
+{
+  "doi": "10.1002/rmv.70051",
+  "title": "Unravelling the Treatment Strategies for Monkeypox Virus: Success and Bottlenecks",
+  "crossref_title": "Unravelling the Treatment Strategies for Monkeypox Virus: Success and Bottlenecks",
+  "abstract": "Monkeypox virus (MPXV) is a zoonotic orthopoxvirus (ORXV) that causes a significant public health concern due to its potential for human-to-human transmission and ability to cause severe disease. Despite the availability of a vaccine, there is currently no specific antiviral treatment for MPXV. The development of effective therapeutic strategies for MPXV is essential to mitigate its harmful impact on society. Various strategies used to treat the MPXV infection include antiviral drugs, immunoglobulins, and supportive care measures. Antiviral drugs, such as cidofovir, brincidofovir, and tecovirimat, have shown promising results in in vitro and animal models, but their efficacy in human MPXV cases is still uncertain. This article provides a comprehensive review of the therapeutic strategies that have been explored for the management of MPXV virus infection. The review further highlights the challenges and limitations associated with the development and implementation of therapeutic strategies for MPXV.",
+  "keywords": [
+    "VIGIV",
+    "cidofovir",
+    "monkeypox virus",
+    "therapeutic approaches",
+    "traditional practices"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-06-23",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40551491",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Palakurthi",
+      "family": "Yanadaiah",
+      "orcid": "https://orcid.org/0000-0001-6117-8564"
+    },
+    {
+      "given": "Gali Avinash",
+      "family": "Kumar",
+      "orcid": null
+    },
+    {
+      "given": "Molakpogu Ravindra",
+      "family": "Babu",
+      "orcid": null
+    },
+    {
+      "given": "Sukriti",
+      "family": "Vishwas",
+      "orcid": null
+    },
+    {
+      "given": "M. V. N. L.",
+      "family": "Chaitanya",
+      "orcid": null
+    },
+    {
+      "given": "Biplab",
+      "family": "Pal",
+      "orcid": "https://orcid.org/0000-0002-8915-0077"
+    },
+    {
+      "given": "Rakesh",
+      "family": "Kumar",
+      "orcid": "https://orcid.org/0000-0003-2478-4762"
+    },
+    {
+      "given": "Milad",
+      "family": "Zandi",
+      "orcid": "https://orcid.org/0000-0002-2145-0196"
+    },
+    {
+      "given": "Gaurav",
+      "family": "Gupta",
+      "orcid": null
+    },
+    {
+      "given": "Ronan",
+      "family": "MacLoughlin",
+      "orcid": "https://orcid.org/0000-0002-3164-1607"
+    },
+    {
+      "given": "Brian G.",
+      "family": "Oliver",
+      "orcid": "https://orcid.org/0000-0002-7122-9262"
+    },
+    {
+      "given": "Kamal",
+      "family": "Dua",
+      "orcid": "https://orcid.org/0000-0002-7507-1159"
+    },
+    {
+      "given": "Sachin Kumar",
+      "family": "Singh",
+      "orcid": "https://orcid.org/0000-0003-3823-6572"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Monkeypox virus",
+    "Disease Models, Animal",
+    "Antiviral Agents",
+    "Isoindoles",
+    "Mpox, Monkeypox"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70051",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70051",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40551491/",
+    "europe_pmc": "https://europepmc.org/article/MED/40551491"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

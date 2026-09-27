@@ -1,0 +1,144 @@
+{
+  "doi": "10.1002/rmv.2515",
+  "title": "Immunogenicity, clinical efficacy and safety of additional second COVID‐19 booster vaccines against Omicron and its subvariants: A systematic review",
+  "crossref_title": "Immunogenicity, clinical efficacy and safety of additional second COVID‐19 booster vaccines against Omicron and its subvariants: A systematic review",
+  "abstract": "The Omicron variant of severe acute respiratory syndrome coronavirus 2 is a new variant of concern (VOC) and an emerging subvariant that exhibits heightened infectivity, transmissibility, and immune evasion, escalating the incidence of moderate to severe coronavirus disease 2019 (COVID-19). It resists monoclonal antibodies and diminishes vaccine efficacy. Notably, new sublineages have outpaced earlier predominant sublineages. Although the primary vaccination series and initial boosters were robust against previous VOCs, their efficacy waned against Omicron and its subvariants. In this systematic review, we assessed real-world evidence on the immunogenicity, clinical efficacy, and safety of a second booster or fourth COVID-19 vaccine dose against the Omicron VOC and its subvariants. A comprehensive literature search was conducted in Medline/PubMed, Google Scholar, bioRxiv, and medRxiv, and relevant studies published between 2022 and 30 May 2023 were reviewed. We found a total of 40 relevant articles focusing on a second booster dose for COVID-19, including clinical trials and observational studies, involving 3,972,856 patients. The results consistently revealed that an additional second booster dose restored and prolonged waning immunity, activating both humoral and cellular responses against Omicron and its subvariants. A second booster treatment correlated with enduring protection against COVID-19, notably preventing substantial symptomatic disease and mortality associated with severe Omicron infection. Both monovalent messenger RNA (mRNA) and nonmRNA vaccines demonstrated similar efficacy and safety, with bivalent mRNA vaccines exhibiting broader protection against emerging subvariants of Omicron. The safety profiles of second booster were favourable with only mild systemic and local symptoms reported in some recipients. In conclusion, this systematic review underscores the additional COVID-19 vaccine boosters, particularly with bivalent or multivalent mRNA vaccines, for countering the highly infectious emerging subvariants of Omicron.",
+  "keywords": [
+    "COVID-19 vaccines",
+    "Omicron",
+    "SARS-CoV-2",
+    "mRNA vaccines"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01-24",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282403",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Santenna",
+      "family": "Chenchula",
+      "orcid": "https://orcid.org/0000-0001-7466-1037"
+    },
+    {
+      "given": "Madhu Bhargavi",
+      "family": "Chandra",
+      "orcid": null
+    },
+    {
+      "given": "Madhu Babu",
+      "family": "Adusumilli",
+      "orcid": null
+    },
+    {
+      "given": "Sai Nikhila",
+      "family": "Ghanta",
+      "orcid": null
+    },
+    {
+      "given": "Anusha",
+      "family": "Bommasani",
+      "orcid": null
+    },
+    {
+      "given": "Anitha",
+      "family": "Kuttiappan",
+      "orcid": null
+    },
+    {
+      "given": "R.",
+      "family": "Padmavathi",
+      "orcid": null
+    },
+    {
+      "given": "Krishna Chaitanya",
+      "family": "Amerneni",
+      "orcid": null
+    },
+    {
+      "given": "Radhika",
+      "family": "Chikatipalli",
+      "orcid": null
+    },
+    {
+      "given": "Mohan Krishna",
+      "family": "Ghanta",
+      "orcid": null
+    },
+    {
+      "given": "Samarra Simha",
+      "family": "Reddy",
+      "orcid": null
+    },
+    {
+      "given": "K.",
+      "family": "Mythili Bai",
+      "orcid": null
+    },
+    {
+      "given": "Satya",
+      "family": "Prakash",
+      "orcid": null
+    },
+    {
+      "given": "G.",
+      "family": "Jogender",
+      "orcid": null
+    },
+    {
+      "given": "Madhavrao",
+      "family": "Chavan",
+      "orcid": null
+    },
+    {
+      "given": "S.",
+      "family": "Balakrishnan",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Treatment Outcome",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Vaccines",
+    "mRNA Vaccines"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2515",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2515",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282403/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282403"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

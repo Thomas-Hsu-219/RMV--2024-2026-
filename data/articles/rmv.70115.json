@@ -1,0 +1,78 @@
+{
+  "doi": "10.1002/rmv.70115",
+  "title": "High‐Risk HPV in Men: A Hidden Threat to Public Health?",
+  "crossref_title": "High‐Risk HPV in Men: A Hidden Threat to Public Health?",
+  "abstract": "High-risk human papillomavirus (HR-HPV) infection is a leading cause of several cancers, including those of the genital and oropharyngeal regions. While public health efforts have largely focused on women due to its link to cervical cancer, HPV also poses significant risks to men, particularly in the oropharyngeal regions. HR-HPV prevalence in men is high, with global estimates of 21% for male genital infections. While the HPV vaccination programme has expanded to include boys, challenges remain, including a decline in vaccine uptake due to COVID-19 disruptions, vaccine hesitancy, and misinformation. These barriers hinder the full potential of vaccination efforts. Furthermore, HPV transmission is complex and multifactorial, making it difficult to track, while its prevalence, clearance, and persistence vary based on factors such as sexual behaviour and immune status. Additionally, data from lower socio-economic regions is limited, highlighting a critical gap in research. Specific data on these epidemiological characteristics for male patients is lacking, prompting the need for gender-balanced approaches. Here, we explore the prevalence, risks, and public health implications of high-risk HPV (HR-HPV) in men. We suggest a more inclusive approach to HPV prevention, emphasising the need for targeted vaccination and screening programs for men. A gender-neutral approach is crucial to reducing the global burden of HPV-related diseases and moving closer to the goal of eradicating HPV infections worldwide.",
+  "keywords": [
+    "HPV",
+    "public health",
+    "vaccination"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-02-14",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41689447",
+  "pmcid": "PMC12905817",
+  "authors": [
+    {
+      "given": "Keesha L.",
+      "family": "Coker",
+      "orcid": null
+    },
+    {
+      "given": "Ethan L.",
+      "family": "Morgan",
+      "orcid": "https://orcid.org/0000-0002-6487-5450"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Papillomavirus Infections",
+    "Vaccination",
+    "Prevalence",
+    "Risk Factors",
+    "Public Health",
+    "Uterine Cervical Neoplasms",
+    "Male",
+    "Papillomavirus Vaccines",
+    "Human Papillomavirus Viruses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70115",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70115",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41689447/",
+    "europe_pmc": "https://europepmc.org/article/MED/41689447"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,90 @@
+{
+  "doi": "10.1002/rmv.2539",
+  "title": "Potential therapeutic strategies to halt viral neuroinvasion",
+  "crossref_title": "Potential therapeutic strategies to halt viral neuroinvasion",
+  "abstract": "The viral infection of the central nervous system is a significant public health concern. So far, most clinical cases of viral neuroinvasion are dealt with supportive and/or symptomatic treatments due to the unavailability of specific treatments. Thus, developing specific therapies is required to alleviate neurological symptoms and disorders. In this review, we shed light on molecular aspects of viruses' entry into the brain which upon targeting with specific drugs have shown promising efficacy in vitro and in preclinical in vivo model systems. Further assessing the therapeutic potential of these drugs in clinical trials may offer opportunities to halt viral neuroinvasion in humans.",
+  "keywords": [
+    "central nervous system infections",
+    "drug therapy",
+    "inflammation",
+    "viruses"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-05-08",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38719789",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Luping",
+      "family": "Zhang",
+      "orcid": "https://orcid.org/0000-0002-7679-9387"
+    },
+    {
+      "given": "Usama",
+      "family": "Ashraf",
+      "orcid": null
+    },
+    {
+      "given": "Huanchun",
+      "family": "Chen",
+      "orcid": null
+    },
+    {
+      "given": "Shengbo",
+      "family": "Cao",
+      "orcid": null
+    },
+    {
+      "given": "Jing",
+      "family": "Ye",
+      "orcid": "https://orcid.org/0000-0001-5002-5351"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Brain",
+    "Animals",
+    "Humans",
+    "Central Nervous System Viral Diseases",
+    "Antiviral Agents",
+    "Virus Internalization"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2539",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2539",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38719789/",
+    "europe_pmc": "https://europepmc.org/article/MED/38719789"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

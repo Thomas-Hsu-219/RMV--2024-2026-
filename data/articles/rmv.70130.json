@@ -1,0 +1,82 @@
+{
+  "doi": "10.1002/rmv.70130",
+  "title": "When Norovirus Stress‐Tests Mass Gatherings: From Outbreaks to System Fragility",
+  "crossref_title": "When Norovirus Stress‐Tests Mass Gatherings: From Outbreaks to System Fragility",
+  "abstract": null,
+  "keywords": [
+    "anticipatory surveillance",
+    "environmental persistence",
+    "event resilience",
+    "mass gatherings",
+    "norovirus",
+    "outbreak detection",
+    "public health surveillance",
+    "system vulnerability",
+    "winter olympics"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-04",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41782295",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Giancarlo",
+      "family": "Ceccarelli",
+      "orcid": null
+    },
+    {
+      "given": "Fabio",
+      "family": "Scarpa",
+      "orcid": "https://orcid.org/0000-0002-3501-714X"
+    },
+    {
+      "given": "Massimo",
+      "family": "Ciccozzi",
+      "orcid": null
+    },
+    {
+      "given": "Francesco",
+      "family": "Branda",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Letter"
+  ],
+  "mesh_terms": [],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": null,
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "not_in_retrieved_sources",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70130",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70130",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41782295/",
+    "europe_pmc": "https://europepmc.org/article/MED/41782295"
+  },
+  "copyright_statement": null,
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

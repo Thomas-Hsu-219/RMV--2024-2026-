@@ -1,0 +1,100 @@
+{
+  "doi": "10.1002/rmv.70171",
+  "title": "Impact of Male Human Papillomavirus (HPV) Vaccination on HPV Infection and HPV‐Related Diseases: A Systematic Review",
+  "crossref_title": "Impact of Male Human Papillomavirus (HPV) Vaccination on HPV Infection and HPV‐Related Diseases: A Systematic Review",
+  "abstract": "Human papillomavirus (HPV) is the most common sexually transmitted infection worldwide and is responsible for anogenital warts and several cancers. Although the effectiveness of female HPV vaccination has been well established since its introduction in 2006, no systematic review has specifically evaluated the impact of male vaccination programs introduced in 2011. We synthesised real-world evidence on gender-neutral vaccination (GNV), identifying 17 studies reporting rates of HPV infection, anogenital warts, and HPV-related cancers during the pre- and post-GNV periods among males in high-income countries. Overall, we found limited but consistent evidence of benefit in males, although some of the observed reductions may also reflect herd immunity effects from earlier female-only HPV vaccination programs. Only two studies evaluated temporal trends in HPV infection, both demonstrating reductions in vaccine-targeted genotypes, although important methodological limitations restrict generalisability. Eight studies reported consistent declines in anogenital warts among adolescents and young adults, supporting a beneficial population-level impact of GNV. Analyses of HPV-related cancers showed an overall increasing incidence, likely reflecting long latency periods. However, some studies reported encouraging declines in cancer incidence among younger age groups. Oropharyngeal incidence decreased by 11%-19% among U.S. males aged 20-44 years, and penile cancer incidence decreased by 6%-38% among those aged 15-34 years. In Texas, penile and anal cancer incidence decreased by 35% and 16%, respectively, among males 20 years or older, while in Austria, anal cancer incidence decreased by 38% among men aged 30-39 years. Given the relatively recent introduction of male vaccination programs, longer follow-up is required to fully assess their impact. Studies in low- and middle-income countries are urgently needed.",
+  "keywords": [
+    "anogenital warts",
+    "cancer",
+    "gender‐neutral vaccination programme",
+    "genital infection",
+    "prophylactic vaccine"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-05-30",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42217245",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Anna",
+      "family": "Beltrame",
+      "orcid": null
+    },
+    {
+      "given": "Racheal S.",
+      "family": "Dube Mandishora",
+      "orcid": null
+    },
+    {
+      "given": "Wei (Vivian)",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Wenyi",
+      "family": "Fan",
+      "orcid": null
+    },
+    {
+      "given": "Mary Katherine",
+      "family": "Haver",
+      "orcid": null
+    },
+    {
+      "given": "Anna R.",
+      "family": "Giuliano",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Papillomavirus Infections",
+    "Condylomata Acuminata",
+    "Vaccination",
+    "Incidence",
+    "Adolescent",
+    "Female",
+    "Male",
+    "Papillomavirus Vaccines",
+    "Human Papillomavirus Viruses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70171",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70171",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42217245/",
+    "europe_pmc": "https://europepmc.org/article/MED/42217245"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

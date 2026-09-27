@@ -1,0 +1,79 @@
+{
+  "doi": "10.1002/rmv.70012",
+  "title": "Molecular Evolution of the H5 and H7 Highly Pathogenic Avian Influenza Virus Haemagglutinin Cleavage Site Motif",
+  "crossref_title": "Molecular Evolution of the H5 and H7 Highly Pathogenic Avian Influenza Virus Haemagglutinin Cleavage Site Motif",
+  "abstract": "Avian influenza viruses are ubiquitous in the Anatinae subfamily of aquatic birds and occasionally spill over to poultry. Infection with low pathogenicity avian influenza viruses generally leads to subclinical or mild clinical disease. In contrast, highly pathogenic avian influenza viruses emerge from low pathogenic forms and can cause severe disease associated with extraordinarily high mortality rates. Here, we describe the natural history of avian influenza virus, with a focus on H5Nx and H7Nx subtypes, and the emergence of highly pathogenic forms; we review the biology of AIV; we examine cleavage of haemagglutinin by host cell enzymes with a particular emphasis on the biochemical properties of the proprotein convertases, and trypsin and trypsin-like proteases; we describe mechanisms implicated in the functional evolution of the haemagglutinin cleavage site motif that leads to emergence of HPAIVs; and finally, we discuss the diversity of H5 and H7 haemagglutinin cleavage site sequence motifs. It is crucial to understand the molecular attributes that drive the emergence and evolution of HPAIVs with pandemic potential to inform risk assessments and mitigate the threat of HPAIVs to poultry and human populations.",
+  "keywords": [
+    "H5",
+    "H7",
+    "haemagglutinin",
+    "haemagglutinin cleavage site motif",
+    "highly pathogenic avian influenza virus"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "1",
+  "published_online": "2024-12-27",
+  "published_print": "2025-01",
+  "online_year": 2024,
+  "pmid": "39730318",
+  "pmcid": "PMC11680514",
+  "authors": [
+    {
+      "given": "Jasmina M.",
+      "family": "Luczo",
+      "orcid": "https://orcid.org/0000-0002-8036-110X"
+    },
+    {
+      "given": "Erica",
+      "family": "Spackman",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, U.S. Gov't, Non-P.H.S.",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Birds",
+    "Humans",
+    "Influenza A virus",
+    "Hemagglutinin Glycoproteins, Influenza Virus",
+    "Evolution, Molecular",
+    "Amino Acid Motifs",
+    "Influenza in Birds"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70012",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70012",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39730318/",
+    "europe_pmc": "https://europepmc.org/article/MED/39730318"
+  },
+  "copyright_statement": "© 2024 Commonwealth of Australia. Reviews in Medical Virology published by John Wiley & Sons Ltd. This article has been contributed to by U.S. Government employees and their work is in the public domain in the USA.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

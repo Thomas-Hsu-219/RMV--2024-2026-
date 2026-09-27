@@ -1,0 +1,88 @@
+{
+  "doi": "10.1002/rmv.2525",
+  "title": "Biomarkers of transfusion transmitted occult hepatitis B virus infection: Where are we and what next?",
+  "crossref_title": "Biomarkers of transfusion transmitted occult hepatitis B virus infection: Where are we and what next?",
+  "abstract": "Blood transfusion is a vital procedure, where transfusion-transmitted infection of hepatitis B virus (HBV) remains an important issue, especially from blood donors with occult hepatitis B virus infection (OBI). Occult hepatitis B virus infection is a complex entity to detect using surrogate blood biomarkers for intrahepatic viral transcriptional activity, requiring a continually refined battery of tests utilised for screening. This review aims to critically evaluate the latest advances in the current blood biomarkers to guide the identification of OBI donors and discuss novel HBV markers that could be introduced in future diagnostic practice. Challenges in detecting low HBV surface antigen levels, mutants, and complexes necessitate ultrasensitive multivalent dissociation assays, whilst HBV DNA testing requires improved sensitivity but worsens inaccessibility. Anti-core antibody assays defer almost all potentially infectious donations but have low specificity, and titres of anti-surface antibodies that prevent infectivity are poorly defined with suboptimal sensitivity. The challenges associated with these traditional blood HBV markers create an urgent need for alternative biomarkers that would help us better understand the OBI. Emerging viral biomarkers, such as pre-genomic RNA and HBV core-related antigen, immunological HBV biomarkers of T-cell reactivity and cytokine levels, and host biomarkers of microRNA and human leucocyte antigen molecules, present potential advances to gauge intrahepatic activity more accurately. Further studies on these markers may uncover an optimal diagnostic algorithm for OBI using quantification of various novel and traditional blood HBV markers. Addressing critical knowledge gaps identified in this review would decrease the residual risk of transfusion-transmitted HBV infection without compromising the sustainability of blood supplies.",
+  "keywords": [
+    "HBV",
+    "blood safety",
+    "diagnostic",
+    "serum markers"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "2",
+  "published_online": "2024-02-20",
+  "published_print": "2024-03",
+  "online_year": 2024,
+  "pmid": "38375981",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Michael X.",
+      "family": "Fu",
+      "orcid": "https://orcid.org/0000-0002-3108-7917"
+    },
+    {
+      "given": "Peter",
+      "family": "Simmonds",
+      "orcid": null
+    },
+    {
+      "given": "Monique",
+      "family": "Andersson",
+      "orcid": null
+    },
+    {
+      "given": "Heli",
+      "family": "Harvala",
+      "orcid": "https://orcid.org/0000-0001-9154-4190"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Hepatitis B virus",
+    "Hepatitis B",
+    "Hepatitis B, Chronic",
+    "DNA, Viral",
+    "Hepatitis B Antibodies",
+    "Hepatitis B Core Antigens",
+    "Blood Transfusion",
+    "Blood Donors",
+    "Biomarkers"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2525",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2525",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38375981/",
+    "europe_pmc": "https://europepmc.org/article/MED/38375981"
+  },
+  "copyright_statement": "© 2024 The Authors. Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

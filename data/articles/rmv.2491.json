@@ -1,0 +1,130 @@
+{
+  "doi": "10.1002/rmv.2491",
+  "title": "Immunopathology of herpes simplex virus‐associated neuroinflammation: Unveiling the mysteries",
+  "crossref_title": "Immunopathology of herpes simplex virus‐associated neuroinflammation: Unveiling the mysteries",
+  "abstract": "The immunopathology of herpes simplex virus (HSV)-associated neuroinflammation is a captivating and intricate field of study within the scientific community. HSV, renowned for its latent infection capability, gives rise to a spectrum of neurological expressions, ranging from mild symptoms to severe encephalitis. The enigmatic interplay between the virus and the host's immune responses profoundly shapes the outcome of these infections. This review delves into the multifaceted immune reactions triggered by HSV within neural tissues, intricately encompassing the interplay between innate and adaptive immunity. Furthermore, this analysis delves into the delicate equilibrium between immune defence and the potential for immunopathology-induced neural damage. It meticulously dissects the roles of diverse immune cells, cytokines, and chemokines, unravelling the intricacies of neuroinflammation modulation and its subsequent effects. By exploring HSV's immune manipulation and exploitation mechanisms, this review endeavours to unveil the enigmas surrounding the immunopathology of HSV-associated neuroinflammation. This comprehensive understanding enhances our grasp of viral pathogenesis and holds promise for pioneering therapeutic strategies designed to mitigate the neurological ramifications of HSV infections.",
+  "keywords": [
+    "herpes encephalitis",
+    "herpes simplex virus",
+    "herpes virus",
+    "immunity",
+    "neuroinflammation"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-11-20",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "37985599",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Md Sadique",
+      "family": "Hussain",
+      "orcid": "https://orcid.org/0000-0002-3554-1750"
+    },
+    {
+      "given": "Gaurav",
+      "family": "Gupta",
+      "orcid": "https://orcid.org/0000-0001-7941-0229"
+    },
+    {
+      "given": "Vijaya Paul",
+      "family": "Samuel",
+      "orcid": null
+    },
+    {
+      "given": "Waleed Hassan",
+      "family": "Almalki",
+      "orcid": null
+    },
+    {
+      "given": "Imran",
+      "family": "Kazmi",
+      "orcid": "https://orcid.org/0000-0003-1881-5219"
+    },
+    {
+      "given": "Sami I.",
+      "family": "Alzarea",
+      "orcid": null
+    },
+    {
+      "given": "Shakir",
+      "family": "Saleem",
+      "orcid": null
+    },
+    {
+      "given": "Ruqaiyah",
+      "family": "Khan",
+      "orcid": null
+    },
+    {
+      "given": "Najla",
+      "family": "Altwaijry",
+      "orcid": null
+    },
+    {
+      "given": "Samir",
+      "family": "Patel",
+      "orcid": null
+    },
+    {
+      "given": "Archita",
+      "family": "Patel",
+      "orcid": null
+    },
+    {
+      "given": "Sachin Kumar",
+      "family": "Singh",
+      "orcid": "https://orcid.org/0000-0003-3823-6572"
+    },
+    {
+      "given": "Kamal",
+      "family": "Dua",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Simplexvirus",
+    "Herpes Simplex",
+    "Cytokines",
+    "Adaptive Immunity",
+    "Neuroinflammatory Diseases"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2491",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2491",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/37985599/",
+    "europe_pmc": "https://europepmc.org/article/MED/37985599"
+  },
+  "copyright_statement": "© 2023 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

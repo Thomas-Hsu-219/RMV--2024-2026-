@@ -1,0 +1,96 @@
+{
+  "doi": "10.1002/rmv.70129",
+  "title": "The Burden of HPV35 in African Cervical Pathologies: Prevalence, Contributing Factors, and Vaccine Prospects",
+  "crossref_title": "The Burden of HPV35 in African Cervical Pathologies: Prevalence, Contributing Factors, and Vaccine Prospects",
+  "abstract": "Human papillomavirus (HPV35) is globally associated with only 2% of invasive cervical cancers (ICC) but demonstrates a disproportionately higher prevalence in sub-Saharan Africa, reaching up to 10% in previous reports. In this review, we provide updated data from multiple African countries, revealing high HPV35 prevalence rates in women with precancerous and ICC lesions. Among women with ICC, the highest prevalence of HPV35 was observed in Mozambique (30% and 19%), Kenya (26% and 22%), South Africa (17%), Burkina Faso (13.7%), Zimbabwe (11%), and Tanzania (11.2%). Similarly, in women with precancerous lesions (LSIL/HSIL/CIN1-3), the highest rates were recorded in Tanzania (26%) and Botswana (23% and 20%). These findings highlight a significant and underappreciated burden of HPV35-associated cervical disease in African populations, particularly among women with precancerous and invasive lesions. The findings call for an urgent re-evaluation of current HPV vaccination strategies to consider the inclusion of HPV35, which could profoundly enhance the effectiveness of cervical cancer prevention programs in sub-Saharan Africa.",
+  "keywords": [
+    "HIV and vaccine development",
+    "HPV35",
+    "invasive cervical cancer",
+    "sub‐Saharan Africa"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-03",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41776984",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Alltalents T.",
+      "family": "Murahwa",
+      "orcid": "https://orcid.org/0000-0003-3427-7852"
+    },
+    {
+      "given": "Mathias",
+      "family": "Dzobo",
+      "orcid": "https://orcid.org/0000-0002-9910-0700"
+    },
+    {
+      "given": "Anifrid",
+      "family": "Mahenge",
+      "orcid": null
+    },
+    {
+      "given": "Patricia",
+      "family": "Rantshabeng",
+      "orcid": "https://orcid.org/0000-0001-5799-9810"
+    },
+    {
+      "given": "Racheal S.",
+      "family": "Dube Mandishora",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Papillomaviridae",
+    "Papillomavirus Infections",
+    "Prevalence",
+    "Africa",
+    "Africa South of the Sahara",
+    "Uterine Cervical Dysplasia",
+    "Uterine Cervical Neoplasms",
+    "Female",
+    "Papillomavirus Vaccines",
+    "Alphapapillomavirus",
+    "Human Papillomavirus Viruses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70129",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70129",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41776984/",
+    "europe_pmc": "https://europepmc.org/article/MED/41776984"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,89 @@
+{
+  "doi": "10.1002/rmv.70007",
+  "title": "Clinical Relevance of Oxidative Stress Biomarkers in Human Flavivirus Infections as Predictors of Disease Progression and Severity",
+  "crossref_title": "Clinical Relevance of Oxidative Stress Biomarkers in Human Flavivirus Infections as Predictors of Disease Progression and Severity",
+  "abstract": "Several Flaviviridae constitute an emerging threat to global health because of their continuing spread and the expansion of vector habitats, largely driven by climate change and intensified global travel. Infections can result in severe neurological or visceral pathologies. The relationship between oxidative stress (OS), an imbalance between generated reactive oxygen species and the antioxidant defences of the host, and flavivirus infection has been repeatedly demonstrated in in vitro and animal studies, but measuring biomarkers of oxidative stress in vivo could prove useful in clinical patient management. We summarise the knowledge and prospects of measuring peripheral OS biomarker levels for clinical case management and correlation with disease severity in six important human flavivirus infections (dengue virus (DENV), Japanese encephalitis virus, West Nile virus (WNV), tick-borne encephalitis virus (TBEV), yellow fever virus and zika virus). We searched the Medline and Web of Science databases for 'Oxidative Stress' AND 'Biomarkers' AND 'Flavivirus', combined with 'clinical', 'in vivo/in vivo', 'patient' and/or 'disease' and included 43 peer-reviewed publications. Correlation between OS and infection has been studied in all six Flaviviridae, but most clinically relevant data are available for DENV, TBEV and WNV. Plasma protein carbonyls, glutathione peroxidase activity and nitrogen monoxide are promising prognostic markers, but their measurement would benefit from methodological harmonisation. Future studies should investigate a broad range of OS biomarkers as predictors of clinically relevant outcomes. We advocate the validation and use of universal or disease-specific oxidative stress indexes that incorporate the most significant outcomes into one, easy-to-use clinical determinant.",
+  "keywords": [
+    "biomarkers",
+    "flaviviruses",
+    "infectious disease",
+    "oxidative stress",
+    "review"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "6",
+  "published_online": "2024-11-12",
+  "published_print": "2024-11",
+  "online_year": 2024,
+  "pmid": "39532693",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Maxim",
+      "family": "Van Herreweghe",
+      "orcid": "https://orcid.org/0000-0001-5490-0731"
+    },
+    {
+      "given": "Tess",
+      "family": "De Bruyne",
+      "orcid": null
+    },
+    {
+      "given": "Nina",
+      "family": "Hermans",
+      "orcid": null
+    },
+    {
+      "given": "Ralph",
+      "family": "Huits",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Flavivirus",
+    "Flavivirus Infections",
+    "Disease Progression",
+    "Prognosis",
+    "Severity of Illness Index",
+    "Oxidative Stress",
+    "Biomarkers",
+    "Clinical Relevance"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70007",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70007",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39532693/",
+    "europe_pmc": "https://europepmc.org/article/MED/39532693"
+  },
+  "copyright_statement": "© 2024 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc-nd/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

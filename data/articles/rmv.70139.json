@@ -1,0 +1,148 @@
+{
+  "doi": "10.1002/rmv.70139",
+  "title": "Virus‐Like Nanoparticles for Vaccine Development and Drug Delivery",
+  "crossref_title": "Virus‐Like Nanoparticles for Vaccine Development and Drug Delivery",
+  "abstract": "Virus-like nanoparticles (VLPs) are naturally occurring polymeric nanomaterials formed by the self-assembly of one or more viral capsid proteins (CPs). VLPs have garnered significant attention in a wide range of nanotechnology-based diagnostics and therapies, including immunotherapy and drug delivery. VLPs are Exhibiting high biocompatibility and biodegradability, alone with uniform structure and controlled assembly, VLPs represent a complex and versatile therapeutic platform. This review provides an overview of the fundamental aspects of VLPs, including their types, structures, immune mechanisms, as well as expression and purification method. Recent advances in the development and application of engineered VLPs for drug delivery, gene therapy, immunology studies and multifunctional therapeutics are discussed. This paper also summarised research advances in the use of virus-like particles as chimaeric vectors and highlights their potential as efficient delivery vehicles. Finally, we present several successful examples of VLPs-based drug delivery system and provide a comprehensive analysis of VLPs that takes advantage of both viral and non-viral delivery methods for efficient theranostic application.",
+  "keywords": [
+    "drug delivery systems",
+    "theranostics",
+    "vaccine",
+    "virus‐like nanoparticles"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-22",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42017442",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "De‐feng",
+      "family": "Li",
+      "orcid": "https://orcid.org/0000-0003-3118-6840"
+    },
+    {
+      "given": "Mei‐feng",
+      "family": "Yang",
+      "orcid": null
+    },
+    {
+      "given": "Ning‐ning",
+      "family": "Yue",
+      "orcid": null
+    },
+    {
+      "given": "Long‐bin",
+      "family": "Huang",
+      "orcid": null
+    },
+    {
+      "given": "Chen",
+      "family": "Kong",
+      "orcid": null
+    },
+    {
+      "given": "Yuan",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Cheng‐mei",
+      "family": "Tian",
+      "orcid": null
+    },
+    {
+      "given": "Hai‐lan",
+      "family": "Zhao",
+      "orcid": "https://orcid.org/0000-0001-9330-9741"
+    },
+    {
+      "given": "Qian‐jun",
+      "family": "Luo",
+      "orcid": null
+    },
+    {
+      "given": "Hua‐lin",
+      "family": "Ma",
+      "orcid": null
+    },
+    {
+      "given": "Jian‐yao",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Dao‐ru",
+      "family": "Wei",
+      "orcid": null
+    },
+    {
+      "given": "Li‐sheng",
+      "family": "Wang",
+      "orcid": "https://orcid.org/0000-0001-5965-308X"
+    },
+    {
+      "given": "Jian‐ping",
+      "family": "Lu",
+      "orcid": "https://orcid.org/0000-0003-4757-985X"
+    },
+    {
+      "given": "Yu‐jie",
+      "family": "Liang",
+      "orcid": "https://orcid.org/0000-0002-0860-4859"
+    },
+    {
+      "given": "Jun",
+      "family": "Yao",
+      "orcid": "https://orcid.org/0000-0002-3472-1602"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Capsid Proteins",
+    "Drug Delivery Systems",
+    "Nanoparticles",
+    "Vaccines, Virus-Like Particle",
+    "Theranostic Nanomedicine",
+    "Vaccine Development",
+    "Artificial Virus-Like Particles"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70139",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70139",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42017442/",
+    "europe_pmc": "https://europepmc.org/article/MED/42017442"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

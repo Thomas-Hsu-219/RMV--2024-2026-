@@ -1,0 +1,88 @@
+{
+  "doi": "10.1002/rmv.70027",
+  "title": "Anti‐SARS‐CoV‐2 Antibodies in Long‐COVID—Markers of Protection or Elevated Risk? A Systematic Review",
+  "crossref_title": "Anti‐SARS‐CoV‐2 Antibodies in Long‐COVID—Markers of Protection or Elevated Risk? A Systematic Review",
+  "abstract": "Long-COVID affects a significant number of COVID-19 survivors, profoundly impacting daily life and work. Although research suggests a potential link between antibody levels and long-COVID risk, findings remain inconclusive. Understanding antibody dynamics could support the identification of patients at risk, improve long-COVID diagnosis, and guide protective strategies such as vaccination. Despite growing evidence, no systematic review has yet evaluated the current literature on this topic. We therefore aimed to synthesise and evaluate existing evidence on the association between anti-SARS-CoV-2 antibody titres and long-COVID, with the goal of clarifying their potential role in predicting long-COVID risk, guiding patient management, and informing future research directions. Studies published in PubMed/Medline databases between January 2020 and October 2024 were included without language restrictions. Studies on body fluids other than serum/blood were excluded. Study selection and quality assessment was conducted independently by two researchers. After screening 949 studies, 58 studies encompassing 53,739 individuals, and 7812 long-COVID patients, were included. Evidence was highly heterogenous but most studies reported an association between anti-SARS-CoV-2-spike antibodies and long-COVID, although the nature of the association appeared to be dependent on time from acute infection. Low anti-SARS-CoV-2-spike antibodies during acute COVID-19 were associated with increased risk of long-COVID. The association between low anti-SARS-CoV-2-spike antibodies during acute COVID-19 and long-COVID suggests that maintaining sufficiently high antibody levels may be protective. However, the current evidence level is low and further studies with sufficient power are required to confirm this association and to potentially determine protective cutoffs.",
+  "keywords": [
+    "anti‐SARS‐CoV‐2 antibodies",
+    "long‐COVID",
+    "post‐COVID‐19 condition"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "2",
+  "published_online": "2025-02-24",
+  "published_print": "2025-03",
+  "online_year": 2025,
+  "pmid": "39993991",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Sylvia",
+      "family": "Mink",
+      "orcid": "https://orcid.org/0000-0001-7615-6544"
+    },
+    {
+      "given": "Fabian",
+      "family": "Wilhelm",
+      "orcid": null
+    },
+    {
+      "given": "Janne",
+      "family": "Cadamuro",
+      "orcid": null
+    },
+    {
+      "given": "Patrick",
+      "family": "Reimann",
+      "orcid": null
+    },
+    {
+      "given": "Peter",
+      "family": "Fraunberger",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Antibodies, Viral",
+    "Risk Factors",
+    "Biomarkers",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70027",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70027",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39993991/",
+    "europe_pmc": "https://europepmc.org/article/MED/39993991"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

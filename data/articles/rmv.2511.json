@@ -1,0 +1,77 @@
+{
+  "doi": "10.1002/rmv.2511",
+  "title": "The controversy of SARS‐CoV‐2 integration into the human genome",
+  "crossref_title": "The controversy of SARS‐CoV‐2 integration into the human genome",
+  "abstract": "Bat borne disease have attracted many researchers for years. The ability of the bat to host several exogenous viruses has been a focal point in research lately. The latest pandemic shifted the focus of scholars towards understanding the difference in response to viral infection between humans and bats. In a way to understand the basis of the interaction and behaviour between SARS-CoV-2 and the environment, a conflict between different researchers across the globe arose. This conflict asked many questions about the truth of virus-host integration, whether an interaction between RNA viruses and human genomes has ever been reported, the possible route and mechanism that could lead to genomic integration of viral sequences and the methods used to detect integration. This article highlights those questions and will discuss the diverse opinions of the controversy and provide examples on reported integration mechanisms and possible detection techniques.",
+  "keywords": [
+    "LINE-1",
+    "SARS-CoV-2",
+    "integration",
+    "retrotransposition"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01-09",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282406",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Laith",
+      "family": "AL‐Eitan",
+      "orcid": "https://orcid.org/0000-0003-0064-0190"
+    },
+    {
+      "given": "Ahmad",
+      "family": "Mihyar",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Chiroptera",
+    "Humans",
+    "Virus Diseases",
+    "Phylogeny",
+    "Genome, Viral",
+    "Genome, Human",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2511",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2511",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282406/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282406"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

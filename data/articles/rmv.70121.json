@@ -1,0 +1,97 @@
+{
+  "doi": "10.1002/rmv.70121",
+  "title": "A Deep Dive Into Oncogenic Viruses Understanding Their Role in Cancer and Approaches for Prevention",
+  "crossref_title": "A Deep Dive Into Oncogenic Viruses Understanding Their Role in Cancer and Approaches for Prevention",
+  "abstract": "Oncogenic viruses, including Epstein-Barr virus (EBV), Human Papillomavirus (HPV), Kaposi's Sarcoma-Associated Herpesvirus (KSHV), Hepatitis B Virus (HBV), Merkel Cell Polyomavirus (MCPyV), Human T-cell Lymphotropic Virus (HTLV-1), and Hepatitis C Virus (HCV), are significant contributors to cancer development, each through distinct mechanisms. EBV is recognised for its association with cancers such as Burkitt lymphoma and nasopharyngeal carcinoma. High-risk types of HPV are primarily connected to cervical cancer. KSHV plays a crucial role in the development of Kaposi's sarcoma, especially among individuals with compromised immune systems. Both HBV and HCV are implicated in liver cancer due to chronic infections and resultant inflammation. MCPyV is linked to aggressive skin cancers, while HTLV-1 can lead to leukemia and various neurological complications. Collectively, these viruses account for approximately 20% of all cancers globally, providing valuable insights into cancer pathogenesis and potential treatment avenues. Effective management of these viruses includes the use of vaccines such as Gardasil for HPV and antiviral medications for HBV and HCV. Treatment options for cancers associated with EBV, KSHV, and MCPyV encompass targeted therapies and surgical interventions. Preventive measures emphasise vaccination, safe practices to curb virus transmission, routine screenings, and maintaining a healthy lifestyle. Ongoing research and public health initiatives are vital for enhancing prevention and treatment strategies, particularly in high-risk and resource-limited settings. By deepening our understanding of these viruses, we can improve the development of targeted therapies and strive to reduce the global burden of cancer.",
+  "keywords": [
+    "cancer virus",
+    "oncogenic diagnosis",
+    "oncogenic prevention",
+    "oncogenic treatment",
+    "oncogenic virus"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-02-23",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41731969",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Neetesh",
+      "family": "Jindal",
+      "orcid": null
+    },
+    {
+      "given": "Bipin Bihari",
+      "family": "Mishra",
+      "orcid": null
+    },
+    {
+      "given": "Ashish",
+      "family": "Kumar",
+      "orcid": null
+    },
+    {
+      "given": "Sindhuprava",
+      "family": "Rana",
+      "orcid": null
+    },
+    {
+      "given": "Krishna",
+      "family": "Pandey",
+      "orcid": null
+    },
+    {
+      "given": "Ganesh",
+      "family": "Chandra Sahoo",
+      "orcid": "https://orcid.org/0000-0002-3560-9815"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Herpesvirus 4, Human",
+    "Oncogenic Viruses",
+    "Tumor Virus Infections",
+    "Neoplasms",
+    "Human Papillomavirus Viruses"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70121",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70121",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41731969/",
+    "europe_pmc": "https://europepmc.org/article/MED/41731969"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

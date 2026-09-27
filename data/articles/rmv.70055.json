@@ -1,0 +1,98 @@
+{
+  "doi": "10.1002/rmv.70055",
+  "title": "Arboviruses and Osteogenesis‐Associated Signalling Pathways: A Potential Therapeutic Target for Musculoskeletal Complications",
+  "crossref_title": "Arboviruses and Osteogenesis‐Associated Signalling Pathways: A Potential Therapeutic Target for Musculoskeletal Complications",
+  "abstract": "Arthropod-borne viruses (arboviruses), such as Chikungunya virus (CHIKV), Zika virus (ZIKV), and Dengue virus (DENV), represent significant global health threats. Beyond their acute systemic illnesses, many arboviral infections are characterized by debilitating and often chronic musculoskeletal complications, including arthralgia, arthritis, myalgia, and bone pain. Evidence suggests that these pathologies may stem, at least in part, from the viruses' direct or indirect interference with fundamental cellular processes governing skeletal homoeostasis, particularly osteogenesis (bone formation) and bone remodelling. Key signalling pathways critical for osteoblast differentiation and function, such as Wnt/β-catenin, Bone Morphogenetic Protein (BMP), Notch, and Receptor Activator of Nuclear Factor kappa-B Ligand (RANKL) pathways, are potential targets for viral manipulation or dysregulation by the host inflammatory response. This article reviews the current understanding of how arboviruses might interact with osteogenesis-associated signalling pathways, explores the link between this interaction and musculoskeletal disease, and proposes that targeting these pathways could represent a novel therapeutic strategy to mitigate the long-term skeletal sequelae of arboviral infections.",
+  "keywords": [
+    "CHIKV",
+    "DENV",
+    "ZIKV",
+    "arboviruses",
+    "osteogenesis",
+    "signalling pathways"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "4",
+  "published_online": "2025-07-16",
+  "published_print": "2025-07",
+  "online_year": 2025,
+  "pmid": "40670304",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jian",
+      "family": "Li",
+      "orcid": null
+    },
+    {
+      "given": "Jiandong",
+      "family": "Guo",
+      "orcid": null
+    },
+    {
+      "given": "Jinxi",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Yongfeng",
+      "family": "Cui",
+      "orcid": null
+    },
+    {
+      "given": "Shuying",
+      "family": "Shen",
+      "orcid": null
+    },
+    {
+      "given": "Hongchang",
+      "family": "Zhao",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Arboviruses",
+    "Arbovirus Infections",
+    "Musculoskeletal Diseases",
+    "Signal Transduction",
+    "Osteogenesis"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70055",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70055",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40670304/",
+    "europe_pmc": "https://europepmc.org/article/MED/40670304"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

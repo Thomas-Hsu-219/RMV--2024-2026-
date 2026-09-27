@@ -1,0 +1,166 @@
+{
+  "doi": "10.1002/rmv.2508",
+  "title": "Clinical characteristics and outcomes of patients with mpox during the 2022 mpox outbreak compared with those before the outbreak: A systematic review and meta‐analysis",
+  "crossref_title": "Clinical characteristics and outcomes of patients with mpox during the 2022 mpox outbreak compared with those before the outbreak: A systematic review and meta‐analysis",
+  "abstract": "On 23 July 2022, the World Health Organization declared the global mpox outbreak as a public health emergency of international significance. The mpox virus (MPXV) that caused the outbreak was classified as clade IIb, which belongs to the West African clade. However, the relationship between MPXV clades and symptoms, as well as the severity of mpox outcomes, is not fully understood. Thus, we aimed to investigate the global mpox prevalence and the differences in clinical manifestations and outcomes among patients with mpox between pre-outbreak (2003-2021) and the current mpox outbreak. In this systematic review and meta-analysis, PubMed/MEDLINE, Web of Science, Embase, Cumulative Index to Nursing and Allied Health Literature, and Google Scholar were searched using the keyword \"monkeypox\" and \"mpox\" up to 13 October 2022. A random effects model was used to obtain the pooled prevalence and 95% confidence intervals. This study included 27 articles, and 5698 patients with mpox with 19 distinctive features from 19 countries across five continents were assessed. Patients with mpox during the 2022 mpox outbreak showed mild clinical manifestations and outcomes compared with those before the 2022 mpox outbreak: mild rash (relative ratio [RR]: 5.09, 95% confidence interval [CI]: 1.52-17.08), fever (0.68, 0.49-0.94), pruritus (0.25, 0.19-0.32), myalgia (0.50, 0.31-0.81), headache (0.56, 0.35-0.88), skin ulcer (0.32, 0.17-0.59), abdominal symptom (0.29, 0.20-0.42), pharyngitis (0.32, 0.18-0.58), nausea or vomiting (0.15, 0.02-0.93), conjunctivitis (0.11, 0.03-0.38), concomitant infection with HIV (1.70, 0.95-3 0.04), and death (0.02, 0.001-0.31). MPXV clade IIb exhibited higher infectivity but may cause mild disease symptoms and low mortality rate. It is important to consider MPXV infection in patients with mpox-related features and/or a history of sexual transmission to prevent the spread of the disease and recognise the current pandemic threat.",
+  "keywords": [
+    "2003-2021",
+    "2022",
+    "clinical feature",
+    "comparison",
+    "mpox",
+    "outbreak",
+    "prevalence",
+    "symptom"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282393",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Wonyoung",
+      "family": "Cho",
+      "orcid": null
+    },
+    {
+      "given": "Sangil",
+      "family": "Park",
+      "orcid": null
+    },
+    {
+      "given": "Hyeon Jin",
+      "family": "Kim",
+      "orcid": null
+    },
+    {
+      "given": "Myeongcheol",
+      "family": "Lee",
+      "orcid": null
+    },
+    {
+      "given": "Yong Sung",
+      "family": "Choi",
+      "orcid": null
+    },
+    {
+      "given": "Seung Geun",
+      "family": "Yeo",
+      "orcid": null
+    },
+    {
+      "given": "Jinseok",
+      "family": "Lee",
+      "orcid": null
+    },
+    {
+      "given": "Ai",
+      "family": "Koyanagi",
+      "orcid": null
+    },
+    {
+      "given": "Louis",
+      "family": "Jacob",
+      "orcid": null
+    },
+    {
+      "given": "Lee",
+      "family": "Smith",
+      "orcid": null
+    },
+    {
+      "given": "Masoud",
+      "family": "Rahmati",
+      "orcid": "https://orcid.org/0000-0003-4792-027X"
+    },
+    {
+      "given": "Suhana",
+      "family": "Ahmad",
+      "orcid": null
+    },
+    {
+      "given": "Guillaume",
+      "family": "Fond",
+      "orcid": null
+    },
+    {
+      "given": "Laurent",
+      "family": "Boyer",
+      "orcid": null
+    },
+    {
+      "given": "Sang Youl",
+      "family": "Rhee",
+      "orcid": null
+    },
+    {
+      "given": "Seung Won",
+      "family": "Lee",
+      "orcid": null
+    },
+    {
+      "given": "Jae Il",
+      "family": "Shin",
+      "orcid": "https://orcid.org/0000-0003-2326-1820"
+    },
+    {
+      "given": "Ho Geol",
+      "family": "Woo",
+      "orcid": null
+    },
+    {
+      "given": "Dong Keon",
+      "family": "Yon",
+      "orcid": "https://orcid.org/0000-0003-1628-9948"
+    }
+  ],
+  "publication_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "HIV-1",
+    "HIV Seropositivity",
+    "Exanthema",
+    "Fever",
+    "Public Health",
+    "Disease Outbreaks",
+    "Mpox, Monkeypox"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2508",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2508",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282393/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282393"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

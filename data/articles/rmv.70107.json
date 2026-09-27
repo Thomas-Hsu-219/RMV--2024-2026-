@@ -1,0 +1,93 @@
+{
+  "doi": "10.1002/rmv.70107",
+  "title": "Forecasting Influenza Epidemics and Pandemics in the Age of AI and Machine Learning",
+  "crossref_title": "Forecasting Influenza Epidemics and Pandemics in the Age of AI and Machine Learning",
+  "abstract": "Influenza's rapid evolution, driven by its segmented RNA genome, high mutation rate, and extensive animal reservoirs, underpins its capacity to cause recurring epidemics and unpredictable pandemics. Recent advances in artificial intelligence (AI) and machine learning (ML) are transforming influenza forecasting by enabling the prediction of viral evolution and the optimisation of public health preparedness. This review synthesises insights from historical data (1890-2025) and contemporary research to examine the evolving role of AI in influenza prediction. It highlights major developments including transformer-based models for viral evolution, real-time integration of mobility and environmental data, hybrid quantum, which are classical algorithms, and multimodal data fusion frameworks, it also consideres critical risk modifiers such as meteorological variation, armed conflict, and host genetics. Importantly, the review distinguishes between retrospective, proof-of-concept analyses and prospective, real-time forecasting applications, clarifying their respective contributions to operational public health preparedness and informed decision-making.",
+  "keywords": [],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "1",
+  "published_online": "2026-01-19",
+  "published_print": "2026-01",
+  "online_year": 2026,
+  "pmid": "41555591",
+  "pmcid": "PMC12816819",
+  "authors": [
+    {
+      "given": "Oleksandr",
+      "family": "Kamyshnyi",
+      "orcid": null
+    },
+    {
+      "given": "Iryna",
+      "family": "Halabitska",
+      "orcid": null
+    },
+    {
+      "given": "Valentyn",
+      "family": "Oksenych",
+      "orcid": null
+    },
+    {
+      "given": "Iryna",
+      "family": "Kamyshna",
+      "orcid": null
+    },
+    {
+      "given": "Pavlo",
+      "family": "Petakh",
+      "orcid": "https://orcid.org/0000-0002-0860-4445"
+    },
+    {
+      "given": "Denis E.",
+      "family": "Kainov",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Forecasting",
+    "Artificial Intelligence",
+    "Influenza, Human",
+    "Epidemics",
+    "Pandemics",
+    "Machine Learning",
+    "Predictive Learning Models",
+    "Prediction Algorithms"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": null,
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "not_in_retrieved_sources"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70107",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70107",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41555591/",
+    "europe_pmc": "https://europepmc.org/article/MED/41555591"
+  },
+  "copyright_statement": "© 2026 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc/4.0/",
+    "http://doi.wiley.com/10.1002/tdm_license_1.1"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

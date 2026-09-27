@@ -1,0 +1,97 @@
+{
+  "doi": "10.1002/rmv.70128",
+  "title": "The Impact of SARS‐CoV‐2 on Male Infertility: A Systematic Review and Meta‐Analysis of Cohort Studies",
+  "crossref_title": "The Impact of SARS‐CoV‐2 on Male Infertility: A Systematic Review and Meta‐Analysis of Cohort Studies",
+  "abstract": "Several conclusions have emerged regarding the impact of COVID-19 on the male reproductive system. This systematic review and meta-analysis aimed to provide a comprehensive update on the relationship between COVID-19 and male reproductive health. We investigated the effects of SARS-CoV-2 on various semen parameters, including semen volume, sperm concentration, sperm total count, total motility, progressive motility, morphology, and DNA fragmentation index (DFI). A literature review was conducted on all studies evaluating the impact of SARS-CoV-2 infection on male infertility from the beginning of 2019 through December 2023. Main electronic databases such as PubMed, Scopus, Cochrane Library, and Web of Science were used. The research question was based on the PECO framework, focusing on (Population) exposed to SARS-CoV-2 (Exposure), compared to uninfected men (Comparator), with conventional sperm parameters as the measured Outcome. The studies were divided into two groups for analysis: between-group comparisons, which compared sperm parameters of men recovered from COVID-19 to uninfected controls, and within-subject comparisons, which assessed sperm parameters in the same individuals before and after infection. Standardized mean differences (SMD) were calculated as effect sizes with 95% confidence intervals (CI) for each outcome. The DerSimonian-Laird method estimated between-study variance (τ2), while the Jackson method calculated confidence intervals for τ2 and τ. Publication bias was assessed using funnel plots and Egger's test. This meta-analysis included two types of cohort studies: single-arm studies and those with a control group. In the single-arm studies, a statistically significant decrease in semen volume (p = 0.0023) was observed. Additionally, in the cohort studies with controls, there were statistically significant reductions in sperm concentration (p < 0.0001), total count (p = 0.0001), total motility (p = 0.0009), progressive sperm motility (0.0391), and DFI (0.04). This is the most up-to-date systematic review and meta-analysis incorporating cohort study data. The findings provide compelling evidence that SARS-CoV-2 infection adversely affects male reproductive health, particularly in terms of semen quality. The analysis reveals significant reductions in key semen parameters, including sperm count, concentration, total motility, and progressive motility. Adult maleand DFI.",
+  "keywords": [
+    "COVID‐19",
+    "SARS‐COV‐2",
+    "infertility",
+    "meta‐analysis"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-03-21",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41863427",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mehdi Gholami",
+      "family": "Barzoki",
+      "orcid": null
+    },
+    {
+      "given": "Mohammad",
+      "family": "Farahmand",
+      "orcid": null
+    },
+    {
+      "given": "Mohamad Javad",
+      "family": "Mahmodi",
+      "orcid": null
+    },
+    {
+      "given": "Naser",
+      "family": "Amirjannati",
+      "orcid": "https://orcid.org/0000-0001-8546-8750"
+    },
+    {
+      "given": "Somayeh Shatizadeh",
+      "family": "Malekshahi",
+      "orcid": "https://orcid.org/0000-0003-2741-2745"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Spermatozoa",
+    "Semen",
+    "Humans",
+    "Infertility, Male",
+    "Sperm Count",
+    "Cohort Studies",
+    "DNA Fragmentation",
+    "Sperm Motility",
+    "Male",
+    "Semen Analysis",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70128",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70128",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41863427/",
+    "europe_pmc": "https://europepmc.org/article/MED/41863427"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,96 @@
+{
+  "doi": "10.1002/rmv.70067",
+  "title": "Crosstalk Between Viral Envelop‐E Protein and Host Innate Immune System: Exploring Pharmacological Targets and Agents",
+  "crossref_title": "Crosstalk Between Viral Envelop‐E Protein and Host Innate Immune System: Exploring Pharmacological Targets and Agents",
+  "abstract": "The Envelope (E)-protein is a key structural element of enveloped viruses that plays a significant role in host-pathogen interactions, viral growth, and hijacking of host innate immune system. Due to lack of antiviral agents and significant adverse effects and less affordability of vaccines, the E-protein targeted drug development is gaining critical attention among the researchers. The present review explores the structural and genomic diversities of E-protein among animal viruses with special interest to flaviviruses, coronaviruses, and herpesviruses. E-protein's viroporin activity damages host cell membrane and induces inflammation that advances the disease progression. The review also explains the viroporin-mediated NOD-like receptor family pyrin domain-containing 3 (NLRP3), Toll-like receptors (TLRs), nucleotide-binding oligomerisation domain (NOD)-like receptors (NLRs), and retinoic acid-inducible gene I (RIG-I)-like receptors (RLRs)-linked cellular mechanisms in virus-mediated inflammation. The E-protein is considered an alternative promising antiviral target as its functional domain is conserved. This review further enlists the natural, and synthetic inhibitors of E-protein in the development of antiviral agents based on computational, in vitro, and in vivo studies. The E-protein's universal conservation ability to fasten to cellular membranes and limited structural data imparts significant challenge to selective drug inhibition. The present review highlights that the E-protein together with multiple viral factors will boost treatment performance while minimising viral resistance. In addition, broad-range inhibitors targeting E-proteins have the potential to produce single treatment solutions in combating viral infections including several viral strains. In conclusion, E-protein targeted drug would be beneficial in developing potential antiviral agents with high drug specificity, and less viral resistance.",
+  "keywords": [
+    "and therapeutic target",
+    "envelope (E) protein",
+    "ion channel activity",
+    "viral pathogenesis",
+    "viroporin"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "5",
+  "published_online": "2025-08-13",
+  "published_print": "2025-09",
+  "online_year": 2025,
+  "pmid": "40804019",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Satyam",
+      "family": "Shekhar",
+      "orcid": null
+    },
+    {
+      "given": "Arvind",
+      "family": "Maurya",
+      "orcid": null
+    },
+    {
+      "given": "",
+      "family": "Sandeep",
+      "orcid": null
+    },
+    {
+      "given": "Subrat Kumar",
+      "family": "Bhattamisra",
+      "orcid": null
+    },
+    {
+      "given": "Gireesh Kumar",
+      "family": "Singh",
+      "orcid": null
+    },
+    {
+      "given": "Debapriya",
+      "family": "Garabadu",
+      "orcid": "https://orcid.org/0000-0002-4235-3926"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Virus Diseases",
+    "Viral Envelope Proteins",
+    "Antiviral Agents",
+    "Host-Pathogen Interactions",
+    "Immunity, Innate"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70067",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70067",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40804019/",
+    "europe_pmc": "https://europepmc.org/article/MED/40804019"
+  },
+  "copyright_statement": "© 2025 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

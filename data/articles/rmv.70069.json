@@ -1,0 +1,84 @@
+{
+  "doi": "10.1002/rmv.70069",
+  "title": "The Cerebral Haemorrhage and SARS‐CoV‐2: An Emerging Virus From a Meta‐Analysis Perspective",
+  "crossref_title": "The Cerebral Haemorrhage and SARS‐CoV‐2: An Emerging Virus From a Meta‐Analysis Perspective",
+  "abstract": "The central nervous system is a potential target of the COVID-19 virus, and one of the devastating neurological consequences of this infection is cerebral haemorrhage (ICH). Cerebral haemorrhage is a leading cause of death worldwide. This study aimed to systematically review and analyse the existing literature on this topic and provide insights into the potential neurological consequences of COVID-19. A comprehensive search was conducted across the PubMed, Scopus, Web of Science, and Embase databases to extract relevant published data up to February 2025. This meta-analysis included 11 studies involving a total of 197,060 individuals. Subgroup analyses were performed based on the year of publication, hospital sampling wards, and study design. A critical appraisal was carried out using the Newcastle-Ottawa Scale (NOS) score. Risk was utilised as a measure of pooled effect size based on a random-effects model. In this analysis, we identified 11 articles that directly assessed the risk of cerebral haemorrhage. The reported risk of cerebral haemorrhage was five cases per 10,000 COVID-19 patients [0.005 (95% CI: 0.002-0.009), p < 0.001]. Notably, studies published in 2022 and 2023 indicated a significantly higher risk of cerebral haemorrhage compared to earlier years. COVID-19 patients admitted to the intensive care unit (ICU) faced an increased risk of cerebral haemorrhage compared to those admitted to general wards. Meta-regression analysis revealed a statistically significant association between the risk of cerebral haemorrhage and the type of wards in a hospital [0.0089 (95% CI: 0.0067-0.0112), p < 0.001], as well as the year of publication [0.0004 (95% CI: 0.0003-0.0008), p = 0.048]. Therefore, it is essential to evaluate COVID-19 patients admitted to the ICU in recent years for the potential occurrence of cerebral haemorrhage.",
+  "keywords": [
+    "SARS‐CoV‐2",
+    "cerebral haemorrhage",
+    "emerging virus",
+    "meta‐analysis"
+  ],
+  "year": 2025,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "35",
+  "issue": "5",
+  "published_online": "2025-09-12",
+  "published_print": "2025-09",
+  "online_year": 2025,
+  "pmid": "40939094",
+  "pmcid": "PMC12431719",
+  "authors": [
+    {
+      "given": "Yuxia",
+      "family": "Wang",
+      "orcid": null
+    },
+    {
+      "given": "Chao",
+      "family": "Zhang",
+      "orcid": null
+    },
+    {
+      "given": "Yunzhu",
+      "family": "Zhang",
+      "orcid": "https://orcid.org/0009-0009-3326-1091"
+    },
+    {
+      "given": "Zhuwei",
+      "family": "Zhang",
+      "orcid": "https://orcid.org/0009-0003-1911-3312"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Cerebral Hemorrhage",
+    "Risk Factors",
+    "COVID-19",
+    "SARS-CoV-2"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70069",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70069",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/40939094/",
+    "europe_pmc": "https://europepmc.org/article/MED/40939094"
+  },
+  "copyright_statement": "© 2025 The Author(s). Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

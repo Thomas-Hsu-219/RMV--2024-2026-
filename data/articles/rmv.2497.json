@@ -1,0 +1,97 @@
+{
+  "doi": "10.1002/rmv.2497",
+  "title": "Cumulative incidence and mortality rate of cardiovascular complications due to laboratory‐confirmed influenza virus infection: A systematic review and meta‐analysis",
+  "crossref_title": "Cumulative incidence and mortality rate of cardiovascular complications due to laboratory‐confirmed influenza virus infection: A systematic review and meta‐analysis",
+  "abstract": "Influenza infection is associated with cardiovascular complications that range significantly in presentation and severity. The cumulative incidence of cardiovascular complications due to laboratory-confirmed influenza, however, is not reported in the literature. We conducted a systematic review and random-effects meta-analysis to evaluate the cumulative incidence and mortality rate of influenza virus-related cardiovascular complications in hospitalized patients. We searched the PubMed and EMBASE databases for studies reporting acute myocardial infarction (AMI), heart failure (HF), arrhythmia of any kind, stroke or transient ischemic attack (TIA), and myocarditis in hospitalized patients with laboratory-confirmed influenza virus infection. Prospective studies, retrospective cohort studies, and randomized controlled trials (RCTs) were included in the analysis. We followed the PRISMA checklist and used 95% confidence intervals (CIs) to report meta-analysis outcomes. This study was registered on PROSPERO (CRD42023427849). After retrieving 2803 studies, we identified 19 studies (18 observational and 1 RCT) with relevant data, and we included 6936 patients in our analysis, of whom 690 (9.9%) developed a cardiovascular outcome of interest. The cumulative incidence of HF was 17.47% (95% CI: 5.06%-34.54%), arrhythmia of any kind 6.12% (95% CI: 0.00%-21.92%), myocarditis 2.56% (95% CI: 0.66%-5.38%), AMI 2.19% (95% CI: 1.03%-3.72%), and stroke or TIA 1.14% (95% CI: 0.00%-4.05%). The in-hospital mortality rate from cardiovascular events was 1.38% (95% CI: 0.00%-4.80%). Cardiovascular complications occur in patients with influenza virus infection, with the cumulative incidence of specific cardiac manifestations varying considerably (1.51%-17.47%). Preventive strategies and close clinical monitoring after infection remain a priority.",
+  "keywords": [
+    "cardiovascular complications",
+    "cardiovascular mortality",
+    "cumulative incidence",
+    "influenza",
+    "myocardial infarction"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-12-21",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "38126946",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Konstantinos",
+      "family": "Ouranos",
+      "orcid": null
+    },
+    {
+      "given": "Stephanos",
+      "family": "Vassilopoulos",
+      "orcid": null
+    },
+    {
+      "given": "Athanasios",
+      "family": "Vassilopoulos",
+      "orcid": null
+    },
+    {
+      "given": "Fadi",
+      "family": "Shehadeh",
+      "orcid": null
+    },
+    {
+      "given": "Eleftherios",
+      "family": "Mylonakis",
+      "orcid": "https://orcid.org/0000-0002-4624-0777"
+    }
+  ],
+  "publication_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Orthomyxoviridae",
+    "Communicable Diseases",
+    "Ischemic Attack, Transient",
+    "Myocarditis",
+    "Myocardial Infarction",
+    "Incidence",
+    "Influenza, Human",
+    "Arrhythmias, Cardiac",
+    "Heart Failure",
+    "Stroke",
+    "Observational Studies as Topic"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2497",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2497",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38126946/",
+    "europe_pmc": "https://europepmc.org/article/MED/38126946"
+  },
+  "copyright_statement": "© 2023 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

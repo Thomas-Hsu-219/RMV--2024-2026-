@@ -1,0 +1,118 @@
+{
+  "doi": "10.1002/rmv.70182",
+  "title": "West Nile Neuroinvasive Disease: Current Management, Emerging Therapies and Future Clinical Trial Priorities",
+  "crossref_title": "West Nile Neuroinvasive Disease: Current Management, Emerging Therapies and Future Clinical Trial Priorities",
+  "abstract": "West Nile virus (WNV) is a climate-sensitive, mosquito-borne flavivirus that has become endemic in Europe, with Italy, particularly the Lazio region, emerging as a significant epicentre. While most infections are asymptomatic, less than 1% of cases progress to West Nile neuroinvasive disease (WNND), which carries a case fatality rate of up to 17% in vulnerable populations. Despite the rising global incidence, clinical management remains primarily supportive, as no antiviral agents or vaccines are currently licenced for human use. Pharmacological research has yielded inconsistent results. Corticosteroids show no significant survival benefit, and ribavirin is discouraged due to potential toxicity and lack of in vivo efficacy. Although interferon-α2b and intravenous immunoglobulin (IVIG) demonstrated promising results in preclinical models, human clinical trials have been inconclusive. More recently, remdesivir and repurposed drugs like nitazoxanide and teriflunomide have emerged as potential candidates, though they require validation through controlled trials. Future therapeutic success likely depends on early intervention (within 7-10 days of symptom onset) and multitargeted combination approaches that address viral replication, immune modulation, and neuroprotection. There is an urgent need for adequately powered clinical trials and the acceleration of human vaccine development to mitigate the impact of this expanding public health threat.",
+  "keywords": [
+    "antiviral agents",
+    "immunotherapy",
+    "reproposing drugs",
+    "vaccine development",
+    "west nile neuroinvasive disease (WNND)",
+    "west nile virus (WNV)"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "4",
+  "published_online": "2026-07-10",
+  "published_print": "2026-07",
+  "online_year": 2026,
+  "pmid": "42431607",
+  "pmcid": "PMC13354516",
+  "authors": [
+    {
+      "given": "Ambrogio",
+      "family": "Curtolo",
+      "orcid": null
+    },
+    {
+      "given": "Dimitra",
+      "family": "Kontogiannis",
+      "orcid": "https://orcid.org/0009-0007-7378-1871"
+    },
+    {
+      "given": "Tommaso",
+      "family": "Ascoli Bartoli",
+      "orcid": null
+    },
+    {
+      "given": "Gaetano",
+      "family": "Maffongelli",
+      "orcid": null
+    },
+    {
+      "given": "Maria Virginia",
+      "family": "Tomassi",
+      "orcid": null
+    },
+    {
+      "given": "Nazario",
+      "family": "Bevilacqua",
+      "orcid": null
+    },
+    {
+      "given": "Patrizia",
+      "family": "De Marco",
+      "orcid": null
+    },
+    {
+      "given": "Cosmo",
+      "family": "Del Borgo",
+      "orcid": null
+    },
+    {
+      "given": "Miriam",
+      "family": "Lichtner",
+      "orcid": null
+    },
+    {
+      "given": "Serena",
+      "family": "Vita",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "West Nile virus",
+    "West Nile Fever",
+    "Antiviral Agents",
+    "Disease Management",
+    "Clinical Trials as Topic"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70182",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70182",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42431607/",
+    "europe_pmc": "https://europepmc.org/article/MED/42431607"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

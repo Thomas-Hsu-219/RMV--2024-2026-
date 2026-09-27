@@ -1,0 +1,35 @@
+{
+  "retrieved_on": "2026-09-27",
+  "journal_url": "https://onlinelibrary.wiley.com/journal/10991654",
+  "cutoff_policy": "Exclude items whose known online publication date is after cutoff. Preserve earlier-online papers assigned to requested issue years.",
+  "queries": [
+    {
+      "source": "Crossref issue dates",
+      "url": "https://api.crossref.org/journals/1099-1654/works?filter=from-print-pub-date:2024-01-01,until-print-pub-date:2026-12-31&rows=1000"
+    },
+    {
+      "source": "Crossref publication dates",
+      "url": "https://api.crossref.org/journals/1099-1654/works?filter=from-pub-date:2024-01-01,until-pub-date:2026-12-31&rows=1000"
+    },
+    {
+      "source": "Europe PMC",
+      "query": "(ISSN:1099-1654 OR ISSN:1052-9276) AND PUB_YEAR:[2024 TO 2026]",
+      "url": "https://www.ebi.ac.uk/europepmc/webservices/rest/search",
+      "resultType": "core"
+    },
+    {
+      "source": "PubMed",
+      "url": "https://eutils.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi",
+      "db": "pubmed",
+      "retmode": "xml",
+      "method": "Batched PMID lists from journal query"
+    }
+  ],
+  "raw_input_sha256": {
+    "source_audit\\crossref_issue_year.json": "03fa01537063d5eec282d12e1f366ee1a49f7c8f1f22f90a64e08f116b0d5d46",
+    "source_audit\\crossref.json": "fee6a1de85691356c374b93a59b262287c0af86c7e60113f8f6016e284da05fa",
+    "pubmed\\records.json": "c969fed38553fab36a8d39745f505ba9ffa4a142d9eb056d3f2fb2d8eeb1e669",
+    "pubmed\\epmc_complete.json": "f28d5c43f9a892fb7716fc489a4c8e631e747ca82f4860204582ade52ecbc12f"
+  },
+  "dataset_sha256": "e8dfb576aba2a3169dc4a11aa0d5b17ce199de94c71b0da44104b2daaab861e0"
+}

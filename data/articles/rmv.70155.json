@@ -1,0 +1,101 @@
+{
+  "doi": "10.1002/rmv.70155",
+  "title": "The Expanding Organ Tropism of Herpes Simplex Virus Type 1",
+  "crossref_title": "The Expanding Organ Tropism of Herpes Simplex Virus Type 1",
+  "abstract": "Herpes simplex virus type 1 (HSV-1) infection is highly prevalent, with more than 70% of the global population seropositive. HSV-1 commonly infects the skin, eyes, and neurons, as well as immune cells such as dendritic cells; however, an expanding tissue tropism is observed, suggesting that its clinical impact may be vastly underestimated. This calls for a critical reappraisal of the risks posed by this ubiquitous virus. Here, we discuss current findings linking HSV-1 to a broad spectrum of organs, including the heart, lungs, intestines, and liver, as well as several clinical effects and diseases, which demand an in-depth analysis of HSV-1 pathogenesis with a critical focus on its pressing clinical implications. Recognising the broad disease spectrum of HSV-1 could help better guide diagnosis and treatment, given the availability of antiviral treatments for this virus.",
+  "keywords": [
+    "HSV‐1",
+    "asymptomatic infection",
+    "disease spectrum",
+    "heart",
+    "intestines",
+    "liver",
+    "lungs",
+    "organs",
+    "pathogenicity",
+    "tropism"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-29",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "42052749",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Areli J.",
+      "family": "Navarro",
+      "orcid": null
+    },
+    {
+      "given": "Ignacio A.",
+      "family": "Pasten",
+      "orcid": null
+    },
+    {
+      "given": "Dayesi",
+      "family": "López‐Hernández",
+      "orcid": null
+    },
+    {
+      "given": "Susan M.",
+      "family": "Bueno",
+      "orcid": null
+    },
+    {
+      "given": "Alexis M.",
+      "family": "Kalergis",
+      "orcid": null
+    },
+    {
+      "given": "Pablo A.",
+      "family": "González",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Liver",
+    "Animals",
+    "Humans",
+    "Herpesvirus 1, Human",
+    "Herpes Simplex",
+    "Viral Tropism"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70155",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70155",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/42052749/",
+    "europe_pmc": "https://europepmc.org/article/MED/42052749"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,84 @@
+{
+  "doi": "10.1002/rmv.70114",
+  "title": "Comparison of Azvudine and Nirmatrelvir‐Ritonavir in Hospitalised Patients With COVID‐19: A Systematic Review and Meta‐Analysis",
+  "crossref_title": "Comparison of Azvudine and Nirmatrelvir‐Ritonavir in Hospitalised Patients With COVID‐19: A Systematic Review and Meta‐Analysis",
+  "abstract": "Azvudine is a nucleoside reverse transcriptase inhibitor (NRTI) and belongs to the family of 2', 3'-dideoxynucleoside (ddNs) that can mimic natural nucleosides and block viral DNA or RNA chain synthesis and prevent viral replication. Since the beginning of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) pandemic, Azvudine has been used to treat patients with COVID-19. Therefore, the objective of this meta-analysis study was to compare Azvudine and Nirmatrelvir-Ritonavir in hospitalised patients. The global online databases were used to identify relevant studies published between January 2019 and October 2024. The quality of all articles was determined using the Newcastle-Ottawa Scale (NOS) checklist. In this study, heterogeneity assay was assessed using the Cochran's Q-test and the I2 index, and STATA software version.14 (StataCorp) was used for statistical analysis. Egger's test, Begg's test, and funnel plot were performed to estimate of the publication bias, and the impact of each study on the overall estimate was assessed using sensitivity analysis. In this study, 19 studies were included in this meta-analysis. The results of the meta-analysis showed that the relative risk of death in the Azvudine treatment group compared with the Nirmatrelvir-Ritonavir treatment group was 0.64 (95% CI: 0. 44, 0. 93). These results suggest that treatment with Azvudine may provide significant clinical benefit in patients hospitalised with COVID-19.",
+  "keywords": [
+    "Azvudine",
+    "COVID‐19",
+    "Nirmatrelvir",
+    "SARS‐CoV‐2",
+    "ritonavir"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-02-21",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41722060",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Tahoora",
+      "family": "Mousavi",
+      "orcid": "https://orcid.org/0000-0003-2505-370X"
+    },
+    {
+      "given": "Mahmood",
+      "family": "Moosazadeh",
+      "orcid": "https://orcid.org/0000-0002-5452-514X"
+    },
+    {
+      "given": "Hossein",
+      "family": "Jalali",
+      "orcid": "https://orcid.org/0000-0001-9374-6626"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Meta-Analysis",
+    "Comparative Study"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Ritonavir",
+    "Antiviral Agents",
+    "Hospitalization",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70114",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70114",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41722060/",
+    "europe_pmc": "https://europepmc.org/article/MED/41722060"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

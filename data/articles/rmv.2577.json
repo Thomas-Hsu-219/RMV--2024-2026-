@@ -1,0 +1,99 @@
+{
+  "doi": "10.1002/rmv.2577",
+  "title": "Role of Gut Microbiota in Dengue",
+  "crossref_title": "Role of Gut Microbiota in Dengue",
+  "abstract": "Dengue is a disease caused by a flavivirus (DENV) and transmitted by the bite of a mosquito, primarily the Aedes aegypti and Aedes albopictus species. Previous studies have demonstrated a relationship between the host gut microbiota and the evolution of dengue. It seems to be a bidirectional relationship, in which the DENV can affect the microbiota by inducing alterations related to intestinal permeability, leading to the release of molecules from microbiota dysbiosis that can influence the evolution of dengue. The role of angiotensin II (Ang II) in the microbiota/dengue relationship is not well understood, but it is known that the renin-angiotensin system (RAS) is present in the intestinal tract and interacts with the gut microbiota. The possible effect of Ang II on the microbiota/Ang II/dengue relationship can be summarised as follows: the presence of Ang II induced hypertension, the increase in angiotensinogen, chymase, and microRNAs during the disease, the induction of vascular dysfunction, the production of trimethylamine N-oxide and the brain/microbiota relationship, all of which are elements present in dengue that could be part of the microbiota/Ang II/dengue interactions. These findings suggest the potential use of Ang II synthesis blockers and the use of AT1 receptor antagonists as therapeutic drugs in dengue.",
+  "keywords": [
+    "RAS",
+    "angiotensin II",
+    "dengue",
+    "flavivirus",
+    "gut microbiota",
+    "inflammation"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "5",
+  "published_online": "2024-08-30",
+  "published_print": "2024-09",
+  "online_year": 2024,
+  "pmid": "39215460",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Adriana",
+      "family": "Pedreañez",
+      "orcid": "https://orcid.org/0000-0002-3937-0469"
+    },
+    {
+      "given": "Yenddy",
+      "family": "Carrero",
+      "orcid": "https://orcid.org/0000-0003-4050-4468"
+    },
+    {
+      "given": "Renata",
+      "family": "Vargas",
+      "orcid": "https://orcid.org/0009-0007-0598-6971"
+    },
+    {
+      "given": "Juan P.",
+      "family": "Hernandez‐Fonseca",
+      "orcid": "https://orcid.org/0000-0001-6353-6345"
+    },
+    {
+      "given": "Hugo",
+      "family": "Hernandez‐Fonseca",
+      "orcid": "https://orcid.org/0000-0001-5572-2084"
+    },
+    {
+      "given": "Jesús A.",
+      "family": "Mosquera",
+      "orcid": "https://orcid.org/0000-0002-1496-5511"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Aedes",
+    "Dengue Virus",
+    "Dengue",
+    "Angiotensin II",
+    "Renin-Angiotensin System",
+    "Dysbiosis",
+    "Gastrointestinal Microbiome"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2577",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2577",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/39215460/",
+    "europe_pmc": "https://europepmc.org/article/MED/39215460"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

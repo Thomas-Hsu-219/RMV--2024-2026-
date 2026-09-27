@@ -1,0 +1,83 @@
+{
+  "doi": "10.1002/rmv.2561",
+  "title": "Association between Epstein‐Barr virus LMP‐1 and Hodgkin lymphoma LMP‐1 mechanisms in Hodgkin lymphoma development",
+  "crossref_title": "Association between Epstein‐Barr virus LMP‐1 and Hodgkin lymphoma LMP‐1 mechanisms in Hodgkin lymphoma development",
+  "abstract": "Hodgkin lymphoma is histologically characterised by the presence of Hodgkin (H) and Reed-Sternberg (RS) cells originating from germinal centre B-cells rearranged in the IgV gene. The formation of multinucleated RS cells is a product of telomere organisation in a process initiated by telomere aggregate accumulation in mononuclear H cells and may be mediated by latent membrane protein 1 (LMP-1) expression. LMP-1 is the main oncoprotein of EBV and supports several tumourigenic processes. LMP-1 may rescue proapoptotic B-cells through downregulation of B-cell receptor (BCR) components, mimicking and inducing multiple distinct B-cell signalling pathways to promote proliferation and survival, such as Janus kinase-signal transducer and activator of transcription (JAK-STAT), nuclear factor-kappa b (NF-кB), and cellular MYC (c-MYC), and inducing telomere instability mainly through Telomere repeat binding factor 2 (TRF2) downregulation to promote the formation of multinucleated RS cells. This review presents recent discoveries regarding the influence of LMP-1 on the surviving cellular signalling, genomic instability and mecanical formation of HRS cells.",
+  "keywords": [
+    "B‐cells",
+    "Epstein‐Barr virus",
+    "Hodgkin lymphoma",
+    "latent membrane protein 1",
+    "telomere repeat binding factor 2",
+    "transformation"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-15",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38877989",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Leonam Oliver Durval",
+      "family": "Oliveira",
+      "orcid": null
+    },
+    {
+      "given": "Igor Brasil",
+      "family": "Costa",
+      "orcid": null
+    },
+    {
+      "given": "Juarez Antônio Simões",
+      "family": "Quaresma",
+      "orcid": "https://orcid.org/0000-0002-6267-9966"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Reed-Sternberg Cells",
+    "Humans",
+    "Herpesvirus 4, Human",
+    "Epstein-Barr Virus Infections",
+    "Hodgkin Disease",
+    "Genomic Instability",
+    "Viral Matrix Proteins",
+    "Signal Transduction"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2561",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2561",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38877989/",
+    "europe_pmc": "https://europepmc.org/article/MED/38877989"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

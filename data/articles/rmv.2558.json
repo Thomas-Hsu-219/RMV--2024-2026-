@@ -1,0 +1,116 @@
+{
+  "doi": "10.1002/rmv.2558",
+  "title": "Efficacy and safety of adoptive T‐cell therapy in treating cytomegalovirus infections post‐haematopoietic stem cell transplantation: A systematic review and meta‐analysis",
+  "crossref_title": "Efficacy and safety of adoptive T‐cell therapy in treating cytomegalovirus infections post‐haematopoietic stem cell transplantation: A systematic review and meta‐analysis",
+  "abstract": "Cytomegalovirus (CMV) infection poses significant risks in allogeneic haematopoietic stem cell transplant (allo-HSCT) recipients. Despite advances in antiviral therapies, issues such as drug resistance, side effects, and inadequate immune reconstitution remain. This systematic review and meta-analysis aim to evaluate the efficacy and safety of adoptive cell therapy (ATC) in managing CMV infections in allo-HSCT recipients. Adhering to preferred reporting items for systematic reviews and meta-analyses guidelines, we conducted a comprehensive database search through July 2023. A systematic review and meta-analysis were conducted on studies involving HSCT patients with CMV infections treated with ATC. The primary outcome was the response rate to ATC, and secondary outcomes included adverse events associated with ATC. The Freeman-Tukey transformation was applied for analysis. In the meta-analysis of 40 studies involving 953 participants, ATC achieved an overall integrated response rate of 90.16%, with a complete response of 82.59% and a partial response of 22.95%. ATC source, HLA matching, steroid intake, and age group markedly influenced response rates. Donor-derived T-cell treatments exhibited a higher response rate (93.66%) compared to third-party sources (88.94%). HLA-matched patients demonstrated a response rate of 92.90%, while mismatched patients had a lower rate. Children showed a response rate of 83.40%, while adults had a notably higher rate of 98.46%. Adverse events were minimal, with graft-versus-host disease occurring in 24.32% of patients. ATC shows promising response rates in treating CMV infections post-HSCT, with an acceptable safety profile. However, to establish its efficacy conclusively and compare it with other antiviral treatments, randomised controlled trials are essential. Further research should prioritise such trials over observational and one-arm studies to provide robust evidence for clinical decision-making.",
+  "keywords": [
+    "adoptive T‐cell therapy",
+    "cytomegalovirus",
+    "meta‐analysis"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "4",
+  "published_online": "2024-06-15",
+  "published_print": "2024-07",
+  "online_year": 2024,
+  "pmid": "38878003",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mohammad Reza",
+      "family": "Taherian",
+      "orcid": "https://orcid.org/0000-0002-6380-6955"
+    },
+    {
+      "given": "Pouya",
+      "family": "Azarbar",
+      "orcid": null
+    },
+    {
+      "given": "Maryam",
+      "family": "Barkhordar",
+      "orcid": "https://orcid.org/0000-0002-8121-2819"
+    },
+    {
+      "given": "Shahin",
+      "family": "Toufani",
+      "orcid": null
+    },
+    {
+      "given": "Leyla Sharifi",
+      "family": "Aliabadi",
+      "orcid": null
+    },
+    {
+      "given": "Tanaz",
+      "family": "Bahri",
+      "orcid": null
+    },
+    {
+      "given": "Mohammad",
+      "family": "Ahmadvand",
+      "orcid": null
+    },
+    {
+      "given": "Marjan",
+      "family": "Yaghmaie",
+      "orcid": null
+    },
+    {
+      "given": "Alireza",
+      "family": "Daneshvar",
+      "orcid": "https://orcid.org/0000-0003-2877-2726"
+    },
+    {
+      "given": "Mohammad",
+      "family": "Vaezi",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "T-Lymphocytes",
+    "Humans",
+    "Cytomegalovirus",
+    "Cytomegalovirus Infections",
+    "Treatment Outcome",
+    "Immunotherapy, Adoptive",
+    "Hematopoietic Stem Cell Transplantation",
+    "Transplantation, Homologous"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2558",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2558",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38878003/",
+    "europe_pmc": "https://europepmc.org/article/MED/38878003"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

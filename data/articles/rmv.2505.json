@@ -1,0 +1,103 @@
+{
+  "doi": "10.1002/rmv.2505",
+  "title": "Virus‐induced host cell metabolic alteration",
+  "crossref_title": "Virus‐induced host cell metabolic alteration",
+  "abstract": "Viruses change the host cell metabolism to produce infectious particles and create optimal conditions for replication and reproduction. Numerous host cell pathways have been modified to ensure available biomolecules and sufficient energy. Metabolomics studies conducted over the past decade have revealed that eukaryotic viruses alter the metabolism of their host cells on a large scale. Modifying pathways like glycolysis, fatty acid synthesis and glutaminolysis could provide potential energy for virus multiplication. Thus, almost every virus has a unique metabolic signature and a different relationship between the viral life cycle and the individual metabolic processes. There are enormous research in virus induced metabolic reprogramming of host cells that is being conducted through numerous approaches using different vaccine candidates and antiviral drug substances. This review provides an overview of viral interference to different metabolic pathways and improved monitoring in this area will open up new ways for more effective antiviral therapies and combating virus induced oncogenesis.",
+  "keywords": [
+    "glutaminolysis",
+    "glycolysis",
+    "metabolism",
+    "virus"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2024-01-05",
+  "published_print": "2024-01",
+  "online_year": 2024,
+  "pmid": "38282396",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Syed Shahariar",
+      "family": "Bappy",
+      "orcid": "https://orcid.org/0000-0002-6984-9411"
+    },
+    {
+      "given": "Md. Muzammal",
+      "family": "Haque Asim",
+      "orcid": null
+    },
+    {
+      "given": "Mohammad Mainul",
+      "family": "Ahasan",
+      "orcid": null
+    },
+    {
+      "given": "Asif",
+      "family": "Ahsan",
+      "orcid": "https://orcid.org/0000-0001-6184-0554"
+    },
+    {
+      "given": "Sorna",
+      "family": "Sultana",
+      "orcid": "https://orcid.org/0000-0003-3875-6607"
+    },
+    {
+      "given": "Roksana",
+      "family": "Khanam",
+      "orcid": null
+    },
+    {
+      "given": "Abu Zaffar",
+      "family": "Shibly",
+      "orcid": null
+    },
+    {
+      "given": "Yearul",
+      "family": "Kabir",
+      "orcid": "https://orcid.org/0000-0002-0242-9199"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Viruses",
+    "Virus Replication",
+    "Glycolysis",
+    "Metabolic Networks and Pathways"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2505",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2505",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38282396/",
+    "europe_pmc": "https://europepmc.org/article/MED/38282396"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

@@ -1,0 +1,146 @@
+{
+  "doi": "10.1002/rmv.70123",
+  "title": "Japanese Encephalitis: Understanding Its Impact, Prevention, and the Role of Vaccination",
+  "crossref_title": "Japanese Encephalitis: Understanding Its Impact, Prevention, and the Role of Vaccination",
+  "abstract": "Japanese encephalitis (JE) is a mosquito-borne viral disease and remains an important cause of viral encephalitis in Asia and parts of the Western Pacific. Earlier WHO-supported global burden estimates published around 2014 suggested approximately 68,000 clinical cases and up to 20,400 deaths annually; however, the World Health Organization emphasises that the true burden of JE is difficult to quantify due to substantial underreporting and heterogeneous surveillance systems. Although vaccination programs have led to marked declines in incidence in several countries, JE transmission persists in endemic regions, and sporadic outbreaks continue to occur. In the absence of specific antiviral therapy, prevention remains the cornerstone of JE control, with vaccination representing the most effective public health intervention. Among available vaccines, the live-attenuated SA14-14-2 vaccine has played a central role in reducing the burden of JE in endemic countries. Its high effectiveness, long-term protection following a single dose, favourable safety profile, WHO prequalification, and incorporation into national immunisation programs have made it the backbone of JE prevention in Asia. Inactivated vaccines, such as IXIARO, and chimaeric vaccines, such as IMOJEV, provide important complementary options, particularly for travellers and non-endemic populations. This review synthesises current knowledge on JE epidemiology, transmission, clinical manifestations, diagnostics, pathogenesis, and advances in vaccination strategies. By integrating recent outbreak data, immunological insights, and vaccine developments, we highlight the continued public health relevance of JE and the critical importance of sustained vaccination programs, surveillance strengthening, and equitable vaccine access to further reduce its global impact.",
+  "keywords": [
+    "JE vaccination (IXIARO, SA 14‐14‐2, IMOJEV)",
+    "Japanese encephalitis",
+    "Japanese encephalitis virus",
+    "culex tritaeniorhynchus mosquitoes",
+    "global seroprevalence of JE",
+    "public health burden of JE"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "2",
+  "published_online": "2026-02-26",
+  "published_print": "2026-03",
+  "online_year": 2026,
+  "pmid": "41755551",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Mohd Sayeed",
+      "family": "Shaikh",
+      "orcid": null
+    },
+    {
+      "given": "Zaid Z.",
+      "family": "Khan",
+      "orcid": null
+    },
+    {
+      "given": "Shaikh Shahbaz A.",
+      "family": "Majeed",
+      "orcid": null
+    },
+    {
+      "given": "Shaikh Shoaib",
+      "family": "Iftekhar",
+      "orcid": null
+    },
+    {
+      "given": "Syed J.",
+      "family": "Imran",
+      "orcid": null
+    },
+    {
+      "given": "Md.",
+      "family": "Faiyazuddin",
+      "orcid": "https://orcid.org/0000-0003-3455-8443"
+    },
+    {
+      "given": "Sakshi",
+      "family": "Sharma",
+      "orcid": null
+    },
+    {
+      "given": "Aroop",
+      "family": "Mohanty",
+      "orcid": "https://orcid.org/0000-0001-5634-5014"
+    },
+    {
+      "given": "Sanjit",
+      "family": "Sah",
+      "orcid": "https://orcid.org/0009-0008-5017-083X"
+    },
+    {
+      "given": "Rachana",
+      "family": "Mehta",
+      "orcid": "https://orcid.org/0000-0003-4771-4089"
+    },
+    {
+      "given": "Shriyansh",
+      "family": "Srivastava",
+      "orcid": "https://orcid.org/0000-0002-3738-4381"
+    },
+    {
+      "given": "Thamir M.",
+      "family": "Alshammari",
+      "orcid": null
+    },
+    {
+      "given": "Lysien",
+      "family": "Zambrano",
+      "orcid": null
+    },
+    {
+      "given": "Juan Felipe",
+      "family": "López‐Marín",
+      "orcid": null
+    },
+    {
+      "given": "Alfonso J.",
+      "family": "Rodriguez‐Morales",
+      "orcid": "https://orcid.org/0000-0001-9773-2192"
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Encephalitis Virus, Japanese",
+    "Encephalitis, Japanese",
+    "Vaccines, Attenuated",
+    "Japanese Encephalitis Vaccines",
+    "Vaccination",
+    "Incidence",
+    "Disease Outbreaks",
+    "Asia"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70123",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70123",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41755551/",
+    "europe_pmc": "https://europepmc.org/article/MED/41755551"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

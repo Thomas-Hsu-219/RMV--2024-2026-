@@ -1,0 +1,94 @@
+{
+  "doi": "10.1002/rmv.2550",
+  "title": "Alzheimer's disease and herpes viruses: Current events and perspectives",
+  "crossref_title": "Alzheimer's disease and herpes viruses: Current events and perspectives",
+  "abstract": "Alzheimer's disease (AD) is a real and current scientific and societal challenge. Alzheimer's disease is characterised by a neurodegenerative neuroinflammatory process, but the etiopathogenetic mechanisms are still unclear. The possible infectious aetiology and potential involvement of Herpes viruses as triggers for the formation of extracellular deposits of amyloid beta (Aβ) peptide (amyloid plaques) and intraneuronal aggregates of hyperphosphorylated and misfold could be a possible explanation. In fact, the possible genetic interference of Herpes viruses with the genome of the host neuronal cell or the stimulation of the infection to a continuous immune response with a consequent chronic inflammation could constitute those mechanisms underlying the development of AD, with possible implications in the understanding and management of the disease. Herpes viruses could be significantly involved in the pathogenesis of AD and in particular, their ability to reactivate in particular conditions such as immunocompromise and immunosenescence, could explain the neurological damage characteristic of AD. Our review aims to evaluate the state of the art of knowledge and perspectives regarding the potential relationship between Herpes viruses and AD, in order to be able to identify the possible etiopathogenetic mechanisms and the possible therapeutic implications.",
+  "keywords": [
+    "Alzheimer's disease",
+    "CMV",
+    "EBV",
+    "HHV‐6",
+    "HHV‐7",
+    "HSV‐1",
+    "HSV‐2",
+    "VZV",
+    "herpes viruses"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "3",
+  "published_online": "2024-05-27",
+  "published_print": "2024-05",
+  "online_year": 2024,
+  "pmid": "38801246",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Biagio",
+      "family": "Pinchera",
+      "orcid": "https://orcid.org/0000-0002-8685-5434"
+    },
+    {
+      "given": "Isabella",
+      "family": "Di Filippo",
+      "orcid": null
+    },
+    {
+      "given": "Federica",
+      "family": "Cuccurullo",
+      "orcid": null
+    },
+    {
+      "given": "Elena",
+      "family": "Salvatore",
+      "orcid": null
+    },
+    {
+      "given": "Ivan",
+      "family": "Gentile",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Humans",
+    "Herpesviridae",
+    "Herpesviridae Infections",
+    "Alzheimer Disease",
+    "Amyloid beta-Peptides"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2550",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2550",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38801246/",
+    "europe_pmc": "https://europepmc.org/article/MED/38801246"
+  },
+  "copyright_statement": "© 2024 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

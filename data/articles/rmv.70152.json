@@ -1,0 +1,114 @@
+{
+  "doi": "10.1002/rmv.70152",
+  "title": "Mpox Clinical Outcomes in People With and Without HIV Treated With Tecovirimat: A Systematic Review",
+  "crossref_title": "Mpox Clinical Outcomes in People With and Without HIV Treated With Tecovirimat: A Systematic Review",
+  "abstract": "Mpox poses heightened risks for immunocompromised individuals, particularly people with HIV (PWH), yet evidence on clinical outcomes and antiviral treatment remains limited. We conducted a systematic review in accordance with PRISMA guidelines, searching MEDLINE, Scopus, and the Cochrane Library from inception through October 2025. Fourteen studies comprising 8867 patients were included. A recently published randomized controlled trial evaluating tecovirimat for mpox was also considered to contextualise the findings. Owing to substantial clinical and methodological heterogeneity, data were synthesised narratively using the Synthesis Without Meta-analysis (SWiM) framework. Across studies, mpox severity followed a clear CD4-dependent gradient. People without HIV (PWoH) and PWH with relatively preserved immune function (generally CD4 ≥ 200 cells/μL) typically experienced milder, self-limiting disease, with treatment failure rates below 5%. In contrast, PWH with CD4 counts < 200 cells/μL, particularly those < 100 cells/μL, demonstrated substantially higher rates of necrotic lesions, proctitis, hospitalisation, delayed viral clearance, and mortality. Treatment failure in this subgroup ranged from 15% to 30%, and all confirmed cases of tecovirimat resistance (3 of 18 tested) occurred in patients with CD4 counts < 100 cells/μL. Observational studies suggested that earlier initiation of tecovirimat (≤ 7 days from symptom onset) was associated with more favourable clinical trajectories. However, randomised controlled trial evidence has not demonstrated a clear efficacy signal, and prolonged treatment courses (21-28 days) were frequently required in patients with advanced HIV, reflecting persistent disease rather than established antiviral benefit. Tecovirimat was generally well tolerated, with mild adverse events reported in approximately 20%-25% of patients and no serious adverse events definitively attributed to therapy across the included studies. Overall, immunological status rather than HIV serostatus alone appeared to be the principal determinant of mpox severity and clinical outcomes, underscoring the importance of CD4-guided management strategies and targeted resistance surveillance in immunocompromised populations.",
+  "keywords": [
+    "HIV",
+    "mpox",
+    "mpox virus",
+    "people with HIV",
+    "people without HIV",
+    "tecovirimat"
+  ],
+  "year": 2026,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "36",
+  "issue": "3",
+  "published_online": "2026-04-17",
+  "published_print": "2026-05",
+  "online_year": 2026,
+  "pmid": "41995224",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Santenna",
+      "family": "Chenchula",
+      "orcid": "https://orcid.org/0000-0001-7466-1037"
+    },
+    {
+      "given": "Krishna Chaitanya",
+      "family": "Amerneni",
+      "orcid": null
+    },
+    {
+      "given": "Padmavathi",
+      "family": "Rajakarunakaran",
+      "orcid": null
+    },
+    {
+      "given": "Anitha",
+      "family": "Kuttiappan",
+      "orcid": null
+    },
+    {
+      "given": "Sunil Kumar",
+      "family": "Gupta",
+      "orcid": null
+    },
+    {
+      "given": "Satya",
+      "family": "Prakash",
+      "orcid": null
+    },
+    {
+      "given": "Sri Varshini",
+      "family": "Talagampala",
+      "orcid": null
+    },
+    {
+      "given": "Mohan Krishna",
+      "family": "Ghanta",
+      "orcid": "https://orcid.org/0000-0001-6743-3159"
+    },
+    {
+      "given": "Madhavrao",
+      "family": "Chavan",
+      "orcid": null
+    }
+  ],
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Herpesviridae Infections",
+    "HIV Infections",
+    "Antiviral Agents",
+    "CD4 Lymphocyte Count",
+    "Treatment Outcome",
+    "Randomized Controlled Trials as Topic",
+    "Mpox, Monkeypox"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.70152",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.70152",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/41995224/",
+    "europe_pmc": "https://europepmc.org/article/MED/41995224"
+  },
+  "copyright_statement": "© 2026 John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://doi.wiley.com/10.1002/tdm_license_1.1",
+    "http://onlinelibrary.wiley.com/termsAndConditions#vor"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}

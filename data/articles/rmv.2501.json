@@ -1,0 +1,120 @@
+{
+  "doi": "10.1002/rmv.2501",
+  "title": "Evaluating fluvoxamine for the outpatient treatment of COVID‐19: A systematic review and meta‐analysis",
+  "crossref_title": "Evaluating fluvoxamine for the outpatient treatment of COVID‐19: A systematic review and meta‐analysis",
+  "abstract": "This systematic review and meta-analysis of randomised controlled trials (RCTs) aimed to evaluate the efficacy, safety, and tolerability of fluvoxamine for the outpatient management of COVID-19. We conducted this review in accordance with the PRISMA 2020 guidelines. Literature searches were conducted in MEDLINE, EMBASE, International Pharmaceutical Abstracts, CINAHL, Web of Science, and CENTRAL up to 14 September 2023. Outcomes included incidence of hospitalisation, healthcare utilization (emergency room visits and/or hospitalisation), mortality, supplemental oxygen and mechanical ventilation requirements, serious adverse events (SAEs) and non-adherence. Fluvoxamine 100 mg twice a day was associated with reductions in the risk of hospitalisation (risk ratio [RR] 0.75, 95% confidence interval [CI] 0.58-0.97; I 2  = 0%) and reductions in the risk of healthcare utilization (RR 0.68, 95% CI 0.53-0.86; I 2  = 0%). While no increased SAEs were observed, fluvoxamine 100 mg twice a day was associated with higher treatment non-adherence compared to placebo (RR 1.61, 95% CI 1.22-2.14; I 2  = 53%). In subgroup analyses, fluvoxamine reduced healthcare utilization in outpatients with BMI ≥30 kg/m2 , but not in those with lower BMIs. While fluvoxamine offers potential benefits in reducing healthcare utilization, its efficacy may be most pronounced in high-risk patient populations. The observed non-adherence rates highlight the need for better patient education and counselling. Future investigations should reassess trial endpoints to include outcomes relating to post-COVID sequelaes. Registration: This review was prospectively registered on PROSPERO (CRD42023463829).",
+  "keywords": [
+    "COVID-19",
+    "SARS-CoV-2",
+    "fluvoxamine",
+    "meta-analysis",
+    "outpatient treatment"
+  ],
+  "year": 2024,
+  "year_basis": "Crossref published-print",
+  "journal": "Reviews in Medical Virology",
+  "journal_short": "RMV",
+  "issn": [
+    "1099-1654",
+    "1052-9276"
+  ],
+  "volume": "34",
+  "issue": "1",
+  "published_online": "2023-12-26",
+  "published_print": "2024-01",
+  "online_year": 2023,
+  "pmid": "38148036",
+  "pmcid": null,
+  "authors": [
+    {
+      "given": "Jiawen",
+      "family": "Deng",
+      "orcid": "https://orcid.org/0000-0002-8274-6468"
+    },
+    {
+      "given": "Myron",
+      "family": "Moskalyk",
+      "orcid": "https://orcid.org/0009-0003-4136-6981"
+    },
+    {
+      "given": "Qi Kang",
+      "family": "Zuo",
+      "orcid": "https://orcid.org/0000-0002-8491-4090"
+    },
+    {
+      "given": "Cristian",
+      "family": "Garcia",
+      "orcid": "https://orcid.org/0000-0002-0564-8776"
+    },
+    {
+      "given": "Umaima",
+      "family": "Abbas",
+      "orcid": "https://orcid.org/0000-0002-9487-8249"
+    },
+    {
+      "given": "Harikrishnaa Ba",
+      "family": "Ramaraju",
+      "orcid": "https://orcid.org/0000-0001-5148-658X"
+    },
+    {
+      "given": "Daniel",
+      "family": "Rayner",
+      "orcid": "https://orcid.org/0000-0001-6699-3090"
+    },
+    {
+      "given": "Ye‐Jean",
+      "family": "Park",
+      "orcid": "https://orcid.org/0009-0008-1068-8992"
+    },
+    {
+      "given": "Kiyan",
+      "family": "Heybati",
+      "orcid": "https://orcid.org/0000-0003-4465-2249"
+    },
+    {
+      "given": "Fangwen",
+      "family": "Zhou",
+      "orcid": "https://orcid.org/0000-0001-6236-764X"
+    },
+    {
+      "given": "Simran",
+      "family": "Lohit",
+      "orcid": "https://orcid.org/0000-0002-2382-8631"
+    }
+  ],
+  "publication_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Fluvoxamine",
+    "Outpatients",
+    "COVID-19",
+    "COVID-19 Drug Treatment"
+  ],
+  "field_sources": {
+    "title": "Crossref (publisher-deposited)",
+    "abstract": "PubMed",
+    "keywords": "PubMed KeywordList",
+    "dates": "Crossref (publisher-deposited)",
+    "publication_types": "PubMed"
+  },
+  "field_status": {
+    "abstract": "available",
+    "keywords": "available"
+  },
+  "source_urls": {
+    "publisher": "https://onlinelibrary.wiley.com/doi/10.1002/rmv.2501",
+    "crossref": "https://api.crossref.org/works/10.1002/rmv.2501",
+    "pubmed": "https://pubmed.ncbi.nlm.nih.gov/38148036/",
+    "europe_pmc": "https://europepmc.org/article/MED/38148036"
+  },
+  "copyright_statement": "© 2023 The Authors. Reviews in Medical Virology published by John Wiley & Sons Ltd.",
+  "license_urls": [
+    "http://creativecommons.org/licenses/by-nc/4.0/"
+  ],
+  "retrieved_on": "2026-09-27",
+  "notes": []
+}
